@@ -1,0 +1,11 @@
+# local images and downloaded source scans
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.webp
+*.gif
+*.pdf
+_work/
+.DS_Store
