@@ -9,8 +9,10 @@ import html, json, os, re, shutil, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
 SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan'}
-TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'summary': 'Summary', 'list': 'List'}
-TYPES_PL = {'treaty': 'Treaties', 'law': 'Laws', 'speech': 'Speeches', 'document': 'Other documents', 'summary': 'Summaries of laws', 'list': 'Lists of laws promulgated'}
+TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'summary': 'Summary', 'list': 'List',
+         'programme': 'Programme', 'report': 'Report', 'review': 'Review', 'statistics': 'Statistics', 'profile': 'Profile'}
+TYPES_PL = {'treaty': 'Treaties', 'law': 'Laws', 'speech': 'Speeches', 'document': 'Other documents', 'summary': 'Summaries of laws', 'list': 'Lists of laws promulgated',
+            'programme': 'Programmes and plans', 'report': 'Reports', 'review': 'Reviews and chronologies', 'statistics': 'Statistics', 'profile': 'Profiles'}
 MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
           'November', 'December']
 esc = html.escape
@@ -71,7 +73,7 @@ def load():
                     problems.append(f"{meta['file']}: type '{t}'")
                     t = 'document'
                 meta['type'] = t
-                for k in ('title', 'issue', 'leaf', 'pages', 'date', 'author', 'parties', 'section', 'notes', 'series', 'part'):
+                for k in ('title', 'issue', 'leaf', 'pages', 'date', 'author', 'parties', 'section', 'notes', 'series', 'part', 'subject'):
                     meta.setdefault(k, '')
                 if not meta['title']:
                     problems.append(f"{meta['file']}: no title")
@@ -94,7 +96,7 @@ def load():
                         problems.append(f"{meta['file']}: issue '{meta['issue']}' not in index")
                 meta['sortdate'] = meta['date'] or issue_sortdate(meta['issue'])
                 docs.append(meta)
-    docs.sort(key=lambda d: (list(SOURCES).index(d['source']), d['ipos'], d['file']))
+    docs.sort(key=lambda d: (list(SOURCES).index(d['source']), d['ipos'], d['leaf'] if d['leaf'] is not None else 9999, d['file']))
     return docs, problems
 
 
@@ -214,11 +216,11 @@ def plain(body):
 
 CSS = r""":root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#5f5f5f;--fg-faint:#8a8a8a;--accent:#003a87;--on-accent:#fff;
 --header-bg:#f5f5f5;--card-bg:#fff;--card-border:#dcdcdc;--input-border:#bbb;--input-bg:#fff;--dotted:#ddd;--rule:#e6e6e6;
---tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--summary:#7a5c00;--list:#5f5f5f;
+--tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--summary:#7a5c00;--list:#5f5f5f;--programme:#0f6b6b;--report:#8a1f4d;--review:#3f5d1a;--statistics:#35507a;--profile:#8a5a12;
 --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:Georgia,"Times New Roman",serif;--r:3px}
 [data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#808080;--accent:#6da3e0;--on-accent:#111;
 --header-bg:#242424;--card-bg:#242424;--card-border:#444;--input-border:#555;--input-bg:#2a2a2a;--dotted:#444;--rule:#333;
---tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--summary:#d9b95a;--list:#aaa}
+--tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--summary:#d9b95a;--list:#aaa;--programme:#6fc7c7;--report:#e58fb3;--review:#a9c77a;--statistics:#9ab5e0;--profile:#e0b877}
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
@@ -243,6 +245,7 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .chip.on[data-v=speech]{background:var(--speech);border-color:var(--speech)}.chip.on[data-v=document]{background:var(--document);border-color:var(--document)}
 .chip.on[data-v=list]{background:var(--list);border-color:var(--list)}
 .chip.on[data-v=summary]{background:var(--summary);border-color:var(--summary)}
+.chip.on[data-v=programme]{background:var(--programme);border-color:var(--programme)}.chip.on[data-v=report]{background:var(--report);border-color:var(--report)}.chip.on[data-v=review]{background:var(--review);border-color:var(--review)}.chip.on[data-v=statistics]{background:var(--statistics);border-color:var(--statistics)}.chip.on[data-v=profile]{background:var(--profile);border-color:var(--profile)}
 .controls select,.controls input[type=search]{font-weight:400;color:var(--fg);border-color:var(--input-border);justify-content:flex-start;cursor:auto;max-width:100%}
 .controls select{cursor:pointer}
 .controls input[type=search]{flex:1 1 14rem;min-width:10rem;font-size:.9375rem}
@@ -270,7 +273,7 @@ background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opac
 /* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
 .tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.12rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
 letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden;border-radius:var(--r);border:1.5px solid currentColor;vertical-align:middle}
-.tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}.tag.summary{color:var(--summary)}
+.tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}.tag.summary{color:var(--summary)}.tag.programme{color:var(--programme)}.tag.report{color:var(--report)}.tag.review{color:var(--review)}.tag.statistics{color:var(--statistics)}.tag.profile{color:var(--profile)}
 .hidden{display:none!important}
 /* document page */
 .doc-head{margin:1.6rem 0 1.1rem;padding-bottom:.9rem;border-bottom:1px solid var(--rule)}
@@ -428,9 +431,9 @@ def build():
 
     # ---- browse
     b = [f'<p class="intro">{len(docs)} texts printed in full in two English-language periodicals of wartime Japan: '
-         + ', '.join(f'{counts[t]} {TYPES_PL[t].lower()}' for t in TYPES) + '. Each links to the page of the original scan.</p>']
+         + ', '.join(f'{counts[t]} {TYPES_PL[t].lower()}' for t in TYPES if counts[t]) + '. Each links to the page of the original scan.</p>']
     b.append('<div class="controls"><div class="chips" id="typeChips">'
-             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES) + '</div>'
+             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '</div>'
              '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{s}">{n}</span>' for s, n in SOURCES.items()) + '</div>'
              '<div class="chips" id="viewChips"><span class="chip on" data-v="issue">By issue</span><span class="chip" data-v="date">By date</span></div>'
              '<select id="jumpSelect"><option value="">&mdash; Jump to an issue &mdash;</option></select>'
@@ -495,7 +498,7 @@ sel.onchange=function(){if(this.value)document.getElementById(this.value).scroll
                 ('Speaker / issued by' if d['type'] in ('speech', 'document') else 'Author', d['author']),
                 ('Parties', d['parties'].replace(';', ' · ')), ('Printed in', f"<em>{SOURCES[d['source']]}</em>, {esc(d['issue'])}"
                  + (f", pp.&nbsp;{esc(d['pages'])}" if re.search(r'\D', d['pages']) else (f", p.&nbsp;{esc(d['pages'])}" if d['pages'] else ''))),
-                ('Section', d['section']), ('Part', f"{d['sk']} of {d['sn']} of {d['series']}" if d.get('sn') else '')]
+                ('Subject', d['subject']), ('Section', d['section']), ('Part', f"{d['sk']} of {d['sn']} of {d['series']}" if d.get('sn') else '')]
         scan = ia_page(d['ia'], d['leaf']) if d['leaf'] is not None else f"https://archive.org/details/{d['ia']}"
         meta = ''.join(f'<dt>{a}</dt><dd>{v if a == "Printed in" else esc(v)}</dd>' for a, v in rows if v)
         cite = f"“{d['title']},” {SOURCES[d['source']]} ({d['issue']}){': ' + d['pages'] if d['pages'] else ''}."
@@ -563,7 +566,7 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
          '<span class="count" id="count"></span></div>'
          '<p class="hint" id="hint">All words must appear. Put a phrase in &ldquo;double quotes&rdquo; to match it exactly. Results are ordered by date.</p><div id="results"></div>']
     js = r"""<script src="data.js"></script><script>(function(){
-var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',summary:'Summary',list:'List'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
+var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',summary:'Summary',list:'List',programme:'Programme',report:'Report',review:'Review',statistics:'Statistics',profile:'Profile'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
 var on={type:{},src:{}};function chips(id,k){var c=document.getElementById(id);[].forEach.call(c.children,function(x){on[k][x.dataset.v]=true;x.onclick=function(){
 var all=[].every.call(c.children,function(y){return y.classList.contains('on')});if(all){[].forEach.call(c.children,function(y){y.classList.remove('on');on[k][y.dataset.v]=false})}
 x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
