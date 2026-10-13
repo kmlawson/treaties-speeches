@@ -453,6 +453,7 @@ def build():
              '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{s}">{n}</span>' for s, n in SOURCES.items()) + '</div>'
              '<div class="chips" id="viewChips"><span class="chip on" data-v="issue">By issue</span><span class="chip" data-v="date">By date</span></div>'
              '<select id="jumpSelect"><option value="">&mdash; Jump to an issue &mdash;</option></select>'
+             '<select id="yearSelect" class="hidden"><option value="">&mdash; Jump to a year &mdash;</option></select>'
              '<span class="count" id="count"></span></div>')
     b.append('<div id="byIssue">')
     cur_src = cur_issue = None
@@ -484,7 +485,7 @@ def build():
             if year:
                 b.append('</ul></section>')
             year = y
-            b.append(f'<section class="iss"><h2 class="volume-heading">{y}</h2><ul class="entry-list">')
+            b.append(f'<section class="iss yr" id="y-{y}" data-year="{y}"><h2 class="volume-heading">{y}</h2><ul class="entry-list">')
         b.append(entry(d))
     if docs:
         b.append('</ul></section>')
@@ -498,7 +499,7 @@ else{x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
 if(!kids.some(function(y){return y.classList.contains('on')})){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}}}
 else{[].forEach.call(c.children,function(y){y.classList.toggle('on',y==x)});
 document.getElementById('byIssue').classList.toggle('hidden',x.dataset.v!='issue');document.getElementById('byDate').classList.toggle('hidden',x.dataset.v!='date');
-document.getElementById('jumpSelect').classList.toggle('hidden',x.dataset.v!='issue')}
+document.getElementById('jumpSelect').classList.toggle('hidden',x.dataset.v!='issue');document.getElementById('yearSelect').classList.toggle('hidden',x.dataset.v!='date')}
 apply()}})}
 function apply(){var n=0,vis=document.getElementById('byIssue').classList.contains('hidden')?'byDate':'byIssue';
 [].forEach.call(document.querySelectorAll('.entry-item'),function(li){var s=on.type[li.dataset.type]&&on.src[li.dataset.src];li.classList.toggle('hidden',!s);if(s&&li.closest('#'+vis))n++});
@@ -506,7 +507,9 @@ function apply(){var n=0,vis=document.getElementById('byIssue').classList.contai
 document.getElementById('count').textContent=n+' texts'}
 chips('typeChips','type',true);chips('srcChips','src',true);chips('viewChips','view',false);
 var sel=document.getElementById('jumpSelect');[].forEach.call(document.querySelectorAll('#byIssue .iss'),function(s){var o=document.createElement('option');o.value=s.id;o.innerHTML=s.dataset.label;sel.appendChild(o)});
-sel.onchange=function(){if(this.value)document.getElementById(this.value).scrollIntoView({behavior:'smooth',block:'start'})};apply()})();</script>"""
+sel.onchange=function(){if(this.value)document.getElementById(this.value).scrollIntoView({behavior:'smooth',block:'start'})};
+var ys=document.getElementById('yearSelect');[].forEach.call(document.querySelectorAll('#byDate .yr'),function(s){var o=document.createElement('option');o.value=s.id;o.textContent=s.dataset.year;ys.appendChild(o)});
+ys.onchange=sel.onchange;apply()})();</script>"""
     open(f'{SITE}/index.html', 'w').write(page('Treaties, Laws and Speeches — Tokyo Gazette & Contemporary Japan', sub, 'browse', '\n'.join(b), scripts=js))
 
     # ---- documents
