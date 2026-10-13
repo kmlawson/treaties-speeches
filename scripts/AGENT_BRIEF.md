@@ -58,26 +58,38 @@ sheet of the column to see which is which, then:
 
 ## Writing in small pieces, and resuming (important)
 
-Agents on this job have been cut off by an output filter when they emitted a long transcription in one go.
-So:
+Agents on this job are regularly cut off by an output filter: on certain pages, the moment the agent starts
+to emit the transcription, its whole run is terminated. The same page cuts off every agent that tries it.
+So the work is organised so that a cut-off loses one page and tells the next agent exactly which page it was.
 
-- **Never write more than about one printed page (roughly 500 words) of transcription in a single tool
-  call.** Create the file with the front matter and the first page, then append each following page with
-  its own call (`cat >> file <<'EOF_TS' ... EOF_TS` in Bash, or Edit). Read one to three pages, write
-  them out page by page, then read the next; do not read a whole long text before writing any of it.
-- Do not repeat transcribed text in your messages or your report.
-- Before you begin transcribing a text, append a line `START <path of the file>` to
-  `texts/_reports/<batch>.progress`; when it is complete, append `DONE <path of the file>`.
-- A path with a START and no DONE is the text an earlier agent was working on when it was cut off. Try it
-  again (continuing after what is already written). But if the progress file already holds **two** STARTs
-  for that path and no DONE, do not try a third time: append `BLOCKED <path>`, leave the partial file as it
-  is with `notes: INCOMPLETE - transcription cut off after p. N` in its front matter, list it in your
-  report, and go on to the next text.
-- **Before starting**, read that progress file if it exists and list what is already in `texts/<src>/<ia>/`
-  for your issues: an earlier agent may have done part of the batch. Files marked DONE are finished - keep
-  them, do not re-read their pages. A file not marked DONE was cut off: check its last `[[p. N]]` marker
-  against the scan and continue it from where it stops (or redo it if it is malformed). Then carry on with
-  whatever in the batch is not yet done. Keep file numbering (`NN`) unique within a folder.
+The progress file is `texts/_reports/<batch>.progress` (append-only; one line per event).
+
+For every text (file):
+1. Append `START <path of the file>` before you read its first page at reading size.
+2. Work **one printed page at a time**: append `PAGE <path> <printed page number>`; Read that one page
+   image; then write that page's transcription to the file in one tool call (create the file with the front
+   matter and first page; append later pages with `cat >> file <<'EOF_TS' ... EOF_TS` or Edit). Never emit
+   more than one printed page of transcription in a single tool call, never read ahead several pages before
+   writing, and never repeat transcribed text in your messages or report. (Short `list` tables and texts
+   under a page are a single cycle.)
+3. When the text is complete append `DONE <path>`.
+
+**Before starting**, read the progress file and list what exists in `texts/<src>/<ia>/` for your issues.
+- Files marked DONE are finished: keep them, do not re-read their pages.
+- A file with START and no DONE was being written when an agent was cut off. The page that cut it off is
+  the last `PAGE` line for that path (if there are no PAGE lines for it: the printed page after the last
+  `[[p. N]]` marker in the file, or the text's first page if the file does not exist). **Do not read that
+  page.** Append `SKIPPAGE <path> <N>`, and put in the file, in that page's place:
+
+  `[[p. N]]`
+
+  `*[Page N was not transcribed. See the scan.]*`
+
+  then continue with the following page, and finish the text normally (DONE). Add to the file's `notes:`
+  "INCOMPLETE: p. N not transcribed". If a text already has three SKIPPAGE lines, stop work on it:
+  append `BLOCKED <path>`, extend the note ("INCOMPLETE: not transcribed after p. N"), and move on.
+- Your prompt may name further pages known to cut agents off: treat them the same way (SKIPPAGE, placeholder).
+- Then carry on with whatever in the batch is not yet done. Keep file numbering (`NN`) unique within a folder.
 
 ## How to work
 

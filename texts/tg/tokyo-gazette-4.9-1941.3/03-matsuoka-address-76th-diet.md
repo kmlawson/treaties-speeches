@@ -10,7 +10,7 @@ date: 1941-01-21
 author: Yosuke Matsuoka, Minister for Foreign Affairs
 parties: 
 section: The 76th Session of the Imperial Diet—Ministerial Addresses of January 21, 1941
-notes: 
+notes: INCOMPLETE: p. 370 not transcribed
 ---
 [[p. 367]]
 
@@ -31,3 +31,7 @@ Of the nations in Greater East Asia, Manchoukuo has special and inseparable rela
 nations, sharing, as they do, common aims and aspirations. By the Sino-Japanese Basic Treaty concluded with the National Government at Nanking, and by the Joint Declaration made by Japan, Manchoukuo and China, the Republic of China recognized Manchoukuo, with the result that an exchange of ambassadors has been arranged between them.
 
 Inasmuch as an early settlement of the China Affair is desirable for the establishment of the sphere of common prosperity throughout Greater East Asia, our present Government, ever since its formation, have urged the Chiang Kai-shek régime to reconsider and reverse its attitude, with a view to bringing about its amalgamation with the Nanking Government; but it persists in struggling against Japan. The Chiang régime, however, is riddled with internal disruption and friction which are rapidly growing acute, while the masses under its control are suffering from high prices, a dearth of commodities and other hardships and privations. While the armed resistance of Chiang's régime has notably declined, the Chinese Communist troops have greatly gained in influence, with the result that they are steadily encroaching upon the sphere of influence of Chungking's armies. The leader in Chungking now seems to be greatly harassed by the growing strength and outlawry of the Communist forces. Despite its being in such a miserable plight, the Chiang régime is still advocating national reconstruction through its continued resistance against Japan. This is due to its misplaced hopes in assistance from Great Britain and the United States, especially the latter, and also to the force of past circumstances from which that régime can not easily escape. In June last year, Great Britain temporarily suspended the traffic of goods destined for the Chiang régime through the Hongkong and Burma routes. On October 18 of the same year, however, following the announcement of the Three-Power Pact, that country reopened the Burma route and has since been trying to transport goods by that route. Furthermore, Great Britain recently granted the Chiang régime a 100,000,000 pound sterling loan, while about the same time the United States, too, offered a loan of 100,000,000 dollars. The latter country is now endeavouring to extend assistance to Great Britain on a large scale by mobilizing her entire resources; while on the other hand, the Burma route is being frequently and seriously damaged by the successful activities of our loyal and gallant air forces. It seems highly doubtful, therefore, what aid Great Britain and the United States can actually afford the Chiang régime. In the light of such an international situation, the Japanese Government, in pursuance of their fixed policy, recognized the National Government at Nanking
+
+[[p. 370]]
+
+*[Page 370 was not transcribed. See the scan.]*

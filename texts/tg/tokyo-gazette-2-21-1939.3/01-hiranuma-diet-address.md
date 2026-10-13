@@ -1,0 +1,69 @@
+---
+title: Address of Baron Kiichiro Hiranuma, Prime Minister, at the 74th Session of the Imperial Diet
+type: speech
+source: tg
+ia: tokyo-gazette-2-21-1939.3
+issue: March, 1939
+leaf: 28
+pages: 27-31
+date: 1939-01-21
+author: Baron Kiichiro Hiranuma, Prime Minister
+parties: 
+section: The 74th Session of the Imperial Diet—Ministerial Addresses of January 21, 1939—
+notes: 
+---
+[[p. 27]]
+
+In this second New Year under the China Affair, when we are confronted with an increasingly grave situation, I received, to my awe and trepidation, the Imperial Command to assume heavy responsibilities as head of the Cabinet, responsibilities far beyond my limited power and ability. At the same time I consider it the greatest honour for me to attend the seventy-fourth session of the Diet which is to deliberate on the measures for dealing with the initial stage of the construction of a new order in East Asia, and to join with you in expressing our best wishes for the long life of His Majesty and continued prosperity of the Imperial Family, and to have an opportunity of stating the views of the Government, thus assisting the Throne in the administration of State affairs.
+
+His Majesty the Emperor, who is devoting His attention day and night to manifold military as well as other State affairs, especially in relation to the China Affair, was pleased to grant to the Diet on the occasion of its opening ceremony, a most gracious message. We are all deeply moved by the Imperial concern with the present situation, and it is my humble but earnest hope that we may in conformance with the Imperial will dedicate ourselves to the service of the State and so set His Majesty's mind at ease.
+
+To those officers and men in the services who, fighting for the past one and a half years at various fronts in China, have won brilliant victories, I wish to express our profound gratitude, while we mourn for those heroic dead who lie under the sod in a strange land. Let us pledge ourselves to the fulfilment of the high purpose for which they have given their lives.
+
+As for relief work for soldiers, His Majesty the Emperor was pleased some time ago to grant a gracious message together with a generous sum of money from the Imperial Privy Purse. Indeed, the Imperial benevolence knows no bounds. The Government, in conformity with the Imperial will, has established the Society for Relief of Soldiers as an Imperial Foundation, which, in conjunction with governmental establishments, is expected to make perfect the work of military relief and relieve the officers and men at the front
+from all cares and anxieties regarding their families at home.
+
+[[p. 28]]
+
+In regard to the China Affair upon which both the Government and the people are concentrating their endeavours, there exists an immutable policy, for which Imperial sanction was obtained by the previous Cabinet, and in accordance with which the necessary steps have been taken in various directions. As the present Cabinet is, of course, committed to the same policy, it is determined to proceed at all costs to the achievement of the final purpose. To lay the foundation of prosperity and progress in East Asia through the political, economic and cultural cooperation of Japan, Manchoukuo and China with full mutual understanding between the three countries, for the realization of mutual helpfulness, neighbourly amity and solidarity, is, needless to say, to manifest the very spirit in which our nation was founded. Therein lies Japan's national purpose, which alone can insure the permanent peace of East Asia, and which can contribute to the progress of the world.
+
+Obviously no lasting peace can be hoped for unless Japan, Manchoukuo and China, the three countries responsible for the stability of East Asia, are speedily united in the realization of the above-mentioned common objective—the establishment of a new order to replace the old. "Overcome," said the Emperor Meiji, "the evil ways of the past, and follow the just principles of nature." Here we have, I believe, what must be the basis of government in our country. Here is the ideal which was handed down from time immemorial by the Imperial Ancestors, and in accordance with which all the Imperial Successors have ruled the land. To "follow the just principles of nature" means in the last analysis to enable all entities to find their own proper places, and therein lie also, I believe, the essentials of government. And this principle applies equally to internal politics and international relations. The construction of the new East Asiatic order should proceed on the basis of this ideal.
+
+I hope the above intention of Japan will be understood correctly by Chinese so that they may cooperate with us without the slightest apprehension. Otherwise, the construction of the new order would be impossible. As for those who fail to understand to the end and persist even hereafter in their opposition against Japan, we have no other alternative than to exterminate them. On the other hand, those who desire to make of themselves pioneers of a new China and cooperate in the execution of our national policy should be encouraged to take part in this historic task. We should gladly help them to rescue the Chinese masses from misery and distress, and liberate them from the bondage of old prejudices.
+
+Happily in China today, enthusiasm for reconstruction is beginning
+to sweep over the whole country, with a growing number of men and women who fall in line with the measures put into practice by the authorities of the new Governments at Peking and Nanking and the autonomous Government of Mongolia. This is a matter for congratulations for the sake of the stabilization of East Asia, and also as the fruit of our country's national purpose.
+
+[[p. 29]]
+
+Since Communism has become so rampant on the Asiatic continent as to threaten to usurp the political power of China, its elimination is absolutely necessary if truth and righteousness are to prevail. In order to realize this, we must promote understanding with third Powers, and cooperation and collaboration especially with those Powers who fully understand us. Germany and Italy, as you are aware, have, from the beginning of the present conflict, consistently given us whole-hearted support, for which we are profoundly grateful. It is exceedingly gratifying that Japan's relations with these friendly Powers with whom we are bound by the Anti-Comintern Agreement are growing more intimate and cordial.
+
+The notable development of Manchoukuo is a hopeful sign for the construction of a new East Asia. The measures calculated to maintain the inseparable relationship between Japan and Manchoukuo should be further strengthened. On the other hand, allow me to state that it is far from the thought of the Japanese Government to oppose needlessly the economic or cultural activities of third Powers. I earnestly hope that they will appreciate the true intentions of Japan and extend cooperation toward the construction of the proposed new order in East Asia.
+
+The statement of the Japanese Government issued by the previous Cabinet which is based upon the basic policy vis-à-vis the China Affair, makes clear the guarantee required of China as a participant in the construction of the new order. The statement provides, I am confident, a principle most suited to the present situation for guiding the Chinese people and also for enlightening third Powers. Thanks to the valiant actions on the part of the Imperial forces and to the loyal support rendered by our people on the home front both in Japan Proper and overseas territories, the desired military victories have been won. The Kuomintang Government, still frantically pursuing its anti-Japanese and pro-Communist policy, has been reduced to the status of a local régime through its flight to a remote province. However, the final aim of our present campaign in China does not lie simply in military victories, but in the rebirth of China, and in the creation thereby of a new order uniting Japan, Manchoukuo and China on a relationship of mutual aid and collaboration. With the recent establishment of the China Affairs Board, it is now
+
+[[p. 30]]
+
+expected that all matters relating to China will proceed smoothly. Of course, it is not difficult to see that the way is long and beset with difficulties. In order to surmount them and to make possible a glorious future, we should follow in the footsteps of our forefathers and devote our best efforts to the task on hand, rendering, in the spirit of national solidarity, united service to the Throne. It means the concentration of all the spiritual and material resources of the nation upon the accomplishment of one purpose. This can be done, I am certain, if we will. It should be remembered that the China Affair is not to come to an end until and unless we shall have achieved our ultimate aim.
+
+United service to the Throne means the endeavour on the part of all the subjects to carry out the will of the Throne. In other words, our people in all walks of life—regardless of whether they are concerned with government, and regardless of whether they are engaged in agriculture, industry, or commerce—should fulfil their respective responsibilities in order that the Imperial benevolence may be realized to enable all things to find their proper places. Accordingly, I believe, it is in this spirit that all of us, no matter what our occupations may be, should serve the State and thus assist in the Imperial cause.
+
+We must then, in conformance to the spirit of the Imperial message granted at the opening ceremony of the present session, strive to complete the great task of establishing a new East Asiatic order, and enhance national ideals handed down by our forefathers and manifest the united strength of the nation. In order to deal properly with the China Affair and international developments in the future, therefore, it becomes a matter of urgent necessity to renovate the educational system at the same time with enhancing national ideals. I believe that it is of prime importance that such measure should have their basis in the spirit of united service to the Throne, and lay emphasis upon actual practice.
+
+Rapid augmentation of the entire strength of the nation, especially of national defence—that is to say, the creation of powerful armaments and economic expansion throughout Japan, Manchoukuo and China—constitutes the immediate, essential objective of our country. To meet the requirement of such armament augmentation and economic construction the entire nation must grasp fully the true significance of the current situation, and with strong determination, unitedly continue our investigations and labours in regard to the expansion of productive power, development of foreign trade, adjustment of capital, labour and materials, and regulation of commodity prices. Especially with respect to the expansion of productive power, the
+
+[[p. 31]]
+
+Government expects to formulate and execute a comprehensive plan for development which will bring about the desired end.
+
+The Government deems it of urgent importance to develop and reinforce all systems of transportation and communication in accordance with the new conditions in East Asia and is taking appropriate measures.
+
+As for the various control measures carried out hitherto for economic activities, they must, of course, be continued within the bounds necessary for the maximum application of the total strength of the nation.
+
+However, while these measures have until now mostly been economic, to meet the immediate requirements of prosecuting military operations, we must henceforth put into operation, in addition, other control measures which are of a permanent and constructive character. Accordingly it is essential to strengthen the alignment of the national life in general mobilization,—namely, to invoke in due order the necessary provisions in the National General Mobilization Law, effecting at the same time various internal reforms, and thereby fully manifest the combined strength of the nation and concentrate it on the objective of our national policy in the spirit of united service to the Throne.
+
+On the other hand, the Government will carefully consider measures to be taken for coping with the problems of the suspension of business, unemployment arising among merchants and manufacturers, who will be affected by the governmental steps already described, as well as general measures for stabilizing the livelihood of the nation on the home front, such as promoting healthy development of the farming and fishing populations. And in order to accomplish this, it is essential to execute through free and active cooperation of the Government and people, unhampered by convention, the measures appropriate to the present situation. In carrying out the various policies there is much, I feel, that depends upon the cooperation of the Government and people.
+
+It is with these considerations, that the Government is submitting budgetary and legislative bills in order to carry out its policies. As the present Cabinet was formed only recently, the bills prepared by the previous Cabinet, which have been found after careful study to be suited to the present situation, are being submitted for your consideration. It is its desire thus to join with you in forwarding the glorious task of the Empire.
+
+I earnestly hope that you will, in view of the vital needs of the times, appreciate the aims of the Government and give your prompt approval to the proposed budgetary and legislative bills.

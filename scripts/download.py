@@ -10,7 +10,7 @@ def get(id):
     out = f'{d}/issue.pdf'
     if os.path.exists(out) and os.path.getsize(out) == size: return id, 'have'
     url = f'https://archive.org/download/{urllib.parse.quote(id)}/{urllib.parse.quote(name)}'
-    for k in range(8):
+    for k in range(3):
         if k: time.sleep(30)
         r = subprocess.run(['curl', '-sSL', '--fail', '--connect-timeout', '30', '--speed-limit', '20000', '--speed-time', '60', '-A', UA, '-C', '-', '-o', out, url])
         if os.path.exists(out) and os.path.getsize(out) == size: return id, 'ok'
