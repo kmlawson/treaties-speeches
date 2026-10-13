@@ -16,6 +16,8 @@ header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
 /* strip of links to sister resources: small, tinted, borderless, distinct from the page's own controls */
 .sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem .35rem;padding:.4rem .75rem;background:var(--bg);border-bottom:1px solid var(--rule)}
+.sitelinks.bottom{border-bottom:none;border-top:1px solid var(--rule);margin-top:2.5rem;padding-top:.7rem}
+.sitelinks.bottom+footer{margin-top:.7rem;border-top:none}
 .sitelinks a{font-family:var(--ui);font-size:.69rem;font-weight:500;line-height:1.2;padding:.22rem .6rem;border-radius:1rem;white-space:nowrap;
 color:var(--accent);background:color-mix(in srgb,var(--accent) 11%,transparent);text-decoration:none}
 .sitelinks a:hover{background:var(--accent);color:var(--on-accent);text-decoration:none}

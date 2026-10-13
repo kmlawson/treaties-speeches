@@ -251,6 +251,8 @@ header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
 /* strip of links to sister resources: small, tinted, borderless, distinct from the page's own controls */
 .sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem .35rem;padding:.4rem .75rem;background:var(--bg);border-bottom:1px solid var(--rule)}
+.sitelinks.bottom{border-bottom:none;border-top:1px solid var(--rule);margin-top:2.5rem;padding-top:.7rem}
+.sitelinks.bottom+footer{margin-top:.7rem;border-top:none}
 .sitelinks a{font-family:var(--ui);font-size:.69rem;font-weight:500;line-height:1.2;padding:.22rem .6rem;border-radius:1rem;white-space:nowrap;
 color:var(--accent);background:color-mix(in srgb,var(--accent) 11%,transparent);text-decoration:none}
 .sitelinks a:hover{background:var(--accent);color:var(--on-accent);text-decoration:none}
@@ -404,14 +406,15 @@ def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
 <title>{esc(title)}</title>
 <link rel="stylesheet" href="{up}style.css"><script src="{up}common.js"></script>{extra_head}
 </head><body>
-<div class="sitelinks" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
 <header><div class="container"><h1><a href="{up}index.html">Treaties, Laws and Speeches</a></h1>
 <div class="subtitle">{subtitle}</div>
 <nav>{nav}<a href="#" id="navAbout">About</a></nav></div>
 <div class="display-toolbar"><button id="fontDown" title="Smaller text" aria-label="Smaller text">A&minus;</button><button id="fontUp" title="Larger text" aria-label="Larger text">A+</button><button id="themeBtn" title="Light / dark" aria-label="Light or dark theme">&#9680;</button></div></header>
+<div class="sitelinks" role="navigation" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
 <div class="container">
 {body}
 </div>
+<div class="sitelinks bottom" role="navigation" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
 <footer><div class="container">Texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945 &middot;
 <a href="https://froginawell.net/">Frog in a Well</a></div></footer>
 <div class="modal" id="aboutModal"><div class="modal-inner"><button class="btn" id="aboutClose" aria-label="Close">&times;</button>{ABOUT}</div></div>
