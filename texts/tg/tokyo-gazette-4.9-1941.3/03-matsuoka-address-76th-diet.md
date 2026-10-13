@@ -53,3 +53,11 @@ Japan's foreign trade, with the exception of Manchoukuo and China, is conducted 
 [[p. 373]]
 
 *[Page 373 was not transcribed. See the scan.]*
+
+[[p. 374]]
+
+to put an end to the chaos in which the world is plunged. We must, meanwhile, study in advance to discover some formula avoiding the recurrence of any such disturbance in future.
+
+With an unbroken line of the Emperors reigning since its foundation, our Empire constitutes a unique family-State unparalleled in the world for unity and solidarity, growing stronger with every national emergency. It is reassuring, moreover, to observe that the Japanese Empire is endowed with the most favourable geographical conditions, powerful enough to influence the course of world politics. With the conviction of our race that Light radiates from the East and with the great ideal of *Hakkō Itiu*, we must put forth our highest efforts in the momentous task of establishing a new world order which is the object of the tripartite Pact. That we shall succeed in this regard I have not the slightest doubt. If we are fully prepared for this task under these circumstances, the future of our Empire, I firmly believe, is full of promise.
+
+In concluding my address, I respectfully pay my tribute to the spirits of those loyal and valiant officers and men, our compatriots, who have fallen in action, and at the same time, I tender my warm thanks to our Fighting Services who are enduring many hardships and privations, and extend to them my most sincere wishes for every success in the field.

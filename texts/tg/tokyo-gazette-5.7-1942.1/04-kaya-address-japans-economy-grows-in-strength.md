@@ -1,0 +1,89 @@
+---
+title: Japan's Economy Grows in Strength, Address of Mr. Okinori Kaya, Minister of Finance, Delivered before the Diet on November 17, 1941
+type: speech
+source: tg
+ia: tokyo-gazette-5.7-1942.1
+issue: January, 1942
+leaf: 8
+pages: 333-339
+date: 1941-11-17
+author: Okinori Kaya, Minister of Finance
+parties: 
+section: 
+notes: Scan is of two-page spreads (p. 333 is the right half of PDF page 9). Footnote marker after the title is placed as printed.
+---
+[[p. 333]]
+
+### Japan's Economy Grows in Strength
+
+Having been placed in charge of the financial affairs when the present Cabinet was installed in office recently, I deem it a rare privilege to be invited, at this opportunity, to explain the outline of the proposed supplementary appropriations for the Special Account of the Extraordinary Military Expenditures and for the General Account for the 1941-42 fiscal year and to give expression to the views of the Government as I see them, on our financial and economic conditions.
+
+### Outlines of Additional Budgets
+
+The supplementary budgets now before the House consist of total estimated expenditures of 3,800,000,000 yen in the Special Account for the Extraordinary Military Expenditures and 515,900,000 yen[^1] in the General Account. Of these two items, the extraordinary war estimates are intended to cover such additional expenses as are urgently required by the army and navy for ensuring a satisfactory settlement of the China Affair in the face of the prevailing critical situation. To meet these supplementary war expenditures, our estimated revenue includes 214,500,000 yen to be transferred from the General Account, 14,300,000 yen from various special accounts, 3,570,000,000 yen from the proceeds of public loans and borrowings and 1,000,000 yen from other sources.
+
+In the General Account the supplementary budget covers only such urgent expenditure, which cannot be dispensed with in view of the prevailing situation, as the increased transfer to the Special Account for the Extraordinary Military Expenditures, expenses required for encouraging rice production, increased expenses for securing the supply of important chemical fertilizers, expenses for reorganizing smaller commercial and industrial enterprises, expenses
+
+[^1]: Figures in this address are given mostly in round numbers.
+
+[[p. 334]]
+
+attendant upon the organization of the Industrial Equipment Corporation, expenses for eliminating the flood damages in the Kanto and other districts, expenses for coping with the cold-wave damages in Hokkaido and the northeastern provinces and increase in the reserve funds of the Treasury. These supplementary appropriations in the General Account are proposed to be covered by such sources as estimated increases in the stamp and tax revenue amounting to 173,100,000 yen, and the proceeds of the Government enterprises accruing from the recent raise in the prices of tobacco, etc., which is expected to amount to 41,400,000 yen and estimated excesses of revenue over expenditure, due to retrenchment in the execution of the General Budget for the current fiscal year.
+
+We have also proposed some appropriations for the various special accounts as it has been found imperative to make expenditure in order to encourage rice production in Tyosen and Taiwan and to meet other urgent needs. The proposed raise in taxation is to be effected in Japan proper and overseas territories alike chiefly in indirect taxes on such consumption goods as are deemed luxurious or comparatively non-urgent in national life, and this measure is aimed at absorbing the people's purchasing power so as to economize consumption and invigorate national spirit and increase the revenue for the Treasury at the same time. The recent raise of tobacco prices and the proposed raise of the railway tariff owe their origin to similar reasons.
+
+### Present Conditions of Japan's Finances
+
+Next, I wish to touch upon the financial and economic conditions of our country. For the past four and a half years since the outbreak of the China Affair, large forces of the Imperial Army, Navy and Air Arm have continued to see active service. But in spite of this fact, the finances of our country remain quite sound and no difficulty has yet been felt in meeting the needs of the Treasury, while the economic resources of our nation have rather been augmented in all fields.
+
+The recent growth of our national finances may be seen from the fact that, during the four fiscal years since the outbreak of the China Affair in 1937, inclusive of 1941-42, our national budgets have totalled more than 48,000 million yen, including 26,000 million yen
+
+[[p. 335]]
+
+in the Extraordinary Military Expenditures. Together they far exceed the grand total of our Government expenditures for the seven decades from the Restoration of 1868. Meanwhile, the tax revenue and the proceeds from Government enterprises during the past four years have totalled 15,000 million yen, including the 1941-42 estimates. The last amount includes a sum of approximately 4,500 million yen, which has been estimated for the 1941-42 fiscal year in the tax revenue and proceeds from Government enterprises, whereas the corresponding figure for the 1936-37 fiscal year was only 1,200 million yen, or about one-fourth the 1941-42 figure. Apart from these sources of revenue, public loans have yielded a total of 24,100 million yen since the beginning of the Affair. That these huge budgets have been made to work without any appreciable hitch certainly affords an eloquent proof of the rapid growth which our national finances have made during the past few years.
+
+### Remarkable Growth in Economic Strength
+
+The finances of a State being based on its national economic strength, it is only too obvious that Japan has made remarkable growth in its economic strength to keep pace with the recent expansion of our national finances since the outbreak of the China Affair. From olden times, it has been considered customary for a nation to weaken in economic strength in time of war, but nevertheless our national economic power has grown considerably in spite of the current armed conflict. In this connection I take this opportunity to give a brief explanation on the natural resources, equipment for production and funds, which together make up the economic strength of our nation.
+
+In point of natural resources, it goes without saying that the development of natural resources in this country has been greatly expedited since the outbreak of the hostilities. Worthy of special note, in this connection, is the fact that an increasingly close economic cooperation has been effected between Japan, Manchoukuo and China, with the inexhaustible natural resources on the Asiatic mainland serving to reinforce the defence economy for the construction of a new order in East Asia. Among other natural resources, North China is generally credited with approximately 200,000 million tons of coal deposits, or about ten times those believed to exist throughout
+
+[[p. 336]]
+
+the entire territory of Japan. This single instance may be sufficient to show how the economic resources of Japan, Manchoukuo and China have become vastly strengthened due to the recent cooperation between the three nations with Japan as its nucleus. Moreover, our trade with French Indo-China, Thailand and other East Asiatic countries other than Manchoukuo and China has also grown considerably in volume, thereby further augmenting the sources of war and civilian supplies for Japan.
+
+As for our productive equipment, various facilities for production and transporation [sic] have been greatly expanded in Manchoukuo and China as well as in Japan during the past few years of the China Affair, our nation having invested an estimated total of 23,000 million yen in Japan, Manchoukuo and China for the purpose of expanding productive capacity as compared with 4,000 million yen estimated to have been invested for similar purposes during the preceding four years. The former figures represent an increase of more than five times over the latter. Such expansion of the means of production has been effected with a special emphasis on those industries which are deemed of most urgent necessity in the prevailing situation.
+
+In time of war, the economic power of a nation often wanes due to the loss to the enemy of areas where an important portion of its natural resources and means of production are located, or due to the destruction by the enemy of various facilities of production and transportation. During the current hostilities, not a single inch of our territory has been invaded by the enemy, nor has any of our facilities of production been damaged by a single shot, thanks to the august virtue of His Imperial Majesty and the renowned valour of the officers and men of the Imperial Army and Navy. Our ally, Manchoukuo, also remains not a whit adversely affected by the China Affair. The result is that Japan's economic power has not been impaired in the least, while her cooperation with the East Asiatic nations has become closer than ever, thereby strengthening our national defence economy, a prolonged hostility notwithstanding.
+
+### Favourable Wartime Finances and Economy
+
+It goes without saying that for the supply of necessary funds for our national finances and economy, we have to depend upon the
+
+[[p. 337]]
+
+savings of the people, which have continued to increase, indicating the correct appreciation of the prevailing situation in which they are placed. Indeed the people's savings did exceed the mark set by the Government every year during the present Affair in spite of the fact that the people's tax burden has increased enormously during the interval. Thus, during the period from the beginning of the China Affair up to September, 1941, the Japanese people are estimated to have saved a total of approximately 41,000 million yen, or about five times the similar figures for the pre-Affair four years, which were only 8,000 million yen, and it is really gratifying to note such readiness on the part of the people to undertake the task.
+
+As a result, out of the public loans issued to finance the China Affair, some 20,000 million yen, or 85 per cent of the total, has already been digested, thus providing well-nigh sufficient financial resources to cover the total amount of 23,000 million yen invested in order to facilitate the proposed expansion of productive capacity of Japan, Manchoukuo and China.
+
+In the past instances of major wars in world history, rises in money interest and fluctuations in foreign exchange have always proved inevitable, but Japan has been obviously an exception to this rule; for in our country both money interest and foreign exchange have been securely stabilized in keeping with the policy of the Government instead of evincing any sign of instability, a fact bespeaking the favourable development which our wartime finances and economy are making. During the China hostilities certain Powers have been inclined to underestimate our people's resources, both spiritual and economic, and have chosen to bring various economic pressures to bear upon our nation in a vain hope that our country would soon exhaust all its strength. Contrary to their expectation, however, just the reverse has proved to be the case and we have attained most satisfactory results as has just been reviewed. I cannot but deem it a matter for an unqualified congratulation to be able to ascribe these results to the whole-hearted cooperation rendered by our 100 million people for the national cause.
+
+### Future of War Economy and National Life
+
+It is true that, with the progress of the China Affair, the supply of materials for civilian consumption has gradually become less
+
+[[p. 338]]
+
+abundant, but such a trend is a natural sequel to the operation of wartime economy inasmuch as a considerable portion of the means of production for civilian consumption has been diverted to those channels for the proposed expansion of productive capacity as well as those for war supplies. Therefore, it would be a gross mistake to take the phenomenon just referred to as a criterion by which to measure our economic strength. It may also be noted that even the present supply for civilian consumption goods in our country still has an ample margin if we remember the experiences of the Powers in large-scale wars, such as the last World War.
+
+For all this, it is an undeniable fact that the recent action on the part of the British Empire, the United States and the Netherlands East Indies to freeze Japanese assets, an action tantamount to the severance of economic relations with our country, has seriously affected our national economy which had still been maintaining considerably close relations with those Powers. In view of this situation, our nation will now have to establish a self-sufficient economic sphere on the basis of the relationship of co-existence among the East Asiatic countries and build up sufficient armaments and adequate economic strength to maintain and operate such armaments so as to be able to repulse all undue attempts at disturbing the East Asian order.
+
+To attain this objective will be a gigantic task which can be accomplished only when all members of the nation really get united and make redoubled efforts for that specific purpose. And in order to bring the all-out power of our nation into the fullest possible play, the Government are determined to make all their measures fit in smoothly and appropriately with the working of our wartime economy and establish an effective control on the economic activities of the people so as to be able to carry out steadily all necessary reforms and plans. Meanwhile the people should, with a full cognizance of the prevailing situation, work harder than ever to enhance productive capacity and hold down their consumption of materials to the minimum sufficient to maintain and promote the home front activities, preserve their health and pursue their academic studies and technical training. All the margins thus created in materials and funds should be used in strengthening national defence and amplifying productive capacity. Always bearing in mind the necessity to stabilize and preserve the life on
+
+[[p. 339]]
+
+the home-front, the Government are determined to leave no stone unturned in endeavouring to stabilize commodity prices and securing the necessary supply of material indispensable for the daily life of the people.
+
+The Government also are steadily making all necessary preparations in financial measures to provide for emergency. Under the circumstances, the people are expected to repose full confidence in the Government in coping with the situation, whatever may be in store for our future.
+
+Needless to say, all policies and measures which a nation takes in time of war can be crowned with satisfactory results only when they are loyally supported by their national spirit and national morale. Now our nation stands at the cross-roads of rise or fall. Once overcoming this crisis, we shall have every prospect of bringing about an epochal rise in our national fortune and introducing stability throughout East Asia. Now is the very moment when all our people are in duty bound to do their very utmost for the cause of their country. It is my sincere hope that our 100 million people, inspired by our appointed task of accomplishing the sacred task of constructing a new Asia in the face of all conceivable difficulties, will make concerted efforts to that end. In conclusion, I earnestly request you speedily to consent to the budgetary estimates introduced by the Government.

@@ -10,7 +10,7 @@ date: 1938-10-06
 author: Joseph C. Grew, American Ambassador to Japan
 parties: 
 section: Concerning American Rights and Interests in China—The American Note and Japan's Reply—
-notes: INCOMPLETE: pp. 32, 33, 34 not transcribed. Date of the note taken from the Japanese reply's reference to the note of October 6th (to be confirmed on p. 36).
+notes: INCOMPLETE: not transcribed after p. 34 (pp. 32, 33, 34 skipped; p. 35 also cut off a worker; pp. 35-36 not transcribed). Date of the note taken from the Japanese reply's reference to the note of October 6th (to be confirmed on p. 36).
 ---
 [[p. 32]]
 
@@ -24,3 +24,7 @@ notes: INCOMPLETE: pp. 32, 33, 34 not transcribed. Date of the note taken from t
 [[p. 34]]
 
 *[Page 34 was not transcribed. See the scan.]*
+
+[[p. 35]]
+
+*[Page 35 was not transcribed. See the scan.]*

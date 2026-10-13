@@ -44,3 +44,14 @@ SKIPPAGE texts/tg/tokyo-gazette-2-19-1939.1/04-american-note-rights-and-interest
 PAGE texts/tg/tokyo-gazette-2-19-1939.1/04-american-note-rights-and-interests-in-china.md 35
 START texts/tg/tokyo-gazette-2-18-1938.12/00-statement-japanese-government-future-of-east-asia-1938-11-03.md
 PAGE texts/tg/tokyo-gazette-2-18-1938.12/00-statement-japanese-government-future-of-east-asia-1938-11-03.md 16
+BLOCKED texts/tg/tokyo-gazette-2-19-1939.1/04-american-note-rights-and-interests-in-china.md
+SKIPPAGE texts/tg/tokyo-gazette-2-18-1938.12/00-statement-japanese-government-future-of-east-asia-1938-11-03.md 16
+PAGE texts/tg/tokyo-gazette-2-18-1938.12/00-statement-japanese-government-future-of-east-asia-1938-11-03.md 17
+DONE texts/tg/tokyo-gazette-2-18-1938.12/00-statement-japanese-government-future-of-east-asia-1938-11-03.md
+START texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md
+PAGE texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md 17
+PAGE texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md 18
+PAGE texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md 19
+PAGE texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md 20
+DONE texts/tg/tokyo-gazette-2-18-1938.12/04-konoe-radio-address-1938-11-03.md
+BATCH COMPLETE

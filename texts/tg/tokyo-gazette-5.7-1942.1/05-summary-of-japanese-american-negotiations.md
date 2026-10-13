@@ -1,0 +1,120 @@
+---
+title: Summary of the Japanese-American Negotiations, Published by the Japanese Government on December 8, 1941
+type: document
+source: tg
+ia: tokyo-gazette-5.7-1942.1
+issue: January, 1942
+leaf: 12
+pages: 340-348
+date: 1941-12-08
+author: Japanese Government
+parties: Japan; United States
+section: 
+notes: INCOMPLETE: p. 346 not transcribed. Scan is of two-page spreads (p. 340 is the left half of PDF page 13). Printed "joint y" (p. 343) is given as "jointly".
+---
+[[p. 340]]
+
+### Summary of the Japanese-American Negotiations
+
+**1.** Negotiations between the Governments of Japan and the United States of America were begun at Washington in spring of this year. In the middle of April, the American Government submitted an informal draft proposal. It contained stipulations on the following items:
+
+1. The concepts of the United States and of Japan respecting international relations and the character of nations.
+2. The attitudes of both Governments toward the European war.
+3. Action toward a peaceful settlement between China and Japan.
+4. Commerce between both nations.
+5. Economic activity of both nations in the Pacific area.
+6. The policies of both nations affecting political stabilization in the Pacific area.
+7. Neutralization of the Philippine Islands.
+
+The proposal was intended to serve as a basis for a general agreement concerning the questions of the entire Pacific area. But the proposal contained a number of points unacceptable to the Japanese Government. For instance, with reference to the Tripartite Pact between Japan, Germany and Italy, the American Government asked the Japanese Government to give an undertaking not to menace the security of the United States when the latter should participate in the European war on the plea of self-defence. Again, as regards the China Affair, the American Government would undertake to use its good offices for the initiation of peace negotiations between the Japanese Government and the Chungking régime on such terms as were acceptable to the United States.
+
+Accordingly, the Japanese Government sent a counter-proposal in the middle of May, modifying the American proposal. Concerning the Tripartite Pact it was explicitly stated that Japan's obligation to render military assistance would arise as stipulated under the said
+
+[[p. 341]]
+
+treaty, while with regard to the China Affair, it was provided that the American Government, accepting the premises of the three Konoe Principles, the Sino-Japanese Basic Treaty and the Joint Declaration of Japan, Manchoukuo and China, and relying upon Japan's policy of neighbourly friendship would urge upon the Chungking régime to enter into negotiations with the Japanese Government for the restoration of peace, and it was further stipulated that in case Chungking refused to accept the American advice, the United States was to cease from aiding the Chungking régime. Negotiations were continued further when in the latter part of June a new counter-proposal was submitted by the American Government, which, as compared with its proposal of April, set forth American claims in a more concrete manner. Discussions were continued to be held, revolving round this June proposal.
+
+**2.** In July, soon after the formation of the third Konoe Cabinet the Japanese Government took measures of joint defence of French Indo-China in accordance with the Protocol concluded between Japan and France, whereupon the American Government applied economic pressure by freezing Japanese assets. But the Japanese Government still hoped for a peaceful settlement, and in August Premier Prince Konoe sent a personal message to President Roosevelt, setting forth fully the peaceful intentions of Japan, and proposing a meeting without delay between the responsible heads of the two Governments with a view to averting the crisis in the relations of the two countries. While accepting in principle the Konoe proposal, the American Government stoutly maintained its stand that it could not see its way to putting it into practice unless an agreement of view had been first reached on the pending issues, especially on the questions of the Tripartite Pact, the stationing of Japanese troops in China, and the non-discriminatory treatment in international commerce; and moreover, it held fast to its June proposal, refusing to make any concession. Accordingly, the Japanese Government submitted on September 6 a proposal, followed by yet another proposal submitted on September 25 which took into account the American proposal of June and incorporated Japanese claims. Negotiations were continued until October 2, when the American Government requested clarification of Japan's intentions regarding the application of the four principles long advocated by the United States as fundamental principles of international relations,
+
+[[p. 342]]
+
+namely:
+
+1. Respect for the territorial integrity and the sovereignty of each and all nations.
+2. Support of the principle of non-interference in the internal affairs of other countries.
+3. Support of the principle of equality, including equality of commercial opportunity.
+4. Non-disturbance of the *status quo* in the Pacific except as the *status quo* may be altered by peaceful means.
+
+At the same time, it demanded the Japanese Government to clarify further its views concerning the three questions mentioned above. As a result, the negotiations struck an impasse. In the meantime the Konoe Cabinet resigned in the middle of October.
+
+Such divergence of view as above mentioned between the two Governments was produced largely because the American Government obstinately adhered to utopian principles based on selfish views for dealing with international relations, and insisted upon the application thereof in China and elsewhere, regardless of the real conditions of East Asia. It was evident that so long as the American Government persisted in that attitude, there was little chance of bringing negotiations to a successful conclusion.
+
+**3.** The present Cabinet in its solicitude for the peace of the Pacific decided to continue the negotiation. With a view to effecting a settlement on an equitable basis, the Japanese Government formulated the following proposal concerning the three principal issues in the negotiations; namely, (1) the right of self-defence in connection with the Tripartite Pact, (2) non-discriminatory treatment in international commerce, and (3) evacuation of troops from China and French Indo-China.
+
+1. The American Government undertakes not to enlarge unduly the meaning of "self-defence."
+2. The Japanese Government recognizes the principle of non-discrimination in international commercial relations to be applied to all the Pacific area, including China, on the understanding that the said principle is to be applied uniformly to the rest of the world.
+3. Following the restoration of peace between Japan and China, the Japanese troops despatched to China in connection with the China Affair will be stationed for the necessary duration
+
+[[p. 343]]
+
+in specified areas, and the rest of the troops will be withdrawn upon the conlusion [sic] of peace and in accordance with the agreement between Japan and China. The troops in French Indo-China will be withdrawn immediately either upon the settlement of the China Affair or the establishment of peace in East Asia on an equitable basis.
+
+Negotiations were conducted on the basis of the above proposal. Meanwhile the Japanese Government requested the American Government to use its good offices, upon the conclusion of the Japanese-American negotiation, for the conclusion of a similar understanding with Great Britain and other countries concerning relevant subjects. Moreover, in order to do the utmost in the negotiation, Japan dispatched Ambassador Kurusu posthaste to Washington to assist Admiral Nomura.
+
+On the other hand, the American Government repeatedly urged that there would be no need for Japan to maintain the Tripartite Pact after the consummation of a Japanese-American agreement, and expressed its hope that the said treaty would cease to exist or become a dead letter. As regards the principle of non-discrimination in international commerce, the American Government, insisting on its unconditional application to China, proposed the economic development of China jointly by the Powers. To this proposal the Japanese Government replied to the effect that with regard to the commercial non-discrimination principle, Japan hoped for its application throughout the world and that it would recognize its application to China in accordance with the realization of this principle throughout the world, and also that the American proposal for the joint international development of China was unacceptable to Japan as it would open the way for the joint international control of China. On these grounds, the Japanese Government requested the American Government to withdraw the proposal in question.
+
+**4.** On November 17 and thereafter Admiral Nomura, together with Ambassador Kurusu, repeatedly met the American President and Secretary of State and strongly urged upon the latter two the necessity of bringing about speedily an amicable conclusion of the negotiation. Discussions were extended over a few meetings at which the President stated that he was prepared to act as an "introducer" of peace between Japan and Chungking, and the Secretary of State emphasized, that, Japanese-American negotiations
+
+[[p. 344]]
+
+would prove difficult as long as Japan cooperated with Germany, and it was necessary to remove this fundamental difficulty. Despite these discussions, it became clear that the difficulty lay as before in the questions of the Tripartite Pact, of the international commercial non-discriminatory treatment and of China. In order to avert the rupture of diplomatic relations between the two countries, the Japanese Government, presented on November 20, the following new proposal calculated to achieve an equitable solution of the more essential and urgent questions.
+
+1. Both the Governments of Japan and the United States undertake not to make any armed advancement into any of the regions, excepting French Indo-China, in the South Eastern Asia and the Southern Pacific area.
+2. The Governments of Japan and the United States shall cooperate with a view to securing the acquisition of those goods and commodities which the two countries need in the Netherlands East Indies.
+3. The Governments of Japan and the United States mutually undertake to restore their commercial relations to those prevailing prior to the freezing of the assets.
+
+   The Government of the United States shall supply Japan a required quantity of oil.
+4. The Government of the United States undertakes not to indulge in measures and actions prejudicial to the endeavours for the restoration of general peace between Japan and China.
+5. The Japanese Government undertakes to withdraw troops now stationed in French Indo-China upon either the restoration of peace between Japan and China or the establishment of an equitable peace in the Pacific area.
+
+   The Government of Japan declares that it is prepared to remove the Japanese troops now stationed in the southern part of French Indo-China to the northern part of the said territory upon the conclusion of the present agreement.
+
+Regarding the above proposal, the Secretary of State contended that it was impossible for the American Government to accept Item 4 of our proposal and cease aiding the Chiang Kai-shek régime unless Japan clarified her relations with the Tripartite Pact and gave assurances regarding her adoption of a peaceful policy, and that the President's offer to act as "introducer" of Sino-Japanese peace was
+
+[[p. 345]]
+
+predicated upon Japan's adoption of a peaceful policy. Thereupon, the Japanese-Government instructed the two Ambassadors to request reconsideration by the American Government, pointing out to the Secretary of State that, in case direct negotiations were opened between Japan and Chungking through "introduction" by the President, the continuation of aid to the Chiang Kai-shek régime by the United States, the peace introducer, would constitute an interference with the realization of peace, and that the American contention was therefore inconsistent.
+
+**5.** Meanwhile, the American Government consulted with the representatives of Britain, Australia, the Netherlands and Chungking, and on November 22 the Secretary of State told our two Ambassadors that withdrawal of troops from southern French Indo-China alone would not be enough to ease the tense situation in the Southern Pacific and that he considered the time was not yet ripe for the so-called "introduction" of peace between Japan and Chungking by the President.
+
+Subsequently, the American Government continued consultations with the representatives of the Powers above-referred to and on November 26 the Secretary of State presented to our Ambassadors, as a basis for future negotiations, a proposal to the following effect, stating that, although the American Government had carefully studied the Japanese proposal of the 20th and consulted with the countries concerned, they could not unfortunately bring themselves to agree to our proposal.
+
+(A) In the new proposal, the American Government reiterated, with reference to political relations, the above-mentioned four principles as the fundamental principles to be practically applied to mutual relations between Japan and the United States. However, it changed Item 4 to "the principle of reliance upon international cooperation and conciliation for the prevention and pacific settlement of controversies and for improvement of international conditions by peaceful methods and processes." As regards economic relations, the American Government elaborated the third political principle concerning the equality of opportunity and equal treatment in commerce.
+
+(B) As measures to be adopted by the Governments of Japan and the United States it proposed as follows:
+
+(i) The Government of the United States and the Government
+
+[[p. 346]]
+
+*[Page 346 was not transcribed. See the scan.]*
+
+[[p. 347]]
+
+of, Japan will, respectively, remove the freezing restrictions on Japanese funds in the United States and on American funds in Japan.
+
+(viii) Both Governments will agree upon a plan for the stabilization of the dollar-yen rate, with the allocation of funds adequate for this purpose, half to be supplied by Japan and half by the United States.
+
+(ix) Both Governments will agree that no agreement which either has concluded with any third powers shall be interpreted by it in such a way as to conflict with the fundamental purpose of this agreement, the establishment and preservation of peace throughout the Pacific area.
+
+(x) Both Governments will use their influence to cause other Governments to adhere to and to give practical application to the basic political and economic principles set forth in this agreement.
+
+Regarding the above proposal, our Ambassadors refuted the American claims pointing out their unreasonableness. But the Secretary of State failed to show any sign of concession and on November 27 the President told our two Ambassadors that, although he still hoped for an amicable conclusion of the Japanese-American negotiations, he considered that it would be futile to try to surmount the crisis by a *modus vivendi* so long as the fundamental policies of the two countries were not in accord.
+
+The Japanese Government, therefore, requested reconsideration of the American Government, because, despite the fact that our proposal of November 20 was made after fully considering the claims of both sides on the most equitable basis, the American Government, maintaining that it could not agree to this proposal, made a new proposal which entirely ignored the realities in East Asia and in particular completely changed its attitude with respect to the China question—a fact which led the Japanese Government to doubt the sincerity of the American Government. On December 2, however, the American Under-Secretary of State Welles, stating that he was acting under Presidential order, made an inquiry to our Government regarding our true intentions, saying that, according to their information, movements and reinforcement of Japanese troops were recently taking place in the region of French Indo-China. To this inquiry, the Japanese Government replied that, in view of the recent
+
+[[p. 348]]
+
+marked activities of the Chungking forces in the neighbourhood of the frontier between French Indo-China and China, Japan had made partial reinforcement of its troops in northern French Indo-China as a precautionary measure and that this naturally had resulted in movement of the troops in the southern area. Meanwhile the American Government rapidly reinforced the encircling front against Japan and led public opinion to its own advantage and thus prepared the ground with a view to meeting the situation arising from the rupture of the negotiations.
+
+**6.** The Japanese Government made clear its attitude regarding the above-mentioned American proposal in its Memorandum to the American Government under date of December 7, the full text of which is published separately.
