@@ -17,6 +17,7 @@ Every text that the journal prints **verbatim** and that is one of:
   printed (e.g. "Article 1. ...").
 - `speech` - addresses, speeches, broadcasts, lectures, messages delivered by a named person
   (Diet ministerial addresses, radio addresses, banquet addresses, messages to the Diet).
+- `list` - see "Recently promulgated columns" below.
 - `document` - other verbatim official texts: government/Foreign Office statements, diplomatic notes,
   protests, proclamations, announcements quoted in full, joint communiques.
 
@@ -37,6 +38,40 @@ verbatim speech or text. In the Tokyo Gazette, go by the index entries: check ev
 verbatim text (addresses, statements, documents, notes, treaties, pacts, rescripts, ordinances and laws
 printed at length such as the "Income Tax Law" chapters or "Ordinance Pertaining to Control of Prices"),
 including the "recently promulgated" columns, and the "Documents" sections.
+
+## "Recently promulgated" columns (Tokyo Gazette)
+
+The columns headed "Laws and Ordinances Recently Promulgated", "Ordinances Recently Promulgated", "Treaties
+and Ordinances Recently Promulgated" etc. usually give each law a heading, a "(Law No. 57, Promulgated on
+August 11, 1937)" line, and a short paragraph of summary; occasionally an entry is much fuller. Use a contact
+sheet of the column to see which is which, then:
+
+- Every such column gets **one `list` file per issue** recording every entry in it, whether or not you also
+  extract it in full. Body: a Markdown table `| Title | Number | Promulgated | Page |` (title as printed;
+  number as printed, e.g. "Law No. 57", "Imperial Ordinance No. 616", "Treaty No. 12"; promulgation date as
+  printed, plus any "enforced since" date; printed page). No summaries. Front matter: `type: list`,
+  `title: Laws and Ordinances Recently Promulgated` (the column heading as printed), `date:` blank.
+  Read the pages at reading size for this - do not take titles or dates off the contact sheet or the index.
+- An entry that prints the actual text (articles, treaty provisions), or whose account runs to about half a
+  page or more, is **also** extracted in full as its own `law` / `treaty` file; if it is an official summary
+  rather than the articles themselves, say "official summary, not the text of the law" in `notes`.
+
+## Writing in small pieces, and resuming (important)
+
+Agents on this job have been cut off by an output filter when they emitted a long transcription in one go.
+So:
+
+- **Never write more than about one printed page (roughly 500 words) of transcription in a single tool
+  call.** Create the file with the front matter and the first page, then append each following page with
+  its own call (`cat >> file <<'EOF_TS' ... EOF_TS` in Bash, or Edit). Read one to three pages, write
+  them out page by page, then read the next; do not read a whole long text before writing any of it.
+- Do not repeat transcribed text in your messages or your report.
+- When a text is complete, append a line `DONE <path of the file>` to `texts/_reports/<batch>.progress`.
+- **Before starting**, read that progress file if it exists and list what is already in `texts/<src>/<ia>/`
+  for your issues: an earlier agent may have done part of the batch. Files marked DONE are finished - keep
+  them, do not re-read their pages. A file not marked DONE was cut off: check its last `[[p. N]]` marker
+  against the scan and continue it from where it stops (or redo it if it is malformed). Then carry on with
+  whatever in the batch is not yet done. Keep file numbering (`NN`) unique within a folder.
 
 ## How to work
 
