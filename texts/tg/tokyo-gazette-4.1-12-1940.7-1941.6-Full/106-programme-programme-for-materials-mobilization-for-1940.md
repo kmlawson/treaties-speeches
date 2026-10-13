@@ -75,3 +75,13 @@ As matters stand today, Japan is compelled to import considerable quantities of 
 As regards non-military requirements, the range of which is indeed very extensive, embracing as it does those materials indispensable to the manufacturing, mining, agricultural, forestry, stock-raising and marine products industries, as well as the necessities of life, every care is to be taken to determine their supply in the right degree so as not to defeat the primary purpose of the Materials Mobilization Plan which is to assure the maximum requirements for national defence.
 
 The supply of these non-military goods comprising mineral ores, crude oil, fertilizers, work-clothes, work-gloves, socks for outdoor work, agricultural, forestry and marine industrial implements and construction materials for workmen's houses must in no wise be impeded so as not to retard or reduce production in the industries named. Measures have therefore been adopted to greatly increase these supplies for 1940. The deficiency in potassium, resulting from the war in Europe, the main sources of Japan's supply, will be
+
+[[p. 111]]
+
+counteracted by an increase in the domestic output of sulphate of ammonium and phosphates. The shortage may also be remedied to some extent by the use of ashes of plants and trees and by importing nitrate of potassium.
+
+In respect of clothing, foodstuffs, sanitary articles and medical supplies—all necessities of life—the minimum requirements indicated by past experience will be secured in order to assure a simple but healthy life to the nation in keeping with wartime conditions. A comprehensive scheme for the adjustment of supply to demand has been devised and thoroughgoing measures are being taken to regulate their production, distribution and consumption, thereby maintaining stability of the nation's livelihood.
+
+Other consumption goods not considered urgent or wholly unnecessary will be subjected to restriction in a more drastic form than has hitherto obtained. Not only from the viewpoint of economy but in order to enhance the people's morale, luxuries of any kind must strictly be dispensed with. The Government has, therefore, decided to prohibit or restrict by laws or ordinances their manufacture and sale, as the case may be.
+
+In view of the kaleidoscopic changes to which the international situation is liable, it will be necessary to make every provision to meet the inevitable effect which these changes will have on the materials mobilization plan in so far as the importation of materials is concerned. Under the circumstances it has been decided to give the Plan a certain elasticity by subjecting it to a revision every quarter so that supply can be adjusted to demand as the need may arise.

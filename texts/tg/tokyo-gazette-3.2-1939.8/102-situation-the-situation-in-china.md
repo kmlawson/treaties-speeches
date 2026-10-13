@@ -323,3 +323,29 @@ The naval air force had cooperated fully with the land forces in their attack on
 ### Occupation of Chaochow
 
 The naval air force on June 23rd visited the common border of the three provinces of Fukien, Kiangsi and Kwangtung, and attacked important Chinese military bases at Pinghwo and Nanyung. Naval air units also flew
+
+[[p. 36]]
+
+over the Chasan highway and bombed 40 or more lorries near Fengshun. Ten motor-cars attempting to cross the bridge over the Han River were attacked and burned.
+
+Following the capture of Swatow, a Japanese detachment assisted by aerial squadrons launched a drive on Chaochow, northern terminus of the Swatow-Chaochow Railway. On the night of June 25th, it advanced on Chaochow, overland and by the waterway, reaching a point approximately four kilometres south of Chaochow by dawn.
+
+The military unit immediately launched a general attack against Chaochow, occupying the railway station early in the morning. Other Japanese units converged on the city by three routes from the western bank of the Han River south of Chaochow and reduced the town after hot fighting with the Chinese garrison troops.
+
+### Blockade of Wenchow and Foochow
+
+Closely following the capture of Swatow, the Japanese fleet started fresh operations on Foochow, capital of Fukien Province, and Wenchow, in Chekiang Province, both treaty ports, in a determined effort to complete the blockade of the South China coast. Before the fresh operations started, Mr. Yoshiaki Miura, Japanese Consul-General at Shanghai, communicated to the Danish Consul-General, doyen of the foreign consular body, on the morning of June 27th to the following effect :
+
+" The Japanese Navy is starting fresh military operations on Foochow and Wenchow, beginning June 27th. Third Power warships and merchant vessels in Wenchow hereby are requested to withdraw to points east of 121 degrees, 15 minutes East Longitude by noon, June 29th (Tokyo time), and those in the vicinity of Foochow hereby are requested to withdraw to points east of 119 degrees, 50 minutes East Longitude by the designated time. Entry into and clearance from those ports after noon, June 29th, will become impossible. The Japanese Navy will not assume responsibility for any consequence arising from the attempts to enter or clear from those ports after noon, June 29th."
+
+Simultaneously with this communication to the foreign consular body, the Japanese fleet started operations against Wenchow and Foochow on June 27th.
+
+A detachment of Japanese bluejackets which had been standing by landed on Hutow (Tiger's Head) Island, dominating Wenchow, and occupied it on June 27th. Another Japanese bluejacket unit occupied Yuhwan Island and Kanmen Port on the same morning. Meanwhile, other Japanese naval units constructed booms at the mouth of Wenchow Bay, after capturing numerous Chinese military craft.
+
+Part of the Japanese landing party occupied Chwanshih Island at the mouth of the Min River and started constructing booms, while Japanese warships heavily bombarded the Chinese military positions on both banks of the river.
+
+Naval air units devoted two days, June 27th and 28th, to spirited attacks against the Chinese military positions at the mouth of the river, with the result that an exodus of Chinese inhabitants started from there to the interior.
+
+[[p. 37]]
+
+With the steady progress of the fresh operations on Wenchow and Foochow, the Japanese blockade against the South China coast has been tightened further, so that the supply of war materials to the Chiang Kai-shek régime through South China seaports has been severed completely.
