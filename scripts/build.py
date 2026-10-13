@@ -280,7 +280,11 @@ letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden
 .doc-head h2{font-size:1.5rem;line-height:1.25;margin:.5rem 0 .6rem;overflow-wrap:anywhere}
 .meta{font-family:var(--ui);font-size:.84rem;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .9rem}
 .meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
-.note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
+.note{max-width:43.75rem;margin:2rem auto 0;font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);border:1.5px solid var(--input-border);border-radius:var(--r);background:var(--input-bg)}
+.note summary{cursor:pointer;padding:.45rem .9rem;font-weight:600;color:var(--accent);list-style-position:inside}
+.note summary:hover{background:var(--tag-bg)}.note[open] summary{border-bottom:1px solid var(--rule)}
+.note p{padding:.6rem .9rem;margin:0;overflow-wrap:anywhere}
+.note+.disclaimer{margin-top:.75rem}
 .disclaimer{max-width:43.75rem;margin:2rem auto 0;padding:.7rem .9rem;border:1.5px solid var(--input-border);border-left:4px solid var(--accent);border-radius:var(--r);font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);background:var(--tag-bg)}
 .series{margin:0 auto 1.2rem;max-width:43.75rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);display:flex;flex-wrap:wrap;gap:.35rem;align-items:center}
 .series strong{color:var(--fg)}.series .btn{min-height:1.75rem;padding:.15rem .55rem}.series .btn.on{background:var(--accent);color:var(--on-accent)}
@@ -503,8 +507,6 @@ sel.onchange=function(){if(this.value)document.getElementById(this.value).scroll
         meta = ''.join(f'<dt>{a}</dt><dd>{v if a == "Printed in" else esc(v)}</dd>' for a, v in rows if v)
         cite = f"“{d['title']},” {SOURCES[d['source']]} ({d['issue']}){': ' + d['pages'] if d['pages'] else ''}."
         h = [f'<div class="doc-head"><span class="tag {d["type"]}">{TYPES[d["type"]]}</span><h2>{esc(d["title"])}</h2><dl class="meta">{meta}</dl>']
-        if d['notes']:
-            h.append(f'<div class="note"><strong>Transcription note:</strong> {esc(d["notes"])}</div>')
         h.append(f'<div class="tools"><a href="{scan}" target="_blank">View the scan on the Internet Archive &rarr;</a>'
                  f'<button id="citeBtn" data-cite="{esc(cite)}">Copy citation</button><button id="textBtn">Copy text</button></div></div>')
         if d.get('sn'):
@@ -513,6 +515,8 @@ sel.onchange=function(){if(this.value)document.getElementById(this.value).scroll
                      + ' '.join(f'<a class="btn{" on" if x is d else ""}" href="{x["id"]}.html" title="{esc(x["title"])} ({esc(x["issue"])})">{x["sk"]}</a>' for x in parts)
                      + f' <a class="btn" href="../series/{d["sslug"]}.html">Read all parts together</a></nav>')
         h.append(f'<article class="doc" id="doc">{render_body(d)}</article>')
+        if d['notes']:
+            h.append(f'<details class="note"><summary>Transcription note</summary><p>{esc(d["notes"])}</p></details>')
         om = OPUS.get(d['file'])
         model = {'opus': 'Claude Opus 5.5', 'opus+sonnet': 'Claude Opus 5.5 and Claude Sonnet 5.5'}.get(om, 'Claude Sonnet 5.5')
         other = sorted(set(re.findall(r'\*\[Page (\d+) was transcribed with ([^,\]]+), not Claude\.\]\*', d['body'])), key=lambda x: int(x[0]))
@@ -547,9 +551,9 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
         for x in parts:
             h.append(f'<h3 class="parthead" id="part-{x["sk"]}">Part {x["sk"]}: <a href="../doc/{x["id"]}.html">{esc(x["title"])}</a>'
                      f'<small>{SOURCES[src]}, {esc(x["issue"])}{", pp. " + esc(x["pages"]) if x["pages"] else ""}</small></h3>')
-            if x['notes']:
-                h.append(f'<div class="note"><strong>Transcription note:</strong> {esc(x["notes"])}</div>')
             h.append(f'<article class="doc">{render_body(x)}</article>')
+            if x['notes']:
+                h.append(f'<details class="note"><summary>Transcription note (part {x["sk"]})</summary><p>{esc(x["notes"])}</p></details>')
         h.append('<aside class="disclaimer"><strong>Check the original.</strong> These texts were transcribed from the page scans by an AI model reading the '
                  'page images and have not been proofread by a person; the model used is named at the foot of each part\'s own page. '
                  'Before quoting or citing, compare with the original scans: the page numbers in the margin link to each page.</aside>')

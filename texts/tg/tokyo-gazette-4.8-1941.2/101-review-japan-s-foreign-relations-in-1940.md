@@ -9,7 +9,7 @@ pages: 303-309
 date: 
 author: Department of Foreign Affairs
 section: 
-notes: Scanned as two-page spreads; leaf = PDF page 3 minus 1. Printed pages 303-309 read (p. 303 carries no printed number; numbered from the index and following pages).
+notes: Scanned as two-page spreads; leaf = PDF page 3 minus 1. Printed pages 303-309 read; p. 308 footnote date "January 21, 1940" as printed (p. 303 carries no printed number; numbered from the index and following pages). No illegible words. Misprint "backgtound" retained.
 ---
 # Japan's Foreign Relations in 1940
 
@@ -76,3 +76,19 @@ The reopening of the Burma Road to traffic on October 18 must be remembered also
 ### Soviet Russia and Other Countries
 
 The place of the Soviet Union in our foreign relations has of late become increasingly important. Efforts were exerted, therefore, to readjust the relations between the two countries, following the
+
+[[p. 308]]
+
+conclusion of the Nomonhan Truce on September 15, 1939. The signing, on December 31, 1939, of the Protocol concerning the prolongation for one year of the duration of the Japanese-Soviet Fishery Convention[^1] of January 23, 1928, the meeting in conference, at Harbin, in January, 1940, the Commission on the precise demarkation of the frontier in the Nomonhan area, and the opening of negotiations for a trade agreement in the same month, were the fruits of such efforts. The readjustment of relations in general, however, have since made little progress, and the matter is being taken up again, at this writing, by our new Ambassador at Moscow, Lieutenant-General Yoshitsugu Tatekawa, who was appointed by the Konoe Cabinet after the turn of the tide of affairs following the conclusion of the Tripartite Pact.
+
+With regard to relations with France since her capitulation, most of our negotiations have been related to her colony in Indo-China, whose position might have a vital bearing upon the settlement of the China Affair and consequently upon the construction of the new order in East Asia. Thus a representation was made to the French Government, on June 19, regarding the prohibition of the transportation through French Indo-China of war materials and goods in aid of the Chiang Kai-shek régime, requesting at the same time that the French Government should consent to the dispatch of Japanese inspectors for the purpose of making investigations of actual conditions on the spot. To that request the French Government consented on the following day, and the Japanese Inspection Commission headed by Major General Issaku Nishihara arrived in Hanoi on June 29. Since then negotiations for the readjustment of relations with French Indo-China had been conducted first in Hanoi and then in Tokyo, with the result that a military agreement was reached on September 22. Thereupon Japanese forces advanced into the French colony. Furthermore, the Japanese Government dispatched Mr. Hajime Matsumiya, special envoy, to the colonial capital in October, with a view to promoting economic cooperation in connection with the Greater East Asian sphere of common prosperity, which resulted in the dispatch of a French delegation to Tokyo. At this writing negotiations are going on smoothly and in a most friendly atmosphere in Tokyo.
+
+Our review of the past year will not be complete without mentioning the conclusion, on June 12, of the Treaty between Japan
+
+[^1]: As this goes to press, it is reported that a *modus vivendi* concerning the fishery question had been signed on January 21, 1940, at Moscow and, at the same time, the appointment of a mixed commission concerning the new treaty which is to be concluded within the present year agreed upon.
+
+[[p. 309]]
+
+and Thailand concerning the continuance of friendly relations and mutual respect of each other's territorial integrity. The furtherance and solidifying of friendly relations with Italy, achieved through sending, in March a mission headed by Mr. Naotake Sato, former Foreign Minister, and the promotion of economic relations between Argentina, Mexico and Spain through the visit of missions from those countries in February, April and July, respectively, must also be noted as no less important diplomatic moves during the year.
+
+In thus looking back upon the major events in our foreign relations during the past year, what looms large as the most vital factor in determining our future action is the move of the United States, under President Roosevelt elected for the third term, in connection not only with Pacific affairs but also with the European War. To comment on this outlook, interesting as it would be, is beyond the scope of the present article. It may be permissible, however, to hope that the wisdom and intelligence of her leaders will prevail over popular excitement and sentimentality and in particular over forces that would ultimately lead to the destruction of human civilization.

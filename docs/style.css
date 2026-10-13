@@ -64,7 +64,11 @@ letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden
 .doc-head h2{font-size:1.5rem;line-height:1.25;margin:.5rem 0 .6rem;overflow-wrap:anywhere}
 .meta{font-family:var(--ui);font-size:.84rem;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .9rem}
 .meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
-.note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
+.note{max-width:43.75rem;margin:2rem auto 0;font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);border:1.5px solid var(--input-border);border-radius:var(--r);background:var(--input-bg)}
+.note summary{cursor:pointer;padding:.45rem .9rem;font-weight:600;color:var(--accent);list-style-position:inside}
+.note summary:hover{background:var(--tag-bg)}.note[open] summary{border-bottom:1px solid var(--rule)}
+.note p{padding:.6rem .9rem;margin:0;overflow-wrap:anywhere}
+.note+.disclaimer{margin-top:.75rem}
 .disclaimer{max-width:43.75rem;margin:2rem auto 0;padding:.7rem .9rem;border:1.5px solid var(--input-border);border-left:4px solid var(--accent);border-radius:var(--r);font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);background:var(--tag-bg)}
 .series{margin:0 auto 1.2rem;max-width:43.75rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);display:flex;flex-wrap:wrap;gap:.35rem;align-items:center}
 .series strong{color:var(--fg)}.series .btn{min-height:1.75rem;padding:.15rem .55rem}.series .btn.on{background:var(--accent);color:var(--on-accent)}
