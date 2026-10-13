@@ -209,3 +209,55 @@ Naval planes flew over Yinchanyao, Yuantan, Sheklung and Pokwan. The steel bridg
 
 *August 17th* A naval air unit led by Lieutenant Katsumi raided Changsha, capital of Hunan Province, and bombed the railway stations there, with the result that munition depots were destroyed. Another naval air unit attacked the Chinese military positions on both banks of the Yangtze river.
 
+[[p. 42]]
+
+The steel bridge south of Yinchanyao which was under repair was bombed and rendered useless for train service. Chuntien on the Canton-Hankow Railway was also visited and a military goods train was bombed. The railway track was destroyed at several points near there.
+
+*August 18th* A large naval air force led by Lieutenant-Commanders Sata and Mano visited Hengyang and Paoking in Hunan Province and attacked the airfields there. The Chinese military authorities have been trying to reconstruct their air force with Hengyang as its base, following the abandonment of Nanchang.
+
+The naval planes led by Lieutenant-Commander Sata, that attacked Hengyang, succeeded in shooting down 16 out of about 30 Chinese fighting planes of the E 15 and 16 and Dewoitine types after severe fighting. The Japanese airmen succeeded in burning 6 and bombing 6 other planes out of a total of some 20 Chinese heavy bombers of the S.B. type and medium-sized bombers on the ground, while three gasoline depots and one big godown were bombed and destroyed north of the airfield. Some of the Japanese crews were wounded, but all the Japanese planes returned to their base in safety.
+
+Another Japanese naval air unit led by Lieutenant-Commander Mano visited Paoking and effectively bombed the airfield there. Still another unit commanded by Lieutenant Inouye attacked the Chinese warships near Echeng on the Yangtze River and sank one 50-ton Chinese military launch. This unit encountered over a dozen Chinese heavy bombers of the S.B. type which had raided Kiukiang. In the ensuing air duel, the Japanese unit brought down 4 Chinese bombers, while 3 more Chinese planes disappeared in cloud banks, trailing black smoke. One Japanese plane was lost in the engagement. Thus the naval air force shot down 23 Chinese planes in air combats and destroyed another 12 on the ground.
+
+The naval air squadron which visited South China attacked Yinchanyao, Kongtsun, Chuntien, and Shektan. The steel bridge under repair near Yinchanyao was damaged again. Steel bridges and railway tracks near Kongtsun and Chuntien were bombed and destroyed, while the centre of the steel bridge near Shektan was blown up.
+
+*August 19th* Juichang, Teian, Singtze, Wusueh and Tienkiachen were visited by naval planes. Chinese military works and troop concentrations were bombed at Juichang; the railway station, munition depots and Chinese military positions were attacked at Teian on the Kiukiang-Nanchang Railway; Chinese troop concentrations northwest of Singtze were repeatedly attacked; the Chinese military positions at Wusueh and Tienkiachen on the Yangtze above Kiukiang were attacked throughout the day, while numerous Chinese junks engaged in military operations nearby were attacked and sunk.
+
+Yinchanyao, Hwangtsun, Chuntien and Shektan were raided in South China. The bridge south of Yinchanyao was struck again; the anti-aircraft batteries and machine-gun emplacements near the bridge were effectively bombed; and railway bridges and tracks near Hwangtsun and Chuntien were attacked.
+
+*August 20th* Yinchanyao and Pitsun in South China were raided. The Yinchanyao bridge and the anti-aircraft batteries and machine-gun emplace-
+
+[[p. 43]]
+
+ments nearby were effectively bombed. The steel bridge near Pitsun was blown up.
+
+*August 21st* Over 30 naval planes led by Lieutenant-Commander Tanamachi visited Wuchang and bombed the Chinese military barracks southwest of Wuchang. Another naval air squadron attacked the Chinese military positions on both banks of the Yangtze River above Kiukiang.
+
+*August 22nd* Chuchow in Hunan Province was raided, and godowns, goods trains and munition factories there were bombed, while the Chinese military positions on both banks of the Yangtze were attacked.
+
+The military works and railway tracks at Yinchanyao, Pitsun and Kowtang on the Canton-Hankow Railway were bombed.
+
+*August 23rd* Chuchow in Hunan Province was raided and the factory zone and railway compound there were bombed. About 100 loaded wagons were destroyed.
+
+Another naval air squadron visited the Canton-Hankow Railway and attacked the Changmutow and Kowtang stations. The steel bridge at Kongtsun was bombed and damaged.
+
+*August 24th* Lieutenant-Commander Mano, leading a naval air force, raided Ichang in Hupeh Province and effectively bombed the airfield there, without being challenged by a single Chinese plane. Hangars, godowns and official buildings were bombed and burnt.
+
+Another naval air squadron repeatedly attacked the Chinese positions and troop concentrations on the Juichang front. Yinchanyao, Yuantan and Sheklung were raided in South China.
+
+*August 25th* Changsha, capital of Hunan Province, and Nanchang, capital of Kiangsi Province, together with Kian were raided. A naval air squadron led by Lieutenant-Commander Yasunobu raided Changsha and bombed the North and East Railway Stations there.
+
+Another naval air unit, commanded by Lieutenant Nakagawa attacked Kian in Kiangsi Province and bombed the airfield there. Still another naval air unit led by Lieutenant Soyeda visited Nanchang and bombed military depots there. A naval air squadron which raided Wuchow bombed and burnt a bullet manufactury and a sulphuric acid works.
+
+Another air unit which flew over Yinchanyao bombed the railway bridge south of it and damaged its girders.
+
+*August 26th* Changsha was raided and the airfield and railway station there were bombed with the result that fires broke out at three different places.
+
+A separate air squadron visited the Juichang front and heavily bombed the Chinese positions, troop concentrations and line of communication.
+
+Still another naval air unit visited Canton and bombed Wongsha Station, the southern terminus of the Canton-Hankow Railway. The railway bridge near Hwangtsun and the railway station compound at Sinkai were also bombed.
+
+*August 27th* The Juichang front was again attacked and the Chinese positions were heavily bombed. The Chinese artillery positions and troop concentrations west and southwest of the Lushan mountain range were also bombed. The naval air unit flying to Nanyung attacked the airfield without being challenged by a single Chinese plane.
+
+*August 28th* The strongly-built Chinese artillery positions on the Jui-
+

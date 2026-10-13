@@ -10,7 +10,7 @@ date: 1937-09-05
 author: Prince Ayamaro Konoye, Prime Minister
 parties: 
 section: The 72nd Session of the Imperial Diet - Ministerial Addresses of September 5, 1937
-notes: INCOMPLETE: p. 36 not transcribed
+notes: INCOMPLETE: p. 36 not transcribed | pp. 36 transcribed with GPT (Codex CLI).
 ---
 [[p. 35]]
 
@@ -24,7 +24,15 @@ In point of fact, for one country to adopt as its national policy the antagonizi
 
 [[p. 36]]
 
-*[Page 36 was not transcribed. See the scan.]*
+the peace of the Orient and consequently for the peace of the entire world. The Japanese Government, therefore, has repeatedly requested the Chinese Government to reconsider and to change its attitude, but all in vain. This failure of the Chinese Government has finally caused the present affair. We firmly believe that it is in accordance with the right of self-defence as well as with the cause of righteousness and humanity that our country has determined to give a decisive blow to such a country, so that it may reflect upon the errors of its ways. For the peoples of East Asia, there can be no happiness without a just peace in this part of the world. The Chinese people themselves by no means form the objective of our actions, which objective is directed against the Chinese Government and its army who are carrying out such erroneous, anti-foreign policies. If, therefore, the Chinese Government truly and fully reexamines its attitude and in real sincerity makes endeavours for the establishment of peace and for the development of culture in the Orient in collaboration with our country, our Empire intends to press no further.
+
+At the present moment, however, the sole measure for the Japanese Empire to adopt is to .administer a thoroughgoing blow to the Chinese Army so that it may lose completely its will to fight. And if, at the same time, China fails to realize its mistakes and persists in its stubborn resistance, our Empire is fully prepared for protracted hostilities. Until we accomplish our great mission of establishing peace in the Orient, we must face many serious difficulties, and, in order to overcome them, we must proceed steadily with our task, adhering to the spirit of perseverance and fortitude in one united body.
+
+Now that our Imperial Army and Navy, with their loyal officers and men, are advancing with all dignity in the cause of righteousness, exalting their might far and wide, we are filled with grateful emotion. Simultaneously, we feel highly encouraged to witness the sincere support displayed throughout the length and breadth of the Empire. Let us, however, be on our guard against intoxication over victories already won, and maintain an unrelaxed vigil toward achieving our final purpose.
+
+The Government is hereby introducing to the Imperial Diet urgent budgetary and legislative measures. In these measures the Government seeks to adopt a financial and economic structure for coping with the present extraordinary situation. We are ready, however, to take all possible precautions to avoid unnecessary shock to financial circles. As for developments in the affair, foreign affairs and financial plans, they will be stated by the Ministers in charge.
+
+*[Page 36 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 37]]
 
