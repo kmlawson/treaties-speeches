@@ -10,7 +10,7 @@ date: 1941-06-24
 author: Wang Ching-wei, President of the Chinese Executive Yuan
 parties: 
 section: Concerning Japan-China Collaboration
-notes: Broadcast on June 24, 1941, in Tokyo. The scan is of two-page spreads; the text starts on the left half of PDF page 18.
+notes: INCOMPLETE: pp. 86, 87 not transcribed. Broadcast on June 24, 1941, in Tokyo. The scan is of two-page spreads; the text starts on the left half of PDF page 18.
 ---
 [[p. 82]]
 
@@ -37,10 +37,25 @@ when she thought of her limited spiritual and material resources. Moreover, the 
 The most important significance of the Konoe Statement, I believe, lies in the fact that Japan will give aid to China in providing such conditions as are necessary for her development into a modern State if China herself will participate with determination and sincerity in the construction of a new order in East Asia. The reason why Japan adopted this definite policy was that if Japan and China unite and proceed with the construction, it will result not only in the establishment of permanent peace between the two countries but also in the reconstruction of East Asia. Furthermore, it will not merely bring the two countries into a more intimate relationship but serve to correct the views held by China regarding Manchoukuo. Thus the three countries of Japan, China and Manchoukuo can go straight ahead unitedly with the task of constructing a new East Asian order. Under these circumstances differences in points of view will immediately disappear. Accordingly China has now come to take cognizance of two important facts: one is that the construction of a new East Asian order is identical with the Pan-Asianism advocated by Dr. Sun Yat-sen and the other that the construction of the new order and of the Republic of China should be completed at the same time. In other words, unless China gains real independence and freedom, she can not share with Japan the responsibility for the establishment of the new order; and if China seeks complete independence and freedom, she must expect success in the construction of the new order.
 
 The patriotism of the Chinese people born of and based upon nationalism and the idea of East Asia arising from Pan-Asianism should be fused into one. From now on, China must not go astray; she should love herself, love Japan and love East Asia. Spiritually, China must share joys and sorrows with Japan and materially she and Japan should unite in supplementing each other and sharing the joint responsibility for the construction of a new East Asian order following Japan's lead. This coincides with the principles underlying a movement for cooperation of East Asiatic peoples launched
- recently in China, the principles outlined in terms of political independence, military alliance, economic cooperation and cultural collaboration. By this I am referring to the movement for the East Asia Federation. In view of the fact that general peace has not as yet been established, I can not say that this view is representative of the whole of the Chinese people, but I can justly claim that this way of thinking prevails among its most enlightened classes. For these reasons the Sino-Japanese Basic Treaty was concluded last year. This year we must translate the Treaty into action.
 
 [[p. 85]]
+
+recently in China, the principles outlined in terms of political independence, military alliance, economic cooperation and cultural collaboration. By this I am referring to the movement for the East Asia Federation. In view of the fact that general peace has not as yet been established, I can not say that this view is representative of the whole of the Chinese people, but I can justly claim that this way of thinking prevails among its most enlightened classes. For these reasons the Sino-Japanese Basic Treaty was concluded last year. This year we must translate the Treaty into action.
 
 My friends, I have come to meet you, to shake hands with you, and to lay before you my heart, representing a great number of the most enlightened elements of the Chinese people who love China, love Japan and love East Asia. The most enlightened classes of the Chinese people are now resolved to shake hands with you, cooperate with you and to follow your lead, with firm determination and full courage, in order to construct the new order based upon moral principles by eradicating economic imperialism and Communism. Let us join hands and proceed with the task. In this connection, I cannot but think of general peace. The true value of general peace lies not only in the termination of the hostilities but in the concentration of our spiritual and material resources on the establishment of a new East Asian order. The sooner general peace is attained, the more sustained efforts will be directed by the two countries toward the creation of a new order in this part of the globe.
 
 There are in existence in our part of the world two evil influences called economic imperialism and Communism, which I have repeatedly referred to. The former of these evils has during the past one hundred years struck its roots deep in the minds of the people and a section of the people are still under its narcotic influence. Tempted by its sweetness, Chungking is continuing its meaningless war of resistance. Communism, on the other hand, has the idea only of class and not of the fatherland. Its leaders, however, employ subtle stratagems, such as replacing the slogan of class struggle by that of the people's united front. They have taken advantage of Chungking's war of resistance to consolidate their base of activity in the northwestern area of China and are busy day and night spreading their evil influence all over the country. These two principles, economic imperialism and Communism, are essentially incompatible with each other, but at present they have been united under the slogan of the war of
+
+[[p. 86]]
+
+*[Page 86 was not transcribed. See the scan.]*
+
+[[p. 87]]
+
+*[Page 87 was not transcribed. See the scan.]*
+
+[[p. 88]]
+
+your earnest wishes for Sino-Japanese friendship. All our people will unite with you, I am sure, for the performance of the high task to which the peoples of East Asia are called. My friends, no one knows what new developments may take place tomorrow in the international situation. Whatever happens, the attitude of our two countries to reconstruct East Asia in the friendly relationship of co-existence and co-prosperity will be forever unchangeable.
+
+In conclusion, let me wish you health and prosperity. *Banzai* for the Empire of Japan! *Banzai* for the Republic of China!

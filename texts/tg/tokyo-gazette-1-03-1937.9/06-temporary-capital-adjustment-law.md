@@ -1,0 +1,29 @@
+---
+title: Temporary Capital Adjustment Law
+type: law
+source: tg
+ia: tokyo-gazette-1-03-1937.9
+issue: September, 1937
+leaf: 45
+pages: 44-45
+date: 1937-09-10
+author: Bureau of Information, Prime Minister's Department
+parties: 
+section: Emergency Legislative Measures Incidental to the China Affair
+notes: Official summary, not the text of the law. (Law No. 86, 1937, Promulgated on September 10th)
+---
+[[p. 44]]
+
+The object of this Law is to regulate the employment of capital within the Empire so as to adjust supply and demand of materials and capital with especial regard to the China Affair (Article 1). With the progress of operations in China increased disbursements of Treasury funds will tend to stimulate industrial enterprises, which in turn will create a strong demand for materials. This growing demand can only be met, at present, by importation from abroad. If left uncontrolled, this situation might in the end bring about a shortage in the materials so much required for military purposes and for other industries directly related to the present exigency. It is of paramount importance, therefore, to check the use of any materials in unnecessary enterprises in order to keep their supply smooth and plentiful in the fields where they are more urgently required.
+
+So also in the matter of credits. While it is obvious that the supply of credits must be kept ample for the manufacture of articles most needed in the prosecution of the great task now lying before the nation, it is equally important that, in view of the large amounts of national bonds awaiting issuance, fresh investments should be properly controlled so that all available credits may be turned to lines closely related to the present situation. Under these circumstances, it has been prescribed that, where any financial institutions, including banks, and trust and insurance companies, desire to make a loan to be employed in fixed equipment, in excess of the stated amount, or where they desire to underwrite corporate debentures or other securities, they should apply for the approval of the competent authorities (Article 2). Approval of the authorities is required likewise for the establishment of an increase of the capital of certain companies prescribed in the orders issued under this Law (Articles 4 & 5). Where, however, financial institutions and security underwriters, in making loans or taking up securities, endeavour to adjust the employment of their funds of their own accord in a manner deemed proper under the purposes of the present Law, they are not required to apply for official approval for their acts (Article 3). As a matter of fact, the Government encourages such voluntary adjustment of capital investments for the furtherance of the object of this Law.
+
+It thus devolves upon the financial institutions to make concerted efforts to meet the growing demand for industrial funds. For this purpose, the Industrial Bank of Japan is authorized to issue its debentures up to 500 million yen in excess of the statutory limit, which is ten times its capital
+
+[[p. 45]]
+
+amount, or 500 million yen; of this excess issue of 500 million yen, the Government undertakes to guarantee the payment of principal and interest. Furthermore, it is provided that funds belonging to the Gold Funds Special Account may be employed in the Industrial Bank of Japan debentures (Articles 6 & 7). Companies engaged in a business directly related to the emergency may, with approval of the competent authorities, and notwithstanding the provisions of the Commercial Code, effect an increase of their capital stock even before the existing shares are fully paid in, or may issue their debentures not exceeding two times their paid-up capital (Articles 8, 9 & 10).
+
+The Law provides for the creation of a Temporary Capital Adjustment Committee, consisting of official as well as unofficial members, whose duty is to conduct investigation on the basic matters relating to the adjustment of investments with the view to formulating the fundamental principles of the operation of the present Law. There will be established another committee called a Temporary Capital Inquiry Committee which will pass upon the more important matters relating to approval for loans, and subscription or underwriting of securities by the financial institutions above mentioned; on matters relating to the establishment of companies prescribed by the orders; and on increase of capital or issuance of debentures by industrial companies notwithstanding the provisions of the Commercial Code (Articles 11 & 12). As the present situation may have brought, or may be bringing, sudden increases in income to members of certain sections and classes of the populace, the need is felt of encouraging the practice of thrift and saving among these classes of people. At the same time, small savings bonds with premiums will be issued through the Hypothec Bank of Japan up to the extent of 200 million yen, for the purpose of absorbing such petty savings (Articles 13 & 14). In order that the Government may be in a position to undertake effective control of capital investments, and otherwise to take proper measures with regard to financial matters generally, it is obviously necessary to collect adequate and reliable data on the problems at hand. The Government, accordingly, is empowered to require the parties concerned to present reports, or to institute examination of such parties on matters relating to requirements of funds, securities, international payments, and capital plans for business (Article 16).
+
+The present Law came into force on September 27th upon issuance of an Imperial Ordinance, with the exception of Article 11, on the creation of the Investment Adjustment Committee, which took effect on September 15th. Save for a few Articles, this Law shall be annulled within one year after the cessation of the China Affair (Addenda).

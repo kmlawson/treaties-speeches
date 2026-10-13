@@ -10,7 +10,7 @@ date: 1941-01-21
 author: Yosuke Matsuoka, Minister for Foreign Affairs
 parties: 
 section: The 76th Session of the Imperial Diet—Ministerial Addresses of January 21, 1941
-notes: INCOMPLETE: p. 370 not transcribed
+notes: INCOMPLETE: p. 370 not transcribed; p. 371 not transcribed; p. 373 not transcribed
 ---
 [[p. 367]]
 
@@ -35,3 +35,21 @@ Inasmuch as an early settlement of the China Affair is desirable for the establi
 [[p. 370]]
 
 *[Page 370 was not transcribed. See the scan.]*
+
+[[p. 371]]
+
+*[Page 371 was not transcribed. See the scan.]*
+
+[[p. 372]]
+
+American countries have of recent years become increasingly closer in their political, economic and cultural relations.
+
+While these diplomatic relations have taken such a favourable turn, the development of the European war has obliged us to suspend or temporarily withdraw some of our diplomatic establishments in that region. But Japan's diplomatic service abroad is being steadily strengthened on the principle of priority ; in particular we are reinforcing our diplomatic machinery in Greater East Asia.
+
+In establishing a sphere of common prosperity throughout Greater East Asia and ensuring the peace of the Orient, it is not desirable that the present diplomatic relations between Japan and the Soviet Union should be left as they are. The utmost efforts are being made, therefore, to remove mutual misunderstandings and, if possible, to bring about a fundamental and far-reaching adjustment of diplomatic relations. We are pursuing negotiations at this moment upon such questions as the frontier demarcation between Manchoukuo and Outer Mongolia, the fisheries, and the Japanese concessions in North Saghalien. Regarding the fisheries question in particular, an agreement of views has already been reached concerning the establishment of a mixed commission composed of Japanese and Soviet representatives for the purpose of revising the long-term treaty and also concerning the conclusion of a *modus vivendi* for the fishing industry for this year. On this point both Germany and Italy share Japan's desire. The provisions of Article 5 of the Three-Power Pact make it clear, in accordance with the aforementioned intentions of Japan, that the Pact is not directed against the Soviet Union. We earnestly hope that the Soviet Union will understand Japan's true intentions and that the two countries, actuated by the spirit of mutual concession and conciliation, will succeed in achieving the readjustment of their relations.
+
+Japan's foreign trade, with the exception of Manchoukuo and China, is conducted mostly with Great Britain, the United States and their respective colonies and possessions. Since notifying Japan of the abrogation of the Treaty of Commerce and Navigation in July, 1939, the United States has been enforcing, in succession, embargoes or restrictions on the exports to Japan of aircraft, arms and ammunition, aviation gasoline, machine tools, scrap iron, iron and steel manufactures, copper, nickel, and other important war materials, while the British Dominions and colonies are in various ways interfering with Japan's shipping. The Japanese Government have lodged protests against such actions on each occasion, and yet this tendency has recently been so greatly aggravated that Japan must meet the situation adequately prepared. No other course is left to
+
+[[p. 373]]
+
+*[Page 373 was not transcribed. See the scan.]*
