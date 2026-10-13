@@ -8,7 +8,9 @@ import html, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
-SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan'}
+SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan', 'jm': 'Japan-Manchoukuo Year Book 1934'}
+# items whose scan is one file of a multi-file Internet Archive item need the file name in the page link
+IA_PATH = {'japan-manchoukuo-year-book-1934': 'japan-manchoukuo-year-book-1934/Japan-Manchoukuo%20Year%20Book%201934%202'}
 TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'programme': 'Programme',
          'report': 'Report', 'profile': 'Profile', 'summary': 'Summary', 'list': 'List', 'review': 'Review',
          'statistics': 'Statistics'}
@@ -119,7 +121,7 @@ def inline(s):
 
 
 def ia_page(ia, leaf):
-    return f'https://archive.org/details/{ia}/page/n{leaf}/mode/1up'
+    return f'https://archive.org/details/{IA_PATH.get(ia, ia)}/page/n{leaf}/mode/1up'
 
 
 def render_body(doc):
@@ -372,6 +374,9 @@ English-language periodicals published in wartime Japan: the <em>Tokyo Gazette</
 of government reports issued under the supervision of the Cabinet Information Bureau, and <em>Contemporary Japan: A Review
 of Far Eastern Affairs</em> (issues of 1941&ndash;1945), published by the Foreign Affairs Association of Japan, whose
 &ldquo;Documentary Material&rdquo; section reprinted official texts.</p>
+<p>It also includes the &ldquo;Texts of Treaties, Agreements, Notes and Statutes of the Powers Concerning Manchuria&rdquo;
+(1895&ndash;1932) printed as Supplement III of the <em>Japan-Manchoukuo Year Book 1934</em>, and, from the two periodicals,
+selected government programmes, reports, statistical articles, chronologies and profiles of public figures.</p>
 <p>Only texts printed in full in the journals are included; commentary, summaries and articles about them are not.
 The issues covered are those indexed on the <a href="https://froginawell.net/tokyo-gazette/">Tokyo Gazette table of contents</a> and
 <a href="https://froginawell.net/frog/sources/primary-source-nuggets/contemporary-japan/">Contemporary Japan</a> pages at Frog in a Well,
@@ -415,7 +420,7 @@ def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
 {body}
 </div>
 <div class="sitelinks bottom" role="navigation" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
-<footer><div class="container">Texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945 &middot;
+<footer><div class="container">Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and the <em>Japan-Manchoukuo Year Book</em> &middot;
 <a href="https://froginawell.net/">Frog in a Well</a></div></footer>
 <div class="modal" id="aboutModal"><div class="modal-inner"><button class="btn" id="aboutClose" aria-label="Close">&times;</button>{ABOUT}</div></div>
 <button class="btn back-to-top" id="backToTop" title="Back to top">&uarr;</button>
@@ -477,10 +482,11 @@ def build():
     open(f'{SITE}/style.css', 'w').write(CSS)
     open(f'{SITE}/common.js', 'w').write(COMMON_JS)
     counts = {t: sum(1 for d in docs if d['type'] == t) for t in TYPES}
-    sub = f'Verbatim texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945'
+    sub = ('Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and the <em>Japan-Manchoukuo Year Book</em>'
+           if any(d['source'] == 'jm' for d in docs) else 'Verbatim texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945')
 
     # ---- browse
-    b = [f'<p class="intro">{len(docs)} texts printed in full in two English-language periodicals of wartime Japan: '
+    b = [f'<p class="intro">{len(docs)} texts printed in English-language periodicals and year books of 1930s&ndash;40s Japan: '
          + ', '.join(f'{counts[t]} {TYPES_PL[t].lower()}' for t in TYPES if counts[t]) + '. Each links to the page of the original scan.</p>']
     b.append('<div class="controls"><div class="chips" id="typeChips">'
              + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span></div>'
@@ -507,7 +513,7 @@ def build():
             cur_issue = key
             iid = f"{d['source']}-{d['ipos']}"
             b.append(f'<section class="iss" id="{iid}" data-label="{esc(SOURCES[cur_src])} &mdash; {esc(d["issue"])}">'
-                     f'<h3 class="issue-heading">{esc(d["issue"])}<a class="issue-num" href="https://archive.org/details/{d["ia"]}" target="_blank">scan &rarr;</a></h3><ul class="entry-list">')
+                     f'<h3 class="issue-heading">{esc(d["issue"])}<a class="issue-num" href="https://archive.org/details/{IA_PATH.get(d["ia"], d["ia"])}" target="_blank">scan &rarr;</a></h3><ul class="entry-list">')
         b.append(entry(d))
     if docs:
         b.append('</ul></section></section>')
@@ -550,10 +556,10 @@ ys.onchange=sel.onchange;apply()})();</script>"""
     for k, d in enumerate(docs):
         rows = [('Type', TYPES[d['type']]), ('Date', fmt_date(d['date'])),
                 ('Speaker / issued by' if d['type'] in ('speech', 'document') else 'Author', d['author']),
-                ('Parties', d['parties'].replace(';', ' · ')), ('Printed in', f"<em>{SOURCES[d['source']]}</em>, {esc(d['issue'])}"
+                ('Parties', d['parties'].replace(';', ' · ')), ('Printed in', (f"<em>{SOURCES[d['source']]}</em>" if d['source'] == 'jm' else f"<em>{SOURCES[d['source']]}</em>, {esc(d['issue'])}")
                  + (f", pp.&nbsp;{esc(d['pages'])}" if re.search(r'\D', d['pages']) else (f", p.&nbsp;{esc(d['pages'])}" if d['pages'] else ''))),
                 ('Subject', d['subject']), ('Section', d['section']), ('Part', f"{d['sk']} of {d['sn']} of {d['series']}" if d.get('sn') else '')]
-        scan = ia_page(d['ia'], d['leaf']) if d['leaf'] is not None else f"https://archive.org/details/{d['ia']}"
+        scan = ia_page(d['ia'], d['leaf']) if d['leaf'] is not None else f"https://archive.org/details/{IA_PATH.get(d['ia'], d['ia'])}"
         meta = ''.join(f'<dt>{a}</dt><dd>{v if a == "Printed in" else esc(v)}</dd>' for a, v in rows if v)
         cite = f"“{d['title']},” {SOURCES[d['source']]} ({d['issue']}){': ' + d['pages'] if d['pages'] else ''}."
         h = [f'<div class="doc-head"><span class="tag {d["type"]}">{TYPES[d["type"]]}</span><h2>{esc(d["title"])}</h2><dl class="meta">{meta}</dl>']
