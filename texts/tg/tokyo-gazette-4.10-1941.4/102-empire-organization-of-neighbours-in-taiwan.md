@@ -9,7 +9,7 @@ pages: 406-411
 date: 
 author: Bureau of Information, Government-General of Taiwan
 section: 
-notes: PAGESREAD
+notes: Printed pages 406-411 read (two-page spreads). Italicised romanised terms as printed. Printed misprints marked [sic] (anb, sevice, safty). No illegible words.
 ---
 # ORGANIZATION OF NEIGHBOURS IN TAIWAN[^1]
 
@@ -24,9 +24,6 @@ WITH regard to the organization of the neighbourly life of the people as an impo
 This system of the Taiwanese neighbourly organization may be traced back to an early Chinese institution of *Pi-Lu* which existed in the *Chou* Dynasty (1121-249 B.C.) of that country. *Pi* is a group of five families and one *Lu* comprises five *Pi* while four *Lu* form one *Tsu*, five *Tsu* one *Tang* and five *Tang* one *Chou*. These units were governed respectively by chiefs called *Pi-chang*, *Lu-shu*, *Tsu-shih*, *Tang-cheng* and *Chou-chang*. These chiefs kept themselves in close contact with one another in administering to the needs of people and in preserving peace within their respective jurisdictions. Surviving through the rise and fall of dynasties, such as Chin, Han, Wei, Ch'in, the Southern and the Northern, the system was replaced by that of *Pao-Chia* during the Sui (589-618 A.D.) and Tang (618-907) Dynasties. According to the *Pao-Chia* system, ten families form one *Pai*, ten *Pai* one *Chia* and ten *Chia* one *Pao*. They were headed respectively by persons known as *Pai-chang*, *Chia-chang* and *Pao-cheng*, who took charge of police affairs, tax-collection and census registration.
 
 The primary function of the *Pao-Chia* system was to preserve local peace, for which minute regulations were laid down to be
-
-[^1]: Formosa.
-[^2]: See an article entitled "Community and District Councils" in the January, 1941, issue of Tokyo Gazette.
 
 [[p. 407]]
 
@@ -69,3 +66,28 @@ Thus, it will be seen that the *Ho-Kō* groups are bodies solidly organized on t
 The conference is designed not only to discuss affairs pertaining to the groups and make known to the members all laws, ordinances and Government orders, but also to receive solicitations and appeals from them. Indeed, it is a machinery whereby the will and ideas of those who govern may be made known to those who are governed for the guidance of the latter; and the will and ideas of those who are governed will be communicated to those who govern. Thus, the outstanding feature of *Ho-Kō* lies in functioning as intermediaries between the local administrative agencies and the people living within the areas concerned.
 
 2. *Duties of the Head of House:* Inhabitants within the *Ho-Kō* are in duty bound to preserve peace and order within the communities to which they belong. In particular, the head of a family is called
+
+[[p. 410]]
+
+upon to guide the members of his house not to commit any misdeeds conducive to the embarassment of the entire community. Besides, he is required to furnish information regarding criminals, suspicious characters or persons suspected of infectious diseases; to give notice concerning changes in census registration, or people in transit or in sojourn; and also to collect fines and expenses for *Ho-Kō*.
+
+### Functions of Chiefs of *Ho* and *Kō*
+
+These officers being respectively the executive heads of *Ho* and *Kō*, they will be held responsible for the success or failure of the groups.
+
+Functions of the Chief of *Ho* include: (1) superintendence over the chiefs of *Kō*; (2) guidance of the inhabitants; (3) efforts in aid of police officers in searching or arresting. (4) punishment of any person guilty of breaches of the covenant of *Ho-Kō*; (5) awarding of prizes or giving aid in conformity with the provisions of the covenant; (6) collection of fines; (7) handling of various expenses and tax matters; (8) submission of reports to the police officer with respect to matters to be reported from the inhabitants affecting census registration; (9) report to a police officer concerning criminals, suspicious characters or persons suspected of infectious diseases.
+
+Among the functions of the chief of *Kō* are: in addition to the functions mentioned above in (3), (8), and (9), as of the chiefs of *Ho*, the chief of *Kō* is required to assist the former in the performance of his official duties; to conduct the investigation of census registration within the *Kō* area and supervision of persons arriving and leaving the same area; and to safeguard inhabitants therein.
+
+*Awarding of Prizes and Administering of Relief:* Prizes of value not exceeding 100 yen will be given on the approval thereof by the *Ho-Kō* conference to any inhabitant of *Ho* or member of the youth corps who has rendered meritorious sevice [sic] in safeguarding human life or property, arrested a felon, or become aware of and immediately reported a case prejudicial to public safty [sic], thereby causing it to be nipped in the bud; and to the chief of *Ho* or of *Kō* or a member of the youth corps, who is upright in his conduct, has faithfully performed his duties, winning an honour to be looked upon by others as their paragon.
+
+Relief may also be accorded, on approval by the *Ho-Kō* conference, to any of the said persons or an inhabitant of *Ho-Kō*, who meets death or suffers illness or wounds in the performance of his duties,
+
+[[p. 411]]
+
+such aid being granted in the form of religious service expenses, relief fund or medical expenses.
+
+*Supervision over Ho-Kō:* There are two kinds of supervision over *Ho-Kō* organizations. The primary supervision is conducted by the chief of the county office, superintendent of police, and the prefectural branch office, under whose direction local police officers are to exercise their control and guidance of the institution. The secondary supervision is performed by the local governor, who will take charge of such matters as the organization of the *Ho-Kō* system, the sanction of the covenants of *Ho-Kō*, and the official reprimanding of the officers of *Ho-Kō* or the approval of the election of the chiefs of the groups.
+
+[^1]: Formosa.
+[^2]: See an article entitled "Community and District Councils" in the January, 1941, issue of Tokyo Gazette.

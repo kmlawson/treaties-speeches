@@ -216,11 +216,11 @@ def plain(body):
 
 CSS = r""":root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#5f5f5f;--fg-faint:#8a8a8a;--accent:#003a87;--on-accent:#fff;
 --header-bg:#f5f5f5;--card-bg:#fff;--card-border:#dcdcdc;--input-border:#bbb;--input-bg:#fff;--dotted:#ddd;--rule:#e6e6e6;
---tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--summary:#7a5c00;--list:#5f5f5f;--programme:#0f6b6b;--report:#8a1f4d;--review:#3f5d1a;--statistics:#35507a;--profile:#8a5a12;
+--tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#14532d;--law:#3f7d1f;--speech:#003a87;--document:#8a1f4d;--programme:#b0477a;--report:#5e1233;--profile:#5b4a7a;--summary:#4d4d4d;--list:#6e6e6e;--review:#5a6470;--statistics:#878787;
 --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:Georgia,"Times New Roman",serif;--r:3px}
 [data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#808080;--accent:#6da3e0;--on-accent:#111;
 --header-bg:#242424;--card-bg:#242424;--card-border:#444;--input-border:#555;--input-bg:#2a2a2a;--dotted:#444;--rule:#333;
---tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--summary:#d9b95a;--list:#aaa;--programme:#6fc7c7;--report:#e58fb3;--review:#a9c77a;--statistics:#9ab5e0;--profile:#e0b877}
+--tag-bg:#333;--mark:#6b5a00;--speech:#1f57a8}
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
@@ -241,6 +241,8 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .chip{user-select:none;border-color:var(--input-border);color:var(--fg-muted);font-weight:500}
 .chip:hover{border-color:var(--accent);color:var(--accent)}.chip.on:hover{color:var(--on-accent)}
 .chip.on{border-color:var(--accent)}
+#typeChips .chip.on,#typeChips .chip.on:hover{color:#fff}
+.chiphint{font-family:var(--ui);font-size:.72rem;color:var(--fg-faint);flex-basis:100%;margin-top:-.15rem}
 .chip.on[data-v=treaty]{background:var(--treaty);border-color:var(--treaty)}.chip.on[data-v=law]{background:var(--law);border-color:var(--law)}
 .chip.on[data-v=speech]{background:var(--speech);border-color:var(--speech)}.chip.on[data-v=document]{background:var(--document);border-color:var(--document)}
 .chip.on[data-v=list]{background:var(--list);border-color:var(--list)}
@@ -271,9 +273,9 @@ background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opac
 .entry-text{min-width:0;overflow-wrap:anywhere}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
 .entry-page{font-family:var(--ui);font-size:.8125rem;white-space:nowrap;color:var(--fg-faint)}
 /* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
-.tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.12rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
-letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden;border-radius:var(--r);border:1.5px solid currentColor;vertical-align:middle}
-.tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}.tag.summary{color:var(--summary)}.tag.programme{color:var(--programme)}.tag.report{color:var(--report)}.tag.review{color:var(--review)}.tag.statistics{color:var(--statistics)}.tag.profile{color:var(--profile)}
+.tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.16rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
+letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden;border-radius:var(--r);border:none;color:#fff;background:var(--list);vertical-align:middle}
+.tag.treaty{background:var(--treaty)}.tag.law{background:var(--law)}.tag.speech{background:var(--speech)}.tag.document{background:var(--document)}.tag.summary{background:var(--summary)}.tag.list{background:var(--list)}.tag.programme{background:var(--programme)}.tag.report{background:var(--report)}.tag.review{background:var(--review)}.tag.statistics{background:var(--statistics)}.tag.profile{background:var(--profile)}
 .hidden{display:none!important}
 /* document page */
 .doc-head{margin:1.6rem 0 1.1rem;padding-bottom:.9rem;border-bottom:1px solid var(--rule)}
@@ -437,7 +439,7 @@ def build():
     b = [f'<p class="intro">{len(docs)} texts printed in full in two English-language periodicals of wartime Japan: '
          + ', '.join(f'{counts[t]} {TYPES_PL[t].lower()}' for t in TYPES if counts[t]) + '. Each links to the page of the original scan.</p>']
     b.append('<div class="controls"><div class="chips" id="typeChips">'
-             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '</div>'
+             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span></div>'
              '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{s}">{n}</span>' for s, n in SOURCES.items()) + '</div>'
              '<div class="chips" id="viewChips"><span class="chip on" data-v="issue">By issue</span><span class="chip" data-v="date">By date</span></div>'
              '<select id="jumpSelect"><option value="">&mdash; Jump to an issue &mdash;</option></select>'
@@ -478,11 +480,12 @@ def build():
         b.append('</ul></section>')
     b.append('</div>')
     js = r"""<script>(function(){
-var on={type:{},src:{}};function chips(id,k,multi){var c=document.getElementById(id);[].forEach.call(c.children,function(x){if(multi)on[k][x.dataset.v]=true;
-x.onclick=function(){if(multi){var all=[].every.call(c.children,function(y){return y.classList.contains('on')});
-if(all){[].forEach.call(c.children,function(y){y.classList.remove('on');on[k][y.dataset.v]=false})}
-x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
-if(![].some.call(c.children,function(y){return y.classList.contains('on')})){[].forEach.call(c.children,function(y){y.classList.add('on');on[k][y.dataset.v]=true})}}
+var on={type:{},src:{}};function chips(id,k,multi){var c=document.getElementById(id);[].forEach.call(c.children,function(x){if(multi&&x.dataset.v)on[k][x.dataset.v]=true;
+x.onclick=function(ev){if(multi){var kids=[].filter.call(c.children,function(y){return y.dataset.v});
+if(x.dataset.all){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}
+else if(ev.altKey){kids.forEach(function(y){y.classList.toggle('on',y==x);on[k][y.dataset.v]=y==x})}
+else{x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
+if(!kids.some(function(y){return y.classList.contains('on')})){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}}}
 else{[].forEach.call(c.children,function(y){y.classList.toggle('on',y==x)});
 document.getElementById('byIssue').classList.toggle('hidden',x.dataset.v!='issue');document.getElementById('byDate').classList.toggle('hidden',x.dataset.v!='date');
 document.getElementById('jumpSelect').classList.toggle('hidden',x.dataset.v!='issue')}
@@ -564,17 +567,18 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
              'w': who(d), 'p': d['pages'], 'x': plain(d['body'])} for d in docs]
     open(f'{SITE}/data.js', 'w').write('window.DOCS=' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';')
     s = ['<div class="controls"><input type="search" id="q" placeholder="Search the full text of all documents&hellip;" autofocus>'
-         '<div class="chips" id="typeChips">' + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES) + '</div>'
+         '<div class="chips" id="typeChips">' + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span></div>'
          '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{x}">{n}</span>' for x, n in SOURCES.items()) + '</div>'
          '<select id="scope"><option value="all">Full text</option><option value="title">Titles only</option></select>'
          '<span class="count" id="count"></span></div>'
          '<p class="hint" id="hint">All words must appear. Put a phrase in &ldquo;double quotes&rdquo; to match it exactly. Results are ordered by date.</p><div id="results"></div>']
     js = r"""<script src="data.js"></script><script>(function(){
 var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',summary:'Summary',list:'List',programme:'Programme',report:'Report',review:'Review',statistics:'Statistics',profile:'Profile'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
-var on={type:{},src:{}};function chips(id,k){var c=document.getElementById(id);[].forEach.call(c.children,function(x){on[k][x.dataset.v]=true;x.onclick=function(){
-var all=[].every.call(c.children,function(y){return y.classList.contains('on')});if(all){[].forEach.call(c.children,function(y){y.classList.remove('on');on[k][y.dataset.v]=false})}
-x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
-if(![].some.call(c.children,function(y){return y.classList.contains('on')})){[].forEach.call(c.children,function(y){y.classList.add('on');on[k][y.dataset.v]=true})}run()}})}
+var on={type:{},src:{}};function chips(id,k){var c=document.getElementById(id);[].forEach.call(c.children,function(x){if(x.dataset.v)on[k][x.dataset.v]=true;x.onclick=function(ev){var kids=[].filter.call(c.children,function(y){return y.dataset.v});
+if(x.dataset.all){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}
+else if(ev.altKey){kids.forEach(function(y){y.classList.toggle('on',y==x);on[k][y.dataset.v]=y==x})}
+else{x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
+if(!kids.some(function(y){return y.classList.contains('on')})){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}}run()}})}
 function e(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;')}function rx(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
 var D=window.DOCS;D.forEach(function(d){d.lx=d.x.toLowerCase();d.lt=(d.t+' '+d.w).toLowerCase()});D.sort(function(a,b){return a.o<b.o?-1:a.o>b.o?1:0});
 var q=document.getElementById('q'),R=document.getElementById('results'),C=document.getElementById('count'),sc=document.getElementById('scope'),tm;
