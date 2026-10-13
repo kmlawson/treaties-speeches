@@ -11,7 +11,7 @@ pages: 32-46
 date: 
 author: Press Section, War Department (I); Publicity Bureau, Navy Department (II)
 section: The Situation in China
-notes: PDF pages 34-48. 
+notes: Printed pages read 32-46 (PDF 34-48); no illegible words. Pages 32 and 39 (first pages of parts I and II) carry no printed number; numbered from the sequence. The map plate on PDF 38 is unnumbered (placed as p. 36); its caption is cut off at the right edge of the scan after "up to September". Printed misprint "veening" (p. 34) kept.
 ---
 [[p. 32]]
 
@@ -261,3 +261,74 @@ Still another naval air unit visited Canton and bombed Wongsha Station, the sout
 
 *August 28th* The strongly-built Chinese artillery positions on the Jui-
 
+[[p. 44]]
+
+chang front and troop concentrations west of Juichang were effectively bombed.
+
+*August 29th* A large naval air force led by Lieutenant-Commander Tanamachi made a surprise attack on Kingshan in Hupeh Province which formed an important outpost of Hankow. Not a single Chinese plane challenged the Japanese raiders, nor did a single Chinese anti-aircraft battery open fire on them. The Japanese effectively bombed various military works, munition depots and military headquarters. They returned to their base safely, after circling over Kingshan several times to ascertain the effects of their bombing.
+
+Another naval air unit flew to Juichang repeatedly bombed the Chinese artillery positions and troop concentrations on the western shore of Chihu (Red Lake). Several junks containing Chinese troops on the lake were bombed and sunk.
+
+Shiuchow (Kukong) on the Canton-Hankow Railway was raided and the railway station and airfield were effectively bombed. Chinese planes did not challenge the Japanese raiders, who returned to their base safely, though they were fired on heavily by Chinese anti-aircraft batteries.
+
+*August 30th* A naval air squadron commanded by Lieutenant-Commander Yasunobu flew to Changsha. The Japanese planes were challenged by three Chinese fighter planes of the E 15 type, which, however, were soon driven away. The Japanese bombed hangars and godowns at the airfield.
+
+Naval air units commanded by Lieutenants Katsumi and Nonaka in cooperation with the Japanese ground forces attacked the Chinese military positions and troop concentrations west of the Lushan mountain range throughout the day.
+
+A separate squadron visited Chihu and repeatedly bombed the Chinese artillery positions west of the lake in cooperation with the Japanese ground force and the naval force on the Yangtze.
+
+Nanyung, Chenhsien and Shiuchow (Kukong) were raided in South China. A naval air unit which visited Nanyung, the border-town between Hunan and Kwangtung Provinces, sighted four Chinese planes over the city, but the latter escaped. Then the Japanese planes proceeded to Chenhsien on the Canton-Hankow Railway and attacked the airfield, destroying three Chinese planes on the ground. Various military works in the town were also effectively bombed.
+
+Another naval air unit attacked Shiuchow (Kukong) on the same railway and bombed and burnt hangars in the airfield there. Another naval air unit also raided Nanyung. This unit was challenged by 17 Dewoitine fighting planes, all of which it succeeded in shooting down after fierce fighting. Two Japanese planes were lost in the engagement.
+
+*August 31st* Naval air units attacked the Chinese artillery positions and troop concentrations on both banks of the Yangtze River. Chinese positions west of Chihu as well as those at the western base of the Lushan mountain range were bombed and machine-gunned.
+
+Naval air units commanded by Lieutenants Mori, Nakamura and Igarashi and Sub-Lieutenant Oka showered bombs at the Chinese positions north of the Yangtze River. A large naval air force commanded by Lieutenant-
+
+[[p. 45]]
+
+Commander Mano visited Chuchow in Hunan Province and bombed the North and East Railway Stations. Scores of junks near the North Station were bombed and sunk. All were loaded with munitions. Fires broke out at no less than 33 godowns in the East Station Compound. Not a single Chinese plane challenged the Japanese raiders.
+
+Fungshun and Yinchanyao were visited in South China. Japanese planes, after bombing military works at Canton, raided Yinchanyao and bombed the steel bridge south of it which had been almost completely repaired. Strong machine-gun emplacements were found nearby. The naval air unit which raided Fungshun in eastern Kwangtung Province effectively bombed the local military works and barracks.
+
+*September 1st* Several naval air squadrons continuously bombed and machine-gunned the Chinese military positions and troop concentrations on both banks of the Yangtze River. Other air units which visited the Canton-Hankow and Canton-Kowloon Railways bombed and destroyed the steel bridge at Pitsun and inflicted heavy damage on those at Paishih, Shektan and Yuantan.
+
+*September 2nd* Sustained attacks were made on the Chinese military positions on both banks of the Yangtze River.
+
+Pitsun and Wuchow were visited in South China. The steel bridge was blown up at Pitsun, while the bullet manufactory, sulphuric acid factories and godowns were bombed at Wuchow.
+
+*September 3rd* In cooperation with the Japanese ground forces, several naval air squadrons effectively bombed and machine-gunned Chinese troops fleeing southward from the western foothills of the Lushan mountain range.
+
+The naval air units visiting South China disrupted the southern section of the Canton-Hankow Railway at four points.
+
+*September 4th* In close collaboration with the ground forces, several naval air squadrons attacked the Chinese artillery positions and troop concentrations south of Kiukiang and northwest of Juichang.
+
+Naval air units led by Lieutenants Mori and Nakamura visited Yunghsien and showered bombs on the Chinese positions and troop concentrations nearby. Mahweiling was also attacked and the Chinese troops which already showed signs of wavering were bombed and machine-gunned.
+
+Another naval air squadron visited Kwangtsi north of the Yangtze River and effectively bombed the Chinese artillery positions, troop concentrations and military motor-lorries at points east of Kwangtsi.
+
+Naval planes which visited South China bombed and destroyed a military goods train near the steel bridge south of it. The railway bridge and track near Yuantan were bombed and destroyed.
+
+*September 5th* Yochow, Sinyang, Nanchang, Kwangtsi, Mahweiling, Teian, Yunghsin and Yuichang in Central China were visited. Engine-sheds, godowns and other buildings in the station compounds were bombed at Yochow, while the ammunition dump, godowns and power-stations were bombed at Sinyang.
+
+Godowns and munition dumps at the railway station at Nanchang were bombed; Chinese artillery positions and troop concentrations were attacked in the Kwangtsi district; Chinese troop concentrations in the woodlands near Mahweiling were attacked; artillery positions were bombed at
+
+[[p. 46]]
+
+Teian; Chinese military positions and caravans of military motor-lorries were attacked along the highway between Teian and Yunghsiu; and the Chinese field artillery positions and troop concentrations northwest of Juichang were effectively bombed and machine-gunned in cooperation with the ground forces.
+
+Pakonghow and Yuantan on the Canton-Hankow Railway were raided and the railway bridges and tracks near there were bombed. One Japanese plane was lost during the operations.
+
+While the naval air squadrons were engaged in bombing Yuantan, a plane, appearing to be an enemy heavy bomber was sighted flying northward over Yuantan. The Japanese aeroplanes immediately gave chase to this suspicious plane, but stopped their attacks when the plane was ascertained to be one of the Eurasia Aviation Corporation. Such flights not only hinder the Japanese military operations, but are very dangerous when made through the zone of operations of the Japanese air forces.
+
+#### The Japanese Naval Force on the Yangtze
+
+A Japanese landing party entered Singtze on the western shore of Poyang Lake at 6 o'clock on the morning of August 21st through the south gate. They occupied the walled town completely within an hour in cooperation with the military force which entered by the east gate.
+
+Japanese warships penetrated into Poyang Lake and appeared in front of Singtze, after sweeping mines. The warships covered the marine and military forces in the latter's attack on Singtze.
+
+*August 22nd* The Chinese heavy artillery positions were silenced by the Japanese warships, while the Chinese artillery near Singtze was also silenced.
+
+*August 30th* The naval force advanced up the Yangtze under a scorching sun, by silencing the Chinese positions on both banks of the river in cooperation with the army and the naval air force.
+
+*September 4th* The naval force in cooperation with the military force made a steady drive up the Yangtze River.
