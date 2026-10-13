@@ -14,6 +14,11 @@ header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding
 header h1{font-size:1.6rem;margin-bottom:.25rem;letter-spacing:.03em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
 header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
+/* strip of links to sister resources: small, tinted, borderless, distinct from the page's own controls */
+.sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem .35rem;padding:.4rem .75rem;background:var(--bg);border-bottom:1px solid var(--rule)}
+.sitelinks a{font-family:var(--ui);font-size:.69rem;font-weight:500;line-height:1.2;padding:.22rem .6rem;border-radius:1rem;white-space:nowrap;
+color:var(--accent);background:color-mix(in srgb,var(--accent) 11%,transparent);text-decoration:none}
+.sitelinks a:hover{background:var(--accent);color:var(--on-accent);text-decoration:none}
 /* one control style for every button, toggle, select and input */
 .btn,nav a,.chip,.controls select,.controls input[type=search],.tools a,.tools button,.display-toolbar button{
 font-family:var(--ui);font-size:.8125rem;font-weight:600;line-height:1.2;min-height:2rem;padding:.35rem .8rem;
@@ -108,5 +113,5 @@ mark{background:var(--mark);color:inherit;padding:0 1px}
 @media (max-width:600px){header h1{font-size:1.25rem}.container{padding:0 .9rem}.doc{font-size:1.03rem}
 .entry-item{grid-template-columns:5.25rem minmax(0,1fr)}.entry-page{grid-column:2}
 .result .rmeta,.result .snip{margin-left:0}.count{margin-left:0}
-.display-toolbar{position:static;justify-content:center;margin-top:.7rem}.back-to-top{bottom:.9rem;right:.9rem}}
-@media print{header nav,.display-toolbar,.back-to-top,.pn,.tools,.controls{display:none}.doc{font-size:12pt}}
+.display-toolbar{position:static;justify-content:center;margin-top:.7rem}.sitelinks{padding:.4rem .6rem}.back-to-top{bottom:.9rem;right:.9rem}}
+@media print{.sitelinks,header nav,.display-toolbar,.back-to-top,.pn,.tools,.controls{display:none}.doc{font-size:12pt}}

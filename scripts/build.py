@@ -95,6 +95,7 @@ def load():
                     meta['ipos'] = min(cands) if cands else 999
                     if len(cands) != 1:
                         problems.append(f"{meta['file']}: issue '{meta['issue']}' not in index")
+                meta['notes'] = clean_notes(meta['notes'])
                 meta['sortdate'] = meta['date'] or issue_sortdate(meta['issue'])
                 docs.append(meta)
     docs.sort(key=lambda d: (list(SOURCES).index(d['source']), d['ipos'], d['leaf'] if d['leaf'] is not None else 9999, d['file']))
@@ -216,6 +217,14 @@ def render_body(doc):
     return '\n'.join(out)
 
 
+def clean_notes(n):
+    """Drop the workers' running remarks about pages they could not emit: the foot-of-page notice reports the
+    actual state (pages still missing, pages filled by another model) from the text itself."""
+    parts = [x.strip() for x in re.split(r'\s\|\s|(?<=[.;])\s+(?=[A-Z(])', n) if x.strip()]
+    keep = [x for x in parts if not re.search(r'INCOMPLETE|not transcribed|BLOCKED|cut off|SKIPPAGE|placeholder|transcribed with (GPT|Gemini)|output filter', x, re.I)]
+    return ' '.join(keep)
+
+
 def plain(body):
     t = re.sub(r'\[\[p\.[^\]]*\]\]', ' ', body)
     t = re.sub(r'[#*_|>]|\[\^\w+\]:?', ' ', t)
@@ -240,6 +249,11 @@ header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding
 header h1{font-size:1.6rem;margin-bottom:.25rem;letter-spacing:.03em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
 header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
+/* strip of links to sister resources: small, tinted, borderless, distinct from the page's own controls */
+.sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem .35rem;padding:.4rem .75rem;background:var(--bg);border-bottom:1px solid var(--rule)}
+.sitelinks a{font-family:var(--ui);font-size:.69rem;font-weight:500;line-height:1.2;padding:.22rem .6rem;border-radius:1rem;white-space:nowrap;
+color:var(--accent);background:color-mix(in srgb,var(--accent) 11%,transparent);text-decoration:none}
+.sitelinks a:hover{background:var(--accent);color:var(--on-accent);text-decoration:none}
 /* one control style for every button, toggle, select and input */
 .btn,nav a,.chip,.controls select,.controls input[type=search],.tools a,.tools button,.display-toolbar button{
 font-family:var(--ui);font-size:.8125rem;font-weight:600;line-height:1.2;min-height:2rem;padding:.35rem .8rem;
@@ -334,8 +348,8 @@ mark{background:var(--mark);color:inherit;padding:0 1px}
 @media (max-width:600px){header h1{font-size:1.25rem}.container{padding:0 .9rem}.doc{font-size:1.03rem}
 .entry-item{grid-template-columns:5.25rem minmax(0,1fr)}.entry-page{grid-column:2}
 .result .rmeta,.result .snip{margin-left:0}.count{margin-left:0}
-.display-toolbar{position:static;justify-content:center;margin-top:.7rem}.back-to-top{bottom:.9rem;right:.9rem}}
-@media print{header nav,.display-toolbar,.back-to-top,.pn,.tools,.controls{display:none}.doc{font-size:12pt}}
+.display-toolbar{position:static;justify-content:center;margin-top:.7rem}.sitelinks{padding:.4rem .6rem}.back-to-top{bottom:.9rem;right:.9rem}}
+@media print{.sitelinks,header nav,.display-toolbar,.back-to-top,.pn,.tools,.controls{display:none}.doc{font-size:12pt}}
 """
 
 COMMON_JS = r"""(function(){var r=document.documentElement,k='ts-theme',f='ts-font';
@@ -366,7 +380,22 @@ the model used is named at the foot of each text) reading the page images, and h
 of the scan on the Internet Archive: check the scan before quoting.</p>"""
 
 
+SITELINKS = [
+    ('Tokyo Gazette index', 'https://froginawell.net/tokyo-gazette/'),
+    ('Contemporary Japan index', 'https://froginawell.net/frog/sources/primary-source-nuggets/contemporary-japan/'),
+    ('The Japan Magazine index', 'https://froginawell.net/indexes/japan-magazine/'),
+    ('Old Year Book Tables', 'https://froginawell.net/reference/old-tables/'),
+    ('Japan Internal Affairs 1930\u20131949', 'https://froginawell.net/reference/japan-internal-affairs/'),
+    ('Occupation Summations 1945\u20131948', 'https://froginawell.net/reference/summations/'),
+    ('Chronicles of the Japanese Empire', 'https://froginawell.net/reference/empire-chronicle/'),
+    ('Sources: Modern Japan', 'https://froginawell.net/reference/modern-japan/'),
+    ('Sources: Modern Korea', 'https://froginawell.net/frog/sources/primary-sources-modern-korean-history/'),
+    ('Sources: Taiwan', 'https://froginawell.net/frog/sources/primary-sources-history-of-taiwan/'),
+    ('All Frog in a Well resources', 'https://froginawell.net/frog/sources/'),
+]
+
 def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
+    sitelinks = ''.join(f'<a href="{u}">{esc(t)}</a>' for t, u in SITELINKS)
     up = '../' * depth
     nav = ''.join(f'<a href="{up}{h}"{" class=active" if a == active else ""}>{t}</a>' for a, h, t in
                   [('browse', 'index.html', 'Browse'), ('search', 'search.html', 'Search')])
@@ -375,6 +404,7 @@ def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
 <title>{esc(title)}</title>
 <link rel="stylesheet" href="{up}style.css"><script src="{up}common.js"></script>{extra_head}
 </head><body>
+<div class="sitelinks" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
 <header><div class="container"><h1><a href="{up}index.html">Treaties, Laws and Speeches</a></h1>
 <div class="subtitle">{subtitle}</div>
 <nav>{nav}<a href="#" id="navAbout">About</a></nav></div>

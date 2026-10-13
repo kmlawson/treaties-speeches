@@ -11,7 +11,7 @@ pages: 36-51
 date: 
 author: Press Section, War Department; Publicity Bureau, Navy Department
 section: The Situation in China
-notes: Printed pages read 36-51. On p. 45 the date label of one entry is faintly printed and read as May 15th from context.
+notes: Printed pages read 36-51. On p. 45 the date label of the Tangshan entry (May 15th) is lightly printed with an old-style descending 5; verified at 300 dpi as 15th.
 ---
 # THE SITUATION IN CHINA
 

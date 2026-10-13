@@ -10,11 +10,25 @@ date: 1938-12-22
 author: Prince Fumimaro Konoe, Prime Minister
 parties: 
 section: The Situation in China
-notes: INCOMPLETE: p. 24 not transcribed. Scan shows a fold line through the line "Japan not only respects the sovereignty of China" on p. 25; text legible. In the scan the PDF page for printed p. 24 is PDF 25 and p. 25 is PDF 27 (PDF 26 is printed p. 23).
+notes: INCOMPLETE: p. 24 not transcribed. Scan shows a fold line through the line "Japan not only respects the sovereignty of China" on p. 25; text legible. In the scan the PDF page for printed p. 24 is PDF 25 and p. 25 is PDF 27 (PDF 26 is printed p. 23). | pp. 24 transcribed with GPT (Codex CLI).
 ---
 [[p. 24]]
 
-*[Page 24 was not transcribed. See the scan.]*
+### STATEMENT BY THE PRIME MINISTER, PRINCE FUMIMARO KONOE
+
+December 22, 1938
+
+THE Japanese Government is resolved, as has been clearly set forth in its two previous statements issued this year, to carry on the military operations for the complete extermination of the anti-Japanese Kuomintang Government, and at the same time to proceed with the work of establishing a new order in East Asia together with those far-sighted Chinese who share in our ideals and aspirations.
+
+The spirit of renaissance is now sweeping over all parts of China and enthusiasm for reconstruction is mounting ever higher. The Japanese Government desires to make public its basic policy for adjusting relations between Japan and China, in order that its intentions may be thoroughly understood both at home and abroad.
+
+Japan, China and Manchoukuo will be united by the common aim of establishing the new order in East Asia and of realizing a relationship of neighbourly amity, common defence against Communism, and economic cooperation. For that purpose it is necessary first of all that China should cast aside all narrow and prejudiced views belonging to the past and do away with the folly of anti-Japanism, and resentment regarding Manchoukuo. In other words, Japan frankly desires China to enter of her own will into complete diplomatic relations with Manchoukuo.
+
+The existence of the Comintern influence in East Asia can not be tolerated. Japan therefore considers it an essential condition of the adjustment of the Sino-Japanese relations that there should be concluded an anti-Comintern agreement between the two countries in consonance with the spirit of the anti-Comintern Agreement between Japan, Germany and Italy. And in order to ensure the full accomplishment of her purpose, Japan demands, in view of the actual circumstances prevailing in China, that Japanese troops be stationed, as an anti-Communist measure, at specified points during the time the said agreement is in force, and also that the Inner Mongolian region be designated as a special anti-Communist area.
+
+As regards economic relations between the two countries, Japan does not intend to exercise economic monopoly in China, nor does
+
+*[Page 24 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 25]]
 
