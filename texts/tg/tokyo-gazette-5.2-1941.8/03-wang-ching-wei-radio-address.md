@@ -10,7 +10,7 @@ date: 1941-06-24
 author: Wang Ching-wei, President of the Chinese Executive Yuan
 parties: 
 section: Concerning Japan-China Collaboration
-notes: INCOMPLETE: pp. 86, 87 not transcribed. Broadcast on June 24, 1941, in Tokyo. The scan is of two-page spreads; the text starts on the left half of PDF page 18.
+notes: INCOMPLETE: pp. 86, 87 not transcribed. Broadcast on June 24, 1941, in Tokyo. The scan is of two-page spreads; the text starts on the left half of PDF page 18. | pp. 86, 87 transcribed with GPT (Codex CLI).
 ---
 [[p. 82]]
 
@@ -48,11 +48,29 @@ There are in existence in our part of the world two evil influences called econo
 
 [[p. 86]]
 
-*[Page 86 was not transcribed. See the scan.]*
+resistance. These evil influences were nurtured in the old order, and it is quite natural that they should uphold the old order and block the task of creating the new.
+
+General peace has yet to be restored in China. For this we, leaders of the National Government of China, are responsible. It must be borne in mind that those aforementioned forces whose destruction is essential to the restoration of general peace in China are more strongly entrenched than is generally supposed. They are united not only with each other but also with foreign influences. The existence of these forces is really the principal reason for the delay in the establishment of general peace in our country.
+
+Of late, voices have been raised in Japan advocating a policy of helping the National Government of China to strengthen its position. Why is the National Government to be bolstered up? The reason is not far to seek. A strengthened National Government can do away with the forces which are working against the establishment of general peace in China, which is essential for the construction of the new order. Japan is engaged in large scale military operations against the Chungking Government. While this state of affairs lasts, it will be no easy thing for the National Government to substantially strengthen its position. I am well aware of the difficulty, but however difficult it may be, if general peace is to be restored in China speedily and if the resources of Japan and China are to be mobilized to construct the new order, it is unqualifiedly necessary to strengthen the National Government so that it may fully cooperate with Japan. I feel compelled to ask Japan to render the largest possible political and economic aid to our Government. Such aid will be in the interest not only of China but also of Japan and of the whole of East Asia.
+
+The strengthening of the National Government will have, I am sure, an important effect upon the minds of the Chinese people. We say very often that general peace can be realized only through the realization of local peace. For, if we establish peace in political and economic terms within the area under our control and show it to the entire nation as an example so that they may realize that peace does not exist merely in theory but in fact which has been created on the basis of theory, they will gradually come to have confidence in peace, with the result that the peace area will expand.
+
+I do not doubt that the majority of the people, excluding those
+
+*[Page 86 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 87]]
 
-*[Page 87 was not transcribed. See the scan.]*
+who are content to become defenders and supporters of the two evil forces, are hoping for peace. They are under the pressure and influence of existing circumstances and are prevented from believing that such a hope may turn out to be a fact, though they entertain such a hope. Therefore, if we are able to show the fact of peace before their eyes and to gain their confidence through our ceaseless efforts, their zeal and courage for the realization of peace will mount and general peace will be realized within a short period.
+
+I and my colleagues in the National Government of China have never failed to examine ourselves constantly as to our responsibilities for increasing our strength; and at the same time we are making efforts to induce Chungking leaders to join in the peace movement. As a matter of fact, we have been and are ceaselessly making every effort to induce them through various channels to join us in the peace movement; we will continue to do so in the future.
+
+I should like to add that not only number but also quality is important in the development of the peace movement. The basic objective of peace is to realize Pan-Asianism and to establish a new order in East Asia. In our efforts to attain that objective the peace movement should be purified in quality as it grows in numbers; its quality should not be changed or weakened by an increase in numbers. Not to give economic imperialism any chance to recover its influence and not to give Communism an opportunity to succeed are two main points which we should not neglect.
+
+I was deeply moved when I paid a visit to His Imperial Majesty the Emperor, who granted me His gracious words concerning Sino-Japanese friendship. Yesterday Prime Minister Prince Konoe and I issued a joint statement as a result of our conversations for several days. We are firmly determined to strive hereafter for the accomplishment of the purpose in accordance with the statement. I want to tell you tonight of this inflexible determination of mine, and taking this occasion I want to express my deep appreciation of your expectations for our future and for your warmest sympathy for and powerful aid to our cause. Certainly I am moved by your kindness; I shall never forget to the end of my life all that you have done for me. At the same time, however, I cannot but be ashamed to think of the fact of how little I have accomplished; I am not worthy of all your kindness. Only let me take back with me your kindness and sympathy to the people at home, so that they may fully appreciate
+
+*[Page 87 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 88]]
 

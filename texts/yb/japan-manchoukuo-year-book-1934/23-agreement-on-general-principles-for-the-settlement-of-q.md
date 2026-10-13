@@ -10,7 +10,7 @@ date: 1924-05-31
 author: 
 parties: China; Union of Soviet Socialist Republics
 section: Supplement III. Texts of Treaties, Agreements, Notes and Statutes of the Powers Concerning Manchuria
-notes: INCOMPLETE: p. 861 not transcribed (left and right columns); the text between the opening sentence and p. 862 is missing
+notes: INCOMPLETE: p. 861 not transcribed (left and right columns); the text between the opening sentence and p. 862 is missing | pp. 861 transcribed with GPT (Codex CLI).
 ---
 [[p. 860]]
 
@@ -18,7 +18,51 @@ The Republic of China and the Union of Soviet Socialist Republics, desiring to r
 
 [[p. 861]]
 
-*[Page 861 was not transcribed. See the scan.]*
+ment of the questions between the two countries, and have to that end named as their Plenipotentiaries, that is to say:
+
+His Excellency the President of the Republic of China:
+
+Vi Kyuin Wellington Koo.
+
+The Government of the Union of Soviet Socialist Republics:
+
+Lev Mikhailovitch Karakhan.
+
+Who, having communicated to each other their respective full powers, found to be in good and due form, have agreed upon the following Articles:
+
+**ARTICLE I.**—Immediately upon the signing of the present Agreement, the normal diplomatic and consular relations between the two Contracting Parties shall be re-established.
+
+The Government of the Republic of China agrees to take the necessary steps to transfer to the Government of the Union of Soviet Socialist Republics the Legation and Consular buildings formerly belonging to the Tsarist Government.
+
+**ARTICLE II.**—The Governments of the two Contracting Parties agree to hold, within one month after the signing of the present Agreement, a conference which shall conclude and carry out detailed arrangements relative to the questions in accordance with the principles as provided in the following Articles.
+
+Such detailed arrangement shall be completed as soon as possible and, in any case, not later than six months from the date of the opening of the Conference as provided in the preceding paragraph.
+
+**ARTICLE III.**—The Governments of the two Contracting Parties agree to annul at the Conference as provided in the preceding Article, all Conventions, Treaties, Agreements, Protocols, Contracts, et cetera, concluded between the Government of China and the Tsarist Government, and to replace them with new treaties, agreements, et cetera, on the basis of equality, reciprocity and justice, as well as the spirit of the Declarations of the Soviet Governments of the years of 1919 and 1920.
+
+**ARTICLE IV.**—The Government of the Union of Soviet Socialist Republics, in accordance with its policy and Declarations of 1919 and 1920, declares that all Treaties, Agreements, et cetera, concluded between the former Tsarist Government and any third party or parties effecting the sovereign rights or interests of China, are null and void.
+
+The Governments of both Contracting Parties declare that in future neither Government will conclude any treaties or agreements which prejudice the sovereign rights or interests of either Contracting Party.
+
+**ARTICLE V.**—The Government of the Union of Soviet Socialist Republics recognizes that Outer Mongolia is an integral part of the Republic of China and respects China's sovereignty therein.
+
+The Government of the Union of Soviet Socialist Republics declares that as soon as the questions for the withdrawal of all the troops of the Union of Soviet Socialist Republics from Outer Mongolia—namely, as to the time-limit of the withdrawal of such troops and the measures to be adopted in the interests of the safety of the frontiers—are agreed upon at the Conference as provided in Article II. of the present Agreement it will effect the complete withdrawal of all the troops of the Union of Soviet Socialist Republics from Outer Mongolia.
+
+**ARTICLE VI.**—The Governments of the two Contracting Parties mutually pledge themselves not to permit within their respective territories the existence and/or activities of any organizations or groups whose aim is to struggle by acts of violence against the Governments of either Contracting Party.
+
+The Governments of the two Contracting Parties: further pledge themselves not to engage in propaganda directed against the political and social systems of either Contracting Party.
+
+**ARTICLE VII.**—The Governments of the two Contracting Parties agree to redemarcate their national boundaries at the Conference as provided in Article II. of the present Agreement, and pending such redemarcation, to maintain the present boundaries.
+
+**ARTICLE VIII.**—The Governments of the two Contracting Parties agree to regulate at the aforementioned Conference the questions relating to the navigation of rivers, lakes, and other bodies of water which are common to their respective frontiers, on the basis of equality and reciprocity.
+
+**ARTICLE IX.**—The Governments of the two Contracting Parties agree to settle at the aforementioned Conference the question of the Chinese Eastern Railway in conformity with the principles as hereinafter provided:
+
+(1) The Governments of the two Contracting Parties declare that the Chinese Eastern Railway is a purely commercial enterprise.
+
+The Governments of the two Contracting Parties mutually declare that with the exception of matters pertaining to the business operations which are under the direct control of the Chinese Eastern Railway, all other matters affecting the right of the National and the Local Governments of the Republic of China—such as judicial matters, mat-
+
+*[Page 861 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 862]]
 

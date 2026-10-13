@@ -10,7 +10,7 @@ date: 1941-12-08
 author: Japanese Government
 parties: Japan; United States
 section: 
-notes: INCOMPLETE: p. 346 not transcribed. Scan is of two-page spreads (p. 340 is the left half of PDF page 13). Printed "joint y" (p. 343) is given as "jointly".
+notes: INCOMPLETE: p. 346 not transcribed. Scan is of two-page spreads (p. 340 is the left half of PDF page 13). Printed "joint y" (p. 343) is given as "jointly". | pp. 346 transcribed with GPT (Codex CLI).
 ---
 [[p. 340]]
 
@@ -97,7 +97,25 @@ Subsequently, the American Government continued consultations with the represent
 
 [[p. 346]]
 
-*[Page 346 was not transcribed. See the scan.]*
+of Japan will endeavour to conclude a multilateral non-aggression pact among the British Empire, China, Japan, the Netherlands, the Soviet Union, Thailand and the United States.
+
+(ii) Both Governments will endeavour to conclude among the American, British, Chinese, Japanese, the Netherlands and Thai Governments an agreement whereunder each of the Governments would pledge itself to respect the territorial integrity of French Indo-China and, in the event that there should develop a threat to the territorial integrity of Indo-China, to enter into immediate consultation with a view to taking such measures as may be deemed necessary and advisable to meet the threat in question.
+
+Such agreement would provide also that each of the Governments party to the agreement would not seek or accept preferential treatment in its trade or economic relations with Indo-China and would use its influence to obtain for each of the signatories equality of treatment in trade and commerce with French Indo-China.
+
+(iii) The Government of Japan will withdraw all military, naval, air and police forces from China and from Indo-China.
+
+(iv) The Government of the United States and the Government of Japan will not support—militarily, politically, economically—any Government or régime in China other than the National Government of the Republic of China with capital temporarily at Chungking.
+
+(v) Both Governments will give up all extraterritorial rights in China, including rights and interests in and with regard to international settlements and concessions, and rights under the Boxer Protocol of 1901.
+
+Both Governments will endeavour to obtain the agreement of the British and other Governments to give up extraterritorial rights in China, including rights in international settlements and in concessions and under the Boxer Protocol of 1901.
+
+(vi) The Government of the United States and the Government of Japan will enter into negotiations for the conclusion between the United States and Japan of a trade agreement, based upon reciprocal most favoured-nation treatment and reduction of trade barriers by both countries, including an undertaking by the United States to bind raw silk on the free list.
+
+(vii) The Government of the United States and the Government
+
+*[Page 346 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 347]]
 

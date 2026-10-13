@@ -10,7 +10,7 @@ date: 1941-01-21
 author: Yosuke Matsuoka, Minister for Foreign Affairs
 parties: 
 section: The 76th Session of the Imperial Diet—Ministerial Addresses of January 21, 1941
-notes: INCOMPLETE: p. 370 not transcribed; p. 371 not transcribed; p. 373 not transcribed
+notes: INCOMPLETE: p. 370 not transcribed; p. 371 not transcribed; p. 373 not transcribed | pp. 370, 371, 373 transcribed with GPT (Codex CLI).
 ---
 [[p. 367]]
 
@@ -34,11 +34,31 @@ Inasmuch as an early settlement of the China Affair is desirable for the establi
 
 [[p. 370]]
 
-*[Page 370 was not transcribed. See the scan.]*
+and on November 30 of last year concluded with the latter the Sino-Japanese Basic Treaty. This Treaty embodies the three basic principles of good neighbourliness, economic cooperation and joint defence against Communist activities. It stipulates that both Japan and China respect each other's sovereignty and territorial integrity, and undertake close economic cooperation on the basis of equality and reciprocity, and that Japanese forces be stationed in certain specified areas in Mengchiang and North China. Not only does Japan demand no territorial cession and no indemnities, but she has willingly pledged to China a policy of abolishing extraterritoriality and also of restoring the “concessions” to China. This is an eloquent testimony of her sincere desire for the attainment of a moral union of the Asiatic peoples. Now that the Basic Treaty has been signed and the Joint Declaration by Japan, Manchoukuo and China issued, it is incumbent upon us to concentrate our efforts on assisting the Nanking Government to develop into the Government of China both in name and in fact. We have thus been taking an attitude of surmounting all obstacles for the purpose of establishing a sphere of co-prosperity throughout Greater East Asia with Japan, Manchoukuo and China as the nucleus and mainstay.
+
+Let me now make a brief survey of our relations with the Netherlands East Indies, French Indo-China and Thailand, which lie within the aforementioned sphere of common prosperity.
+
+The Netherlands East Indies and French Indo-China, if only for geographical reasons, should be in an intimate and inseparable relationship with our country. Therefore, the situation which has hitherto thwarted the development of this natural relationship must be thoroughly remedied, and relations of good neighbourliness secured for the promotion of mutual prosperity. With this in view, early in September last, the Government despatched Mr. Ichizo Kobayashi, Minister of Commerce and Industry, to the Netherlands East Indies as a special envoy. When a definite stage had been reached in his negotiations with the Netherlands East Indies authorities concerning the purchase of oil and other urgent questions, Mr. Kobayashi was obliged to return to Japan by circumstances preventing his prolonged stay there. As his successor, the Government have recently sent to the islands Mr. Kenkichi Yoshizawa, formerly Minister of Foreign Affairs. He has already resumed the negotiations with the Netherlands East Indies authorities.
+
+As regards French Indo-China, it formed the most important route of supply for Chungking since the beginning of the China Affair. Consequently, however, upon the sudden change in the
+
+*[Page 370 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 371]]
 
-*[Page 371 was not transcribed. See the scan.]*
+European situation last June, a change has occurred in the relations between Japan and French Indo-China, resulting in the closure of the border between that French colony and China itself, and in the entry, by agreement, of Japanese armed forces into the colony. Negotiations are now in progress in Tokyo in an amicable atmosphere on the basis of the Notes exchanged between the French Ambassador and myself in August last. It is my opinion that a realization, on the part of France, of the necessity for cooperation with Japan, in the light of the new situation in the world in general and in East Asia in particular, is responsible for this development.
+
+In connection with the French Indo-China question, I should like to refer to the relations between our country and Thailand. It may be recalled that at the General Assembly of the League of Nations dealing with the Manchurian Affair, in 1933, the Thai delegate did not leave the Assembly hall but remained in his seat, and boldly announced his abstention from voting. This is still fresh in the memory of our people.
+
+In June last year, a treaty of amity and neutrality was concluded by Japan with Thailand. With the exchange of ratifications, completed on December 23 at Bangkok, the bonds of friendship between the two countries have been drawn closer. A movement is now stirring the Thai people for the recovery of the lost territories which are at present incorporated in French Indo-China. The Thai troops are confronting the French Indo-China forces across the border with frequent conflicts occurring between them. Japan as the leader in East Asia, cannot afford to remain indifferent to such a dispute, which, she hopes, will be settled at an earliest possible date.
+
+An exchange of diplomatic representatives has taken place between Japan and Australia. We hope that the two countries will make contributions toward the promotion of peace in the Pacific by furthering their cordial relations through friendly cooperation and the elimination of unnecessary misunderstandings.
+
+The relations between Japan and Near Eastern Countries have recently increased in cordiality. Our ratification of the Treaty of Amity with Iran is only one of many proofs that illustrate this happy state of affairs.
+
+Japan and Argentina have agreed to elevate the status of their Legations in each other's country to that of Embassies. With Brazil, a cultural agreement was signed in September last, and it has already been sanctioned by His Majesty the Emperor. Relations between Japan and Brazil are thus growing more and more cordial. It is a matter for hearty congratulation that Japan and those Latin
+
+*[Page 371 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 372]]
 
@@ -52,7 +72,13 @@ Japan's foreign trade, with the exception of Manchoukuo and China, is conducted 
 
 [[p. 373]]
 
-*[Page 373 was not transcribed. See the scan.]*
+her but to go forward, perfecting herself as a State highly organized for national defence, not only in order to meet this pressure that I have referred to but also to ensure economic self-sufficiency within the region of Greater East Asia.
+
+In this connection, I should like to refer to our relations with the United States. The United States has evinced no adequate understanding of the fact that the establishment of a sphere of common prosperity throughout Greater East Asia is truly a matter of vital concern to Japan. She apparently entertains an idea that her own first line of national defence, on the east, lies along the mid-Atlantic and, on the west, not only along the eastern Pacific, but even as far as China and the South Seas. If the United States assumes such an attitude, it would be, to say the least, a very one-sided contention on her part, and would cast reflections on our position of superiority in the Western Pacific, thus intimating that it betokens ambitious designs on our part. I, for one, believe that such a position assumed by the United States would not contribute toward the promotion of world peace. Speaking frankly, I extremely regret such an attitude of the United States for the sake of Japanese-American friendship, for the sake of peace in the Pacific and, also, for the sake of the peace of the world. It is my earnest hope that a great nation that is exerting such a tremendous influence in the world as the United States will realize her responsibility for the maintenance of peace, will reflect deeply on her attitude with fear of God, that is, true piety, will courageously liquidate the state of things created by the force of past circumstances and put forth her utmost efforts toward overcoming the impending crisis of civilization.
+
+The prevailing confusion of the international situation shows no sign of subsiding, but on the contrary, it tends to increase. Should the United States unfortunately become involved in the European war, and should Japan, too, be compelled to participate in the conflict, another great World War both in name and reality would ensue, precipitating a situation which would defy all attempt at saving it. Should the war take its furious course, unleashing formidable new weapons which have not hitherto been used, no one could guarantee that it would not develop into a war spelling the downfall of modern civilization. The Three-Power Pact has been concluded for the purpose not only of making sustained efforts for the establishment of a sphere of common prosperity throughout Greater East Asia, but of preventing, in the course of such efforts, any further aggravation of the present disturbances. We must endeavour to terminate the current war as speedily as possible and
+
+*[Page 373 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 374]]
 

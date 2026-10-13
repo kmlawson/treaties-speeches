@@ -10,7 +10,7 @@ date: 1896-12-16
 author: 
 parties: 
 section: Supplement III. Texts of Treaties, Agreements, Notes and Statutes of the Powers Concerning Manchuria
-notes: p. 833 right column, para (h): one word between "at the" and "of the railway" illegible; INCOMPLETE: p. 835 left column not transcribed
+notes: p. 833 right column, para (h): one word between "at the" and "of the railway" illegible; INCOMPLETE: p. 835 left column not transcribed | pp. 835 transcribed with GPT (Codex CLI).
 ---
 [[p. 832]]
 
@@ -111,7 +111,35 @@ For the realization of these bonds the Company must have recourse to the Russo-C
 Guarantee of Realized Bond Capital.—§ 12. As payments are received for bonds guaranteed by the Russian Government, the Company shall be bound to keep such sums, or interest-bearing securities purchased with the same by permission of the Russian Minister of Finances, under the
 [[p. 835]]
 
-*[Page 835 was not transcribed. See the scan.]*
+special supervision of the Russian Ministry of Finances.
+
+Out of the above receipts the Company shall have the right to make the following payments:—
+
+(a) According to actual fulfilment of the work in progress, and execution of orders and at the time when various expenditures shall become necessary, such payments to be made on the scale and on the conditions specified in the working estimates;
+
+(b) During the construction of the line, of interest, as it becomes due, on the bonds issued by the Company, subject to the conditions of their issue, and the Company shall pay the sums necessary for the above purpose within the limits of the amount realized by it in the issue of its bonds.
+
+Shares.—§ 13. On the payment of the first allotment on the shares, the founders shall receive temporary certificates on which subsequently, when the Board of Management of the Company shall have been formed, the receipt of the further instalments on the shares will be inscribed.
+
+When the shares shall be fully paid up the temporary certificates issued to the founders shall be replaced by shares.
+
+The shares of the Company are issued to bearer, under the signature of not fewer than three members of the Board of Management. To the shares will be attached a coupon sheet for the receipt once yearly under them of any dividend that may be payable.
+
+On the coupon sheets becoming exhausted new sheets will be issued.
+
+A dividend on the shares out of the net profits of any year, supposing such accrue, shall be payable on the adoption by the general meeting of shareholders of the Annual Report for that year, and the dividend shall be payable at the offices of the Company, or at such places which it may indicate.
+
+The Company shall notify for general information in the "Official Gazette" and in the "Finance Messenger," as also in one of the Chinese newspapers, the amount and place of payment of the dividend.
+
+Reserve Capital.—§ 14. The reserve capital is destined—
+
+(a) For the capital repair of the railway, its buildings and appurtenances;
+
+(b) For defraying extraordinary expenditure of the Company in repairing the railway and its appurtenances.
+
+The reserve capital of the Company is formed out of annual sums put aside from the net profits
+
+*[Page 835 was transcribed with GPT (Codex CLI), not Claude.]*
 
 of the working of the railway (§17).
 

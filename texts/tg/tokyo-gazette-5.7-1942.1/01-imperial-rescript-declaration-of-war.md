@@ -10,11 +10,19 @@ date: 1941-12-08
 author: Emperor of Japan
 parties: 
 section: 
-notes: INCOMPLETE: p. 321 not transcribed (the opening of the rescript). Date from the rescript's closing line. Imperial Rescript declaring war on the United States and the British Empire. The scan is of two-page spreads; p. 321 is the right half of PDF page 3, p. 322 the left half of PDF page 4. | Recategorised from law: imperial rescript (declaration of war), not a law.
+notes: INCOMPLETE: p. 321 not transcribed (the opening of the rescript). Date from the rescript's closing line. Imperial Rescript declaring war on the United States and the British Empire. The scan is of two-page spreads; p. 321 is the right half of PDF page 3, p. 322 the left half of PDF page 4. | Recategorised from law: imperial rescript (declaration of war), not a law. | pp. 321 transcribed with GPT (Codex CLI).
 ---
 [[p. 321]]
 
-*[Page 321 was not transcribed. See the scan.]*
+### IMPERIAL RESCRIPT
+
+WE, by grace of heaven, Emperor of Japan, seated on the Throne of a line unbroken for ages eternal, enjoin upon ye, Our loyal and brave subjects:
+
+We hereby declare war on the United States of America and the British Empire. The men and officers of Our army and navy shall do their utmost in prosecuting the war, Our public servants of various departments shall perform faithfully and diligently their appointed tasks, and all other subjects of Ours shall pursue their respective duties; the entire nation with a united will shall mobilize their total strength so that nothing will miscarry in the attainment of our war aims.
+
+To insure the stability of East Asia and to contribute to world peace is the far-sighted policy which was formulated by Our Great Illustrious Imperial Grandsire and Our Great Imperial Sire succeeding Him, and which We lay constantly to heart. To cultivate friendship among nations and to enjoy prosperity in common with all nations has always been the guiding principle of Our Empire's foreign policy. It has been truly unavoidable and far from Our wishes that Our Empire has now been brought to cross swords with America and Britain. More than four years have passed since China, failing to comprehend the true intentions of Our Empire, and recklessly courting trouble, disturbed the peace of East Asia and compelled Our Empire to take up arms. Although there has been re-established the National Government of China, with which Japan has effected neighbourly intercourse and cooperation, the régime which has survived at Chungking, relying upon American and British protection, still continues its fratricidal opposition. Eager for the realization of their inordinate ambition to dominate the Orient, both America and Britain, giving support to the
+
+*[Page 321 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 322]]
 
