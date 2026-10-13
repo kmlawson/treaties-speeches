@@ -10,7 +10,7 @@ date: 1930-04-22
 author: 
 parties: United States; United Kingdom of Great Britain and Northern Ireland; Japan; France; Italy
 section: Treaties
-notes: INCOMPLETE: p. 1298 left column not transcribed (placeholder in place; it holds Annex II items (ii) to (v), Section I (a) and Section I (b) items (1) to (7)). Table p. 1300, Annex III, Italy: Miraglia displacement unreadable, cell left empty; Monte Novegno displacement unreadable (500 or 300), cell left empty. Table p. 1300, Annex III, Japan: Yodo displacement unreadable, cell left empty; the printed total 61,430 is read as printed and the seven other figures sum to 60,110. Table p. 1300, Annex III, Italy: the printed total 11,960 cannot be checked because two cells are empty. Table p. 1300, Annex III, France: 'Les Epsages' read as printed from a coarse scan; may differ in the original. Table p. 1300, Annex III, France: last row, the words before '—Netlayer' are unreadable, shown as [illegible]. Totals of the United States (91,496), France (28,644) and British Commonwealth (49,561) tables reconcile with the figures as read. Article XVI table p. 1301: all figures read; metric equivalents reconcile. Article XXI p. 1302 as printed: 'Thereupon the other Parties to Part III of this Treaty proportionate increase' has no verb in the book; transcribed as printed. Scan page order is irregular: printed p. 1302 is PDF page 1353, printed pp. 1304-1305 are PDF 1351-1352 (between PDF 1350 = p. 1301 and PDF 1353), printed p. 1303 is PDF 1354; text read in printed order. The South Manchuria Treaty (1915) heading at foot of p. 1303 belongs to another batch and is not transcribed.
+notes: INCOMPLETE: p. 1298 left column not transcribed (placeholder in place; it holds Annex II items (ii) to (v), Section I (a) and Section I (b) items (1) to (7)). Table p. 1300, Annex III, Italy: Miraglia displacement unreadable, cell left empty; Monte Novegno displacement unreadable (500 or 300), cell left empty. Table p. 1300, Annex III, Japan: Yodo displacement unreadable, cell left empty; the printed total 61,430 is read as printed and the seven other figures sum to 60,110. Table p. 1300, Annex III, Italy: the printed total 11,960 cannot be checked because two cells are empty. Table p. 1300, Annex III, France: 'Les Epsages' read as printed from a coarse scan; may differ in the original. Table p. 1300, Annex III, France: last row, the words before '—Netlayer' are unreadable, shown as [illegible]. Totals of the United States (91,496), France (28,644) and British Commonwealth (49,561) tables reconcile with the figures as read. Article XVI table p. 1301: all figures read; metric equivalents reconcile. Article XXI p. 1302 as printed: 'Thereupon the other Parties to Part III of this Treaty proportionate increase' has no verb in the book; transcribed as printed. Scan page order is irregular: printed p. 1302 is PDF page 1353, printed pp. 1304-1305 are PDF 1351-1352 (between PDF 1350 = p. 1301 and PDF 1353), printed p. 1303 is PDF 1354; text read in printed order. The South Manchuria Treaty (1915) heading at foot of p. 1303 belongs to another batch and is not transcribed. | pp. 1298 transcribed with GPT (Codex CLI).
 ---
 [[p. 1294]]
 
@@ -188,7 +188,39 @@ The present Treaty provides for the disposal of vessels of war in the following 
 
 [[p. 1298]]
 
-*[Page 1298 was not transcribed. See the scan.]*
+(ii) by converting the vessel to a hulk;
+
+(iii) by converting the vessel to target use exclusively;
+
+(iv) by retaining the vessel exclusively for experimental purposes;
+
+(v) by retaining the vessel exclusively for training purposes.
+
+Any vessel of war to be disposed of, other than a capital ship, may either be scrapped or converted to a hulk at the option of the High Contracting Party concerned.
+
+Vessels, other than capital ships, which have been retained for target, experimental or training purposes, shall finally be scrapped or converted to hulks.
+
+### Section I Vessels to be scrapped.
+
+(a) A vessel to be disposed of by scrapping, by reason of its replacement, must be rendered incapable of warlike service within six months of the date of the completion of its successor, or of the first of its successors if there are more than one. If, however, the completion of the new vessel or vessels be delayed, the work of rendering the old vessel incapable of warlike service shall, nevertheless, be completed within four and a half years from the date of laying the keel of the new vessel, or of the first of the new vessels; but should the new vessel, or any of the new vessels, be a surface vessel not exceeding 3,000 tons (3,048 metric tons) standard displacement, this period is reduced to three and a half years.
+
+(b) A vessel to be scrapped shall be considered incapable of warlike service when there shall have been removed and landed or else destroyed in the ship:
+
+(1) all guns and essential parts of guns, fire control tops and revolving parts of all barbettes and turrets;
+
+(2) all hydraulic or electric machinery for operating turrets;
+
+(3) all fire control instruments and rangefinders;
+
+(4) all ammunition, explosives, mines and mine rails;
+
+(5) all torpedoes, war heads, torpedo tubes and training racks;
+
+(6) all wireless telegraphy installations;
+
+(7) all main propelling machinery, or alternatively the armoured conning tower and all side armour plate;
+
+*[Page 1298 was transcribed with GPT (Codex CLI), not Claude.]*
 
 (8) all aircraft cranes, derricks, lifts and launching apparatus. All landing-on or flying-off platforms and decks, or alternatively all main propelling machinery;
 

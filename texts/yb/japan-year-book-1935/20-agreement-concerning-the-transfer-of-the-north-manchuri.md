@@ -10,7 +10,7 @@ date: 1935-03-23
 author: 
 parties: Union of Soviet Socialist Republics; Manchoukuo
 section: Treaties
-notes: INCOMPLETE: p. 1312 left column not transcribed
+notes: INCOMPLETE: p. 1312 left column not transcribed | pp. 1312 transcribed with GPT (Codex CLI).
 ---
 [[p. 1309]]
 
@@ -167,7 +167,15 @@ The remaining sum of twenty-three million four hundred thousand (23,400,000) yen
 
 [[p. 1312]]
 
-*[Page 1312 was not transcribed. See the scan.]*
+1938. The Treasury Bonds of the Government of Manchoukuo mentioned above are to be issued in favour of the Government of the Union of Soviet Socialist Republics and are to be delivered by the Representative of the Government of Manchoukuo to the Representative of the Government of the Union of Soviet Socialist Republics simultaneously with the signing of the present Agreement, and shall be paid at the Industrial Bank of Japan, Ltd.
+
+In case the exchange rate of the yen in terms of the Swiss franc calculated on the basis of the respective exchange rates of the yen and the Swiss franc in London on the day before the date of payment of any of the second and subsequent instalments provided for in the present Article should be lower or higher by eight per cent. or more in comparison with the exchange rate of the yen in terms of the Swiss franc as calculated on the basis of the respective exchange rates of the yen and the Swiss franc in London on the date of the coming into force of the present Agreement, the amount of the said instalment shall be increased or decreased, as the case may be, so that the value in Swiss francs of the instalment shall be the same as it is on the date of the coming into force of the present Agreement.
+
+In case the present gold parity of the Swiss franc (one Swiss franc being equivalent to nine thirty-firsts of one gramme of fine gold) should be altered or in case the convertibility of the Swiss franc into gold should be suspended, the following method shall be adopted in place of the method provided for in the preceding paragraph.
+
+In case the weight of fine gold whose value, when calculated on the basis of the price of gold and the exchange rate of the yen in London on the day before the date of payment of any of the second and subsequent instalments provided for in the present Article, is equal to the amount of the instalment, should be less or more by eight per cent. or more in comparison with the weight of fine gold whose value, when calculated on the basis of the price of gold and the exchange rate of the yen in London on the date of the coming into force of the present Agreement, is equal to the
+
+*[Page 1312 was transcribed with GPT (Codex CLI), not Claude.]*
 
 said instalment, the amount of the instalment shall be increased or reduced, as the case may be, so that the value in fine gold of the instalment shall be the same as it is on the date of the coming into force of the present Agreement.
 

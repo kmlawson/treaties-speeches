@@ -10,7 +10,7 @@ date: 1922-02-06
 author: 
 parties: United States; British Empire; France; Italy; Japan
 section: Treaties
-notes: INCOMPLETE: p. 1285 right column not transcribed; p. 1286 left column not transcribed; p. 1288 right column not transcribed; p. 1293 not transcribed (left and right columns), so the text resumes mid-sentence at the top of p. 1294. | British ship tonnages as transcribed sum to 579,950 against a printed total of 580,450 (printed figures kept; reported by the transcriber, to be confirmed in proofreading).
+notes: INCOMPLETE: p. 1285 right column not transcribed; p. 1286 left column not transcribed; p. 1288 right column not transcribed; p. 1293 not transcribed (left and right columns), so the text resumes mid-sentence at the top of p. 1294. | British ship tonnages as transcribed sum to 579,950 against a printed total of 580,450 (printed figures kept; reported by the transcriber, to be confirmed in proofreading). | pp. 1285, 1286, 1288, 1293 transcribed with GPT (Codex CLI).
 ---
 [[p. 1284]]
 
@@ -54,11 +54,39 @@ However, any of the Contracting Powers may, provided that its total tonnage allo
 
 **ARTICLE XI** No vessel of war exceeding 10,000 tons (10,160 metric tons) standard displacement, other than a capital ship or aircraft carrier, shall be acquired by, or constructed by, for, or within the jurisdiction of, any of the Contracting Powers. Vessels not specifically built as fighting ships nor taken in time of peace under government control for fighting purpose, which are employed on fleet duties or as troop transports or in some other way for the purpose of assisting in the prosecution of hostilities otherwise than as fighting ships, shall not be within the limitations of this Article.
 
-*[Page 1285 was not transcribed. See the scan.]*
+**ARTICLE XII** No vessel of war of any of the Contracting Powers, hereafter laid down, other than a capital ship, shall carry a gun with a calibre in excess of 8 inches (203 millimetres).
+
+**ARTICLE XIII** Except as provided in Article IX, no ship designated in the present Treaty to be scrapped may be reconverted into a vessel of war.
+
+**ARTICLE XIV** No preparations shall be made in merchant ships in time of peace for the installation of warlike armaments for the purpose of converting such ships into vessels of war, other than the necessary stiffening of decks for the mounting of guns not exceeding 6 inches (152 millimetres) calibre.
+
+**ARTICLE XV** No vessel of war constructed within the jurisdiction of any of the Contracting Powers for a non-Contracting Power shall exceed the limitations as to displacement and armament prescribed by the present Treaty for vessels of a similar type which may be constructed by or for any of the Contracting Powers; provided however, that the displacement for aircraft carriers constructed for a non-Contracting Power shall in no case exceed 27,000 tons (27,432 metric tons) standard displacement.
+
+**ARTICLE XVI** If the construction of any vessel of war for a non-Contracting Power is undertaken within the jurisdiction of any of the Contracting Powers such Power shall promptly inform the other Contracting Powers of the date of the signing of the contract and the date on which the keel of the ship is laid ; and shall also communicate to them the particulars relating to the ship prescribed in Chapter II, Part 3, Section 1 (b), (4) and (5).
+
+**ARTICLE XVII** In the event of a Contracting Power being engaged in war, such Power shall not use as a vessel of war any vessel of war which may be under construction within its jurisdiction for any other Power, or which may have been constructed within its jurisdiction for another Power and not delivered.
+
+**ARTICLE XVIII** Each of the Contracting Powers undertakes not to dispose by gift, sale or any mode of transfer of any vessel of war in such a manner that such vessel may become a
+
+*[Page 1285 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 1286]]
 
-*[Page 1286 was not transcribed. See the scan.]*
+vessel of war in the Navy of any foreign Power.
+
+**ARTICLE XIX** The United States, the British Empire and Japan agree that the status quo at the time of the signing of the present Treaty, with regard to fortifications and naval bases, shall be maintained in their respective territories and possessions specified hereunder :
+
+(1) The insular possessions which the United States now holds or may hereafter acquire in the Pacific Ocean, except (a) those adjacent to the coast of the United States, Alaska and the Panama Canal Zone, not including the Aleutian Islands, and (b) the Hawaiian Islands ;
+
+(2) Hongkong and the insular possessions which the British Empire now holds or may hereafter acquire in the Pacific Ocean, east of the meridian of 110° east longitude, except (a) those adjacent to the coast of Canada, (b) the Commonwealth of Australia and its Territories, and (c) New Zealand ;
+
+(3) The following insular territories and possessions of Japan in the Pacific Ocean, to wit: the Kurile Islands, the Bonin Islands, Amami-Oshima, the Loochoo Islands, Formosa and the Pescadores, and any insular territories or possessions in the Pacific Ocean which Japan may hereafter acquire.
+
+The maintenance of the status quo under the foregoing provisions implies that no new fortifications or naval bases shall be established in the territories and possessions specified; that no measures shall be taken to increase the existing naval facilities for the repair and maintenance of naval forces, and that no increase shall be made in the coast defences of the territories and possessions above specified. This restriction, however, does not preclude such repair and replacement of worn-out weapons and equipment as is customary in naval and military establishments in time of peace.
+
+**ARTICLE XX** The rules for determining tonnage displacement prescribed in Chapter II, Part 4, shall apply to the ships of each of the Contracting Powers.
+
+*[Page 1286 was transcribed with GPT (Codex CLI), not Claude.]*
 
 ### CHAPTER II
 
@@ -229,7 +257,23 @@ IV. The periods in which scrapping of vessels is to be effected are as follows:
 
 (b) In the case of vessels to be scrapped under the second and third paragraphs of Article II, or under Article III, the work of rendering the vessel incapable of further warlike service in accordance with paragraph III of this Part shall be commenced not later than the date of completion of its successor, and shall be finished within six months
 
-*[Page 1288 was not transcribed. See the scan.]*
+from the date of such completion. The vessel shall be finally scrapped, in accordance with paragraph II of this Part, within eighteen months from the date of completion of its successor. If, however, the completion of the new vessel be delayed, then the work of rendering the old vessel incapable of further warlike service in accordance with paragraph III of this Part shall be commenced within four years from the laying of the keel of the new vessel, and shall be finished within six months from the date on which such work was commenced, and the old vessel shall be finally scrapped in accordance with paragraph II of this Part within eighteen months from the date when the work of rendering it incapable of further warlike service was commenced.
+
+### PART 8
+
+### Replacement
+
+The replacement of capital ships and aircraft carriers shall take place according to the rules in Section I and the tables in Section II of this Part.
+
+### SECTION I
+
+### Rules for Replacement
+
+(a) Capital ships and aircraft carriers twenty years after the date of their completion may, except as otherwise provided in Article VIII and in the tables in Section II of this Part, be replaced by new construction, but within the limits prescribed in Article IV and Article VII. The keels of such new construction may, except as otherwise provided in Article VIII and in the tables in Section II of this Part, be laid down not earlier than seventeen years from the date of completion of the tonnage to be replaced, provided, however, that no capital ship tonnage, with the exception of the ships referred to in the third paragraph of Article II, and the replacement tonnage specifically mentioned in Section II of this Part, shall be laid down until ten years from November 12, 1921.
+
+(b) Each of the Contracting Powers shall communicate promptly to each of the other Contracting Powers the following information :
+
+*[Page 1288 was transcribed with GPT (Codex CLI), not Claude.]*
 [[p. 1289]]
 
 (1) The names of the capital ships and aircraft carriers to be replaced by new construction ;
@@ -443,7 +487,33 @@ The standard displacement of a ship
 
 [[p. 1293]]
 
-*[Page 1293 was not transcribed. See the scan.]*
+is the displacement of the ship complete, fully manned, engined, and equipped ready for sea, including all armament and ammunition, equipment, outfit, provisions and fresh water for crew, miscellaneous stores and implements of every description that are intended to be carried in war, but without fuel or reserve feed water on board.
+
+The word “ton” in the present Treaty, except in the expression “metric tons”, shall be understood to mean the ton of 2,240 pounds (1,016 kilos).
+
+Vessels now completed shall retain their present ratings of displacement tonnage in accordance with their national system of measurement. However, a Power expressing displacement in metric tons shall be considered for the application of the present Treaty as owning only the equivalent displacement in tons of 2,240 pounds.
+
+A vessel completed hereafter shall be rated at its displacement tonnage when in the standard condition defined herein.
+
+### CHAPTER III
+
+### Miscellaneous Provisions
+
+**ARTICLE XXI** If during the term of the present Treaty the requirements of the national security of any Contracting Power in respect of naval defence are, in the opinion of that Power, materially affected by any change of circumstances the Contracting Powers will, at the request of such Power, meet in conference with a view to the reconsideration of the provisions of the Treaty and its amendment by mutual agreement.
+
+In view of possible technical and scientific developments, the United States, after consultation with the other Contracting Powers shall arrange for a conference of all the Contracting Powers—which shall convene as soon as possible after the expiration of eight years from the coming into force of the present Treaty to consider what changes, if any, in the Treaty may be necessary to meet such developments.
+
+**ARTICLE XXII** Whenever any Contracting Power shall become engaged in a war which in its opinion affects the naval defence of its national security, such Power may after notice to the other Contracting Powers suspend for the period of hostilities its obligations under the present Treaty other than those under Articles XIII and XVII, provided that such Power shall notify the other Contracting Powers that the emergency is of such a character as to require such suspension.
+
+The remaining Contracting Powers shall in such case consult together with a view to agreement as to what temporary modifications, if any, should be made in the Treaty as between themselves. Should such consultation not produce agreement, duly made in accordance with the constitutional methods of the respective Powers, any one of said Contracting Powers may, by giving notice to the other Contracting Powers, suspend for the period of hostilities its obligations under the present Treaty, other than those under Articles XIII and XVII.
+
+On the cessation of hostilities the Contracting Powers will meet in conference to consider what modifications, if any, should be made in the provisions of the present Treaty.
+
+**ARTICLE XXIII** The present Treaty shall remain in force until December 31st, 1936, and in case none of the Contracting Powers shall have given notice two years before that date of its intention to terminate the Treaty, it shall continue in force until the expiration of two years from the date on which notice of termination shall be given by one of the Contracting Powers, whereupon the Treaty shall terminate as regards all the Contracting Powers. Such notice shall be communicated in writing to the Government of the United States, which shall immediately transmit a certified copy of the notification to the other Powers and inform them of the date on which it was received. The notice shall be deemed to have been given and shall take effect on that date. In the event of notice of termination being given by the Government of the United States, such notice shall be given to the diplomatic representatives at Washington of the other Contracting Powers, and the notice shall be deemed to have been given and shall take on the date of the communication made to the said diplomatic representatives.
+
+Within one year of the date on which
+
+*[Page 1293 was transcribed with GPT (Codex CLI), not Claude.]*
 [[p. 1294]]
 
 notice of termination by any Power has taken effect, all the Contracting Powers shall meet in conference.

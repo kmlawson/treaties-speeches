@@ -10,7 +10,7 @@ date: 1905
 author: Japanese Government
 parties: 
 section: Treaties
-notes: INCOMPLETE: p. 1306 left column not transcribed (items 1-4 of the summary and the opening of its last paragraph are missing). Heading printed "Made Public, January 14, 1932". The understandings were recorded in the Minutes of the Conference of 1905 and signed by the Japanese and Chinese Plenipotentiaries; the text is the Japanese Government's communication of 1932 as printed.
+notes: INCOMPLETE: p. 1306 left column not transcribed (items 1-4 of the summary and the opening of its last paragraph are missing). Heading printed "Made Public, January 14, 1932". The understandings were recorded in the Minutes of the Conference of 1905 and signed by the Japanese and Chinese Plenipotentiaries; the text is the Japanese Government's communication of 1932 as printed. | pp. 1306 transcribed with GPT (Codex CLI).
 ---
 [[p. 1305]]
 
@@ -26,7 +26,19 @@ Whereas the protocols of the Conference recently held between the Plenipotentiar
 
 [[p. 1306]]
 
-*[Page 1306 was not transcribed. See the scan.]*
+possess the character of executory agreements are given in the following summary :
+
+1. The railway between Changchun and Kirin will be constructed by China with capital to be raised by herself. She, however, agrees to borrow from Japan the insufficient amount of capital, which amount being about one-half of the total sum required. The contract concerning the loan shall, in due time, be concluded, following, mutatis mutandis, the loan contract entered into between the board of the Imperial Railways of North China and the Anglo-Chinese Syndicate. The term of the loan shall be twenty-five years, redeemable in yearly instalments.
+
+2. The military railway constructed by Japan between Mukden and Hsinmintun shall be sold to China at a price to be fairly determined in consultation by Commissioners appointed for the purpose by the two Governments. China engages to reconstruct the line, making it her own railway, and to borrow from a Japanese corporation or corporations one half of the capital required for the portion of the line east of Liao-ho for a term of eighteen years repayable in yearly instalments, and a contract shall be concluded, for the purpose following, mutatis mutandis, the loan contract entered into between the Board of the Imperial Railways of North China and the Anglo-Chinese Syndicate.
+
+All the other military railways in different localities shall be removed with the evacuation of the regions.
+
+3. The Chinese Government engage, for the purpose of protecting the interest of the South Manchuria Railway, not to construct, prior to the recovery by them of the said railway, any main line in the neighbourhood of and parallel to that railway, or any branch line which might be prejudicial to the interest of the above-mentioned railway.
+
+4. China declares that she will adopt sufficient measures for securing Russia's faithful observance of the Russo-Chinese treaties with regard to the railways which Russia continues to possess in the northern part of Manchuria, and that it is her intention, in case Russia acts in contravention of such treaty stipulations, to approach her strongly
+
+*[Page 1306 was transcribed with GPT (Codex CLI), not Claude.]*
 
 with a view to have such action fully rectified.
 
