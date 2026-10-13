@@ -10,7 +10,7 @@ date: 1940-09-28
 author: Prince Fumimaro Konoe, Prime Minister
 parties: 
 section: 
-notes: Printed page number of first page not shown on the page (taken from the index). INCOMPLETE: p. 176 not transcribed
+notes: Printed page number of first page not shown on the page (taken from the index). INCOMPLETE: p. 176 not transcribed | pp. 176 transcribed with GPT (Codex CLI).
 ---
 [[p. 174]]
 
@@ -35,4 +35,12 @@ In the face of the grave situation described, we are endeavouring to establish a
 
 [[p. 176]]
 
-*[Page 176 was not transcribed. See the scan.]*
+is now placed in a position where her one hundred million people should stand resolutely together as one—a position, I feel, where even the union of one hundred million souls might not be sufficient.
+
+In a period of peace and tranquillity, a nation is liable to live a life of laxity and irresponsibility in all its phases. Nevertheless, once the country is threatened with a national crisis, the entire nation will band together to surmount it. No room is left then for sectionalism, dissensions, or untrammelled discussions. Personal comforts and living must be sacrificed willingly to the common welfare, personal renown and profits must likewise be jettisoned for the sake of the Throne and the country. The true character of the Japanese nation finds expression in the unfaltering, courageous service for the cause of the State on the part of all its members in time of emergency. It devolves, on the other hand, upon the emergency Cabinet to see to it that every member of the nation finds each his or her proper place while serving the State, with heart and soul to the best of his or her ability. What the new structure aims at is the perfection of a political system founded on the principle of the unity of Sovereign and subject, under which the will and ideas of those who govern will be made known to those who are governed for the guidance of the latter; and the will and ideas of those who are governed will be communicated to those who govern. In other words, the function of government is to see that the people are enabled to find each his proper place; the duty of each subject is to serve devotedly the Throne. This constitutes the essence of our national polity, which predicates loyalty as a supreme virtue existing between Sovereign and subjects, a loyalty that is conterminous with the mutual affection of father and son. Herein lies the key to the ideals of the new national structure.
+
+In obedience to the Imperial Command, the Government have embarked upon positive measures for surmounting the national crisis, thereby establishing a safe and sound foreign policy and the new structure for assisting the Throne within the country. The Government expose truths to the people expecting in return their devotion to and sacrifices on behalf of the State. The Government will in turn strive assiduously and guarantee to the people the minimum requirements for living and the maximum degree of honour in all relations.
+
+Under the emergency our State will allow no one to be pampered materially; nor shall any one be permitted to go hungry. The entire nation shall be united in its aspirations and in working out the national fortunes over the seas. I earnestly desire that you will respond, heart and soul, to the call of the hour.
+
+*[Page 176 was transcribed with GPT (Codex CLI), not Claude.]*

@@ -10,7 +10,7 @@ date: 1941-04-13
 author: Board of Information (Japan)
 parties: Japan; Union of Soviet Socialist Republics
 section: Concerning the Pact of Neutrality between Japan and the Soviet Union
-notes: Item I of the section. Announcement giving "a gist of the Pact" (Articles 1-4) and the Joint Declaration; not the full formal text. INCOMPLETE: p. 484 not transcribed
+notes: Item I of the section. Announcement giving "a gist of the Pact" (Articles 1-4) and the Joint Declaration; not the full formal text. INCOMPLETE: p. 484 not transcribed | pp. 484 transcribed with GPT (Codex CLI).
 ---
 [[p. 483]]
 
@@ -34,4 +34,6 @@ The Government of the Japanese Empire and the Government
 
 [[p. 484]]
 
-*[Page 484 was not transcribed. See the scan.]*
+of the Union of Soviet Socialist Republics, in order to assure the peaceful and friendly relations subsisting between them on the basis of the spirit of the Neutrality Pact concluded between the two countries, respect, on the part of the Japanese Empire the territorial integrity and inviolability of the People's Republic of Mongolia, and on the part of the Union of Soviet Socialist Republics the territorial integrity and inviolability of the Empire of Manchoukuo.
+
+*[Page 484 was transcribed with GPT (Codex CLI), not Claude.]*
