@@ -1,0 +1,85 @@
+---
+title: Speech of Prime Minister Ba Maw of Burma at the Assembly of Greater East Asiatic Nations
+type: speech
+source: cj
+ia: contemporary-japan-1943.11
+issue: November, 1943
+leaf: 22
+pages: 1371-1377
+date: 1943-11-05
+author: Dr. Ba Maw, Prime Minister of Burma
+parties: 
+section: Proceedings of the Assembly of the Greater East Asiatic Nations
+notes: Heading printed "Prime Minister Ba Maw's Speech". Date from the editorial introduction (to be confirmed).
+---
+[[p. 1371]]
+
+Mr. Chairman, Your Excellencies:
+
+It is with some diffidence that I am addressing the Assembly. On an occasion like this it is only natural that there should be just one thought in our minds. Our words may be many, but our thought is one, one thought arising from one mind, one will, one objective. Therefore, it will be equally natural that in my speech I shall be often repeating thoughts, emotions, facts, which have already been expressed. But I consider it worthwhile to do so, for Burma, too, must express the same thoughts.
+
+In a sense I have come from my country to speak the same words others have spoken here, to convey the same message, for, after all, there can be only one message. As I look around now, my thoughts go back to the meetings which political circumstances forced me to attend in the West. There, people met together, were polite to each other, laughed, discussed the weather among many other things. But always I felt there like a stranger among strangers, like a Greek slave in ancient Rome.
+
+It is impossible to exaggerate the feelings which are born out of an occasion like this. For years in Burma I dreamt my Asiatic dreams. My Asiatic blood has always called to other Asiatics. In my dreams,
+
+[[p. 1372]]
+
+both sleeping and awaking, I have always heard the voice of Asia calling to her children. Today, for the first time, I hear Asia's voice calling again, but this time not in a dream. We have come together, Asiatics, in answer to the call, to the voice of our mother. I have listened with the greatest emotion to all the speeches delivered around this table. All these speeches have been memorable, moving, and—I may be exaggerating, but you must forgive me—I seem to hear in them the same voice of Asia gathering her children together. Somehow or other, whatever the different representatives may say, whatever local colour they may add, the undertone, the voice, is the same. There is always a unity of design and purpose and mind which, I say, is the call of our Asiatic blood. This is not the time to think with our minds; this is the time to think with our blood, and it is this thinking with the blood that has brought me all the way from Burma to Japan.
+
+Among the speeches made, the most memorable has been the speech of His Excellency the Chairman. His Excellency the Chairman has, as always, delivered a fighting speech—indeed, today, more than a fighting speech. It is a working speech. His Excellency has chosen every word of his as a true *samurai* chooses his weapon. He has streamlined and orientated every word to one consuming purpose; and for this I join the other representatives in expressing my profound gratitude to him.
+
+The world is indeed moving very swiftly. Before the war, it seemed that such a meeting as this would be inconceivable. It would have been impossible then for Asiatics to gather together like this. Yet now we are here. I see with my mind's eye a new world being created. I see in the speech of His Excellency the Chairman a new world structure actually organized, an Asiatic world for Asiatics.
+
+Only a very few years back, the Asiatic peoples seemed to have lived in another world, even in different worlds, divided, estranged, and not knowing each other or even caring to know each other. Asia as a homeland did not exist a few years ago. Asia was not one, then, but many, as many as the enemies which kept her divided, large parts of her following like a shadow one or another of these enemy Powers.
+
+In the past, which now seems to be a very long time ago, it was inconceivable that the Asiatic peoples should meet together as we are meeting here today. Well, the impossible has happened. It has happened in a way which outstrips the boldest fantasy of dream of the boldest dreamer among us.
+
+Today, an East Asiatic Assembly is sitting in the capital of East
+
+[[p. 1373]]
+
+Asia. Thus, a new world has come into existence, a new order, a new citizenship. For the first time in history, the East Asiatic peoples are meeting together as members of a free and equal brotherhood which is founded and consecrated upon the truth that East Asia is one and indivisible.
+
+Today's gathering of the East Asiatic peoples has not appeared out of nothing, out of an empty hat as it were. It is only the climax of a long sequence of happenings which have destroyed one world and created another in East Asia. These happenings, as I have said, have been great and very far-reaching. Japan's assumption of Asiatic leadership, the swift march of her invincible forces across East Asia and the equally swift destruction of the anti-Asiatic Powers, the great rally, unique in all history, of the East Asiatic peoples around Japan against the common enemy, and then, as another great turning-point in our progress, the independence of Burma and the Philippines. Nothing greater or more important has ever happened to the East.
+
+Before I proceed further, I wish to express a thought which has already been expressed by all the other representatives. But Burma also must have the honour of expressing it.
+
+These events which I have described as having changed the East so completely could never have happened without Japan. It is Japan, as the leader of the East, who has led us out of the long wilderness in which so many of us have for so long wandered, lost and unredeemed. To her all East Asia owes much and all East Asia, I am perfectly certain, will gladly repay her much.
+
+I say that today's meeting is a great symbolic act. As His Excellency the Chairman has said, we are truly creating a new world based upon justice, equality and reciprocity, upon the great principle of live and let live. From every point of view, East Asia is a world in itself; materially self-sufficient and even rich to overflowing; strategically strong as a rock which can defy all enemies; spiritually, one and complete representing an entire world of its own. We, Asiatics, forgot this fact for long centuries and paid heavily for it, for as a result the Asiatics lost Asia. Now that we have once more, thanks to Japan, recaptured this truth and acted upon it, the Asiatics will certainly recover Asia. In that simple truth lies the entire destiny of Asia.
+
+I am speaking now as one coming from a country which has learned this lesson at a great price. Many countries and peoples have paid this bitter price for the lesson. Burma paid the price heavily to
+
+[[p. 1374]]
+
+an enemy who never knew either mercy or justice. We are still paying the price with death and destruction in every form. When we were only sixteen million Burmese although we struggled for our birthright, it was in vain. For generations our patriots rose, led the people against the British enemy, but because we never realized that we were a part of Asia, that what sixteen million Burmese cannot succeed in doing a thousand million Asiatics can easily do, and because we never realized these basic facts every revolt of ours against the enemy was mercilessly crushed. Thus, some twenty years ago in a national revolt Burmese villages went up in flames, Burmese women were massacred. Burmese patriots were imprisoned, hanged, exiled. But although the revolt ended in defeat the flame, the Asiatic flame, kept burning in every Burmese heart. One revolt was followed by another and in this way the struggle went on. The day has at last come when our strength is not the only strength of sixteen million Burmese, but the strength of a thousand million East Asiatics, that so long as East Asia is strong Burma is strong and invincible.
+
+I have spoken of East Asia as a whole, but the fact is East Asia is not yet a whole. We must admit that the circle still remains incomplete; there are still gaps in it here and there. At this moment I am thinking particularly of India. No one can think of the East without thinking of India. There is no need at all for me to give reason for this. I have often said that there can not be a free Burma without a free India. I will go further now and boldly declare that there can not be a free Asia without a free India.
+
+India is the armory and treasure-house, the foothold of anti-Asiatic aggression in Asia. The aggressor must therefore be driven out of India, with her endless treasures and resources, her manpower, her material power; these resources of India must be wrested from the hands of the enemy. That is why I am confident that you will join me in expressing quite definitely the view that Indian independence is an integral part of Asiatic independence and, therefore, India's strulgge [sic] is Asia's struggle, our struggle, our war.
+
+Mr. Subhas Chandra Bose will, I am sure, know that I am speaking quite literally and with absolute conviction.
+
+I now come to the present East Asiatic war and East Asiatic order. There is hardly anything I can add to what has already been said by the other representatives. I will however put it quite categorically. For us, this war cannot be anything else than imperative. Either East Asia wins this war and lives, or she loses and dies. It is quite
+
+[[p. 1375]]
+
+literally a matter of life or death. There is no other alternative. It is a war for the very existence of East Asia and her peoples, for her independence and peace and prosperity for a thousand years.
+
+Let us face facts squarely. Burma is facing facts in a terrible way and therefore I am speaking boldly. I am sure I am also speaking for all other East Asiatic countries represented here. Everything is possible to East Asia if she is united, strong and self-sufficient. A thousand million East Asiatics standing together can win any war or any peace.
+
+As for the new Eastern order and economy, I am, as I have said, profoundly grateful to His Excellency the Chairman for his clear and unequivocal statement on it. He has declared with his characteristic courage and decision its basic principles to be justice, reciprocity, and mutual respect for one another's independence and sovereignty. These are clear, reassuring words. These will be forever an East Asiatic charter, a charter which will last as long as the new East Asiatic order will last. Founded upon those principles the new Eastern order will stand like a rock forever. This new East Asiatic world has already the material conditions necessary for stability. Nature has, as I have said, provided those material riches richly for this new world of ours. Materially, we lack nothing to make our world stable and strong against our enemies. But this decidedly is not enough. Together with this material unity there must be a spiritual unity based upon understanding and tolerance, based upon the fundamental proposition of one for all and all for one. Together with our different nationalisms there must be a wider nationalism. Together with our territorial horizons there must be a single East Asiatic world horizon. These are not mere sentiments or phrases, but a deadly task which we must accomplish or perish in the attempt. This is a general perspective of the whole question which is now before us. As all the representatives have emphasized, each one of us, all the individual nations must also travel their own way, move in their own orbit, and make themselves strong in their own countries. We must make ourselves good Asiatics, good neighbours, by primarily being good citizens of our own countries. As I have said more than once a strong Burma is Burma's best contribution to East Asia. Burma's strength will be the strength of East Asia and so also the strength of China, Thailand, Manchoukuo, the Philippines and, last but not least, India. And the strength of East Asia must be the united strength of all these separate countries, moving, working, and co-operating in a free and equal world of their own.
+
+[[p. 1376]]
+
+I will now try to apply this East Asiatic principle to actual happenings. I will speak of my own country, Burma. She is as you all know, on the very front line of the East Asiatic war. You know what that means, the hardships, the terror, the loss of lives and homes—lives existing one day and destroyed the next day. As I said, Burma is facing these perils not only for herself but for all East Asia, that by guarding the common front line, she is guarding the other parts of East Asia. I can assure you that Burma will continue to maintain the front line to the end. I wish, however, to ask the other East Asiatic countries to remember that the war which is now actually raging in Burma is also their war, that this war must be fought on the principle of one for all and all for one, that it must be fought with the strength of all East Asia. There must be a pooling together of all our war strength and resources in order to use them in the defence of the whole of East Asia, in any country, on any front. In other words, just as East Asia is one, her efforts and economy and planning must be one. There must be material oneness. The isolationist policy of every man for himself would be the grossest act of betrayal and would destroy all of us, sooner or later, above all, the isolationists themselves. Burma, as I have said, will continue to be an East Asiatic front line and to fight this war as East Asiatics for East Asiatics. She, at the same time, naturally expects the other East Asiatic countries to do the same.
+
+You must pardon me if I am speaking so much about war conditions in Burma. You will understand that I have come as the representative of a people actually engaged in a total war in their own country. You will understand me if I say that the people of Burma are living today in front line conditions. Their homes and lives, their property, everything that life means for them is daily exposed to enemy action. That is the reason why I have come, frankly, with a firing-line complex in my mind. The Burmese in history have always proved themselves to be great fighters. I can assure you that they are still possessed of great fighting qualities. Two years ago, our Burmese boys fought without arms. They had to kill an enemy to get a gun and they did it. Today, the war morale in Burma is strong and unbroken. Nothing will ever break it, for every Burmese knows he is fighting for everything he holds dear.
+
+I have spoken sufficiently of East Asiatic oneness and the need to fight this war together as East Asiatics and to construct a world together as East Asiatics. We have started this work in the right way at this Assembly. It is, however, necessary to continue the present
+
+[[p. 1377]]
+
+work; further than this, much further, to extend the work we have begun so well today so that it should cover the whole area of the present war and the future peace. In other words, there must be a permanent East Asiatic central organization which will guide the common destiny of East Asia in a planned collective way. This alone will make our unity real and effective, a weapon indeed for both war and peace. Needless to say, the council will represent the free and equal nations of greater East Asia. The road before us therefore is clear. We are only at the beginning of it now, but we shall march forward. Past history shows that whenever the Asiatic peoples came together, whenever they found unity and leadership, they were able to march anywhere, even to the world's end.
+
+Again and again in history the East has marched against its enemies and destroyed them. It was only in times when Asiatics forgot Asia that they broke before the enemy. But now, thanks to the great Nippon Empire, we have discovered once more that we are Asiatics, discovered our Asiatic blood, and it is this Asiatic blood which will redeem us and give us back Asia. Let us, therefore, march ahead to the end of our road, a thousand million East Asiatics marching into a new world where East Asiatics will be forever free, prosperous and will find at last their abiding home.

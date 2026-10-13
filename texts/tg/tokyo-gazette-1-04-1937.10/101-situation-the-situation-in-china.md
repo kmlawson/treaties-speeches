@@ -9,9 +9,9 @@ issue: October, 1937
 leaf: 22
 pages: 21-46
 date: 
-author: Press Section, War Department (I); Publicity Section, Navy Department (II)
+author: Press Section, War Department (I); Publicity Bureau, Navy Department (II)
 section: The Situation in China
-notes: Printed pages read 21-46 (PDF pp. 23-48).
+notes: Printed pages read 21-46 (PDF pp. 23-48). Aircraft-losses table on p. 46 reconciles (152+5=157; 120+7=127; 272+12=284). Printed misprints kept: "numer" (p. 36), "withont" (p. 45). Table column header "Aeroplanes" placed as first header cell. No illegible words.
 ---
 [[p. 21]]
 
@@ -270,3 +270,199 @@ The Japanese vanguard dashed ahead through the flood, hip-deep. The situation de
 At 11 a. m., September 10th, the Numada and Nagano detachments captured Liuhochen, while at 4:30 o'clock, the same afternoon, the Akashiba detachment crossed the Machang river near Chientun in face of the enemy and occupied part of the Chinese positions at Machang.
 
 Early in the following morning, the Japanese forces under cover of darkness stormed the Chinese positions. By 3 a.m., September 11th, the Japanese completely occupied Machang, from which the Chinese troops fled in confusion southward, leaving a large numer [sic] of wounded and killed. The Numada, Nagano and Akashiba detachments
+
+[[p. 37]]
+
+advancing through muddy waters, gave quick chase to the retreating Chinese forces and at 9 o'clock, the same morning, passed the line connecting Siweitsun with the southern extremity of Machang. At 2 o'clock in the afternoon, they reached the line extending west and east from Lukwantun. The Akashiba detachment kept up its southern push and at 3:30 o'clock, the same afternoon, took Chinghsien, a strategically important town about 12 kilometres south of Machang. The Nakai detachment made a southern drive along the Tzeyao river, pressing back the Chinese troops, and on the morning of September 12th occupied Yaomatu, about 16 kilometres west of Tangkwantun, while the Numada and Nagano detachments at 4:20 p.m., September 13th, reduced Hsingchichen, about 10 kilometres south of Chingchow.
+
+The Japanese forces, which had been preparing for a southwestern drive along the line between Tacheng and the Tzeyao river, launched a general offensive at dawn, September 22nd against the Chinese positions at Tacheng and Paiyangchiao, which are key points in the plain of northern Hopei province. The Japanese dashed through the marshy, muddy ground and took those two important points. Thus the Japanese forces operating along the Tientsin-Pukow Railway achieved a southern advance parallel to that made by those pushing south along the Peking-Hankow Railway.
+
+The Numada, Nagano and Akashiba detachments, which took Hsingchow, 22 kilometres south of Machang on September 13th, kept up their southern drive on the line extending west and east from Yaokwantun station, which formed the first Chinese defence line for Tsangchow, covered by artillery.
+
+About 2 p.m., September 21st, the Japanese forces launched a general offensive on Tsangchow in cooperation with the artillery and air force. The Japanese air force raided the Chinese positions at Tsangchow early in the morning of September 23rd and bombed the Chinese positions at Tunghuayüan and Sihuayüan, west of Yaokwantun. The Japanese Akashiba detachment shortly after 9 a.m., September 22nd, succeeded in taking Tunghuayüan.
+
+The combined, fierce attack by the Akashiba, Numada and Nagano detachments resulted in the successive capture of Yaokwantun and Malocheng, thus breaking the first line of defence of the enemy. At 5 p.m., September 23rd, the Japanese forces started a regular attack on the strongly fortified positions north of Tsangchow and at 6:30 o'clock, the same afternoon, succeeded in occupying Tsangchow. The Japanese forces followed up their victory and fiercely pursued the retreating Chinese. They took Chiehchih, about 8 kilometres south of Tsangchow at 10 a.m., September 25th.
+
+[[p. 38]]
+
+The Japanese forces operating along the Tientsin-Pukow Railway maintained their southern drive. On the evening of September 28th, they occupied Hiunghsien and Paitaochen, while the Japanese left wing force on September 30th took Tungkwang, an important point on the Tientsin-Pukow Railway north of Tehchow.
+
+The Japanese forces which kept up their southern push along the Tientsin-Pukow Railway crossed the border between Hopei and Shantung provinces on October 1st and occupied Sangyüan in north-western Shantung province. The same evening they reached a point 3 kilometres north of Tehchow which is 70 kilometres south-west of Tsangchow. The Japanese vanguard immediately started an attack on Tehchow. The offensive became general on the following morning, when the air force also participated. Meanwhile the main body of the Japanese forces succeeded in outflanking the Chinese positions at Tehchow without being noticed by the Chinese troops whose attention apparently was engrossed by the Japanese attack on the north-western projection of the Chinese positions.
+
+The Chinese, therefore, were taken aback by the attack of the Japanese main body from the rear and flank, and were routed. The Chinese fled in confusion toward the south-west. The first serious engagement in Shantung province thus ended in a signal victory for the Japanese.
+
+The Numada detachment made a triumphant entry into Tehchow at 11 o'clock on the morning of October 3rd.
+
+[[p. 39]]
+
+### II
+
+### FORCES OF THE IMPERIAL NAVY IN ACTION
+
+Publicity Bureau, Navy Department
+
+### A Summary of Naval Operations
+
+On the Shanghai front, Chinese troops opened the morning of September 1st by directing machine-gun and rifle fire on North Szechwan Road and the headquarters of the Japanese Marines. The Japanese naval force smashed enemy positions by subjecting them to incessant gun fire.
+
+*September 2.*—Japanese hydroplanes shot down four Chinese aeroplanes over Woosung. Japanese planes also bombed the Chenju Wireless Station, on September 1st and 2nd, destroying most of its equipment.
+
+*September 3.*—Certain Japanese warships made their way into the harbour at Amoy and bombarded the Paishih battery, the air field, and the batteries at Hulishan and Tapankio, inflicting heavy damage on the enemy.
+
+*September 4.*—In an aerial combat over Liuhochen with two enemy squadrons of three fighting planes each, two planes of the Japanese Naval air force shot down three of the opponents. At 3:00 p.m., another Japanese air force attacked the Chinese artillery position located at a point serving as a base for Chinese military operations which was adjacent to the districts guarded by British and American troops. The Japanese planes avoided flight over the Settlement and, after a daring low flight under extremely difficult conditions, bombed the enemy position on which they inflicted extensive damages.
+
+In the afternoon of the same day, warships, in conjunction with an air force, twice bombarded severely the forts at Swabue and Makung ; at 8:00 p.m., an aerial squadron bombed and damaged extensively military establishments at Haichow, the enemy's important strategic point at the terminus of the Lunghai Railway.
+
+*September 5.*—In Shanghai, Japanese forces subjected the North District and Hongkew to concentrated fire and inflicted severe damage.
+
+*September 6.*—In conjunction with army forces, a naval aerial force attacked the enemy on the Chunkung road. In South China a squadron of planes flew over Swatow and carried on extensive bombing of fortified areas causing considerable damage. Another squadron of
+
+[[p. 40]]
+
+Japanese hydroplanes raided Amoy and destroyed the wireless station and the headquarters of the Constabulary.
+
+*September 7.*—An air force bombed the enemy's air bases at Hangchow and Kwangteh, shot down six opposing planes, and returned safely to its base.
+
+*September 8.*—In the Shanghai sector the enemy made several counter-attacks upon Imperial forces at Shakingkang in the north of the Settlement, but the Japanese Marines drove them back each time with heavy losses.
+
+A squadron of the air force operating in cooperation with land forces smashed the enemy positions on the Chunkung Road and at other points, while a part of the squadron additionally bombed railway bridges and tracks, as well as vessels carrying military supplies at Kunshan and Sungkiang inflicting heavy damages on them all.
+
+*September 9.*—A force of Marines advanced to the north-west of the University of Shanghai. An aerial squadron bombed the enemy's heavy artillery positions at Kiating, air bases at Hangchow and Changhing and the Kiangnan Aircraft Factory. While in South China, the planes from the Japanese fleet bombed the building of the Department of Pacification Commission, the headquarters of the Constabulary and the Municipal Government building at Swatow, and later attacked and severely damaged the enemy's headquarters at Chungshan Park, the railway station and military barracks at Chaochow.
+
+*September 10.*—The Yasuda unit of the Marines, under cover of an artillery and aerial bombardment, stormed and wrested from the enemy the positions to the west of the Chunkung Road. At noon, the Chinese artillery on the Pootung side made a wanton attack on the Japanese hospital ship, the *America Maru* which was anchored at the N.Y.K. pier by the Japanese Consulate-General. This attack resulted in several casualties on board the vessel. Countering the attack, Japanese warships soon silenced the enemy.
+
+An aerial squadron bombed enemy positions in the neighbourhood of the Municipal Government building at Yuehpoochen and Yanghangchen.
+
+*September 11.*—The enemy forces made counter-attacks against the position held by the Sato unit to the west of the University at 5:00 o'clock in the morning, and against the Marines at Patzuchiao in Chapei from midnight till dawn, but Japanese Naval forces shattered them and drove them back.
+
+*September 12.*—A squadron of the air force bombed the enemy positions to the south of Lotienchen, and at Kiangwangchen, Tachangchen, Yanghangchen and the Municipal Government
+
+[[p. 41]]
+
+building.
+
+At 8:00 o'clock in the morning, Chinese airplanes bombed the Japanese hospital ship, the *Asahi Maru*, which was anchored in the Yangtze River, but fortunately there were no casualties. In South China a flotilla of destroyers bombarded the enemy forts at Paiya in Bias Bay, and simultaneously a unit of Marines was landed which destroyed two of the enemy's field guns and captured one. In this attack, the powder magazine at the fort caught fire and was completely destroyed by explosion. The same destroyer flotilla bombarded and demolished the Canton Naval Wireless Station at Pinghai at 6:00 o'clock in the afternoon.
+
+*September 13.*—At the Shanghai front the Shibakita unit of the Marines captured the enemy position at the Far Eastern Race Course.
+
+In the morning, one Japanese warship was attacked by two Northrop planes in the neighbourhood of Wanshan Islands to the south-west of Hongkong, but suffered no damage.
+
+*September 14.*—In Shanghai the Furuta unit captured the Aikuo Women's School and subsequently the East Canton High School, both of which had been enemy bases.
+
+A warship, with a destroyer flotilla, approached the fort at Humen and subjected the batteries there as well as two cruisers, which lay under the fort, to heavy bombardment. One of the cruisers heeled over and was forced aground with a large shell hole behind the bridge, while the other was also severely damaged and forced aground. The enemy batteries were of course silenced.
+
+In the forenoon the same warship was attacked four times by Chinese planes. One of the bombs dropped by the enemy exploded in the water near the bow ; splinters from the bomb wounded five of the crew, but the ship itself and its armaments suffered no damage.
+
+*September 15.*—A destroyer was attacked by enemy planes five times successively in the forenoon, outside Swatow harbour. The Chinese dropped twenty-four bombs altogether, all of which missed their mark.
+
+*September 16.*—An aerial squadron attacked the enemy's artillery positions and massed Chinese troops with annihilating effects. On the sea a warship on duty for interruption of traffic along the South China coast was fired at from the enemy batteries at Annankiang in the Hainan Straits. The ship fought back fiercely for a short while, dealing considerable damage to the enemy.
+
+*September 17.*—A part of the enemy's air force bombed their own men who were retreating *en masse* toward the west of Lotienchen.
+
+*September 18.*—Although this was the anniversary of the September
+
+[[p. 42]]
+
+18th incident, the day was rather quiet, except for a night raid by several enemy planes, one of which was shot down in the Japanese counter-attack.
+
+*September 19.*—An air squadron bombed the enemy forces at Kiaosze and also bombarded the enemy's positions at Tachangchen and Nanhsiang and the air field at Changhing. A squadron of hydroplanes while reconnoitring various parts of Central China bombed the aerodrome and barracks at Haichow and completely destroyed three of the barracks. At Süchow it bombed and smashed the engine shed and other equipment of the railway station.
+
+*September 20.*—A unit of the air force bombed the Kwangteh Air Field as well as enemy positions and other military establishments at Kiating, Tachangchen, and Soochow.
+
+A large force of naval planes carried out raids on Süchow and Lienyünchiang ; at the former place it destroyed military trains and an engine shed in the station compound ; at the latter it bombed storehouses of military supplies and crude-oil tanks and set them on fire.
+
+*September 21.*—A squadron of the air force raided the Kwangteh Air Field, the Tsining Air Field, the railway station at Süchow together with military supply trains, the air field and powder magazine at Hwaiyin, and also the Yenchow railway station.
+
+A large air force raided Canton, where it engaged some fifteen enemy planes in aerial combat and downed eleven of them (two others appeared to fall to the ground but their fate could not be ascertained). In addition, it bombed the air fields at Tienho and Paiyün, destroying a hangar, barracks and six planes outside the hangar at the former air field, and two hangars and a fuel storehouse at the latter, besides bombing and destroying a part of the powder-mill at Tsengpu.
+
+At about 3:00 o'clock in the afternoon another air raid was made on Canton. The Japanese air force fought in mid-air with about ten enemy fighting planes and shot down six of them ; then forcing its way through the heavy fire of anti-aircraft guns, attacked the Tienho Air Field, destroying five hangars and a storehouse on the east side of the field. The squadron also carried on bombing operations against the Paiyün Air Field and destroyed a hangar and barracks, besides bombing to pieces five enemy planes of intermediate size which lay outside the hangar there. Throughout these operations the Japanese planes remained safe and the raiding party returned to its base intact.
+
+*September 22.*—An air force raided the Tienho Air Field and the army headquarters, after which it bombed the Paiyün Air Field and
+
+[[p. 43]]
+
+destroyed hangars and barracks as well as one aeroplane, besides inflicting considerable damage on three other planes which were on the ground. After this, the same air force made a raid on the air field at Tsunghwa and destroyed two hangars and a plane on the ground. In these operations one Japanese plane was lost after a gallant fight.
+
+An aerial raid on Canton was once more carried out at 2:00 o'clock in the afternoon with the following heavy damages inflicted on the enemy : At the Humen Air Field, 1 hangar was destroyed by bombs ; at the Tienho Air Field, 2 hangars were destroyed by bombs and burned down ; the munitions arsenal was destroyed ; the Shektsing Arsenal collapsed ; and a factory of military supplies was destroyed by bombs.
+
+*September 23.*—An air squadron, taking advantage of darkness, raided Canton, and bombed the air fields at Paiyün and Tienho, the army headquarters and the military academy, following which it attacked Yenchow, and Nanchang causing substantial damage there. The squadron returned safely to its base.
+
+*September 24.*—An air squadron flew the long distance to Hankow and Nanchang to make sudden raids on those places, where it caused the following heavy losses : At Hankow, the arsenal and the iron works were extensively damaged, and two enemy planes shot down in aerial fight ; at Nanchang, both the old and the new air fields were bombed, a repair shop, barracks and several planes preparing for action were destroyed, while large fires started in several places.
+
+*September 25.*—1. Air raids on Nanking : In the morning and afternoon four air raids were successively carried out by naval air units, which bombed the Department of War, the headquarters of the communications corps, the anti-aircraft batteries at Peichiko, and the wireless station.
+
+2. Air raids on Canton : An air squadron raided the Canton area twice, bombing the Paiyün Aeronautical School, the Humen Air Field and the Military Academy, besides bombing and forcing aground an enemy gunboat at a point above Kishan.
+
+3. Air attacks on enemy warships in the Kiangyin area : An air squadron bombed a cruiser of the Haitse class and a gunboat of the Yatsen class and forced both to run aground.
+
+4. Two of the planes which raided Nanking met a heroic end there when shot down by enemy guns. Another plane made a forced landing near the Kiangyan fortress, but a member of its crew was saved by a companion plane.
+
+*September 26.*—1. At noon a naval air force carried on bombing
+
+[[p. 44]]
+
+operations on the following points on the Chekiang-Kiangsi Railway causing extensive damages to the following objects : At Kinhwa, railway tracks and several freight cars ; at Chüchow, railway station, tracks, and a score or more freight cars ; at Shangjao, an engine shed and several freight cars ; at Kinkiang, railway tracks and several freight cars.
+
+2. A part of the air force bombed and destroyed a Northrop plane awaiting action at the Kwangteh Air Field, and similarly damaged the aerodrome at Ningpo.
+
+*September 27.*—1. Air raids on Nanking : A naval air force twice raided Nanking, bombing the Nanking Military Supply Works, the Pukow Railway Station and various points of military operations.
+
+2. Air raids on Canton : A squadron attacked the Canton area three times during the forenoon and afternoon. In the first and second raids, it bombed important points on the Canton-Hankow Railway, inflicting specially heavy damage on a bridge south of Kongtsun and tracks near Yinchanyao. In the third raid, this force severely bombed and damaged the Humen Air Field and barracks as well as a gunboat of the Haining class. In the first raid there was an aerial fight in which the Japanese force downed one of the enemy's fighting planes. Deep anxiety was felt for one Japanese aeroplane which was missing after the raids were over, but the plane was found by a British steamer off the coast of Amoy where it had made a forced landing, and the crew were saved and handed over to a Japanese destroyer.
+
+3. Bombing of Kiating : A squadron of planes bombed and smashed the enemy positions on the southern outskirts of Kiating.
+
+*September 28.*—The following important air raids were carried out : At Canton, main buildings of the Pakow Arsenal were bombed and burned ; five hangars and barracks of the Tsungfa Air Field were bombed and destroyed. At Nanking, hangars at the Tachao Air Field were bombed. At Küyung, the air field and hangars were greatly damaged, two planes on the ground were destroyed and in an aerial fight one fighting plane of the Curtiss-Hawk type was shot down. At Wuhu, five planes were bombed and destroyed, and a fuel storehouse was fired ; additionally, one fighting plane of the Curtiss-Hawk type was shot down in an aerial engagement. At Hangchow, the air field was bombed. At Kwangteh, hangars of the new air field as well as the Aeronautical School were severely damaged. At Süchow, the railway station, military freight cars, and storehouses of military supplies were bombed and destroyed. In the Shanghai area, the enemy's
+
+[[p. 45]]
+
+main positions were bombed throughout the day in cooperation with land forces. Extensive damage was inflicted on the enemy there.
+
+*September 29.*—1. A squadron of the air force swooped down on the Kwangteh Air Field in the grey of the morning and smashed a hangar and about ten storehouses there. Another squadron raided Kiangyin and bombed a cruiser until it heeled over.
+
+2. In the forenoon naval aeroplanes bombed Hwaiyin where they destroyed two planes on the ground, and then raided Tsining, destroying an engine shed and barracks in the air field. In the afternoon they bombed the Süchow East Station and destroyed storehouses of military supplies.
+
+3. A unit of planes discovered an enemy cruiser near Canton, bombed her and caused a large fire on the ship.
+
+*September 30.*—1. A squadron of planes raided the Nanhsiang, Kiangwanchen and Hangchow areas and inflicted damage on the enemy's military establishments and transport organs.
+
+2. A squadron of aeroplanes bombed an enemy cruiser lying west of Hwangpu, and sank a gunboat in midstream off Tanchiang.
+
+*October 1.*—1. An air force carried out bombing operations in the forenoon and afternoon with the following results :
+
+At Nanchang, two hangars and main buildings were completely destroyed ; at Kwangsin, an engine shed was demolished ; at Pengpu, the railway station building was thoroughly damaged.
+
+2. A squadron of planes bombed enemy warships at Kiangyin with the following results : 1 gunboat sunk, 1 gunboat hit in the side and forced to run aground.
+
+3. A squadron of planes reconnoitring the Lunghai Railway bombed the enemy's barracks at Haichow with devastating effect.
+
+4. At midnight enemy planes repeatedly appeared over the Japanese forces and dropped some fifteen bombs, but each time they were driven back withont [sic] causing any loss to the Japanese side.
+
+*October 2.*—1. An air squadron bombed Tachangchen, Miaohangchen, Kiangwanchen and other enemy bases in the forenoon and afternoon inflicting on them severe damage ; one Japanese plane was shot down.
+
+2. A naval air squadron attacked enemy warships near Kiangyin with the following results : 1 cruiser was directly hit and stranded ; 1 gunboat was severely damaged and set on fire, another was broken in half, a third gunboat was damaged considerably.
+
+3. A squadron raided Hwangpu and Canton and caused great losses there. On its return flight it encountered four enemy planes
+
+[[p. 46]]
+
+of the Curtiss-Hawk III type. The Japanese squadron leader, engaging the entire enemy squadron in single combat, shot down one of the opposing planes.
+
+4. At midnight enemy planes twice appeared to attack the Japanese force but were driven back each time.
+
+*October 3.*—Important results of air raids were as follows : At Anking, two planes on the ground were bombed and destroyed ; a canvas-made hangar was damaged. At Nanhsiang, heavy damages were inflicted on military establishments ; railway tracks and 15 freight cars were destroyed. At Kunshan, a car-shed, three storehouses, a locomotive and freight cars were destroyed. At Kashing, a car-shed was destroyed ; a storehouse and railway tracks were considerably damaged. On the Tientsin-Pukow Railway, freight trains carrying defeated enemy forces from Hanchwang, Maotsuntsi and Sanpaoyi were bombed and destroyed.
+
+### Japanese and Chinese Aircraft Losses
+
+Material losses inflicted by the Imperial Navy on the Chinese air force within the period between August 14th and September 22nd may be summed up as follows :
+
+| Aeroplanes | Definitely ascertained | Indefinitely Ascertained | Total |
+|---|---|---|---|
+| Shot down | 152 | 5 | 157 |
+| Destroyed on the ground | 120 | 7 | 127 |
+| Total | 272 | 12 | 284 |
+
+Against the above losses on the Chinese side, the Japanese Naval Air Force sustained loss of only 31 aeroplanes during the same period.
+
+### The Occupation of Pratas Island
+
+On the morning of September 3rd, a Japanese warship visited Pratas Island, and sending ashore a party of Marines, occupied the island. A solitary island, lying 180 sea miles to the south-east of Hongkong, Pratas Island has a Chinese naval wireless station, meteorological observatory and lighthouse. The sea in its neighbourhood is noted for the production of a species of sea-weed, known in Japanese as " kaijinso," the extract of which is used for medicinal purposes.

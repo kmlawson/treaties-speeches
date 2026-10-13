@@ -11,7 +11,7 @@ pages: 27-46
 date: 
 author: Press Section, War Department; Publicity Bureau, Navy Department
 section: The Situation in China
-notes: 
+notes: Printed pages 27-46 read (PDF pp. 29-48; p. 27 is the unnumbered title page). Spellings as printed (e.g. "Hur", "Chian", "Sian Province"). No tables. Nothing illegible.
 ---
 [[p. 27]]
 
@@ -367,3 +367,36 @@ South China: Pakonghow, Yinchanyao, Wongshek, Laitung, Sinkai, Hotow, Shakow and
 
 *March 27th* Central China: Hankow and Wuchang were raided. The Japanese Naval Air Force bombed and destroyed three planes
 
+[[p. 45]]
+
+at the Hankow airfield and two large-sized planes at the Wuchang airfield. Other military establishments were also bombed.
+
+Anching was visited and the airfield there was attacked. One Chinese gunboat and one freighter were bombed and sunk.
+
+South China: Various key points on the Canton-Hankow Railway were attacked.
+
+*March 28th* Japanese naval planes bombed the airfield at Nanyung in South China as well as several points on the Canton-Hankow Railway.
+
+*March 29th* Various important points along the Canton-Hankow Railway were attacked.
+
+*March 30th* South China: Shakow, Laitung and other points on the Canton-Hankow Railway were visited and military establishments including railway tracks were bombed. Bocca Tigris also was visited and the military barracks there were attacked. A naval aerial expedition was extended to Changchow where a large factory was bombed.
+
+*March 31st* The Japanese Naval Air Force continued its attacks on Laitung, Wongshek, Shakow and other points on the Canton-Hankow Railway, bombing railway tracks and bridges. In addition, the Japanese planes attacked a military arsenal at Pakonghow and a large factory at Suntso.
+
+*April 1st* North China: While cooperating with the ground forces operating in southern Shantung Province, the Japanese Naval Air Force visited Lungchuanchang and attacked a large bandit concentration.
+
+Central China: Chian was visited and the airfield was attacked.
+
+South China: Foochow was visited by naval planes which attacked the airfield there. Various important points on the Sunning, the Canton-Samshui, and the Canton-Hankow Railways were also bombed. The North River was likewise visited by the Japanese Naval Air Force which also attacked military goods trains north of Wongsha on the Canton-Hankow Railway.
+
+*April 3rd* South China: The wireless station at Chungshan, the airfield at Shiuchow, the airfield at Foochow and military establishments at Bocca Tigris and Kucheng were bombed by the Japanese Naval Air Force.
+
+*April 4th* North China: Japanese naval planes raided Tungnanying, Towang and Paikuo where military establishments and troop concentrations were bombed.
+
+Central China: Kushih was raided and the local airfield was attacked with the result that three Chinese planes on the ground were bombed and destroyed while another was damaged. Chuma-
+
+[[p. 46]]
+
+tien was also visited and the airfield attacked. Over a dozen aeroplanes on the ground were damaged.
+
+South China: Laitung and Hwangmen on the Canton-Hankow Railway were visited and railway tracks and rolling stock were attacked. Tangtow and Siahu on the Canton-Kowloon Railway were raided; the military establishments at those railway stations were bombed. Lishui was raided with the result that three hangars at the airfield were destroyed.
