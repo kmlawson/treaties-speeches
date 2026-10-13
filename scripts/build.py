@@ -1,13 +1,13 @@
-"""Build the static site in site/ from the transcribed texts in texts/<tg|cj>/<ia>/*.md.
+"""Build the static site in docs/ (served by GitHub Pages) from the transcribed texts in texts/<tg|cj>/<ia>/*.md.
 
 usage: python3 scripts/build.py
-Output: site/index.html (browse), site/search.html (full-text search), site/doc/<id>.html (one per text),
-site/data.js (search index). Everything is self-contained and opens from file://.
+Output: docs/index.html (browse), docs/search.html (full-text search), docs/doc/<id>.html (one per text),
+docs/data.js (search index). Everything is self-contained and opens from file://.
 """
 import html, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = f'{ROOT}/site'
+SITE = f'{ROOT}/docs'
 SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan'}
 TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'list': 'Law list'}
 TYPES_PL = {'treaty': 'Treaties', 'law': 'Laws', 'speech': 'Speeches', 'document': 'Other documents', 'list': 'Lists of laws promulgated'}
@@ -393,6 +393,7 @@ def build():
     if os.path.isdir(SITE):
         shutil.rmtree(SITE)
     os.makedirs(f'{SITE}/doc')
+    open(f'{SITE}/.nojekyll', 'w').write('')
     open(f'{SITE}/style.css', 'w').write(CSS)
     open(f'{SITE}/common.js', 'w').write(COMMON_JS)
     counts = {t: sum(1 for d in docs if d['type'] == t) for t in TYPES}

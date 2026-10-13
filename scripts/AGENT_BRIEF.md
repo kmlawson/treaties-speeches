@@ -66,7 +66,13 @@ So:
   its own call (`cat >> file <<'EOF_TS' ... EOF_TS` in Bash, or Edit). Read one to three pages, write
   them out page by page, then read the next; do not read a whole long text before writing any of it.
 - Do not repeat transcribed text in your messages or your report.
-- When a text is complete, append a line `DONE <path of the file>` to `texts/_reports/<batch>.progress`.
+- Before you begin transcribing a text, append a line `START <path of the file>` to
+  `texts/_reports/<batch>.progress`; when it is complete, append `DONE <path of the file>`.
+- A path with a START and no DONE is the text an earlier agent was working on when it was cut off. Try it
+  again (continuing after what is already written). But if the progress file already holds **two** STARTs
+  for that path and no DONE, do not try a third time: append `BLOCKED <path>`, leave the partial file as it
+  is with `notes: INCOMPLETE - transcription cut off after p. N` in its front matter, list it in your
+  report, and go on to the next text.
 - **Before starting**, read that progress file if it exists and list what is already in `texts/<src>/<ia>/`
   for your issues: an earlier agent may have done part of the batch. Files marked DONE are finished - keep
   them, do not re-read their pages. A file not marked DONE was cut off: check its last `[[p. N]]` marker
