@@ -1,6 +1,8 @@
 ---
 title: Field Service Code (Chapters II, III and Conclusion), Adopted by the War Department on January 8, 1941
 type: document
+series: Field Service Code
+part: 2
 source: tg
 ia: tokyo-gazette-4.10-1941.4
 issue: April, 1941

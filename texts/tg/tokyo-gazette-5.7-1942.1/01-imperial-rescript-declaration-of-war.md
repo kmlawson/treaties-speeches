@@ -1,6 +1,6 @@
 ---
 title: Imperial Rescript
-type: law
+type: document
 source: tg
 ia: tokyo-gazette-5.7-1942.1
 issue: January, 1942
@@ -10,7 +10,7 @@ date: 1941-12-08
 author: Emperor of Japan
 parties: 
 section: 
-notes: INCOMPLETE: p. 321 not transcribed (the opening of the rescript). Date from the rescript's closing line. Imperial Rescript declaring war on the United States and the British Empire. The scan is of two-page spreads; p. 321 is the right half of PDF page 3, p. 322 the left half of PDF page 4.
+notes: INCOMPLETE: p. 321 not transcribed (the opening of the rescript). Date from the rescript's closing line. Imperial Rescript declaring war on the United States and the British Empire. The scan is of two-page spreads; p. 321 is the right half of PDF page 3, p. 322 the left half of PDF page 4. | Recategorised from law: imperial rescript (declaration of war), not a law.
 ---
 [[p. 321]]
 

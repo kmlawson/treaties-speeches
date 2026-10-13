@@ -1,6 +1,6 @@
 ---
 title: Law Concerning Temporary Emergency Measures on Exports and Imports
-type: law
+type: summary
 source: tg
 ia: tokyo-gazette-1-03-1937.9
 issue: September, 1937
@@ -10,7 +10,7 @@ date: 1937-09-10
 author: Bureau of Information, Prime Minister's Department
 parties: 
 section: Emergency Legislative Measures Incidental to the China Affair
-notes: Official summary, not the text of the law. (Law No. 92, 1937, Promulgated on and Enforced since September 10th)
+notes: Official summary, not the text of the law. (Law No. 92, 1937, Promulgated on and Enforced since September 10th) | Recategorised from law: official summary, not the text of the law.
 ---
 [[p. 46]]
 

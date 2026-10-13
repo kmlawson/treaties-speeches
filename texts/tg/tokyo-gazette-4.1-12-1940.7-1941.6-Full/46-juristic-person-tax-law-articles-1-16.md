@@ -1,6 +1,8 @@
 ---
 title: Juristic Person Tax Law (Hōzin-Zei Hō), Law No. 25 of March 29th of the 15th Year of Syōwa (1940), Articles 1-16
 type: law
+series: Juristic Person Tax Law
+part: 1
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: December, 1940

@@ -1,6 +1,6 @@
 ---
 title: Imperial Rescript (on the Conclusion of the Three-Power Pact)
-type: law
+type: document
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: November, 1940
@@ -10,7 +10,7 @@ date: 1940-09-27
 author: The Emperor
 parties: 
 section: 
-notes: Page number not printed on the page (taken from the index). Title as printed is "Imperial Rescript".
+notes: Page number not printed on the page (taken from the index). Title as printed is "Imperial Rescript". | Recategorised from law: imperial rescript, not a law.
 ---
 [[p. 173]]
 

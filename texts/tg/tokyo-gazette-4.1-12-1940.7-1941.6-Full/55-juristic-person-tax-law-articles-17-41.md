@@ -1,6 +1,8 @@
 ---
 title: Juristic Person Tax Law (Hōzin-Zei Hō), Articles 17-41 (concluding instalment)
 type: law
+series: Juristic Person Tax Law
+part: 2
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: January, 1941

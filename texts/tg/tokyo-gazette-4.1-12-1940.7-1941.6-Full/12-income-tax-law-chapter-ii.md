@@ -1,6 +1,8 @@
 ---
 title: Income Tax Law (Law No. 24 of March 29th of 1940), Chapter II - Classified Income Tax
 type: law
+series: Income Tax Law
+part: 2
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: July, 1940

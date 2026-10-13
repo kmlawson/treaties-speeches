@@ -1,6 +1,8 @@
 ---
 title: Income Tax Law (Chapters VI to VIII)
 type: law
+series: Income Tax Law
+part: 5
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: October, 1940

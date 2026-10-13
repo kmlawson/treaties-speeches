@@ -1,6 +1,8 @@
 ---
 title: Income Tax Law (Law No. 24 of March 29th of 1940), Chapter I - General Provisions
 type: law
+series: Income Tax Law
+part: 1
 source: tg
 ia: tokyo-gazette-3.12-1940.6
 issue: June, 1940

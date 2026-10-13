@@ -1,6 +1,6 @@
 ---
 title: Ordinance Concerning the Effective Date of the Judicial Protective Work Law; Organization of the Judicial Protective Work Commission; Ordinance Concerning the Committee for Judicial Protection (Imperial Ordinances Nos. 642, 643 and 644 of Sept. 13, 1939)
-type: law
+type: summary
 source: tg
 ia: tokyo-gazette-3.5-1939.11
 issue: November, 1939
@@ -10,7 +10,7 @@ date: 1939-09-13
 author: Secretariate of the Cabinet
 parties: 
 section: Ordinances Recently Promulgated
-notes: Official summary, not the text of the law. One summary paragraph covers the three ordinances; it runs to about half a page.
+notes: Official summary, not the text of the law. One summary paragraph covers the three ordinances; it runs to about half a page. | Recategorised from law: official summary, not the text of the ordinances.
 ---
 [[p. 201]]
 

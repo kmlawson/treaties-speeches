@@ -17,6 +17,8 @@ Every text that the journal prints **verbatim** and that is one of:
   printed (e.g. "Article 1. ...").
 - `speech` - addresses, speeches, broadcasts, lectures, messages delivered by a named person
   (Diet ministerial addresses, radio addresses, banquet addresses, messages to the Diet).
+- `summary` - an official summary or explanatory account of a law that does not print its articles (only when
+  it is long enough to be worth taking; see below). `law` is reserved for the text of the law itself.
 - `list` - see "Recently promulgated columns" below.
 - `document` - other verbatim official texts: government/Foreign Office statements, diplomatic notes,
   protests, proclamations, announcements quoted in full, joint communiques.
@@ -54,7 +56,7 @@ sheet of the column to see which is which, then:
   Read the pages at reading size for this - do not take titles or dates off the contact sheet or the index.
 - An entry that prints the actual text (articles, treaty provisions), or whose account runs to about half a
   page or more, is **also** extracted in full as its own `law` / `treaty` file; if it is an official summary
-  rather than the articles themselves, say "official summary, not the text of the law" in `notes`.
+  rather than the articles themselves, give it `type: summary`.
 
 ## Writing in small pieces, and resuming (important)
 
@@ -131,7 +133,8 @@ notes:
 
 - `title`: as printed (title case, not all caps); add what is needed to make it self-explanatory
   (e.g. "Address of the Prime Minister, Prince Fumimaro Konoe, at the 72nd Session of the Imperial Diet").
-- `type`: `treaty` | `law` | `speech` | `document`.
+- `type`: `treaty` | `law` | `speech` | `document` | `summary` | `list`.
+- Optional, for one text printed in instalments across issues: `series: <name of the whole text>` and `part: <n>`.
 - `source`: `tg` or `cj`. `ia`, `issue`: from the batch file.
 - `leaf`: IA leaf of the page where the text starts (= PDF page - 1). `pages`: printed page numbers.
 - `date`: date of the text (signing, promulgation, delivery) as YYYY-MM-DD, or YYYY-MM / YYYY; blank if not given.

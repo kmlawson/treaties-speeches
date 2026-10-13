@@ -1,6 +1,8 @@
 ---
 title: Income Tax Law (Chapter IX and Supplementary Provisions)
 type: law
+series: Income Tax Law
+part: 6
 source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: November, 1940

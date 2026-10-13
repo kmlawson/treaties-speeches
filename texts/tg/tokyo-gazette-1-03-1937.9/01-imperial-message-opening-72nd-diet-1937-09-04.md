@@ -1,6 +1,6 @@
 ---
 title: Imperial Message Granted on the Occasion of the Opening of the 72nd Session of the Imperial Diet
-type: law
+type: document
 source: tg
 ia: tokyo-gazette-1-03-1937.9
 issue: September, 1937
@@ -10,7 +10,7 @@ date: 1937-09-04
 author: The Emperor
 parties: 
 section: Imperial Message
-notes: Imperial rescript/message to the Diet.
+notes: Imperial rescript/message to the Diet. | Recategorised from law: imperial message, not a law.
 ---
 [[p. 1]]
 

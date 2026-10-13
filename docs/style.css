@@ -1,10 +1,10 @@
 :root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#5f5f5f;--fg-faint:#8a8a8a;--accent:#003a87;--on-accent:#fff;
 --header-bg:#f5f5f5;--card-bg:#fff;--card-border:#dcdcdc;--input-border:#bbb;--input-bg:#fff;--dotted:#ddd;--rule:#e6e6e6;
---tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--list:#5f5f5f;
+--tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--summary:#7a5c00;--list:#5f5f5f;
 --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:Georgia,"Times New Roman",serif;--r:3px}
 [data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#808080;--accent:#6da3e0;--on-accent:#111;
 --header-bg:#242424;--card-bg:#242424;--card-border:#444;--input-border:#555;--input-bg:#2a2a2a;--dotted:#444;--rule:#333;
---tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--list:#aaa}
+--tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--summary:#d9b95a;--list:#aaa}
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
@@ -28,6 +28,7 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .chip.on[data-v=treaty]{background:var(--treaty);border-color:var(--treaty)}.chip.on[data-v=law]{background:var(--law);border-color:var(--law)}
 .chip.on[data-v=speech]{background:var(--speech);border-color:var(--speech)}.chip.on[data-v=document]{background:var(--document);border-color:var(--document)}
 .chip.on[data-v=list]{background:var(--list);border-color:var(--list)}
+.chip.on[data-v=summary]{background:var(--summary);border-color:var(--summary)}
 .controls select,.controls input[type=search]{font-weight:400;color:var(--fg);border-color:var(--input-border);justify-content:flex-start;cursor:auto;max-width:100%}
 .controls select{cursor:pointer}
 .controls input[type=search]{flex:1 1 14rem;min-width:10rem;font-size:.9375rem}
@@ -55,7 +56,7 @@ background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opac
 /* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
 .tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.12rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
 letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden;border-radius:var(--r);border:1.5px solid currentColor;vertical-align:middle}
-.tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}
+.tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}.tag.summary{color:var(--summary)}
 .hidden{display:none!important}
 /* document page */
 .doc-head{margin:1.6rem 0 1.1rem;padding-bottom:.9rem;border-bottom:1px solid var(--rule)}
@@ -64,6 +65,10 @@ letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden
 .meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
 .note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
 .disclaimer{max-width:43.75rem;margin:2rem auto 0;padding:.7rem .9rem;border:1.5px solid var(--input-border);border-left:4px solid var(--accent);border-radius:var(--r);font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);background:var(--tag-bg)}
+.series{margin:0 auto 1.2rem;max-width:43.75rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);display:flex;flex-wrap:wrap;gap:.35rem;align-items:center}
+.series strong{color:var(--fg)}.series .btn{min-height:1.75rem;padding:.15rem .55rem}.series .btn.on{background:var(--accent);color:var(--on-accent)}
+.parthead{max-width:43.75rem;margin:2.2rem auto .8rem;padding-top:.8rem;border-top:2px solid var(--accent);font-size:1.15rem}
+.parthead small{display:block;font-family:var(--ui);font-weight:400;font-size:.78rem;color:var(--fg-faint)}
 .tools{margin-top:.8rem;display:flex;gap:.5rem;flex-wrap:wrap}
 .doc{font-size:1.09rem;line-height:1.62;max-width:43.75rem;margin:0 auto;overflow-wrap:break-word}
 .doc p{margin:0 0 .85em}

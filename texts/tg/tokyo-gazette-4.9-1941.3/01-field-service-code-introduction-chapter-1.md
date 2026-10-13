@@ -1,6 +1,8 @@
 ---
 title: Field Service Code (Introduction and Chapter I), Adopted by the War Department on January 8, 1941
 type: document
+series: Field Service Code
+part: 1
 source: tg
 ia: tokyo-gazette-4.9-1941.3
 issue: March, 1941
