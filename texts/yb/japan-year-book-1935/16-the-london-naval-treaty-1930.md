@@ -384,7 +384,7 @@ retained on each vessel;
 | Toul ,, ,, | 644 |
 | Epinal ,, ,, | 644 |
 | Liévin ,, ,, | 644 |
-| [illegible]—Netlayer | 2,293 |
+| (——)—Netlayer | 2,293 |
 | | 28,644 |
 
 #### BRITISH COMMONWEALTH OF NATIONS

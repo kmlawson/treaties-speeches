@@ -10,7 +10,7 @@ date: 1922-02-06
 author: 
 parties: United States; British Empire; France; Italy; Japan
 section: Treaties
-notes: INCOMPLETE: p. 1285 right column not transcribed; p. 1286 left column not transcribed; p. 1288 right column not transcribed; p. 1293 not transcribed (left and right columns), so the text resumes mid-sentence at the top of p. 1294. | British ship tonnages as transcribed sum to 579,950 against a printed total of 580,450 (printed figures kept; reported by the transcriber, to be confirmed in proofreading). | pp. 1285, 1286, 1288, 1293 transcribed with GPT (Codex CLI).
+notes: INCOMPLETE: p. 1285 right column not transcribed; p. 1286 left column not transcribed; p. 1288 right column not transcribed; p. 1293 not transcribed (left and right columns), so the text resumes mid-sentence at the top of p. 1294. | British ship tonnages as transcribed sum to 579,950 against a printed total of 580,450 (printed figures kept; confirmed in proofreading against the scan: every ship figure re-read, the book's figures really do not add up, difference 500, Warspite printed 27,000). | pp. 1285, 1286, 1288, 1293 transcribed with GPT (Codex CLI).
 ---
 [[p. 1284]]
 
@@ -24,7 +24,7 @@ notes: INCOMPLETE: p. 1285 right column not transcribed; p. 1286 left column not
 
 **ARTICLE I** The Contracting Powers agree to limit their respective naval armaments as provided in the present Treaty.
 
-**ARTICLE II** The Contracting Powers may retain respectively the capital ships which are specified in Chapter II, Part 1. On the coming into force of the present Treaty, but subject to the following provisions of this Article, all other capital ships, built or building, of the United States, the British Empire and Japan shall be disposed of as prescribed in Chapter II, Part 2.
+**ARTICLE II** The Contracting Powers may retain respectively the capital ships which are specified in Chapter II, Part 1. On the coming into force of the present Treaty, but subject to the following provisions of this Article, all other capital ships, built or building, of the United States, the British Empire and Japan shall be dsposed of as prescribed in Chapter II, Part 2.
 
 In addition to the capital ships specified in Chapter II, Part 1, the United States may complete and retain two ships of the West Virginia class now under construction. On the completion of these two ships the North Dakota and Delaware shall be disposed of as prescribed in Chapter II, Part 2.
 
@@ -351,7 +351,7 @@ Note.—A, B, C, D, etc., represent individual capital ships of 35,000 tons disp
 | 1931 | C. D. | — | — | 17 | 3 |
 | 1932 | E. F. | — | — | 17 | 3 |
 | 1933 | G | — | — | 17 | 3 |
-| 1934 | H. I. | C. D. | Iron Duke (20), Marlborough (20), Emperor of India (20), Benbow (20), | 13 | 5 |
+| 1934 | H. I. | C. D. | Iron Dulke (20), Marlborough (20), Emperor of India (20), Benbow (20), | 13 | 5 |
 | 1935 | J | E. F. | Tiger (21), Queen Elizabeth (20), Warspite (20), Barham (20), | 9 | 7 |
 | 1936 | K. L. | G | Malaya (20), Royal Sovereign (20), | 7 | 8 |
 | 1937 | M | H. I. | Revenge (21), Resolution (21), | 5 | 10 |
