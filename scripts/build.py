@@ -184,9 +184,11 @@ def render_body(doc):
             pcols = {k for k, c in enumerate(rows[0]) if c.strip().lower() in ('page', 'pages', 'p.')}
 
             def cell(k, c):
-                if k in pcols and doc['leaf'] is not None and first_page is not None:
-                    return re.sub(r'\d+', lambda m: f'<a href="{ia_page(doc["ia"], doc["leaf"] + int(m.group(0)) - first_page)}" target="_blank" '
-                                  f'title="View this page of the scan">{m.group(0)}</a>' if int(m.group(0)) >= first_page else m.group(0), esc(c))
+                fm = re.match(r'\d+', doc['pages'])
+                fp = first_page if first_page is not None else (int(fm.group(0)) if fm else None)
+                if k in pcols and doc['leaf'] is not None and fp is not None:
+                    return re.sub(r'\d+', lambda m: f'<a href="{ia_page(doc["ia"], doc["leaf"] + int(m.group(0)) - fp)}" target="_blank" '
+                                  f'title="View this page of the scan">{m.group(0)}</a>' if int(m.group(0)) >= fp else m.group(0), esc(c))
                 return inline(c)
             for r in rows[2:]:
                 h += '<tr>' + ''.join(f'<td>{cell(k, c)}</td>' for k, c in enumerate(r)) + '</tr>'
