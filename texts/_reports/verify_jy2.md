@@ -1,0 +1,12 @@
+09-commercial-treaty...-1911.md p.1268: 'understood' -> 'undesrtood [sic]' (restored printed misprint)
+11-basic-treaty-between-japan-and-russia-1925.md p.1273: 'come into force' -> 'come into full force' (dropped words)
+12-convention-de-commerce-entre-le-japon-et-la-france-1911.md p.1273: "étrangers ou des nationaux" -> "étrangers on [sic] des nationaux" (restored printed misprint)
+12-convention-de-commerce-entre-le-japon-et-la-france-1911.md p.1274: "monopole d'État" -> "d'Etat" (punctuation or accent only)
+12-convention-de-commerce-entre-le-japon-et-la-france-1911.md p.1274: "compte de l'État" -> "l'Etat" (punctuation or accent only)
+12-convention-de-commerce-entre-le-japon-et-la-france-1911.md p.1275: "qui sont ou pourront" -> "qui sont où pourront" (restored printed misprint)
+13-convention-de-commerce-entre-le-japon-et-l-allemagne-19.md p.1277: heading "entre le Japon" -> "enter [sic] le Japon" (restored printed misprint)
+13-convention-de-commerce-entre-le-japon-et-l-allemagne-19.md p.1279: "lieu où l'importation" -> "lieu ou [sic] l'importation" (restored printed misprint)
+13-convention-de-commerce-entre-le-japon-et-l-allemagne-19.md p.1280: "qui sont ou pourront" -> "sont on [sic] pourront" (restored printed misprint)
+13-convention-de-commerce-entre-le-japon-et-l-allemagne-19.md p.1280: "Le cabotage est" -> "Les cabotage [sic] est" (restored printed misprint)
+13-convention-de-commerce-entre-le-japon-et-l-allemagne-19.md p.1281: "échangées" -> "echangées" (punctuation or accent only)
+Total corrections: 10

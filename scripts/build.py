@@ -9,6 +9,8 @@ import html, json, os, re, shutil, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
 SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan', 'yb': 'Year Books'}
+# year books transcribed with Haiku agents (named in the notice at the foot of each text)
+HAIKU_BOOKS = {'japan-year-book-1935', 'the-japan-year-book-1937', 'japan-year-book-1939-1940'}
 # items whose scan is one file of a multi-file Internet Archive item need the file name in the page link
 IA_PATH = {'japan-manchoukuo-year-book-1934': 'japan-manchoukuo-year-book-1934/Japan-Manchoukuo%20Year%20Book%201934%202'}
 TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'programme': 'Programme',
@@ -382,7 +384,7 @@ The issues covered are those indexed on the <a href="https://froginawell.net/tok
 <a href="https://froginawell.net/frog/sources/primary-source-nuggets/contemporary-japan/">Contemporary Japan</a> pages at Frog in a Well,
 and scanned on the Internet Archive.</p>
 <p>These are official translations and statements of the wartime Japanese state and its allies, and should be read as such.</p>
-<p><strong>Transcription.</strong> The texts were transcribed from the page scans by AI models (Claude Opus 5.5 and Claude Sonnet 5.5;
+<p><strong>Transcription.</strong> The texts were transcribed from the page scans by AI models (Claude Opus 5.5, Claude Sonnet 5.5 and, for the Japan Year Books, Claude Haiku 5.5;
 the model used is named at the foot of each text) reading the page images, and have not been proofread by a person. Original spelling and romanisation are kept. Page numbers in the margin link to the page
 of the scan on the Internet Archive: check the scan before quoting.</p>"""
 
@@ -575,6 +577,8 @@ ys.onchange=sel.onchange;apply()})();</script>"""
             h.append(f'<details class="note"><summary>Transcription note</summary><p>{esc(d["notes"])}</p></details>')
         om = OPUS.get(d['file'])
         model = {'opus': 'Claude Opus 5.5', 'opus+sonnet': 'Claude Opus 5.5 and Claude Sonnet 5.5'}.get(om, 'Claude Sonnet 5.5')
+        if d['ia'] in HAIKU_BOOKS:
+            model = 'Claude Haiku 5.5'
         other = sorted(set(re.findall(r'\*\[Page (\d+) was transcribed with ([^,\]]+), not Claude\.\]\*', d['body'])), key=lambda x: int(x[0]))
         missing = re.findall(r'\*\[Page (\d+) was not transcribed', d['body'])
         extra = ''

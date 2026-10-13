@@ -54,6 +54,8 @@ elif cmd == 'merge':
                 continue
             s = re.sub(r'^\*\[Page %d was not transcribed\. See the scan\.\]\*[ \t]*$' % n,
                        lambda m: t + f'\n\n*[Page {n} was transcribed with {LABEL}, not Claude.]*', s, count=1, flags=re.M)
+            # two columns of one page may each have left a placeholder: the fill covers the whole gap on that page
+            s = re.sub(r'\n*^\*\[Page %d was not transcribed\. See the scan\.\]\*[ \t]*$' % n, '', s, flags=re.M)
             done.append(n)
         if done:
             s = re.sub(r'^(notes:.*)$', lambda k: k.group(1).rstrip() + f" | pp. {', '.join(map(str, done))} transcribed with {LABEL}.", s, count=1, flags=re.M)

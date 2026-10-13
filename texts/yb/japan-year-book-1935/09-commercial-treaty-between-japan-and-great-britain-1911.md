@@ -1,0 +1,130 @@
+---
+title: Commercial Treaty between Japan and Great Britain, 1911
+type: treaty
+source: yb
+ia: japan-year-book-1935
+issue: The Japan Year Book 1935
+section: Treaties
+leaf: 1311
+pages: 1263-1268
+date: 1911-04-03
+author: 
+parties: Japan; Great Britain
+notes: PDF offset +49 (printed p. 1263 = PDF 1312). Printed heading "Treaty of Commerce and Navigation between Japan and Great Britain", "Signed at London, April 3, 1911"; no signatories are printed in the text. Printed misprint "Protectrate" (p. 1268) kept with [sic]. Text ends at Article XXVII and the Cyprus paragraph on p. 1268; the Canada import ordinance follows on the same page.
+---
+[[p. 1263]]
+
+**Treaty of Commerce and Navigation between Japan and Great Britain**  
+Signed at London, April 3, 1911
+
+**ARTICLE I** The subjects of each of the High Contracting Parties shall have full liberty to enter, travel, and reside in the territories of the other, and, conforming themselves to the laws of the country—
+
+1. Shall, in all that relates to travel and residence, be placed in all respects on the same footing as native subjects.
+
+2. They shall have the right, equally with native subjects, to carry on their commerce and manufacture, and to trade in all kinds of merchandise of lawful commerce, either in person or by agents, singly or in partnerships with foreign or native subjects.
+
+3. They shall in all that relates to the pursuit of their industries, callings, professions, and educational studies be placed in all respects on the same footing as the subjects or citizens of the most favoured nation.
+
+4. They shall be permitted to own or hire and occupy houses, manufactories, warehouses, shops, and premises which may be necessary for them, and to lease land for residential, commercial, industrial, and other lawful purposes, in the same manner as native subjects.
+
+5. They shall, on condition of reciprocity, be at full liberty to acquire and possess every description of property, movable or immovable, which the laws of the country permit or shall permit the subjects or citizens of any other foreign country to acquire and possess, subject always to the conditions and limitations prescribed in such laws. They may dispose of the same by sale, exchange, gift, marriage, testaments, or in any other manner, under the same conditions which are or shall be established with regard to native subjects. They shall also be permitted, on compliance with the laws of the country, freely to export the proceeds of the sale of their property and their goods in general without being subjected as foreigners to other or higher duties than those to which subjects of the country would be liable under similar circumstances.
+
+6. They shall enjoy constant and complete protection and security for their persons and property; shall have free and easy access to the Courts of Justice and other tribunals in pursuit and defence of their claims and rights; and shall have full liberty, equally with native subjects, to choose and employ lawyers and advocates to represent them before such Courts and tribunals; and generally shall have the same rights and privileges as native subjects in all that concerns the administration of justice.
+
+7. They shall not be compelled to pay taxes, fees, charges, or contributions of any kind whatever, other or higher than those which are or may be paid by native subjects or the citizens of the most favoured nation.
+
+8. And they shall enjoy a perfect equality of treatment with native subjects in all that relates to facilities for warehousing under bond, bounties, and drawbacks.
+
+**ARTICLE II** The subjects of each of the High Contracting Parties in the territories of the other shall be exempted from all compulsory military services, whether in the army, navy, national guard, or militia; and from all forced loans and military requisitions or contributions unless imposed on them equally with native subjects as owners, lessees, or occupiers of immovable property.
+
+In the above respects the subjects of each of the High Contracting Parties shall not be accorded in the territories of the other less favourable treatment than that which is or may be accorded to subjects or citizens of the most favoured nation.
+
+**ARTICLE III** The dwellings, warehouses, manufactories, and shops of the subjects of each of the High Contracting Parties in the territories of the other, and all premises appertaining thereto used for lawful purposes, shall
+[[p. 1264]]
+be respected. It shall not be allowable to proceed to make a domiciliary visit to, or a search of, any such buildings and premises, or to examine or inspect books, papers, or accounts, except under the conditions and with the forms presented by the laws for native subjects.
+
+**ARTICLE IV** Each of the High Contracting Parties may appoint Consuls-General, Consuls, Vice-Consuls, and Consular Agents in all the ports, cities, and places of the other, except in those where it may not be convenient to recognize such officers. This exception, however, shall not be made in regard to one of the High Contracting Parties without being made likewise in regard to all other Powers.
+
+Such Consuls-General, Consuls, Vice-Consuls, and Consular Agents, having received exequaturs or other sufficient authorizations from the Government of the country to which they are appointed, shall have the right to exercise their functions, and to enjoy the privileges, exemptions, and immunities which are or may be granted to the Consular officers of the most favoured nation. The Government issuing exequaturs or other authorizations has the right in its discretion to cancel the same on explaining the reasons for which it thought proper to do so.
+
+**ARTICLE V** In case of the death of a subject of one of the High Contracting Parties in the territories of the other, without leaving at the place of his decease any person entitled by the laws of his country to take charge of and administer the estate, the competent Consular officer of the State to which the deceased belonged shall, upon fulfilment of the necessary formalities, be empowered to take custody of and administer the estate in the manner and under the limitations prescribed by the law of the country in which the property of the deceased is situated.
+
+The foregoing provision shall also apply in case of a subject of one of the High Contracting Parties dying outside the territories of the other, but possessing property therein, without leaving any person there entitled to take charge of and administer the estate.
+
+It is understood that in all that concerns the administration of the estates of deceased persons, any right, privilege, favour, or immunity which either of the High Contracting Parties has actually granted, or may hereafter grant, to the Consular officers of any other foreign State shall be extended immediately and unconditionally to the Consular officers of the other High Contracting Party.
+
+**ARTICLE VI** There shall be between the territories of the two High Contracting Parties reciprocal freedom of commerce and navigation. The subjects of each of the High Contracting Parties shall have liberty freely to come with their ships and cargoes to all places, ports, and rivers in the territories of the other, which are or may be opened to foreign commerce, and conforming themselves to the laws of the country to which they thus come, shall enjoy the same rights, privileges, liberties, favours, immunities, and exemptions in matters of commerce and navigation as are or may be enjoyed by native subjects.
+
+**ARTICLE VII** Articles, the produce or manufacture of the territories of one High Contracting Party, upon importation into the territories of the other, from whatever place arriving, shall enjoy the lowest rates of customs duty applicable to similar articles of any other foreign origin.
+
+No prohibition or restriction shall be maintained or imposed on the importation of any article, the produce or manufacture of the territories of either of the High Contracting Parties, into the territories of the other, from whatever place arriving, which shall not equally extend to the importation of the like articles, being the produce or manufacture of any other foreign country. This provision is not applicable to the sanitary or other prohibitions occasioned by the necessity of securing the safety of persons, or of cattle, or of plants useful to agriculture.
+
+**ARTICLE VIII** The articles, the produce or manufacture of the United Kingdom, enumerated in Part 1 of the Schedule annexed to this Treaty, shall not, on importation into Japan, be subjected to higher customs duties than those specified in the Schedule.
+
+[[p. 1265]]
+
+The articles, the produce or manufacture of Japan, enumerated in Part 2 of the Schedule annexed to this Treaty, shall be free of duty on importation into the United Kingdom.
+
+Provided that if at any time after the expiration of one year from the date this Treaty takes effect either of the High Contracting Parties desires to make a modification in the Schedule it may notify its desire to the other High Contracting Party, and thereupon negotiations for the purpose shall be entered into forthwith. If the negotiations are not brought to a satisfactory conclusion within six months from the date of notification, the High Contracting Party which gave the notification may, within one month, give six months' notice to abrogate the present Article, and on the expiration of such notice the present Article shall cease to have effect, without prejudice to the other stipulations of this Treaty.
+
+**ARTICLE IX** Articles, the produce or manufacture of the territories of one of the High Contracting Parties, exported to the territories of the other, shall not be subjected on export to other or higher charges than those paid on the like articles exported to any other foreign country. Nor shall any prohibition or restriction be imposed on the exportation of any article from the territories of either of the two High Contracting Parties to the territories of the other which shall not equally extend to the exportation of the like article to any other foreign country.
+
+**ARTICLE X** Articles, the produce or manufacture of the territories of one of the High Contracting Parties, passing in transit through the territories of the other, in conformity with the laws of the country, shall be reciprocally free from all transit duties, whether they pass direct, or whether during transit they are unloaded, warehoused, and reloaded.
+
+**ARTICLE XI** No internal duties levied for the benefit of the State, local authorities, or corporations which affect, or may affect, the production, manufacture, or consumption of any article in the territories of either of the High Contracting Parties shall for any reason be a higher or more burdensome charge on articles, the produce or manufacture of the territories of the other, than on similar articles of native origin.
+
+The produce or manufacture of the territories of either of the High Contracting Parties imported into the territories of the other, and intended for warehousing or transit, shall not be subjected to any internal duty.
+
+**ARTICLE XII** Merchants and manufacturers, subjects of one of the High Contracting Parties, as well as merchants and manufacturers domiciled and exercising their commerce and industries in the territories of such party, may, in the territories of the other, either personally or by means of commercial travellers, make purchases or collect orders, with or without samples, and such merchants, manufacturers, and their commercial travellers, while so making purchases and collecting orders, shall, in the matter of taxation and facilities, enjoy the most-favoured-nation treatment.
+
+Articles imported as samples for the purpose above mentioned shall, in each country, be temporarily admitted free of duty on compliance with the Customs regulations and formalities established to assure their re-exportation or the payment of the prescribed customs duties if not re-exported within the period allowed by law. But the foregoing privilege shall not extend to articles which, owing to their quantity or value, cannot be considered as samples, or which owing to their nature, could not be identified upon re-exportation. The determination of the question of the qualification of samples for duty-free admission rests in all cases exclusively with the competent authorities of the place where the importation is effected.
+
+**ARTICLE XIII** The marks, stamps, or seals placed upon the samples mentioned in the preceding Article by the Customs authorities of one country at the time of exportation, and the officially attested list of such samples containing a full description thereof issued by them, shall be reciprocally accepted by the Customs officials of the other as establishing their character so far as may be necessary to establish that the samples produced are those enumerated in the list. The Customs authorities
+[[p. 1266]]
+of either country may, however, affix a supplementary mark to such samples in special cases where they may think this precaution necessary.
+
+**ARTICLE XIV** The Chambers of Commerce, as well as such other Trade Associations and other recognized Commercial Associations in the territories of the High Contracting Parties as may be authorized in this behalf, shall be mutually accepted as competent authorities for issuing any certificates that may be required for commercial travellers.
+
+**ARTICLE XV** Limited liability and other companies and associations, commercial, industrial, and financial, already or hereafter to be organized in accordance with the laws of either High Contracting Party, and registered in the territories of such Party, are authorized, in the territories of the other, to exercise their rights and appear in the Courts either as plaintiffs or defendants, subject to the laws of such other Party.
+
+**ARTICLE XVI** Each of the High Contracting Parties shall permit the importation or exportation of all merchandise which may be legally imported or exported, and also the carriage of passengers from or to their respective territories, upon the vessels of the other; and such vessels, their cargoes and passengers shall enjoy the same privileges as, and shall not be subjected to any other or higher duties or charges than, national vessels and their cargoes and passengers.
+
+**ARTICLE XVII** In all that regards the stationing, loading, and unloading of vessels in the ports, docks, roadsteads, and harbours of the High Contracting Parties, no privileges or facilities shall be granted by either Party to national vessels which are not equally, in like cases, granted to the vessels of the other country; the intention of the High Contracting Parties being that in these respects also the vessels of the two countries shall be treated on the footing of perfect equality.
+
+**ARTICLE XVIII** All vessels which according to Japanese law are to be deemed Japanese vessels, and all vessels which according to British law are to be deemed British vessels, shall, for the purpose of this Treaty, be deemed Japanese and British vessels respectively.
+
+**ARTICLE XIX** No duties of tonnage, harbour, pilotage, lighthouse, quarantine, or other analogous duties or charges of whatever nature, or under whatever denomination, levied in the name or for the profit of Government, public functionaries, private individuals, corporations, or establishments of any kind, shall be imposed in the ports of either country upon the vessels of the other which shall not equally, under the same conditions, be imposed in like cases on national vessels in general, or vessels of the most favoured nation. Such equality of treatment shall apply to the vessels of either country from whatever place they may arrive and whatever may be their destination.
+
+**ARTICLE XX** Vessels charged with performance of regular scheduled postal service of one of the High Contracting Parties shall enjoy in the territorial waters of the other the same special facilities, privileges, and immunities as are granted to like vessels of the most favoured nation.
+
+**ARTICLE XXI** The coasting trade of the High Contracting Parties is excepted from the provisions of the present Treaty, and shall be regulated according to the laws of Japan and the United Kingdom respectively. It is, however, understood that the subjects and vessels of either High Contracting Party shall enjoy in this respect most-favoured-nation treatment in the territories of the other.
+
+Japanese and British vessels may, nevertheless, proceed from one port to another, either for the purpose of landing the whole or part of their passengers or cargoes brought from abroad, or of taking on board the whole or part of their passengers or cargoes for a foreign destination.
+
+It is also understood that, in the event of the coasting trade of either country being exclusively reserved to national vessels, the vessels of the other country, if engaged in trade to or from places not within the limits of the coasting trade so reserved, shall not be prohibited from the carriage between two ports of the former country of passengers holding through tickets, or mer
+[[p. 1267]]
+chandise consigned on through bills of lading to or from places not within the above-mentioned limits, and while engaged in such carriage these vessels and their cargoes shall enjoy the full privileges of this Treaty.
+
+**ARTICLE XXII** If any seaman should desert from any ship belonging to either of the High Contracting Parties in the territorial waters of the other, the local authorities shall, within the limits of law, be bound to give every assistance in their power for the recovery of such deserter, on application to that effect being made to them by the competent Consular officer of the country to which the ship of the deserter may belong, accompanied by an assurance that all expenses connected therewith will be repaid.
+
+It is understood that this stipulation shall not apply to the subjects of the country where the desertion takes place.
+
+**ARTICLE XXIII** Any vessel of either of the High Contracting Parties which may be compelled, by stress of weather or by accident, to take shelter in a port of the other shall be at liberty to refit therein, to procure all necessary stores, and to put to sea again, without paying any dues other than such as would be payable in the like case by a national vessel. In case, however, the master of a merchant-vessel should be under the necessity of disposing of a part of his merchandise in order to defray the expenses, he shall be bound to conform to the Regulations and Tariffs of the place to which he may have come.
+
+If any vessel of one of the High Contracting Parties should run aground or be wrecked upon the coasts of the other, such vessel, and all parts thereof, and all furniture and appurtenances belonging thereunto, and all goods and merchandise saved therefrom, including any which may have been cast into the sea, or the proceeds thereof, if sold, as well as all papers found on board such stranded or wrecked vessel, shall be given up to the owners or their agents when claimed by them. If there are no such owners or agents on the spot, then the same shall be delivered to the Japanese or British Consular officer in whose district the wreck or stranding may have taken place upon being claimed by him within the period fixed by the laws of the country, and such Consular officer, owners, or agents shall pay only the expenses incurred in the preservation of the property, together with the salvage or other expenses which would have been payable in the like case of a wreck or stranding of a national vessel.
+
+The High Contracting Parties agree, moreover, that merchandise saved shall not be subjected to the payment of any customs duty unless cleared for internal consumption.
+
+In the case either of a vessel being driven in by stress of weather, run aground, or wrecked, the respective Consular officers shall, if the owner or master or other agent of the owner is not present, or is present and requires it, be authorized to interpose in order to afford the necessary assistance to their fellow-country-men.
+
+**ARTICLE XXIV** The High Contracting Parties agree that, in all that concerns commerce, navigation, and industry, any favour, privilege, or immunity which either High Contracting Party has actually granted, or may hereafter grant, to the ships, subjects, or citizens of any other foreign State shall be extended immediately and unconditionally to the ships or subjects of the other High Contracting Party, it being their intention that the commerce, navigation, and industry of each country shall be placed in all respects on the footing of the most favoured nation.
+
+**ARTICLE XXV** The stipulations of this Treaty do not apply to tariff concessions granted by either of the High Contracting Parties to contiguous States solely to facilitate frontier traffic within a limited zone on each side of the frontier, or to the treatment accorded to the produce of the national fisheries of the High Contracting Parties, or to special tariff favours granted by Japan in regard to fish and other aquatic products taken in the foreign waters in the vicinity of Japan.
+
+**ARTICLE XXVI** The stipulations of the present Treaty shall not be applicable to any of His Britannic Majesty's Dominions, Colonies, Possessions, or Protectorates, beyond the Seas, unless notice of adhesion shall have been given on behalf of any such Dominion, Colony, 
+[[p. 1268]]
+Possession, or Protectrate [sic] by His Britannic Majesty's Representative at Tokio before the expiration of two years from the date of the exchange of the ratifications of the present Treaty.
+
+**ARTICLE XXVII** The present Treaty shall be ratified, and the ratifications exchanged at Tokio as soon as possible. It shall enter into operation on the 17th July, 1911, and remain in force until the 16th July, 1923. In case neither of the High Contracting Parties shall have given notice to the other twelve months before the expiration of the said period, of its intention to terminate the Treaty, it shall continue operative until the expiration of one year from the date on which either of the High Contracting Parties shall have denounced it.
+
+As regards the British Dominions, Colonies, Possessions, and Protectorates to which the present Treaty may have been made applicable in virtue of Article 26, however, either of the High Contracting Parties shall have the right to terminate it separately at any time on given twelve months' notice to that effect. It is undesrtood [sic] that the stipulations of the present and of the preceding Article referring to British Dominions, Colonies, Possessions, and Protectorates apply also to the island of Cyprus.
