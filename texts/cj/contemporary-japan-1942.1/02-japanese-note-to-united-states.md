@@ -5,12 +5,12 @@ source: cj
 ia: contemporary-japan-1942.1
 issue: January, 1942
 leaf: 83
-pages: 159-165
+pages: 159-164
 date: 1941-12-08
 author: Japanese Government
 parties: 
 section: Documentary Material - War with America and Britain
-notes: INCOMPLETE: p. 160 not transcribed; the Note begins on p. 159, which is not transcribed (see the Imperial Rescript file); unofficial translation
+notes: INCOMPLETE: not transcribed after p. 162 (pp. 159-162 not transcribed; the Note runs to the top of p. 164, and pp. 163-164 were not taken); unofficial translation
 ---
 [[p. 159]]
 
@@ -20,3 +20,19 @@ notes: INCOMPLETE: p. 160 not transcribed; the Note begins on p. 159, which is n
 
 *[Page 160 was not transcribed. See the scan.]*
 
+
+[[p. 161]]
+
+*[Page 161 was not transcribed. See the scan.]*
+
+[[p. 162]]
+
+*[Page 162 was not transcribed. See the scan.]*
+
+[[p. 163]]
+
+*[Page 163 was not transcribed. See the scan.]*
+
+[[p. 164]]
+
+*[Page 164 was not transcribed. See the scan.]*
