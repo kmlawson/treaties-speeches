@@ -1,5 +1,5 @@
 ---
-title: The Situation in China (I. Recent Activities of the Japanese Military Forces, and following sections)
+title: The Situation in China
 type: report
 series: The Situation in China
 part: 36
@@ -7,11 +7,11 @@ source: tg
 ia: tokyo-gazette-5.6-1941.11
 issue: December, 1941
 leaf: 15
-pages: 290-
+pages: 290-298
 date: 
-author: Army Press Section, Imperial Headquarters (section I)
+author: Army Press Section, Imperial Headquarters (I); Navy Press Section, Imperial Headquarters (II)
 section: The Situation in China
-notes: Scanned as two-page spread; PDF page 16 shows pp. 290 (unnumbered) and 291.
+notes: Scanned as two-page spread (PDF pp. 16-20); printed pp. 290-298 read; p. 290 carries no printed number. No illegible words or cells. 703 + 115 = 818 as printed.
 ---
 # THE SITUATION IN CHINA
 
@@ -99,6 +99,34 @@ NAVY PRESS SECTION, IMPERIAL HEADQUARTERS
 
 #### Naval Air Force
 
-To facilitate the withdrawal of Japanese military and naval forces from Foochow, capital of Fukien Province, our naval air force, which had been assigned to the coast of Fukien Province visited Foochow, Santu and Fuching on September 1 and bombed and machine-gunned troop concentrations of the Chinese 7th and 80th divisions, inflicting severe losses, and on the following day renewed the attack in same vein. On September 3, it bombed and machine-gunned the enemy bases on the north bank of the Min River east of Foochow, and also key points on the sea coast while storming the enemy near Foochow and Mamoi. On September 4, it made reconnaissance flights over Foockow, Chwanshi Island and Santu Island and attacked troop congestions, which were sighted.
+To facilitate the withdrawal of Japanese military and naval forces from Foochow, capital of Fukien Province, our naval air force, which had been assigned to the coast of Fukien Province visited Foochow, Santu and Fuching on September 1 and bombed and machine-gunned troop concentrations of the Chinese 7th and 80th divisions, inflicting severe losses, and on the following day renewed the attack in same vein. On September 3, it bombed and machine-gunned the enemy bases on the north bank of the Min River east of Foochow, and also key points on the sea coast while storming the enemy near Foochow and Mamoi. On September 4, it made reconnaissance flights over Foochow, Chwanshi Island and Santu Island and attacked troop congestions, which were sighted.
 
 On September 18, when our military forces started their drive on Changsha, capital of Hunan Province, the naval air force, acting in collaboration, rained aerial missiles on positions at Yuanliaoshan, Yingtien and Leishihshan in Northern Hunan Province, causing heavy damages. On September 24, their positions near the mouth of the Sikiang River were effectively battered three times, while on September 25 and 26 enemy field artillery emplacements near Tumitse were repeatedly hit. Enemy bases at Tumitse and Wulungtse were bombed and destroyed on September 28.
+
+[[p. 296]]
+
+#### Duties of Naval Craft
+
+Every Japanese warship in China waters is in charge of a specified area. The naval craft, besides conducting blockade, inspection of vessels, survey of water routes, and sweeping of mines, are engaged in halting the supply of aid-to-Chiang Kai-shek materials. Landing parties are set on shore at various points of the coast or islands in case of necessity for maintaining peace and order. In the Chushan Group of islands off Hangchow Bay and also in Hainan Island, the landing parties are not only maintaining peace and order, but making substantial contributions to the development of industries, by looking after industrial rehabilitation.
+
+In the meantime, the landing parties on September 2 suppressed bandits at Taiho north of Tsingtao. On September 7, they successfully attacked some 300 bandits at a point southwest of Wenchuancheng, which stands in the northern part of Shantung Peninsula. On September 9 and 10, a squad of our bluejackets landed at the southern base of Yuntai Hill north of Lienyunchiang, the eastern terminus of the Lunghai Railway, and restored peace and order there, by liquidating lawless elements.
+
+While cooperating with the military forces in a mopping-up campaign, the Japanese gunboats on the Yangtze estuary were engaged in special patrol of Lake Tahu (Great Lake) from September 11 to September 14. On September 14, the Japanese gunboats opened fire on a strong body of Chinese troops and routed them with heavy losses. The landing parties in Hainan Island captured enormous quantities of arms and ammunition, by attacking Chinese troops about thirty times.
+
+A powerful detachment of the Japanese squadron on the Yangtse River started action at midnight of September 17 and crossed Lake Tungting by escorting transports carrying Japanese troops. On September 18, at 7:20 a.m., the detachment landed a party of bluejackets at the base of Siahushan Hill and occupied it. Meanwhile, the Japanese warships on Lake Tungting in conjunction with the attack started by Japanese troops on enemy positions at Chingshan and Yuanliaoshan east of it bombarded retreating enemy forces. On September 19, the naval craft in concert with the military operations discovered and disposed of seven mines in the lower course of the Siangkiang River. The same afternoon, the naval
+
+[[p. 297]]
+
+force occupied Leishishan. Part of the landing party in cooperation with the military force captured Luchiao and Chiumatse.
+
+On September 20, the naval force devoted its attention mainly to an attack on the enemy positions in the direction of Wanglinghu. The following day, enemy mountain artillery positions at a point two kilometres downstream of Yingtien were bombarded and destroyed, while 57 mines were discovered and disposed of in front of Leishihshan. This, coupled with a successful blow-up of a big boom, resulted in opening a water-way. On the other hand, the landing party cooperated with the land force in attacking Lulintan and razed enemy positions nearby. A group of Japanese warships advanced off the southeastern shore of Lake Tungting and silenced enemy activities at the mouth of the Siangkiang River one after another, while a mine-sweeping unit on September 22 sailed up the Siangkiang River and made a forced reconnaissance of the water-way south of Leishihshan. On September 23, the water-way up to a point four kilometres upstream of Leishihshan was completely opened, while mine-sweeping operations were in full swing from the Pingkiang River to Hopotan via Shumaihu Lake. The naval force also collaborated with the land contingent in the latter's advance into Lulintan. Paiyuchi was occupied on the morning of September 24 and Yingtien on the same afternoon. On September 25, the Kiaokow channel was opened, and mine-sweeping operations off Yingtien were completed. The water-way up to a point 2 kilometres upstream of Yingtien was cleared on September 26, while that to a point 10 kilometres upstream of Yingtien was removed of hindrances on September 28.
+
+Part of the Japanese naval force, operating in the waters near Canton started sailing up the West River. Another detachment early on the morning of September 20 covered landing of our troops on the shore of Kwonghoi in face of the enemy, and continued its protecting operations till the following day. The Japanese naval detachment, which sailed up the Hunkiang River, occupied Sunchong on September 23, while sweeping mines and removing obstructions. One more detachment, which went up the North River, succeeded in clearing the water-way to a point 10 miles downstream of Chingkuan on September 27 in cooperation with military forces. Another naval unit, which operated off Kwonghoi, effectively attacked nine armed junks as well as enemy troops.
+
+[[p. 298]]
+
+#### The Blockade Squadron
+
+The Japanese squadron, which was engaged in blockade operations in China waters, visited 23,178 junks and motor-boats on the Yangtze estuary and off Eastern Chekiang Province and 26,904 junks and motor-boats on the Whangpoo River. In North China waters, 3,400 junks were inspected. Out of them, 79 were dealt with as those of a hostile character. Thus the material supply to Chiang Kai-shek is being effectively suspended by our blockade.
+
+The number of mines, discovered and disposed of during the month of September totalled 115 in the Siangkian River and 703 in South China waters, aggregating 818. In addition, there were 101 mines, discovered and disposed of during the Changsha campaign in the latter part of October.

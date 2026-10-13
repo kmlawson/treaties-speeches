@@ -431,6 +431,7 @@ def build():
     for d in docs:
         if d['series']:
             series.setdefault((d['source'], d['series']), []).append(d)
+    series = {k: v for k, v in series.items() if len(v) > 1}
     for key, parts in series.items():
         parts.sort(key=lambda d: (int(d['part']) if d['part'].isdigit() else 999, d['ipos'], d['file']))
         for k, d in enumerate(parts):
