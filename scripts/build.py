@@ -9,7 +9,7 @@ import html, json, os, re, shutil, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
 SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan'}
-TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'list': 'Law list'}
+TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'list': 'List'}
 TYPES_PL = {'treaty': 'Treaties', 'law': 'Laws', 'speech': 'Speeches', 'document': 'Other documents', 'list': 'Lists of laws promulgated'}
 MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
           'November', 'December']
@@ -212,103 +212,112 @@ def plain(body):
 
 # ---------- pages ----------
 
-CSS = r""":root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#666;--fg-faint:#999;--accent:#003a87;--accent-hover:#002a66;
---header-bg:#f5f5f5;--card-bg:#fff;--card-border:#e8e8e8;--input-border:#ccc;--input-bg:#fff;--dotted:#ddd;--rule:#eee;
---tag-bg:#f0f0f0;--tag-fg:#555;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--list:#6b6b6b}
-[data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#777;--accent:#6da3e0;--accent-hover:#8dbcf0;
+CSS = r""":root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#5f5f5f;--fg-faint:#8a8a8a;--accent:#003a87;--on-accent:#fff;
+--header-bg:#f5f5f5;--card-bg:#fff;--card-border:#dcdcdc;--input-border:#bbb;--input-bg:#fff;--dotted:#ddd;--rule:#e6e6e6;
+--tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#8a3b12;--law:#1d5c3a;--speech:#003a87;--document:#5b4a7a;--list:#5f5f5f;
+--ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:Georgia,"Times New Roman",serif;--r:3px}
+[data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#808080;--accent:#6da3e0;--on-accent:#111;
 --header-bg:#242424;--card-bg:#242424;--card-border:#444;--input-border:#555;--input-bg:#2a2a2a;--dotted:#444;--rule:#333;
---tag-bg:#333;--tag-fg:#ccc;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--list:#aaa}
+--tag-bg:#333;--mark:#6b5a00;--treaty:#e0a27d;--law:#7fc79f;--speech:#6da3e0;--document:#b3a2d6;--list:#aaa}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:Georgia,'Times New Roman',serif;color:var(--fg);background:var(--bg);line-height:1.5}
+html{font-size:100%;-webkit-text-size-adjust:100%}
+body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
-.container{max-width:900px;margin:0 auto;padding:0 20px}
-header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:28px 0 18px;text-align:center}
-header h1{font-size:26px;margin-bottom:4px;letter-spacing:.5px}header h1 a{color:var(--fg)}
-header .subtitle{font-size:15px;color:var(--fg-muted);font-style:italic;margin-bottom:14px}
-nav{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
-nav a{display:inline-block;padding:6px 18px;border:2px solid var(--accent);color:var(--accent);font-size:15px;font-weight:bold;
-font-family:sans-serif;border-radius:3px;transition:all .15s}
-nav a:hover,nav a.active{background:var(--accent);color:#fff;text-decoration:none}
-[data-theme="dark"] nav a:hover,[data-theme="dark"] nav a.active{color:#111}
-footer{text-align:center;padding:24px 0;margin-top:40px;border-top:1px solid var(--dotted);font-size:13px;color:var(--fg-faint)}
-.display-toolbar{position:fixed;bottom:24px;left:24px;z-index:100;display:flex;gap:4px;background:var(--card-bg);
-border:1px solid var(--card-border);border-radius:6px;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.12)}
-.display-toolbar button{width:36px;height:36px;font-size:14px;font-family:sans-serif;border:none;border-radius:4px;cursor:pointer;
-background:transparent;color:var(--fg)}
-.display-toolbar button:hover{background:var(--tag-bg)}
-.back-to-top{position:fixed;bottom:24px;right:24px;background:var(--accent);color:#fff;border:none;width:40px;height:40px;
-border-radius:50%;font-size:20px;cursor:pointer;opacity:0;transition:opacity .3s;z-index:100}
-.back-to-top.visible{opacity:.8}
-.intro{margin:22px 0 6px;font-size:15.5px;color:var(--fg-muted)}
-.controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:10px 0;margin-top:12px;
-display:flex;gap:8px 14px;flex-wrap:wrap;align-items:center;font-family:sans-serif;font-size:13.5px}
-.controls select,.controls input[type=search]{font-family:Georgia,serif;font-size:15px;padding:6px 10px;border:1px solid var(--input-border);
-border-radius:3px;color:var(--fg);background:var(--input-bg);max-width:100%}
-.controls input[type=search]{flex:1;min-width:180px}
-.chips{display:flex;gap:6px;flex-wrap:wrap}
-.chip{border:1.5px solid var(--input-border);background:var(--input-bg);color:var(--fg-muted);border-radius:14px;padding:3px 11px;
-font-size:13px;font-family:sans-serif;cursor:pointer;user-select:none}
-.chip.on{color:#fff;border-color:transparent}[data-theme="dark"] .chip.on{color:#111}
-.chip.on[data-v=treaty]{background:var(--treaty)}.chip.on[data-v=law]{background:var(--law)}
-.chip.on[data-v=speech]{background:var(--speech)}.chip.on[data-v=list]{background:var(--list)}.chip.on[data-v=document]{background:var(--document)}
-.chip.on[data-v=tg],.chip.on[data-v=cj],.chip.on[data-v=issue],.chip.on[data-v=date]{background:var(--fg-muted)}
-.count{color:var(--fg-faint);margin-left:auto;white-space:nowrap}
-.volume-heading{font-size:20px;color:var(--accent);border-bottom:2px solid var(--accent);padding-bottom:6px;margin:34px 0 14px;scroll-margin-top:110px}
-.issue-heading{font-size:17px;margin:22px 0 4px;scroll-margin-top:110px}
-.issue-heading .issue-num{color:var(--fg-muted);font-weight:normal;font-size:13px;font-family:sans-serif;margin-left:8px}
-.entry-list{list-style:none;margin:0 0 8px}
-.entry-item{display:flex;gap:10px;align-items:baseline;padding:5px 0;border-bottom:1px dotted var(--dotted);line-height:1.4}
+.container{max-width:56.25rem;margin:0 auto;padding:0 1.25rem}
+header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:1.75rem 0 1.1rem;text-align:center}
+header h1{font-size:1.6rem;margin-bottom:.25rem;letter-spacing:.03em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
+header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
+nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
+/* one control style for every button, toggle, select and input */
+.btn,nav a,.chip,.controls select,.controls input[type=search],.tools a,.tools button,.display-toolbar button{
+font-family:var(--ui);font-size:.8125rem;font-weight:600;line-height:1.2;min-height:2rem;padding:.35rem .8rem;
+border:1.5px solid var(--accent);border-radius:var(--r);background:var(--input-bg);color:var(--accent);
+display:inline-flex;align-items:center;justify-content:center;cursor:pointer;white-space:nowrap;text-decoration:none;
+transition:background .15s,color .15s;-webkit-tap-highlight-color:transparent}
+nav a{font-size:.9375rem;padding:.4rem 1.1rem;background:transparent}
+nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar button:hover,.chip.on{background:var(--accent);color:var(--on-accent);text-decoration:none}
+.chip{user-select:none;border-color:var(--input-border);color:var(--fg-muted);font-weight:500}
+.chip:hover{border-color:var(--accent);color:var(--accent)}.chip.on:hover{color:var(--on-accent)}
+.chip.on{border-color:var(--accent)}
+.chip.on[data-v=treaty]{background:var(--treaty);border-color:var(--treaty)}.chip.on[data-v=law]{background:var(--law);border-color:var(--law)}
+.chip.on[data-v=speech]{background:var(--speech);border-color:var(--speech)}.chip.on[data-v=document]{background:var(--document);border-color:var(--document)}
+.chip.on[data-v=list]{background:var(--list);border-color:var(--list)}
+.controls select,.controls input[type=search]{font-weight:400;color:var(--fg);border-color:var(--input-border);justify-content:flex-start;cursor:auto;max-width:100%}
+.controls select{cursor:pointer}
+.controls input[type=search]{flex:1 1 14rem;min-width:10rem;font-size:.9375rem}
+.controls select:focus,.controls input:focus,.chip:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:.6rem 0;margin-top:.75rem;
+display:flex;gap:.5rem .9rem;flex-wrap:wrap;align-items:center}
+.chips{display:flex;gap:.3rem;flex-wrap:wrap}
+.count{font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint);margin-left:auto;white-space:nowrap}
+footer{text-align:center;padding:1.5rem 0;margin-top:2.5rem;border-top:1px solid var(--dotted);font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint)}
+header{position:relative}
+.display-toolbar{position:absolute;top:.6rem;right:.75rem;display:flex;gap:.2rem}
+.display-toolbar button{min-width:2rem;min-height:1.75rem;padding:.2rem .45rem;font-size:.75rem;border-color:var(--input-border);background:transparent;color:var(--fg-muted)}
+.back-to-top{position:fixed;bottom:1.25rem;right:1.25rem;width:2.5rem;height:2.5rem;min-height:0;padding:0;opacity:0;pointer-events:none;
+background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opacity .3s;z-index:100}
+.back-to-top.visible{opacity:.85;pointer-events:auto}
+.intro{margin:1.4rem 0 .4rem;font-size:.97rem;color:var(--fg-muted)}
+.volume-heading{font-size:1.25rem;color:var(--accent);border-bottom:2px solid var(--accent);padding-bottom:.35rem;margin:2.1rem 0 .9rem;scroll-margin-top:7rem}
+.issue-heading{font-size:1.0625rem;margin:1.4rem 0 .25rem;scroll-margin-top:7rem;display:flex;align-items:baseline;gap:.6rem;flex-wrap:wrap}
+.issue-heading .issue-num{font-family:var(--ui);font-weight:400;font-size:.8125rem}
+.entry-list{list-style:none;margin:0 0 .5rem}
+.entry-item{display:grid;grid-template-columns:5.25rem minmax(0,1fr) auto;gap:.1rem .7rem;align-items:baseline;padding:.3rem 0;border-bottom:1px dotted var(--dotted);line-height:1.4}
 .entry-item:last-child{border-bottom:none}
-.entry-text{flex:1}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
-.entry-page{flex-shrink:0;font-size:.8125rem;font-family:sans-serif;white-space:nowrap;color:var(--fg-faint)}
-.tag{flex-shrink:0;display:inline-block;width:68px;text-align:center;font:bold 10.5px/1.7 sans-serif;letter-spacing:.6px;text-transform:uppercase;
-border-radius:3px;border:1px solid currentColor}
+.entry-text{min-width:0;overflow-wrap:anywhere}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
+.entry-page{font-family:var(--ui);font-size:.8125rem;white-space:nowrap;color:var(--fg-faint)}
+/* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
+.tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.12rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
+letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden;border-radius:var(--r);border:1.5px solid currentColor;vertical-align:middle}
 .tag.treaty{color:var(--treaty)}.tag.law{color:var(--law)}.tag.speech{color:var(--speech)}.tag.document{color:var(--document)}.tag.list{color:var(--list)}
 .hidden{display:none!important}
 /* document page */
-.doc-head{margin:26px 0 18px;padding-bottom:14px;border-bottom:1px solid var(--rule)}
-.doc-head h2{font-size:24px;line-height:1.25;margin:8px 0 10px}
-.meta{font-family:sans-serif;font-size:13.5px;color:var(--fg-muted);display:grid;grid-template-columns:max-content 1fr;gap:3px 14px}
-.meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg)}
-.note{margin-top:10px;font-size:13.5px;font-family:sans-serif;color:var(--fg-muted);background:var(--tag-bg);padding:8px 12px;border-radius:4px}
-.doc{font-size:17.5px;line-height:1.62;max-width:700px;margin:0 auto}
-.doc p{margin:0 0 .85em;text-align:left;hyphens:manual}
+.doc-head{margin:1.6rem 0 1.1rem;padding-bottom:.9rem;border-bottom:1px solid var(--rule)}
+.doc-head h2{font-size:1.5rem;line-height:1.25;margin:.5rem 0 .6rem;overflow-wrap:anywhere}
+.meta{font-family:var(--ui);font-size:.84rem;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .9rem}
+.meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
+.note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
+.tools{margin-top:.8rem;display:flex;gap:.5rem;flex-wrap:wrap}
+.doc{font-size:1.09rem;line-height:1.62;max-width:43.75rem;margin:0 auto;overflow-wrap:break-word}
+.doc p{margin:0 0 .85em}
 .doc p.sig{text-align:right;font-size:.95em}
-.doc .h{text-align:center;font-size:1em;letter-spacing:.8px;margin:1.6em 0 .8em;font-weight:bold}
-.doc h3.h{font-size:1.1em}.doc h4.h{font-variant:small-caps;letter-spacing:1px}.doc h5.h,.doc h6.h{font-style:italic;font-weight:normal;letter-spacing:0}
+.doc .h{text-align:center;font-size:1em;letter-spacing:.05em;margin:1.6em 0 .8em;font-weight:bold}
+.doc h3.h{font-size:1.1em}.doc h4.h{font-variant:small-caps;letter-spacing:.06em}.doc h5.h,.doc h6.h{font-style:italic;font-weight:normal;letter-spacing:0}
 .doc blockquote{margin:0 0 .85em 1.6em;font-size:.95em}
 .doc hr{border:none;border-top:1px solid var(--dotted);width:30%;margin:1.5em auto}
-.pgbreak{text-align:right;font:12px sans-serif;margin:1.2em 0 .5em;border-top:1px dotted var(--dotted);padding-top:2px}
-.pg{font:12px sans-serif;color:var(--fg-faint)}a.pg{color:var(--accent)}
-p .pg{margin:0 4px;padding:0 4px;border:1px dotted var(--dotted);border-radius:3px}
+.pgbreak{text-align:right;margin:1.2em 0 .5em;border-top:1px dotted var(--dotted);padding-top:.1rem;line-height:1.2}
+.pg{font-family:var(--ui);font-size:.75rem;color:var(--fg-faint)}a.pg{color:var(--accent)}
+p .pg{margin:0 .25rem;padding:0 .25rem;border:1px dotted var(--dotted);border-radius:var(--r)}
 .illeg{color:#b00020;font-style:italic}.fnote{font-size:.85em;color:var(--fg-muted)}sup.fn{font-size:.7em}
-.tw{overflow-x:auto;margin:0 0 1em}table{border-collapse:collapse;font:14px sans-serif;margin:0 auto}
-th,td{border:1px solid var(--card-border);padding:4px 9px;text-align:left;vertical-align:top}th{background:var(--header-bg)}
-.pn{display:flex;justify-content:space-between;gap:20px;margin:34px 0 0;padding-top:14px;border-top:1px solid var(--rule);font-size:14.5px}
-.pn a{flex:1}.pn a:last-child{text-align:right}.pn small{display:block;font-family:sans-serif;color:var(--fg-faint);font-size:12px}
-.tools{margin-top:12px;font-family:sans-serif;font-size:13px;display:flex;gap:14px;flex-wrap:wrap}
-.tools button{font:inherit;color:var(--accent);background:none;border:none;cursor:pointer;padding:0}
+.tw{overflow-x:auto;margin:0 0 1em}table{border-collapse:collapse;font-family:var(--ui);font-size:.84rem;margin:0 auto}
+th,td{border:1px solid var(--card-border);padding:.25rem .55rem;text-align:left;vertical-align:top}th{background:var(--header-bg)}
+.pn{display:flex;justify-content:space-between;gap:1.25rem;margin:2.1rem 0 0;padding-top:.9rem;border-top:1px solid var(--rule);font-size:.9rem}
+.pn a{flex:1;min-width:0;overflow-wrap:anywhere}.pn a:last-child{text-align:right}
+.pn small{display:block;font-family:var(--ui);color:var(--fg-faint);font-size:.75rem}
 /* search */
-.result{padding:12px 0;border-bottom:1px dotted var(--dotted)}
-.result h3{font-size:17px;font-weight:normal;margin-bottom:2px}
-.result .rmeta{font-family:sans-serif;font-size:12.5px;color:var(--fg-muted)}
-.result .snip{font-size:15px;color:var(--fg-muted);margin-top:4px}
+.result{padding:.75rem 0;border-bottom:1px dotted var(--dotted)}
+.result h3{font-size:1.0625rem;font-weight:normal;margin-bottom:.15rem;display:grid;grid-template-columns:5.25rem minmax(0,1fr);gap:.7rem;align-items:baseline}
+.result .rmeta,.result .snip{margin-left:5.95rem}
+.result .rmeta{font-family:var(--ui);font-size:.78rem;color:var(--fg-muted)}
+.result .snip{font-size:.94rem;color:var(--fg-muted);margin-top:.25rem;overflow-wrap:anywhere}
 mark{background:var(--mark);color:inherit;padding:0 1px}
-.hint{color:var(--fg-faint);font-size:14px;margin:14px 0;font-family:sans-serif}
-.modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:200;align-items:center;justify-content:center;padding:16px}
-.modal.open{display:flex}.modal-inner{background:var(--card-bg);max-width:640px;max-height:86vh;overflow:auto;padding:26px 28px;border-radius:6px;font-size:15.5px}
-.modal-inner h2{font-size:20px;margin-bottom:10px}.modal-inner p{margin-bottom:.8em}.modal-inner button{float:right;font-size:22px;border:none;background:none;color:var(--fg);cursor:pointer}
-@media (max-width:600px){header h1{font-size:20px}.container{padding:0 14px}.doc{font-size:16.5px}.tag{width:58px;font-size:9.5px}
-.entry-item{flex-wrap:wrap}.entry-text{flex-basis:calc(100% - 70px)}.entry-page{margin-left:68px}.count{margin-left:0}
-.display-toolbar{bottom:14px;left:14px}}
-@media print{header nav,.display-toolbar,.back-to-top,.pn,.tools{display:none}.doc{font-size:12pt}}
+.hint{font-family:var(--ui);color:var(--fg-faint);font-size:.84rem;margin:.9rem 0}
+.modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:200;align-items:center;justify-content:center;padding:1rem}
+.modal.open{display:flex}.modal-inner{background:var(--card-bg);max-width:40rem;max-height:86vh;overflow:auto;padding:1.6rem 1.75rem;border-radius:calc(var(--r) + 2px);font-size:.97rem}
+.modal-inner h2{font-size:1.25rem;margin-bottom:.6rem}.modal-inner p{margin-bottom:.8em}
+.modal-inner .btn{float:right;min-width:2rem;padding:.2rem .5rem;margin:0 0 .5rem .75rem}
+@media (max-width:600px){header h1{font-size:1.25rem}.container{padding:0 .9rem}.doc{font-size:1.03rem}
+.entry-item{grid-template-columns:5.25rem minmax(0,1fr)}.entry-page{grid-column:2}
+.result .rmeta,.result .snip{margin-left:0}.count{margin-left:0}
+.display-toolbar{position:static;justify-content:center;margin-top:.7rem}.back-to-top{bottom:.9rem;right:.9rem}}
+@media print{header nav,.display-toolbar,.back-to-top,.pn,.tools,.controls{display:none}.doc{font-size:12pt}}
 """
 
 COMMON_JS = r"""(function(){var r=document.documentElement,k='ts-theme',f='ts-font';
-try{var t=localStorage.getItem(k);if(t)r.setAttribute('data-theme',t);var z=localStorage.getItem(f);if(z)r.style.fontSize=z+'%'}catch(e){}
+try{var t=localStorage.getItem(k);if(t)r.setAttribute('data-theme',t);var z=localStorage.getItem(f);if(z&&+z>=70&&+z<=180)r.style.fontSize=(+z)+'%'}catch(e){}
 window.addEventListener('DOMContentLoaded',function(){
 var b=document.getElementById('themeBtn');if(b)b.onclick=function(){var d=r.getAttribute('data-theme')=='dark'?'light':'dark';r.setAttribute('data-theme',d);try{localStorage.setItem(k,d)}catch(e){}};
-function fs(d){var c=parseInt(r.style.fontSize)||100;c=Math.max(80,Math.min(150,c+d));r.style.fontSize=c+'%';try{localStorage.setItem(f,c)}catch(e){}}
+function fs(d){var c=parseInt(r.style.fontSize)||100;c=Math.max(70,Math.min(180,c+d));r.style.fontSize=c+'%';try{localStorage.setItem(f,c)}catch(e){}}
 var p=document.getElementById('fontUp'),m=document.getElementById('fontDown');if(p)p.onclick=function(){fs(10)};if(m)m.onclick=function(){fs(-10)};
 var top=document.getElementById('backToTop');if(top){window.addEventListener('scroll',function(){top.classList.toggle('visible',window.scrollY>400)});top.onclick=function(){window.scrollTo({top:0,behavior:'smooth'})}}
 var mo=document.getElementById('aboutModal'),na=document.getElementById('navAbout');
@@ -343,15 +352,15 @@ def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
 </head><body>
 <header><div class="container"><h1><a href="{up}index.html">Treaties, Laws and Speeches</a></h1>
 <div class="subtitle">{subtitle}</div>
-<nav>{nav}<a href="#" id="navAbout">About</a></nav></div></header>
+<nav>{nav}<a href="#" id="navAbout">About</a></nav></div>
+<div class="display-toolbar"><button id="fontDown" title="Smaller text" aria-label="Smaller text">A&minus;</button><button id="fontUp" title="Larger text" aria-label="Larger text">A+</button><button id="themeBtn" title="Light / dark" aria-label="Light or dark theme">&#9680;</button></div></header>
 <div class="container">
 {body}
 </div>
 <footer><div class="container">Texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945 &middot;
 <a href="https://froginawell.net/">Frog in a Well</a></div></footer>
-<div class="modal" id="aboutModal"><div class="modal-inner"><button id="aboutClose" aria-label="Close">&times;</button>{ABOUT}</div></div>
-<div class="display-toolbar"><button id="fontDown" title="Smaller text">A&minus;</button><button id="fontUp" title="Larger text">A+</button><button id="themeBtn" title="Light / dark">&#9680;</button></div>
-<button class="back-to-top" id="backToTop" title="Back to top">&uarr;</button>
+<div class="modal" id="aboutModal"><div class="modal-inner"><button class="btn" id="aboutClose" aria-label="Close">&times;</button>{ABOUT}</div></div>
+<button class="btn back-to-top" id="backToTop" title="Back to top">&uarr;</button>
 {scripts}
 </body></html>"""
 
@@ -492,7 +501,7 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
         open(f'{SITE}/doc/{d["id"]}.html', 'w').write(page(f"{d['title']} — {SOURCES[d['source']]}, {d['issue']}", sub, '', '\n'.join(h), depth=1, scripts=js))
 
     # ---- search
-    data = [{'i': d['id'], 't': d['title'], 'y': d['type'], 's': d['source'], 'n': d['issue'], 'd': d['date'], 'o': d['sortdate'],
+    data = [{'i': d['id'], 't': d['title'], 'y': d['type'], 's': d['source'], 'n': d['issue'], 'd': fmt_date(d['date']), 'o': d['sortdate'],
              'w': who(d), 'p': d['pages'], 'x': plain(d['body'])} for d in docs]
     open(f'{SITE}/data.js', 'w').write('window.DOCS=' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';')
     s = ['<div class="controls"><input type="search" id="q" placeholder="Search the full text of all documents&hellip;" autofocus>'
@@ -502,7 +511,7 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
          '<span class="count" id="count"></span></div>'
          '<p class="hint" id="hint">All words must appear. Put a phrase in &ldquo;double quotes&rdquo; to match it exactly. Results are ordered by date.</p><div id="results"></div>']
     js = r"""<script src="data.js"></script><script>(function(){
-var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',list:'Law list'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
+var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',list:'List'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
 var on={type:{},src:{}};function chips(id,k){var c=document.getElementById(id);[].forEach.call(c.children,function(x){on[k][x.dataset.v]=true;x.onclick=function(){
 var all=[].every.call(c.children,function(y){return y.classList.contains('on')});if(all){[].forEach.call(c.children,function(y){y.classList.remove('on');on[k][y.dataset.v]=false})}
 x.classList.toggle('on');on[k][x.dataset.v]=x.classList.contains('on');
@@ -517,7 +526,7 @@ var hl=new RegExp('('+t.map(rx).join('|')+')','gi'),out=[],n=0;
 D.forEach(function(d){if(!on.type[d.y]||!on.src[d.s])return;var hay=title?d.lt:d.lt+' '+d.lx;for(var i=0;i<t.length;i++)if(hay.indexOf(t[i])<0)return;n++;if(n>300)return;
 var sn='',p=-1;for(var i=0;i<t.length&&p<0;i++)p=d.lx.indexOf(t[i]);if(p>=0&&!title){var a=Math.max(0,p-110),b=Math.min(d.x.length,p+190);sn=(a?'… ':'')+e(d.x.slice(a,b)).replace(hl,'<mark>$1</mark>')+(b<d.x.length?' …':'');
 var cnt=0;t.forEach(function(w){var k=-1;while((k=d.lx.indexOf(w,k+1))>=0)cnt++});sn+=' <span class="pg">('+cnt+' match'+(cnt>1?'es':'')+')</span>'}
-out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> <a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">'+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?d.d+' · ':'')+'<em>'+S[d.s]+'</em>, '+e(d.n)+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
+out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> <a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">'+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?e(d.d)+' · ':'')+'<em>'+S[d.s]+'</em>, '+e(d.n)+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
 R.innerHTML=out.join('')||'<p class="hint">No texts match.</p>';C.textContent=n+' text'+(n==1?'':'s')+(n>300?' (first 300 shown)':'')}
 chips('typeChips','type');chips('srcChips','src');q.oninput=function(){clearTimeout(tm);tm=setTimeout(run,140)};sc.onchange=run;
 var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()})();</script>"""
