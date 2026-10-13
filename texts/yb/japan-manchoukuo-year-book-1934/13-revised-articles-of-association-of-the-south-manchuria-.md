@@ -274,7 +274,7 @@ Provided, however, that when the dividends on the shares owned by the Japanese a
 
 When the dividend for shares shall exceed ten per cent. per annum, the surplus shall be devoted to the redemption of the company's debt mentioned in the preceding paragraph.
 
-### Chapter VIII.—Expenses for Organizing the Company
+### Chapter VIII.—Expenses for Oganizing the Company
 
 **ARTICLE LVIII.**—The expenses for organizing the company shall not exceed 50,000 Yen.
 

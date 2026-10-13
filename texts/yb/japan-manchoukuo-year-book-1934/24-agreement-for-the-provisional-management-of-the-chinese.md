@@ -26,7 +26,7 @@ Lev Mikhailovitch Karakhan.
 
 Who, having communicated to each other their respective full powers, found to be in good and due form, have agreed upon the following Articles:
 
-**ARTICLE I.**—The Railway shall establish, for discussion and decision of all matters relative to the Chinese Eastern Railway, a Board of Directors to be composed of ten persons, of whom five shall be appointed by the Government of the Republic of China and five by the Government of the Union of Soviet Socialist Republics.
+**ARTICLE I.**—The Railway shall establish, for discussion and decison of all matters relative to the Chinese Eastern Railway, a Board of Directors to be composed of ten persons, of whom five shall be appointed by the Government of the Republic of China and five by the Government of the Union of Soviet Socialist Republics.
 
 The Government of the Republic of China shall appoint one of the Chinese Directors as President of the Board of Directors, who shall also be the Director-General.
 

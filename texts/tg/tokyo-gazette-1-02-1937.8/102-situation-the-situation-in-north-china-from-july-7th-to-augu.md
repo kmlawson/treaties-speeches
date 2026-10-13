@@ -11,7 +11,7 @@ author: Press Section, Department of War
 series: The Situation in China
 part: 1
 section: 
-notes: Printed pages 24-41 read. INCOMPLETE: p. 28 not transcribed. Casualty table p. 40 totals reconcile (24+59=83; 340+810=1,150; 364+869=1,233). Quoted Kazuki communication, Government statement of July 27 and Chiang Kai-shek statement are included in the text. Section/subheading style as printed.
+notes: Printed pages 24-41 read. INCOMPLETE: p. 28 not transcribed. Casualty table p. 40 totals reconcile (24+59=83; 340+810=1,150; 364+869=1,233). Quoted Kazuki communication, Government statement of July 27 and Chiang Kai-shek statement are included in the text. Section/subheading style as printed. | pp. 28 transcribed with GPT (Codex CLI).
 ---
 [[p. 24]]
 
@@ -84,7 +84,25 @@ In sharp contrast to the attitude of Nanking, the Japanese Government consistent
 
 [[p. 28]]
 
-*[Page 28 was not transcribed. See the scan.]*
+desirous as ever of reaching an amicable settlement with China. Needless to say, the Japanese Government is fully prepared to protect the vested rights and interests of foreign Powers in North China. This can be seen from the Government's statement issued on July 11th. The statement reads, in translation:
+
+### OFFICIAL STATEMENT ISSUED
+
+The Japanese troops garrisoned in North China have always maintained a calm and patient attitude towards anti-Japanese outbursts in North China. But unfortunately, on the night of July 7th, an inevitable clash occurred when Japanese troops were wantonly fired upon by soldiers of the 29th Army, which had been co-operating with our forces in maintaining peace and order in that region. As a consequence the atmosphere in the Peiping and Tientsin districts grew so tense that even the lives and property of Japanese nationals were endangered. However, the Japanese authorities made strenuous endeavours to localize the affair and prevent it from becoming further aggravated, and succeeded in persuading the 29th Army authorities to agree to a peaceful settlement.
+
+Yet, on the night of July 10th, the 29th Army, in violation of the agreement, suddenly fired upon the Japanese troops, causing considerable casualties. Besides, China has since pushed warlike preparations by increasing its forces on the first lines by ordering the Chinese troops at Siyuan to advance southward and also by ordering Central Government troops to the front. China has not only failed to manifest any sincerity to seek a peaceful solution, but has gone the length of flatly rejecting all Japan's offers for an amicable settlement at Peiping. This leaves no room for doubt that the present incident has been brought about as the result of well-planned armed operations on the part of China against Japan.
+
+There is no need of dwelling on the vital importance to Japan and Manchoukuo of the maintenance of peace and order in North China. What is most urgently needed is that the Chinese not only apologize for the recent lawless actions and manifestations of antagonism and opposition to Japan, but give an adequate guarantee against a recurrence of such outrages in the future.
+
+An important decision has been reached by the Japanese Government at today's Cabinet meeting to take all necessary measures for dispatching military forces to North China.
+
+But, desirous as ever of preserving the peace of East Asia, the Japanese Government has not yet abandoned its hope for peaceful negotiations effecting non-aggravation of the situation, and its hope for prompt reconsideration on the part of China which may bring about an amicable solution. As regards the safeguarding of the rights and interests of the Powers in China, the Japanese Government is, of course, prepared to give full consideration.
+
+### INCIDENTS RECUR
+
+On July 14th, when a Japanese cavalry unit was passing a small village about 15 kilometres south of Peiping, toward the west, its
+
+*[Page 28 was transcribed with GPT (Codex CLI), not Claude.]*
 
 [[p. 29]]
 

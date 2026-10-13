@@ -40,7 +40,7 @@ Let me now make a brief survey of our relations with the Netherlands East Indies
 
 The Netherlands East Indies and French Indo-China, if only for geographical reasons, should be in an intimate and inseparable relationship with our country. Therefore, the situation which has hitherto thwarted the development of this natural relationship must be thoroughly remedied, and relations of good neighbourliness secured for the promotion of mutual prosperity. With this in view, early in September last, the Government despatched Mr. Ichizo Kobayashi, Minister of Commerce and Industry, to the Netherlands East Indies as a special envoy. When a definite stage had been reached in his negotiations with the Netherlands East Indies authorities concerning the purchase of oil and other urgent questions, Mr. Kobayashi was obliged to return to Japan by circumstances preventing his prolonged stay there. As his successor, the Government have recently sent to the islands Mr. Kenkichi Yoshizawa, formerly Minister of Foreign Affairs. He has already resumed the negotiations with the Netherlands East Indies authorities.
 
-As regards French Indo-China, it formed the most important route of supply for Chungking since the beginning of the China Affair. Consequently, however, upon the sudden change in the
+As regards French Indo-China, it formed the most important route of supply for Chungking since the beginning of the China Affair. Consequent, however, upon the sudden change in the
 
 *[Page 370 was transcribed with GPT (Codex CLI), not Claude.]*
 

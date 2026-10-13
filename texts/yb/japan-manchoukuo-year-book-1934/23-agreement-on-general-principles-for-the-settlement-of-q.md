@@ -50,7 +50,7 @@ The Government of the Union of Soviet Socialist Republics declares that as soon 
 
 **ARTICLE VI.**—The Governments of the two Contracting Parties mutually pledge themselves not to permit within their respective territories the existence and/or activities of any organizations or groups whose aim is to struggle by acts of violence against the Governments of either Contracting Party.
 
-The Governments of the two Contracting Parties: further pledge themselves not to engage in propaganda directed against the political and social systems of either Contracting Party.
+The Governments of the two Contracting Parties further pledge themselves not to engage in propaganda directed against the political and social systems of either Contracting Party.
 
 **ARTICLE VII.**—The Governments of the two Contracting Parties agree to redemarcate their national boundaries at the Conference as provided in Article II. of the present Agreement, and pending such redemarcation, to maintain the present boundaries.
 

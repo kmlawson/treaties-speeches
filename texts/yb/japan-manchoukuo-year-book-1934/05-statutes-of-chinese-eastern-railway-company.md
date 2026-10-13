@@ -96,13 +96,13 @@ Foundation Capital of the Company.—§ 9. The whole amount of the capital of th
 
 The capital of the Company shall be formed by the issue of shares and bonds.
 
-Share Capital.—§ 10. The share capital of the Company shall be fixed at 5,000,000 nominal credit roubles, and divided into 1,000 shares at 5,000 nominal credit roubles.
+Share Captal.—§ 10. The share capital of the Company shall be fixed at 5,000,000 nominal credit roubles, and divided into 1,000 shares at 5,000 nominal credit roubles.
 
 The shares are to be issued at their nominal value.
 
 The guarantee of the Russian Government does not extend to them.
 
-Bond Capital; Guarantee of Russian Government on Bonds.—§ 11. The remaining portion of the capital of the Company will be formed by the issue of bonds. The bonds will be issued as required, and each time with the special sanction of the Minister of Finances. The nominal amount of each separate issue of bonds, the time and condition of the issue, as also the form of these bonds, shall be subject to the sanction of the Minister of Finances.
+Bon Capital; Guarantee of Russian Government on Bonds.—§ 11. The remaining portion of the capital of the Company will be formed by the issue of bonds. The bonds will be issued as required, and each time with the special sanction of the Minister of Finances. The nominal amount of each separate issue of bonds, the time and condition of the issue, as also the form of these bonds, shall be subject to the sanction of the Minister of Finances.
 
 The Russian Government will guarantee the interest on and amortization of the bonds.
 

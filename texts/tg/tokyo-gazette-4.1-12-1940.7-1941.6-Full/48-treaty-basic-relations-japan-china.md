@@ -50,7 +50,7 @@ preserve the common interests of the two countries, station for a required durat
 
 **Article 6.** The Governments of the two countries shall effect close economic cooperation between the two countries in conformance with the spirit of complementing each other and ministering to each other’s needs, as well as in accordance with the principles of equality and reciprocity.
 
-With reference to specific resources in North China and Mengchiang, especially mineral resources required for national defence, the Government of the Republic of China undertake that they shall be developed through close cooperation of the two countries. With reference to the development of specific resources in other areas which are required for national defence, the Government of the Republic of China shall afford necessary facilities to Japan and Japanese subjects.
+With reference to specific resources in North China and Mengchiang, especially mineral resources required for national defence, the Government of the Republic of China undertake that they shall be developed through close cooperation of the two countries. With reference to the development of specific resources in other areas which are required for national defence, the Government of the Rupublic of China shall afford necessary facilities to Japan and Japanese subjects.
 
 With regard to the utilization of the resources referred to in the preceding paragraph, while considering the requirements of China, the Government of the Republic of China, shall afford positive and full facilities to Japan and Japanese subjects.
 
