@@ -74,11 +74,11 @@ provided that juristic person tax on liquidation income shall be collected at th
 
 **Article 31.** If persons who are or have been engaged in the duty of investigating or reinvestigating income or capital of juristic persons, divulge, without justifiable cause, any secret of which they have gained knowledge by virtue of such investigation or reinvestigation, they shall be liable to a fine not exceeding 1,000 yen.
 
-**Article 32.** The provisions of the proviso to Article 38, paragraph 3, Article 39, paragraph 2, Article 40, Article 41, Article 48, paragraph 2, Article 63 and Article 66 of the Criminal Code shall not apply to per-
+**Article 32.** The provisions of the proviso to Article 38, paragraph 3, Article 39, paragraph 2, Article 40, Article 41, Article 48, paragraph 2, Article 63 and Article 66 of the Criminal Code shall not apply to persons
 
 [[p. 300]]
 
-sons who have committed the offence of Article 29 of the present law.
+who have committed the offence of Article 29 of the present law.
 
 **Article 33.** Hokkaido and prefectures, cities, towns, villages, and other public bodies may not surtax on the basis of juristic person tax.
 

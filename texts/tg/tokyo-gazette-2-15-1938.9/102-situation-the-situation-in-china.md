@@ -251,11 +251,11 @@ Attacks on the Chinese positions on the Yangtze River were resumed, including th
 
 *July 26th* Attacks on the Chinese positions on both banks of the Yangtze River were kept up, including those near Kiukiang, Hsiaochikow, Tean, Shihlipu and Hwangshihkang. One Chinese gunboat was bombed and sunk at a point about 3 miles upstream from Hwangshihkang.
 
-*July 27th* The Canton-Hankow Railway was attacked at Yochow and Sienning, where godowns, goods trains and tracks were bombed and destroy-
+*July 27th* The Canton-Hankow Railway was attacked at Yochow and Sienning, where godowns, goods trains and tracks were bombed and destroyed.
 
 [[p. 44]]
 
-ed. The Nanchang and Chekiang Railway was attacked near Tean and Siushui, where remnants of Chinese troops were bombed or machine-gunned. Two Chinese heavy bombers were brought down by Japanese naval planes at a point southwest of Hankow and west of Wusueh.
+The Nanchang and Chekiang Railway was attacked near Tean and Siushui, where remnants of Chinese troops were bombed or machine-gunned. Two Chinese heavy bombers were brought down by Japanese naval planes at a point southwest of Hankow and west of Wusueh.
 
 *July 28th* Japanese naval planes operating along the Yangtze River continued their attacks on the Chinese military positions on both banks of the river, including those at Tienkiachen, Kichun and Susung. Several Chinese military junks also were bombed and sunk. Changshuchen west of Nanchang was visited where the airfield was bombed.
 
@@ -299,11 +299,11 @@ The headquarters of the gendarmerie, Provincial Government offices, Municipal Go
 
 The Japanese naval and military forces which left Anking, capital of Anhwei Province, about June 23rd succeeded in occupying Hukow, a strategically important point on the Yangtze on July 4th, successfully fighting against foul weather and swirling muddy water in the Yangtze, sweeping mine-fields and removing booms. Their successful drive upstream was the result of coordinated cooperation between the land, sea and air forces.
 
-On June 13th, when Anking was occupied, part of the Japanese naval force immediately started a drive upstream to sweep mines and remove booms. The following day, it reached a point 15 miles above Anking, by repulsing the enemy air raids and silencing the enemy positions on both banks of the river. On June 29th, the Japanese naval force succeeded in breaking through the booms at Matangchen, which were claimed by the Chinese to be impregnable. The Japanese Navy thus succeeded in control-
+On June 13th, when Anking was occupied, part of the Japanese naval force immediately started a drive upstream to sweep mines and remove booms. The following day, it reached a point 15 miles above Anking, by repulsing the enemy air raids and silencing the enemy positions on both banks of the river. On June 29th, the Japanese naval force succeeded in breaking through the booms at Matangchen, which were claimed by the Chinese to be impregnable. The Japanese Navy thus succeeded in controlling
 
 [[p. 46]]
 
-ling the Yangtze between Matangchen and Shanghai, a distance of about 440 miles. From Anking to Matangchen, 250 mines were discovered and disposed of. On July 10th, a Chinese torpedo-boat was shelled and sunk in Poyang Lake by a Japanese gunboat. The Japanese drive upstream from July 15th to August 4th is described below.
+the Yangtze between Matangchen and Shanghai, a distance of about 440 miles. From Anking to Matangchen, 250 mines were discovered and disposed of. On July 10th, a Chinese torpedo-boat was shelled and sunk in Poyang Lake by a Japanese gunboat. The Japanese drive upstream from July 15th to August 4th is described below.
 
 *July 15th* The Chinese gunboat Pingming, about 200 tons, was bombed and sunk at a point upstream from Kichun and Tienkiachen by a Japanese naval plane. Japanese warships and naval planes attacked remnants of Chinese troops in the mountainous region northeast of Hsiangkowchen.
 

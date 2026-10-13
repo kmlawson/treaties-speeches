@@ -44,11 +44,11 @@ Let me dwell for a moment on the position of the enemy camp. The enemies have su
 
 At home the American Government is spreading propaganda reports purporting to show Japan is a deadly enemy. Thus it has departed from the policy of having its people form a poor opinion of Japan's power. It is planning to replenish its armaments in the shortest possible time and is proceeding with the construction of a wartime domestic structure. There is every indication that it is doing all it can in order to win a final victory in the war. There is no justification in taking a light view of the effort Americans are making in order to win the war.
 
-The American Government has been emphasizing what is termed the international ideal, and is pleading that the Axis Powers should be condem-
+The American Government has been emphasizing what is termed the international ideal, and is pleading that the Axis Powers should be condem-ed
 
 [[p. 152]]
 
-ed as responsible for the war. Its motive is to strengthen its world hegemony. It would place Japan in East Asia and Germany and Italy in Europe again under the Versailles structure, or more correctly it would have these countries submit to the pressure of the American hegemony, many times heavier than that of the Versailles structure, so that they will have no chance to rise.
+as responsible for the war. Its motive is to strengthen its world hegemony. It would place Japan in East Asia and Germany and Italy in Europe again under the Versailles structure, or more correctly it would have these countries submit to the pressure of the American hegemony, many times heavier than that of the Versailles structure, so that they will have no chance to rise.
 
 This is the reason why it must be stressed that the war of greater East Asia will not come to an end without the defeat of America.
 

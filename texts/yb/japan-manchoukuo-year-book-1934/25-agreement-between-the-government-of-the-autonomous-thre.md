@@ -57,7 +57,7 @@ China shall appoint one of the Chinese Directors as President of the Board of Di
 
 The Union of Soviet Socialist Republics shall appoint one of the Russian Directors as Vice-President of the Board of Directors, who shall be ex-officio the Assistant Director-General.
 
-Seven persons shall constitute a quorum, and all decisions of the Board of Directors shall have the consent of not less than six persons before they can be carried out.
+Seven persons shall constiute a quorum, and all decisions of the Board of Directors shall have the consent of not less than six persons before they can be carried out.
 
 The Director-General and the Assistant Director-General shall jointly manage the affairs of the Board of Directors, and they shall jointly sign all the documents of the Board.
 

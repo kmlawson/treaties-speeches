@@ -36,11 +36,11 @@ All the other military railways in different localities shall be removed with th
 
 10.—The Chinese Plenipotentiaries declare that immediately after the withdrawal of the Japanese and Russian troops from Manchuria, China will proceed to take, in virtue of her sovereign right, full administrative measures to guarantee peace in that region and endeavor, by the same right, to promote good and remove evil as well as steadily to restore order, so that the residents of that region, natives and foreigners, may equally enjoy the security of life and occupation under the perfect protection of the Chinese Government. As to the means of restoring order, the Chinese Government are to take by themselves all adequate measures.
 
-11.—While relations of intimate friendship subsisted as at the present time between China and Japan, Japan and Russia had unfortunately engaged in war and fought in the territory of China. But peace has now been re-established and hostili-
+11.—While relations of intimate friendship subsisted as at the present time between China and Japan, Japan and Russia had unfortunately engaged in war and fought in the territory of China. But peace has now been re-established and hostilities
 
 [[p. 843]]
 
-ties in Manchuria have ceased. And while it is undeniable that Japanese troops, before their withdrawal, have the power of exercising the rights accruing from military occupation, the Chinese Government declare that certain Japanese subjects in Manchuria have recently been observed to sometimes interfere with the local Chinese administration and to inflict damage to public and private property of China.
+in Manchuria have ceased. And while it is undeniable that Japanese troops, before their withdrawal, have the power of exercising the rights accruing from military occupation, the Chinese Government declare that certain Japanese subjects in Manchuria have recently been observed to sometimes interfere with the local Chinese administration and to inflict damage to public and private property of China.
 
 The Japanese Plenipotentiaries, considering that, should such interference and infliction of damage have been carried beyond military necessity, they are not proper acts, declare that they will communicate the purport of the above declaration of the Chinese Government to the Government of Japan, so that proper steps may be taken for controlling Japanese subjects in the Province of Fengtien and promote the friendly relations between the two nations, and also for preventing them in future, from interfering with the Chinese administration or inflicting damage to public or private property without military necessity.
 

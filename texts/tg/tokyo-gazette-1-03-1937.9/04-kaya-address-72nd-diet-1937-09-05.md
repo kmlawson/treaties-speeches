@@ -23,11 +23,11 @@ General Accounts for various Departments ... approximately 42,000,000 yen.
 
 Of the above-mentioned items, the extraordinary military and naval expenditures are required for the conduct of hostilities. Because they involve large sums, and because it is deemed necessary to treat them specially and to deal with the entire period in which they are expended—from now until the termination of the affair—as a single fiscal year, it has been decided to submit a Bill relative to the establishment of a "Special Account for the Extraordinary Military and Naval Expenditures." Their treatment apart from general budgetary items is required by the very nature of these expenditures.
 
-As regards the General Accounts for other Departments, these appropriations are submitted, in consideration of the present situa-
+As regards the General Accounts for other Departments, these appropriations are submitted, in consideration of the present situation,
 
 [[p. 41]]
 
-tion, as necessary for expenditures required for the conduct of foreign affairs, for an increase of the fund for the relief of soldiers' families, for the encouragement of activities giving assistance to soldiers, for the general mobilization of the national spirit, for the enforcement of the law on air defence, for emergency measures for rural and fishing villages, and for compensation for the loss in importation of ammonium sulphate.
+as necessary for expenditures required for the conduct of foreign affairs, for an increase of the fund for the relief of soldiers' families, for the encouragement of activities giving assistance to soldiers, for the general mobilization of the national spirit, for the enforcement of the law on air defence, for emergency measures for rural and fishing villages, and for compensation for the loss in importation of ammonium sulphate.
 
 As for the sources of revenue for the above-mentioned expenditures, we plan to employ funds raised by loans for all extraordinary military and naval expenditures, and, for the items in the General Accounts, to employ the unused portion of this year's authorized appropriations as well as the increased amount of ordinary annual revenue resulting from the expenditures.
 

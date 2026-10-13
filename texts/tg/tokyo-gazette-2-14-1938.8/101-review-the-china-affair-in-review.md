@@ -67,11 +67,11 @@ When the North China Incident was expanded to Shanghai by further Chinese provoc
 
 The successful general attack started on Tachangchen on October 23rd sealed the fate of Greater Shanghai; the surprise landing of a large Japanese force on the northern shore of Hangchow Bay ensured the Japanese troops of complete domination of the region east of the great lake, Taihu.
 
-The collapse of the Chinese positions at Fushan, Soochow and Wukiang presaged the imminent danger of Nanking, on which the Japanese forces drove from three routes, along the northern shore of Lake Tai, along the southern shore of the lake and along the Yangtze River. On December 13th, the Japanese forces captured Nanking, capital of the Chinese Nationalist Government. Fighting was immediately extended to the area north of the Yangtze River, where the Japanese occupied the southern section of the Tientsin-Pukow Railway from Pukow, southern terminus of the rail-
+The collapse of the Chinese positions at Fushan, Soochow and Wukiang presaged the imminent danger of Nanking, on which the Japanese forces drove from three routes, along the northern shore of Lake Tai, along the southern shore of the lake and along the Yangtze River. On December 13th, the Japanese forces captured Nanking, capital of the Chinese Nationalist Government. Fighting was immediately extended to the area north of the Yangtze River, where the Japanese occupied the southern section of the Tientsin-Pukow Railway from Pukow, southern terminus of the railway,
 
 [[p. 18]]
 
-way, to Pengpu.
+to Pengpu.
 
 While military operations were in progress north of the Yangtze River, the New Government of the Republic of China was organized at Nanking on March 28, 1938 with Mr. Liang Hung-chih as chairman of the Executive Yuan. The Shanghai Municipal Government which was known as the Tatao Municipal Government was incorporated in the new administration.
 
@@ -173,11 +173,11 @@ By the securing of command of the seas is meant utilization of the necessary sea
 
 Since the very beginning of the current hostilities, the Japanese Navy has secured the command of seas along the coast of China. The inferior Chinese fleet was bottled up in the Yangtze River or in Canton harbour where it was bombed, bombarded and destroyed.
 
-The Whampoo and the estuary of the Yangtze River have been dominated by the Imperial Navy during the past year greatly facilitating the activities of the Japanese marines and troops. This action is but one of many sub-
+The Whampoo and the estuary of the Yangtze River have been dominated by the Imperial Navy during the past year greatly facilitating the activities of the Japanese marines and troops. This action is but one of many substantial
 
 [[p. 23]]
 
-stantial contributions made by the Japanese command of the seas to the splendid successes achieved by Japan's fighting services.
+contributions made by the Japanese command of the seas to the splendid successes achieved by Japan's fighting services.
 
 Were Japan's command of the Western Pacific to be shaken with the result that the Japanese line of communication in China waters became menaced, could the transport of Japanese troops be so successfully carried on and could the coordinated operations between the Japanese Navy and Army be so smoothly conducted? The answer to the query may be found in the abandonment of the Gallipoli operations on the part of the Allies during the European War as a sequel to the successful torpedoeing by the German U-boat No. 21 of the British battleships Triumph and Majestic and the French cruiser Amiral Charney, while they were escorting transports which contained Allied troops, and also in the sad losses sustained by Japan during the war with Russia (1904-5) in the transports Hitachi Maru and Sado Maru which were sunk by the Russian fleet.
 

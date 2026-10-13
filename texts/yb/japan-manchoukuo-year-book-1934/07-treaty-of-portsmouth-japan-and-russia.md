@@ -86,11 +86,11 @@ It is agreed that the foregoing engagement shall not affect rights already belon
 
 **ARTICLE XIII.**—As soon as possible after the present Treaty comes into force, all prisoners of war shall be reciprocally restored. The Imperial Governments of Japan and Russia shall each appoint a special Commissioner to take charge of prisoners. All prisoners in the hands of one Government shall be delivered to and received by the Commissioner of the other Government or by his duly authorized representative, in such convenient numbers and at such convenient ports of the delivering State as such delivering State shall notify in advance to the Commissioner of the receiving State.
 
-The Governments of Japan and Russia shall present to each other, as soon as possible after the delivery of prisoners has been completed, a statement of the direct expenditure respectively incurred by them for the care and maintenance of prisoners from the date of capture or surrender up to the time of death or delivery. Russia en-
+The Governments of Japan and Russia shall present to each other, as soon as possible after the delivery of prisoners has been completed, a statement of the direct expenditure respectively incurred by them for the care and maintenance of prisoners from the date of capture or surrender up to the time of death or delivery. Russia engages
 
 [[p. 840]]
 
-gages to repay to Japan, as soon as possible after the exchange of the statements as above provided, the difference between the actual amount so expended by Japan and the actual amount similarly disbursed by Russia.
+to repay to Japan, as soon as possible after the exchange of the statements as above provided, the difference between the actual amount so expended by Japan and the actual amount similarly disbursed by Russia.
 
 **ARTICLE XIV.**—The present Treaty shall be ratified by Their Majesties the Emperor of Japan and the Emperor of all the Russias. Such ratification shall, with as little delay as possible and in any case not later than fifty days from the date of the signature of the Treaty, be announced to the Imperial Governments of Japan and Russia respectively through the French Minister in Tokyo and the Ambassador of the United States in Saint Petersburg and from the date of such announcements this Treaty shall in all its parts come into full force.
 

@@ -74,3 +74,36 @@ CHECK texts/tg/tokyo-gazette-4.9-1941.3/03-matsuoka-address-76th-diet.md 371
 OK texts/tg/tokyo-gazette-4.9-1941.3/03-matsuoka-address-76th-diet.md 371 0
 CHECK texts/tg/tokyo-gazette-4.9-1941.3/03-matsuoka-address-76th-diet.md 373
 OK texts/tg/tokyo-gazette-4.9-1941.3/03-matsuoka-address-76th-diet.md 373 0
+CHECK texts/tg/tokyo-gazette-5.2-1941.8/03-wang-ching-wei-radio-address.md 86
+OK texts/tg/tokyo-gazette-5.2-1941.8/03-wang-ching-wei-radio-address.md 86 0
+CHECK texts/tg/tokyo-gazette-5.2-1941.8/03-wang-ching-wei-radio-address.md 87
+OK texts/tg/tokyo-gazette-5.2-1941.8/03-wang-ching-wei-radio-address.md 87 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/01-imperial-rescript-declaration-of-war.md 321
+OK texts/tg/tokyo-gazette-5.7-1942.1/01-imperial-rescript-declaration-of-war.md 321 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/05-summary-of-japanese-american-negotiations.md 346
+OK texts/tg/tokyo-gazette-5.7-1942.1/05-summary-of-japanese-american-negotiations.md 346 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 349
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 349 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 350
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 350 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 351
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 351 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 352
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 352 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 353
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 353 0
+CHECK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 354
+OK texts/tg/tokyo-gazette-5.7-1942.1/06-memorandum-to-american-government-dec-7.md 354 0
+CHECK texts/yb/japan-manchoukuo-year-book-1934/05-statutes-of-chinese-eastern-railway-company.md 835
+OK texts/yb/japan-manchoukuo-year-book-1934/05-statutes-of-chinese-eastern-railway-company.md 835 0
+CHECK texts/yb/japan-manchoukuo-year-book-1934/22-treaty-relating-to-principles-and-policies-concerning-c.md 860
+OK texts/yb/japan-manchoukuo-year-book-1934/22-treaty-relating-to-principles-and-policies-concerning-c.md 860 0
+CHECK texts/yb/japan-manchoukuo-year-book-1934/23-agreement-on-general-principles-for-the-settlement-of-q.md 861
+OK texts/yb/japan-manchoukuo-year-book-1934/23-agreement-on-general-principles-for-the-settlement-of-q.md 861 0
+CHECK texts/yb/japan-manchoukuo-year-book-1934/24-agreement-for-the-provisional-management-of-the-chinese.md 863
+OK texts/yb/japan-manchoukuo-year-book-1934/24-agreement-for-the-provisional-management-of-the-chinese.md 863 0
+CHECK texts/yb/japan-manchoukuo-year-book-1934/25-agreement-between-the-government-of-the-autonomous-thre.md 865
+OK texts/yb/japan-manchoukuo-year-book-1934/25-agreement-between-the-government-of-the-autonomous-thre.md 865 1
+CHECK texts/yb/japan-manchoukuo-year-book-1934/25-agreement-between-the-government-of-the-autonomous-thre.md 866
+OK texts/yb/japan-manchoukuo-year-book-1934/25-agreement-between-the-government-of-the-autonomous-thre.md 866 0
+ALL DONE

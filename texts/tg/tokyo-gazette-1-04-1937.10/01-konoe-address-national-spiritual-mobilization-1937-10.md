@@ -32,11 +32,11 @@ If the assumption is made that this significant historic task is one that can be
 
 ### "The Mission with which Our Generation is Charged"
 
-All the constructive forces of the nation should be synthesized, accumulated, and mobilized for the highest national cause. Whether we bear arms, or follow the plough, or keep books, we are each an indispensable unit in the nation's struggle. Our presence or absence, work or rest mean so much gain or loss in national strength. Such should be our realization of the important parts we play in national mobilization. With this faith in ourselves and in the infinite pos-
+All the constructive forces of the nation should be synthesized, accumulated, and mobilized for the highest national cause. Whether we bear arms, or follow the plough, or keep books, we are each an indispensable unit in the nation's struggle. Our presence or absence, work or rest mean so much gain or loss in national strength. Such should be our realization of the important parts we play in national mobilization. With this faith in ourselves and in the infinite possibilities
 
 [[p. 3]]
 
-sibilities of this great movement, let us advance in performing the mission with which our generation is charged. A new epoch will certainly be marked in the development of Japan. My confidence in this regard is not groundless; it rests definitely on the following two considerations.
+of this great movement, let us advance in performing the mission with which our generation is charged. A new epoch will certainly be marked in the development of Japan. My confidence in this regard is not groundless; it rests definitely on the following two considerations.
 
 I refer first to the fact that Japan, although one of the oldest countries in the world, is full of vitality like a youth—a fact concerning which the opinions of all fair-minded observers of present-day Japan are united.
 

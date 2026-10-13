@@ -24,11 +24,11 @@ TAKING into consideration the changes in the international situation and other c
 
 When we examine into the conditions surrounding the supply of materials, we find that their source lies mostly in domestic production, and where a deficiency exists, this may be complemented by imports from Manchoukuo and China, or from such countries as Great Britain and the United States. Despite the fact that domestic production was faced with many obstacles last year due to the drought and shortage of coal and electric power, the actual returns for this year may safely be expected to be more favourable in keeping with the greater progress made in the execution of the plan for the expansion of productive activity since 1938. The unprecedented dryness and other adverse influences completely negatived in certain localities the increase that had been made in industrial equipment with that end in view. Nevertheless the actual results achieved, save in certain exceptional cases, were a distinct advance upon the previous year. As various measures have since been taken to counteract any unforeseen calamities, and as a considerable number of factories which had been under construction have now been completed and are in operation, a further augmentation in production may be counted upon during 1940.
 
-A considerable increase in the volume of imports from Man-
+A considerable increase in the volume of imports from Manchoukuo
 
 [[p. 108]]
 
-choukuo and China can also be expected, as 1939 was indeed a difficult year for those countries affected as they were by drought and flood over large areas. The European war, which has brought about an inordinate rise in prices generally, and the policies adopted by the belligerents and several neutral nations prohibiting or restricting the exportation of various classes of goods in view of the requirements of national defence have removed all opportunities for purchases by Japan in these markets. Imports from these foreign countries therefore can hardly be expected to rise.
+and China can also be expected, as 1939 was indeed a difficult year for those countries affected as they were by drought and flood over large areas. The European war, which has brought about an inordinate rise in prices generally, and the policies adopted by the belligerents and several neutral nations prohibiting or restricting the exportation of various classes of goods in view of the requirements of national defence have removed all opportunities for purchases by Japan in these markets. Imports from these foreign countries therefore can hardly be expected to rise.
 
 ### General Condition of Demand
 
@@ -40,11 +40,11 @@ It is in such a spirit that the materials mobilization plan for 1940 has been fo
 
 #### 1. Satisfaction of Military Requirements
 
-With the country now engaged in large-scale hostilities on the continent, it is natural that enormous quantities of military supplies are required. Moreover, developments in the international situa-
+With the country now engaged in large-scale hostilities on the continent, it is natural that enormous quantities of military supplies are required. Moreover, developments in the international situation
 
 [[p. 109]]
 
-tion have rendered it urgently necessary to replenish armaments for national defence. As the greatest economy requires to be practised here none the less, the authorities concerned are sparing no efforts to meet the situation while having in mind the country's security.
+have rendered it urgently necessary to replenish armaments for national defence. As the greatest economy requires to be practised here none the less, the authorities concerned are sparing no efforts to meet the situation while having in mind the country's security.
 
 A greater part of governmental requirements other than those for defence consists of such materials the Railway, Communications, Agriculture, Forestry and other Departments find of immediate need. In meeting these requirements, the principle of giving priority according to importance will also be applied.
 

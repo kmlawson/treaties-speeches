@@ -36,11 +36,11 @@ The Japanese Government have always desired to adjust relations with the U.S.S.R
 
 Negotiations for a treaty of commerce between Japan and the U.S.S.R. are now in progress at Moscow, and we are looking to a satisfactory culmination of these negotiations. With regard to the long-pending question of concluding a fishery treaty, it is our intention to settle this matter as soon as possible in accordance with the stipulation provided for in the *modus vivendi* which was concluded in December last. It is hoped that the Soviet Government will cooperate fully with a view to solving these specific questions, and, moreover, that they will cease interfering with our concession industries in North Saghalien, amend their policy of supporting the anti-Japanese regime in China and collaborate in securing the peace of East Asia as a whole.
 
-Japan's relations with Germany and Italy have grown increasingly cordial ever since the conclusion of the Anti-Comintern Agree-
+Japan's relations with Germany and Italy have grown increasingly cordial ever since the conclusion of the Anti-Comintern Agreement.
 
 [[p. 347]]
 
-ment. Our nation is profoundly grateful to the Governments and peoples of those countries for the sympathy and support they have extended to Japan since the beginning of the China Affair. Our policy of defence against the Comintern remains unaltered. We will, moreover, continue to cultivate, in accordance with that policy, our intimate relations with all the signatory Powers of the Anti-Comintern Agreement.
+Our nation is profoundly grateful to the Governments and peoples of those countries for the sympathy and support they have extended to Japan since the beginning of the China Affair. Our policy of defence against the Comintern remains unaltered. We will, moreover, continue to cultivate, in accordance with that policy, our intimate relations with all the signatory Powers of the Anti-Comintern Agreement.
 
 Since the beginning of the China Affair, the Japanese Government have done all in their power to bring the British Government to a proper appreciation of the realities of the situation. More recently we have attempted to solve the Tientsin question and to effect a general adjustment of Anglo-Japanese relations. It is most unfortunate that on January 21 a British man-of-war searched a Japanese ship, the *Asama Maru* and seized 21 of the German passengers on board. In view of the unprecedented fact that this incident occurred in our home waters, it is deeply regretted by our Government as well as by the entire nation. Negotiations are now in progress with the British authorities and we are doing our utmost to arrive at a satisfactory settlement.
 

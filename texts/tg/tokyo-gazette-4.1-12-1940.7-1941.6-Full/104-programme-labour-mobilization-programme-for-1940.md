@@ -60,11 +60,11 @@ In Korea, Formosa, Sakhalien, and the South Sea Islands a similar programme will
 
 ### Technicians and Skilled Workers
 
-So far as the technicians and skilled workers are concerned, there is a greater unbalance here than is the case with other classes of labour throughout Japan, China, and Manchoukuo. The Government has endeavoured to remedy the deficiency by the establishment of additional technical schools, increasing enrolments in existing training centres, and by other measures. To ensure proper distribution of expert technical labour, it promulgated the Ordinance Re-
+So far as the technicians and skilled workers are concerned, there is a greater unbalance here than is the case with other classes of labour throughout Japan, China, and Manchoukuo. The Government has endeavoured to remedy the deficiency by the establishment of additional technical schools, increasing enrolments in existing training centres, and by other measures. To ensure proper distribution of expert technical labour, it promulgated the Ordinance Restricting
 
 [[p. 100]]
 
-stricting Employment of School Graduates by invoking the National General Mobilization Law, enforcing the quota system of distribution in respect of that group. The utmost care will be taken to adjust distribution to the requirements of each district and according to the urgency of each line of activity. Unemployed technicians will be induced to obtain positions and those skilled workers showing special aptitude raised to the status of technicians. Exchanges of technical labour may also be effected between enterprises of a similar nature or between manufacturers and their subsidiaries.
+Employment of School Graduates by invoking the National General Mobilization Law, enforcing the quota system of distribution in respect of that group. The utmost care will be taken to adjust distribution to the requirements of each district and according to the urgency of each line of activity. Unemployed technicians will be induced to obtain positions and those skilled workers showing special aptitude raised to the status of technicians. Exchanges of technical labour may also be effected between enterprises of a similar nature or between manufacturers and their subsidiaries.
 
 In order to promote the practical training of skilled hands, the Ordinance Pertaining to Training of Technical Workers in Factory Workshops was put into force last year.
 

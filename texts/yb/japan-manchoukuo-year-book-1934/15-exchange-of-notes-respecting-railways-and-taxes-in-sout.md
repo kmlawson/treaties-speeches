@@ -22,11 +22,11 @@ Monsieur le Ministre,
 
 In the name of my Government, I have the honour to make the following declaration to your Government:
 
-China will hereafter provide funds for building necessary railways in South Manchuria and East-
+China will hereafter provide funds for building necessary railways in South Manchuria and Eastern
 
 [[p. 853]]
 
-ern Inner Mongolia; if foreign capital is required China may negotiate for a loan with Japanese capitalists first; and further, the Chinese Government, when making a loan in future on the security of the taxes in the above-mentioned places (excluding the salt and customs revenue which have already been pledged by the Chinese Central Government) may negotiate for it with Japanese capitalists.
+Inner Mongolia; if foreign capital is required China may negotiate for a loan with Japanese capitalists first; and further, the Chinese Government, when making a loan in future on the security of the taxes in the above-mentioned places (excluding the salt and customs revenue which have already been pledged by the Chinese Central Government) may negotiate for it with Japanese capitalists.
 
 I avail, etc.,  
 (Signed) Lou Tseng-tsiang.

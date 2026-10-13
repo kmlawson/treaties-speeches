@@ -252,11 +252,11 @@ In view of the importance which attaches to the operations in inland waters, the
 
 After the fall of the three Wuhan cities of Hankow, Wuchang and Hanyang, the Japanese naval forces on the Yangtze River continued their drive upstream and occupied Yochow (Yoyang) on November 13th last, thus re-opening the 130-mile waterway between Hankow and Yochow.
 
-The naval units since have redoubled their mine-sweeping efforts in the Yangtze, from Hankow to Yochow, as well as from Shanghai to Hankow, to safeguard the Japanese line of communication. With the advent of the low water season unusually early this year, mines laid by the Chin-
+The naval units since have redoubled their mine-sweeping efforts in the Yangtze, from Hankow to Yochow, as well as from Shanghai to Hankow, to safeguard the Japanese line of communication. With the advent of the low water season unusually early this year, mines laid by the Chinese
 
 [[p. 33]]
 
-ese troops came to surface one after another of their own accord. Scores of them were discovered and disposed of in a single day. Meanwhile, the Yangtze forces suppressed Chinese bandits who attempted to disturb the Japanese line of communication and rob Chinese junks on the river. When the Chinese armies and guerilla forces launched their so-called April offensive, the Japanese naval units on the Yangtze attacked their bases and successfully frustrated their attempts.
+troops came to surface one after another of their own accord. Scores of them were discovered and disposed of in a single day. Meanwhile, the Yangtze forces suppressed Chinese bandits who attempted to disturb the Japanese line of communication and rob Chinese junks on the river. When the Chinese armies and guerilla forces launched their so-called April offensive, the Japanese naval units on the Yangtze attacked their bases and successfully frustrated their attempts.
 
 Last March, when the Japanese opened a drive on Nanchang, capital of Kiangsi Province, the Yantze forces broke through the booms constructed by the Chinese at several points at the mouth of the Kan River. In close cooperation with the landing party, air force and military units, they occupied Wucheng at the mouth of the Kan on March 23rd. The river patrol reached Nanchang by way of the Kan River on April 3rd, and Shihchakai, above Nanchang, on April 23rd. Since then the river units have been safeguarding the new Japanese communication line through Lake Poyang and the Kan River.
 

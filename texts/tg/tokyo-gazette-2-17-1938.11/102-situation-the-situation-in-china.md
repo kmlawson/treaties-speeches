@@ -51,11 +51,11 @@ Chinese planes appeared over Loshan from time to time to bomb the Japanese posit
 
 Splendid services were rendered by a Japanese military force which advanced by water up the Hwai River from Anhwei to Honan Province.
 
-In an effort to cooperate with the Japanese forces which were operating in the Kushih sector in Honan Province, the Mamiya detachment took to the Hwai River. This detachment, at 10 : 30 a.m., September 7th reached Changchuangtsi, about 30 kilometres west of Wukongtsi. The following day, it engaged about 350 enemy cavalrymen at Shangyukang, some 24 kilometres northeast of Kwangchow. At 1 : 20 p.m., the same day, it occupied Shangyukang, thus discharging its mission successfully. About 1 p.m., September 10th, 500 Chinese soldiers, armed with 3 mountain-
+In an effort to cooperate with the Japanese forces which were operating in the Kushih sector in Honan Province, the Mamiya detachment took to the Hwai River. This detachment, at 10 : 30 a.m., September 7th reached Changchuangtsi, about 30 kilometres west of Wukongtsi. The following day, it engaged about 350 enemy cavalrymen at Shangyukang, some 24 kilometres northeast of Kwangchow. At 1 : 20 p.m., the same day, it occupied Shangyukang, thus discharging its mission successfully. About 1 p.m., September 10th, 500 Chinese soldiers, armed with 3 mountain-guns
 
 [[p. 27]]
 
-guns counter-attacked the detachment, which, however, succeeded in driving them to the southwest.
+counter-attacked the detachment, which, however, succeeded in driving them to the southwest.
 
 #### The Fukinshan and Shangcheng Sectors
 

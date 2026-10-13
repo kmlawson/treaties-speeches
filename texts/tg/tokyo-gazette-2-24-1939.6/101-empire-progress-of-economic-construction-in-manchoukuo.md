@@ -57,11 +57,11 @@ The future of the Manchuria Magnesium Industry Company established in July, 1938
 
 ### Liquid Fuel Industry
 
-Manufacture of oil by the dry distillation of oil shale which covers the coal seams of the Fushun coal field, famous for open-cut mining, was started in 1930 on the basis of the successful studies and experimentations carried out by the South Manchuria Railway Company since 1925. It has now developed into a paying enter-
+Manufacture of oil by the dry distillation of oil shale which covers the coal seams of the Fushun coal field, famous for open-cut mining, was started in 1930 on the basis of the successful studies and experimentations carried out by the South Manchuria Railway Company since 1925. It has now developed into a paying enterprise.
 
 [[p. 5]]
 
-prise. The present equipment has the capacity to produce 150,000 metric tons of crude oil, which is mainly refined as heavy oil. Volatile oil, sulphate of ammonia and crude wax are also manufactured out of it as by-products. The new equipment with capacity of 200,000 metric tons is now under construction and its main part will be completed within 1939.
+The present equipment has the capacity to produce 150,000 metric tons of crude oil, which is mainly refined as heavy oil. Volatile oil, sulphate of ammonia and crude wax are also manufactured out of it as by-products. The new equipment with capacity of 200,000 metric tons is now under construction and its main part will be completed within 1939.
 
 In the coal-liquefying industry Manchoukuo is somewhat ahead of Japan; and the three companies to operate in this important enterprise, namely, the South Manchuria Railway Company, the Manchuria Synthetic Fuel Company and the Manchuria Artificial Oil Industry Company, will shortly start activities. The first named company has nearly completed the construction, in Fushun, of a plant employing the direct liquefying process; the second named is constructing, in Chinchow, a plant employing the gas synthetic (Fischer's) process; and the last named has nearly completed the construction, in Ssupingkai, of a plant employing the dry hydrogenation process. Of these concerns, the Manchuria Synthetic Fuel Company and the Manchuria Artificial Oil Industry Company are capitalized at 50,000,000 yen and 20,000,000 yen respectively.
 

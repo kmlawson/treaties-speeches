@@ -121,11 +121,11 @@ The Japanese right column on the morning of February 23rd pushed southwest from 
 
 On February 24th, the Japanese forces battered the enemy position north of Sihsien, which they reduced two days later.
 
-The right wing of the main Japanese forces, at about noon, February 24th, reached Wangyu (some 12 kilometres northwest of Fensi); the centre advanced to Suitaochen and its eastern district and the left wing reached a district north of Hwokowtsun. The enemy offered stiff resistance. At dawn on February 24th, one enemy division counter-attacked the right flank of the Japanese right wing. Taking advantage of this manœuvre, the Japanese right wing greeted the enemy with a fierce counter-offensive and repelled them with heavy losses. The situation before the Japanese main body steadily developed in favour of the Imperial forces who out-
+The right wing of the main Japanese forces, at about noon, February 24th, reached Wangyu (some 12 kilometres northwest of Fensi); the centre advanced to Suitaochen and its eastern district and the left wing reached a district north of Hwokowtsun. The enemy offered stiff resistance. At dawn on February 24th, one enemy division counter-attacked the right flank of the Japanese right wing. Taking advantage of this manœuvre, the Japanese right wing greeted the enemy with a fierce counter-offensive and repelled them with heavy losses. The situation before the Japanese main body steadily developed in favour of the Imperial forces who outflanked
 
 [[p. 34]]
 
-flanked the enemy left wing by cutting off their retreat on February 25th. The Japanese entered Jenyichen on the afternoon of February 25th. The enemy facing the Japanese main body apparently was composed of the Chinese 11th division.
+the enemy left wing by cutting off their retreat on February 25th. The Japanese entered Jenyichen on the afternoon of February 25th. The enemy facing the Japanese main body apparently was composed of the Chinese 11th division.
 
 On February 26th, the Japanese main body made a drive on Hwohsien, after defeating the enemy who had been offering stubborn resistance in the district south of Jenyichen. The Japanese forces along the whole front gave hot chase to the retreating enemy on February 27th. The following day, the right column took Wucheng, while the right wing together with a cavalry force advanced to a district southwest of Linfen.
 
@@ -157,11 +157,11 @@ The Chinese Communist troops which had been infesting the Hunyuan district south
 
 ### The Tientsin-Pukow Railway Front
 
-Repair work on the Shantung Railway which had been in progress since last December has been completed. The section between Tsochan and Chuliutien which was severely molested by the Chinese troops was successfully repaired by the Kimura engineering detach-
+Repair work on the Shantung Railway which had been in progress since last December has been completed. The section between Tsochan and Chuliutien which was severely molested by the Chinese troops was successfully repaired by the Kimura engineering detachment
 
 [[p. 36]]
 
-ment on February 10th. Service on the Shantung Railway, 393 kilometres in length, between Tsinan and Tsingtao was re-opened on February 11th.
+on February 10th. Service on the Shantung Railway, 393 kilometres in length, between Tsinan and Tsingtao was re-opened on February 11th.
 
 At 8 a.m., February 11th, a 16-car train left Tsinan for Tsingtao, while another train left Tsingtao for Tsinan about the same time. The management of the Shantung Railway is entrusted to the South Manchuria Railway Company, as a temporary measure. Three services daily are now maintained on this line.
 

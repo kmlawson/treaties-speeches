@@ -20,11 +20,11 @@ For this significant achievement, we owe all to the heroic struggles of our comp
 
 Through their masterly plans of operation and the hard fighting of their loyal officers and men, the Imperial forces have won victory after victory so that the days of Hankow are now numbered. As all of you know, the Chiang Régime is such a Government that deliberately drowns thousands of innocent people of its own country by breaching the dikes of the Yellow River. It is against the laws of nature and man that any individual or group that commits such an outrageous act should be allowed to exist. The Chiang Régime, therefore, should have gone out of existence long ago, but for its efforts to maintain political power at the expense of the welfare of the populace and by relying upon the support and assistance of third Powers.
 
-Among the Powers there are some which, in appreciation of what Japan stands for, are aligned with her in the fight against Com-
+Among the Powers there are some which, in appreciation of what Japan stands for, are aligned with her in the fight against Communism.
 
 [[p. 6]]
 
-munism. There are others which, failing to comprehend the true intentions of Japan, are active in efforts not only for safeguarding their existing rights and interests in China but also for acquiring new concessions there. There may also be a Power which, knowing the utter helplessness of the Nationalist Régime, is assisting it in the hope that by so doing Japan may be brought into exhaustion of resources, a state of affairs which can easily be taken advantage of.
+There are others which, failing to comprehend the true intentions of Japan, are active in efforts not only for safeguarding their existing rights and interests in China but also for acquiring new concessions there. There may also be a Power which, knowing the utter helplessness of the Nationalist Régime, is assisting it in the hope that by so doing Japan may be brought into exhaustion of resources, a state of affairs which can easily be taken advantage of.
 
 Such being the grave situation our country is now confronting, the nation should be reminded that it is no time for being elated with present victories or even being at ease. The present conflict is simply and rightly called the China Affair; but it in no way precludes us from thinking it in terms of the complicated international relations existing in the background. It should be noted that the Chiang Régime cannot be regarded as the only objective of our action. Every member of the nation is accordingly requested to meet the situation by understanding its background.
 

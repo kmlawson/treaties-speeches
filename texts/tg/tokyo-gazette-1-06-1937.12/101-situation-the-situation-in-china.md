@@ -241,11 +241,11 @@ In south China, the Japanese Naval Air Force effectively bombed the forts at Amo
 
 In the Shanghai and Nanking areas, the Japanese Naval Air Force, in cooperation with the Japanese troops which have been driving on Nanking after capturing Shanghai, has been increasing its activities by attacking the Chinese positions from the air in order to facilitate the advance of the Japanese troops and the pursuit of retreating Chinese forces, and in order to sever lines of communication in the rear of the Chinese positions.
 
-Japanese naval planes visited practically all important towns between Nanking and Shanghai and bombed Chinese troop concentrations and military establishments, including those at Nantao, Pootung, Kunshan, Changshu, Tatsang, Soochow, Wusih, Kashan, Kahsing, Chapu, Changchow, Tanyang, Ihsing, Kiangyin, Kintan, Chinkiang, Kwangteh, Ningkuo and Lishui. Japanese naval planes raided Nanking on November 10th and 11th and again on November 22nd and 24th, when six Chinese planes challenged the Japanese raiders of which three were shot down in the ensuing air duel. On November 25th, the Naval Air Force again visited Nanking, but no Chinese plane challenged them. The Japanese raiders effectively bombed the airfield at Tachiaochang, suburb of Nanking, and des-
+Japanese naval planes visited practically all important towns between Nanking and Shanghai and bombed Chinese troop concentrations and military establishments, including those at Nantao, Pootung, Kunshan, Changshu, Tatsang, Soochow, Wusih, Kashan, Kahsing, Chapu, Changchow, Tanyang, Ihsing, Kiangyin, Kintan, Chinkiang, Kwangteh, Ningkuo and Lishui. Japanese naval planes raided Nanking on November 10th and 11th and again on November 22nd and 24th, when six Chinese planes challenged the Japanese raiders of which three were shot down in the ensuing air duel. On November 25th, the Naval Air Force again visited Nanking, but no Chinese plane challenged them. The Japanese raiders effectively bombed the airfield at Tachiaochang, suburb of Nanking, and destroyed
 
 [[p. 35]]
 
-troyed several Chinese planes on the ground.
+several Chinese planes on the ground.
 
 On November 24th, naval air units raided Changsha, capital of Hunan province, and bombed the military depots and railway station there.
 

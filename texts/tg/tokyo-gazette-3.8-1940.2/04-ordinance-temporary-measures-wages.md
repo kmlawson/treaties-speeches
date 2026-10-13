@@ -197,11 +197,11 @@ The matters coming within the jurisdiction of the director of the Communications
 
 **Article 27.**
 
-That which is referred to in the present ordinance as "the Minister of Welfare" shall mean the Governor-General of Chosen, the Governor-General of Taiwan, the Governor of the Government of Karafuto and the Governor of the Government of the South Sea Islands respectively in the cases of Chosen, Taiwan, Karafuto and the South Sea Islands; and that which is referred to as "the prefectural governor" shall mean the governor of *do* in the case of Chosen, the governor of *shu* or *cho* in Taiwan, the Governor of the Government of Karafuto in the case of Karafuto, the Governor of the Government of the South Sea Islands in the case of the South Sea Islands; and that which is referred to as "the prefecture" shall mean the *do* in Chosen, the *shu* or *cho* in Taiwan and the Local Administration Ac-
+That which is referred to in the present ordinance as "the Minister of Welfare" shall mean the Governor-General of Chosen, the Governor-General of Taiwan, the Governor of the Government of Karafuto and the Governor of the Government of the South Sea Islands respectively in the cases of Chosen, Taiwan, Karafuto and the South Sea Islands; and that which is referred to as "the prefectural governor" shall mean the governor of *do* in the case of Chosen, the governor of *shu* or *cho* in Taiwan, the Governor of the Government of Karafuto in the case of Karafuto, the Governor of the Government of the South Sea Islands in the case of the South Sea Islands; and that which is referred to as "the prefecture" shall mean the *do* in Chosen, the *shu* or *cho* in Taiwan and the Local Administration Account
 
 [[p. 315]]
 
-count of the South Sea Islands in the case of the South Sea Islands.
+of the South Sea Islands in the case of the South Sea Islands.
 
 That which is referred to as "the prefectural governor" in the present ordinance shall mean either the director of the Communications Bureau or the administrative authorities having jurisdiction over the maritime affairs of the Government-General of Chosen in the case of Chosen as prescribed by order of the Governor-General of Chosen, and the director of the Bureau of Traffic or the administrative authorities having jurisdiction over the maritime affairs of the Government-General of Taiwan in the case of Taiwan as prescribed by order of the Governor-General of Taiwan in respect of the mariners (with the exceptions of those on board the ships mentioned in each section of Article 1, Paragraph 1 of the Mariners' Law.
 
@@ -227,11 +227,11 @@ The Government may, in time of war and when deemed necessary for effecting natio
 
 **Article 5.**
 
-The Minister of Welfare or the prefectural governor may, in accordance with the provisions of the ordinance, determine initial wages for inex-
+The Minister of Welfare or the prefectural governor may, in accordance with the provisions of the ordinance, determine initial wages for inexperienced
 
 [[p. 316]]
 
-perienced workmen.
+workmen.
 
 When a proprietor of an enterprise has employed inexperienced workmen, he shall, within such period as prescribed by ordinance, pay such amount of wages as is in accordance with the initial wages as governed by the provisions of the preceding paragraph, provided, however, that the same shall not apply where ordinance otherwise prescribes.
 

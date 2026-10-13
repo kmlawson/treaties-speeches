@@ -6,3 +6,5 @@ texts/tg/tokyo-gazette-2-19-1939.1/04-american-note-rights-and-interests-in-chin
 texts/tg/tokyo-gazette-4.1-12-1940.7-1941.6-Full/29-arita-international-situation-radio-address.md 78 régime -> regime (as printed)
 texts/tg/tokyo-gazette-4.1-12-1940.7-1941.6-Full/48-treaty-basic-relations-japan-china.md 274 Republic -> Rupublic (as printed)
 texts/tg/tokyo-gazette-4.9-1941.3/03-matsuoka-address-76th-diet.md 370 Consequently -> Consequent (as printed)
+texts/yb/japan-manchoukuo-year-book-1934/25-agreement-between-the-government-of-the-autonomous-thre.md 865 constitute -> constiute (as printed)
+Total corrections: 9

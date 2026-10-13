@@ -225,11 +225,11 @@ The naval air squadron which visited South China attacked Yinchanyao, Kongtsun, 
 
 Yinchanyao, Hwangtsun, Chuntien and Shektan were raided in South China. The bridge south of Yinchanyao was struck again; the anti-aircraft batteries and machine-gun emplacements near the bridge were effectively bombed; and railway bridges and tracks near Hwangtsun and Chuntien were attacked.
 
-*August 20th* Yinchanyao and Pitsun in South China were raided. The Yinchanyao bridge and the anti-aircraft batteries and machine-gun emplace-
+*August 20th* Yinchanyao and Pitsun in South China were raided. The Yinchanyao bridge and the anti-aircraft batteries and machine-gun emplacements
 
 [[p. 43]]
 
-ments nearby were effectively bombed. The steel bridge near Pitsun was blown up.
+nearby were effectively bombed. The steel bridge near Pitsun was blown up.
 
 *August 21st* Over 30 naval planes led by Lieutenant-Commander Tanamachi visited Wuchang and bombed the Chinese military barracks southwest of Wuchang. Another naval air squadron attacked the Chinese military positions on both banks of the Yangtze River above Kiukiang.
 
@@ -259,11 +259,11 @@ Still another naval air unit visited Canton and bombed Wongsha Station, the sout
 
 *August 27th* The Juichang front was again attacked and the Chinese positions were heavily bombed. The Chinese artillery positions and troop concentrations west and southwest of the Lushan mountain range were also bombed. The naval air unit flying to Nanyung attacked the airfield without being challenged by a single Chinese plane.
 
-*August 28th* The strongly-built Chinese artillery positions on the Jui-
+*August 28th* The strongly-built Chinese artillery positions on the Juichang
 
 [[p. 44]]
 
-chang front and troop concentrations west of Juichang were effectively bombed.
+front and troop concentrations west of Juichang were effectively bombed.
 
 *August 29th* A large naval air force led by Lieutenant-Commander Tanamachi made a surprise attack on Kingshan in Hupeh Province which formed an important outpost of Hankow. Not a single Chinese plane challenged the Japanese raiders, nor did a single Chinese anti-aircraft battery open fire on them. The Japanese effectively bombed various military works, munition depots and military headquarters. They returned to their base safely, after circling over Kingshan several times to ascertain the effects of their bombing.
 

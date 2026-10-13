@@ -149,11 +149,11 @@ The Matsui detachment, on March 21st, surprised about 2,000 Chinese soldiers bel
 
 ### In the Region Along the Northern Bank of the Yellow River
 
-The Japanese garrison force at Wangyuchen, about 20 kilometres west of Tsiyüan, was counter-attacked by about 1,000 Chinese soldiers on March 21st, but succeeded in repulsing them the follow-
+The Japanese garrison force at Wangyuchen, about 20 kilometres west of Tsiyüan, was counter-attacked by about 1,000 Chinese soldiers on March 21st, but succeeded in repulsing them the following
 
 [[p. 35]]
 
-ing day. The enemy fighters belonged to the 132nd division and the 88th division.
+day. The enemy fighters belonged to the 132nd division and the 88th division.
 
 The Japanese garrison force at Tsiyüan encountered Chinese troops near Miaowa, about 16 kilometres west of Tsiyüan on the afternoon of March 23rd and drove them away in the direction of the Yellow River.
 
@@ -393,10 +393,10 @@ South China: Foochow was visited by naval planes which attacked the airfield the
 
 *April 4th* North China: Japanese naval planes raided Tungnanying, Towang and Paikuo where military establishments and troop concentrations were bombed.
 
-Central China: Kushih was raided and the local airfield was attacked with the result that three Chinese planes on the ground were bombed and destroyed while another was damaged. Chuma-
+Central China: Kushih was raided and the local airfield was attacked with the result that three Chinese planes on the ground were bombed and destroyed while another was damaged. Chumatien
 
 [[p. 46]]
 
-tien was also visited and the airfield attacked. Over a dozen aeroplanes on the ground were damaged.
+was also visited and the airfield attacked. Over a dozen aeroplanes on the ground were damaged.
 
 South China: Laitung and Hwangmen on the Canton-Hankow Railway were visited and railway tracks and rolling stock were attacked. Tangtow and Siahu on the Canton-Kowloon Railway were raided; the military establishments at those railway stations were bombed. Lishui was raided with the result that three hangars at the airfield were destroyed.

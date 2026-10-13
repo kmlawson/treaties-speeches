@@ -282,8 +282,8 @@ Of the amount mentioned in the preceding paragraph that advanced by the Governme
 
 ### Supplementary Article
 
-**ARTICLE LIX.**—Five hundred thousand shares representing 50,000,000 Yen included in the additional capitalization authorized by resolution of a special general meeting of the shareholders on April 16, 1920 shall be issued at above par; pro-
+**ARTICLE LIX.**—Five hundred thousand shares representing 50,000,000 Yen included in the additional capitalization authorized by resolution of a special general meeting of the shareholders on April 16, 1920 shall be issued at above par; provided,
 
 [[p. 852]]
 
-vided, that there shall be no objection to issuing it in instalments (as amended April 16, 1920).
+that there shall be no objection to issuing it in instalments (as amended April 16, 1920).

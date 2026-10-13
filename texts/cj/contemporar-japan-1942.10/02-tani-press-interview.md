@@ -20,11 +20,11 @@ The fundamental policy of our diplomacy will have no change, I explicity declare
 
 Regarding our co-operation with Germany and Italy, I will see to it that more efforts will be exercised for its tightening in consideration of the present stage of our joint war with these nations opposed to us. No change will be witnessed in our relations with the Soviet Union.
 
-There is on the other hand no tangible alteration in the diplomatic principles so far followed in our relations with the countries in the greater East Asia co-prosperity sphere. We will fully respect the independence of each of these nations. The independence, I hope, will not be of the com-
+There is on the other hand no tangible alteration in the diplomatic principles so far followed in our relations with the countries in the greater East Asia co-prosperity sphere. We will fully respect the independence of each of these nations. The independence, I hope, will not be of the common
 
 [[p. 1526]]
 
-mon nature that each nation is existing apart from each other but of the character that all of the countries are closely united so that theirs will be the independence of economics and national defences as well as geographical features. This union will be based on ethical principles. It is there that Japan's national principle of having all the nations in the world enjoy the intimate relations with one another is to be most effectively followed.
+nature that each nation is existing apart from each other but of the character that all of the countries are closely united so that theirs will be the independence of economics and national defences as well as geographical features. This union will be based on ethical principles. It is there that Japan's national principle of having all the nations in the world enjoy the intimate relations with one another is to be most effectively followed.
 
 My concurrent appointments as Foreign Minister and President of the Board of Information have been realized presumably because of the expected effective co-ordination between diplomacy and propaganda work at this stage of the international situation. My assumption of the two positions may have been realized so that the co-working of the Government organs will be better facilitated. You may regard the present arrangement as a permanent nature.
 

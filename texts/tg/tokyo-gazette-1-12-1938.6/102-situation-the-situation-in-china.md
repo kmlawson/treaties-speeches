@@ -249,11 +249,11 @@ The enemy forces in the Siangyüan area were about 3,000 strong, belonging to th
 
 On April 10th, the Kudo detachment swung north and dispersed about 2,000 Chinese which had established positions at a point 8 kilometres north of Siangyüan. On April 12th, the detachment reached the area southwest of Liaohsien. On April 16th, it attacked some 2,000 Chinese which had taken up positions at a point about 8 kilometres northeast of Siyingchen, and drove them southward with heavy losses. The enemy which belonged to the 3rd Army under General Tseng Wan-chung left about 350 dead.
 
-(6) Those Japanese forces which advanced from Luan and Tunliu occupied Tsinhsien, another important base for the Chinese Com-
+(6) Those Japanese forces which advanced from Luan and Tunliu occupied Tsinhsien, another important base for the Chinese Communist
 
 [[p. 38]]
 
-munist regulars, on April 10th, after clearing Yuwachen and Hutungchen of the remnants of Chinese troops on the way.
+regulars, on April 10th, after clearing Yuwachen and Hutungchen of the remnants of Chinese troops on the way.
 
 On April 12th, they reached Wusiang. The following day, they reduced Yushe, a vital base for the Chinese Communist forces.
 

@@ -29,11 +29,11 @@ of Japan than to bring armed pressure to bear upon China in the course of these 
 
 (3) Complete suppression of all organized movements interfering with freedom of trade and stirring up international hatred.
 
-(4) Effective protection throughout Man-
+(4) Effective protection throughout Manchuria
 
 [[p. 874]]
 
-churia of all peaceful pursuits undertaken by Japanese subjects.
+of all peaceful pursuits undertaken by Japanese subjects.
 
 (5) Respect for the treaty rights of Japan in Manchuria.
 

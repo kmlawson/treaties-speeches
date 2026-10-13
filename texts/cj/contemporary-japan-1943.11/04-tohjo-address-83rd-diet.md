@@ -38,11 +38,11 @@ In this great war of justice in which our Empire was unavoidably compelled to ri
 
 Looking at the situation in Europe, the shameless act of betrayal of Badoglio and his group in Italy is a matter of profound regret to us. Their conduct has only confused the Italian people in choosing their own path and have thrown them into the direct distress, but the position of sure victory of the Axis Powers has not in the least been affected.
 
-Thanks to the dexterous and effective measures taken by Fuehrer Hitler, Duce Mussolini, gathering around him men of the same mind and establish-
+Thanks to the dexterous and effective measures taken by Fuehrer Hitler, Duce Mussolini, gathering around him men of the same mind and establishing
 
 [[p. 1525]]
 
-ing a new government, is now in a position to continue to march forward to crush the United States and Britain by joining forces with Japan and Germany. Japan and Germany promptly recognized the new Government. My hearty felicitation goes to Duce Mussolini for his return to power and my sincere hope for the continuation of his vigorous efforts.
+a new government, is now in a position to continue to march forward to crush the United States and Britain by joining forces with Japan and Germany. Japan and Germany promptly recognized the new Government. My hearty felicitation goes to Duce Mussolini for his return to power and my sincere hope for the continuation of his vigorous efforts.
 
 In meeting the new developments of the European war situation, Germany, having boldly carried out with extraordinary determination a very careful and large-scale internal general mobilization, is now poised for free and untrammelled military operations in all directions taking advantage of her strong and solid position in Europe. Japan expects and believes firmly that her ally, Germany, will, in due course, attain the desired results in the coming new operations, and that the day will soon arrive when she will, in full collaboration with Japan, bring the United States and Britain to their knees.
 

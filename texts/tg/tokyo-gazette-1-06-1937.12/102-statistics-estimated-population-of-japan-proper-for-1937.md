@@ -23,11 +23,11 @@ On October 1, 1937, the population of Japan Proper, as estimated by the Bureau o
 
 Among Japan's forty-six prefectures, Tokyo, with a population of 6,769,800, occupies the predominant position, followed by Osaka with 4,610,000. The northern island of Hokkaido takes the next numerical position with 3,170,000 persons, while the prefectures of Hyogo with 3,030,000, Aichi with 2,980,000, Fukuoka with 2,850,000 and Niigata with 2,020,000 follow in order. None of the remaining prefectures had a population of 2,000,000. The totals for Shizuoka and nine other prefectures were over 1,500,000 ; Kumamoto and 13 others had over 1,000,000 ; Oita and nine others over 700,000 ; Saga and four others had over 500,000. Tottori prefecture with a population of 491,000 was lowest in the list ; it alone had less than 500,000 persons living in it.
 
-The number of cities in Japan Proper on October 1st was 145, with an aggregate population of 25,109,400, or 35.2 per cent of the total population. Tokyo the largest city with 6,274,000 persons ; Osaka, 3,210,000 ; Nagoya, 1,180,000 ; Kyoto, 1,130,000 ; Kobe, 960,000, and Yokohama, 750,000, followed in order. Among the remaining cities, Hiroshima tops the list with 326,000, followed by Fukuoka, Kure, Yawata, Sendai, Nagasaki, Hakodate, Shizuoka, Sapporo and Yokosuka, each with over 200,000 residents. Popula-
+The number of cities in Japan Proper on October 1st was 145, with an aggregate population of 25,109,400, or 35.2 per cent of the total population. Tokyo the largest city with 6,274,000 persons ; Osaka, 3,210,000 ; Nagoya, 1,180,000 ; Kyoto, 1,130,000 ; Kobe, 960,000, and Yokohama, 750,000, followed in order. Among the remaining cities, Hiroshima tops the list with 326,000, followed by Fukuoka, Kure, Yawata, Sendai, Nagasaki, Hakodate, Shizuoka, Sapporo and Yokosuka, each with over 200,000 residents. Population
 
 [[p. 37]]
 
-tion exceeded 100,000 in Kumamoto and 22 other cities. Thus, the 39 cities having a population of more than 100,000 aggregated 19,330,300, or 27.1 per cent of the total population.
+exceeded 100,000 in Kumamoto and 22 other cities. Thus, the 39 cities having a population of more than 100,000 aggregated 19,330,300, or 27.1 per cent of the total population.
 
 An examination of the trend of population in Japan Proper since 1920 reveals that the first quinquennial period (1920-1925) witnessed an aggregate increase of 3,770,000, or an annual average gain of about 750,000. The increase during the second period (1925-1930) was 4,710,000, or an annual average gain of 940,000 to 950,000. A still more drastic increase of 4,800,000 was recorded in the third period (1930-1935)—an annual gain of 950,000 to 960,000 persons.
 

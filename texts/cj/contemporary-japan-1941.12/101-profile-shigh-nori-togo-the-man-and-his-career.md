@@ -60,11 +60,11 @@ Mr. Togo was appointed first secretary to the Japanese Embassy in Washington in 
 
 That was an epochal year for Germany. The economic depression that affected the whole world came as a terrible blow to enfeebled Germany. It was at this time that Herr Hitler's National-Socialist movement began to gain in power, ending in complete defeat for the German labour and Communist movements and complete victory for the National-Socialists. Here again Mr. Togo took every opportunity to study and analyse a period of chaos and upheaval until just before Herr Hitler assumed full power.
 
-At about the same time, the disarmament conference was going on at Geneva, and Mr. Togo played an active part as chief secretary of the Japanese delegation thereto. The Manchurian incident also came up for discussion about this time at the League of Nations, which afforded him ample opportunity for observing all the ins and outs of international politics at a close range. Here he learned the futility of mere ideals in politics. He saw nothing but greed and ambition and treacherous intrigue among nations while the League of Nations was on the verge of final collapse. His observations strength-
+At about the same time, the disarmament conference was going on at Geneva, and Mr. Togo played an active part as chief secretary of the Japanese delegation thereto. The Manchurian incident also came up for discussion about this time at the League of Nations, which afforded him ample opportunity for observing all the ins and outs of international politics at a close range. Here he learned the futility of mere ideals in politics. He saw nothing but greed and ambition and treacherous intrigue among nations while the League of Nations was on the verge of final collapse. His observations strengthened
 
 [[p. 1544]]
 
-ened the conviction that "circumstances should be faced squarely and issues between nations should be solved according to actualities."
+the conviction that "circumstances should be faced squarely and issues between nations should be solved according to actualities."
 
 Returning from Germany in 1933, Mr. Togo was made director of the European-American Bureau in the Foreign Office. Later this was divided into the American Affairs Bureau and the European and Western Asiatic Affairs Bureau, with Mr. Togo as the first chief of the latter. In the fall of 1937, he was appointed Ambassador to Berlin and in 1939 he became Ambassador to Moscow, which post he held until relieved by the present Ambassador, General Tatékawa, at the end of 1940.
 

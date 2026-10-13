@@ -97,11 +97,11 @@ It is therefore for us to wage this war to pursue this East Asiatic struggle as 
 
 This is what I want to tell you as a last message, that we should approach this war or any war to follow, even to the extent of ten or a hundred wars, we should approach all as a part of the East Asiatic revolution, a revolution which concerns not only our armies and governments, but every single person in East Asia. It is everybody's revolution, and the revolutionary front is in every home and every town. That is the way to win a revolution. If we pursue this East Asiatic revolution as the revolution of the East Asiatic peoples, if we have learnt our lessons from the past as to why materialist Europe failed, why spiritual Asia of the past failed, if we profit by these lessons, we will inherit the future world in the East.
 
-I have every confidence in the success of the East Asiatic revolution. I have three reasons for my conviction and confidence. First of all every-
+I have every confidence in the success of the East Asiatic revolution. I have three reasons for my conviction and confidence. First of all everywhere
 
 [[p. 1093]]
 
-where I have been to, in Nippon and in my country, everywhere, I find that there is one radical difference between this war and the past World War. This war is a war of the peoples, not only of big armies and other material fighting forces. It is a people's war, a people's struggle for existence, and that is why I believe in the success of the revolution.
+I have been to, in Nippon and in my country, everywhere, I find that there is one radical difference between this war and the past World War. This war is a war of the peoples, not only of big armies and other material fighting forces. It is a people's war, a people's struggle for existence, and that is why I believe in the success of the revolution.
 
 On my way from Fukuoka to Tokyo my train carried me through a long stretch of your country. Everywhere I looked, I noticed that everyone in Nippon is working, fighting, living for the war. The farmer in his field, the man carrying the goods, the soldiers training, everyone was working. When I saw that I said to myself that such a great people could never be defeated so long as everybody is an East Asiatic revolutionist in Nippon. This is one reason why I believe in the final success of our East Asiatic revolution.
 

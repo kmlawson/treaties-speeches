@@ -14,11 +14,11 @@ notes: INCOMPLETE: p. 861 not transcribed (left and right columns); the text bet
 ---
 [[p. 860]]
 
-The Republic of China and the Union of Soviet Socialist Republics, desiring to re-establish normal relations with each other, have agreed to conclude an agreement on general principles for the settle-
+The Republic of China and the Union of Soviet Socialist Republics, desiring to re-establish normal relations with each other, have agreed to conclude an agreement on general principles for the settlement
 
 [[p. 861]]
 
-ment of the questions between the two countries, and have to that end named as their Plenipotentiaries, that is to say:
+of the questions between the two countries, and have to that end named as their Plenipotentiaries, that is to say:
 
 His Excellency the President of the Republic of China:
 

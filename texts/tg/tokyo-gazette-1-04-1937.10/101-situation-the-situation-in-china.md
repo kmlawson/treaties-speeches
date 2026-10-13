@@ -247,11 +247,11 @@ The Kimura detachment occupied Hsinlo, 80 kilometres south of Paoting on Septemb
 
 The Japanese forces, after occupying Hsinlo on the Peking-Hankow Railway, stopped some time there to prepare for their southern drive and also to repair the railway bridge south of Hsinlo which had been damaged.
 
-On October 3rd, the Japanese troops started a southern push from Hsinlo and occupied Tunganchen, whence they advanced further south to dislodge the Chinese troops from Shichiachuang, an im-
+On October 3rd, the Japanese troops started a southern push from Hsinlo and occupied Tunganchen, whence they advanced further south to dislodge the Chinese troops from Shichiachuang, an important
 
 [[p. 36]]
 
-portant railway junction, from which a branch railway line, about 270 kilometres long, runs to Taiyüan, capital of Shansi province.
+railway junction, from which a branch railway line, about 270 kilometres long, runs to Taiyüan, capital of Shansi province.
 
 ### The Tientsin-Pukow Railway Front
 

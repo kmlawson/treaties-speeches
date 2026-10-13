@@ -345,11 +345,11 @@ Wartime marine insurance premiums for shipments bound for China Sea and Mediterr
 
 *Nov. 25* Japanese troops occupy Wusih.
 
-The first anniversary of the conclu-
+The first anniversary of the conclusion
 
 [[p. 33]]
 
-sion of the Anti-Comintern Pact between Japan and Germany is celebrated in both countries.
+of the Anti-Comintern Pact between Japan and Germany is celebrated in both countries.
 
 *Nov. 27* Japan calls the attention of the Soviet Union to the frequent unlawful acts on the part of the latter.
 
@@ -415,11 +415,11 @@ The 73rd Diet meets in Tokyo.
 
 ### January
 
-*Jan. 1* The Nationalist Government is reorganized as General Chiang Kai-
+*Jan. 1* The Nationalist Government is reorganized as General Chiang Kaishek
 
 [[p. 34]]
 
-shek resigns from the presidency of the Executive Yuan in order to concentrate on military affairs. Peace Preservation committees are organized at Tsinan and Hangchow.
+resigns from the presidency of the Executive Yuan in order to concentrate on military affairs. Peace Preservation committees are organized at Tsinan and Hangchow.
 
 Manchoukuo's new customs tariff law goes into effect.
 
@@ -725,11 +725,11 @@ The Canadian Prime Minister issues a proclamation of non-intervention in the Sin
 
 #### Konoe Cabinet Reorganized
 
-*May 26* The Japanese Cabinet headed by Prince Fumimaro Konoe as Prime Minister is reorganized with General Kazushige Ugaki, Seihin Ikeda and General Baron Sadao Araki instal-
+*May 26* The Japanese Cabinet headed by Prince Fumimaro Konoe as Prime Minister is reorganized with General Kazushige Ugaki, Seihin Ikeda and General Baron Sadao Araki installed
 
 [[p. 39]]
 
-led as Foreign Minister, Finance Minister (and concurrently Commerce and Industry Minister) and Education Minister respectively.
+as Foreign Minister, Finance Minister (and concurrently Commerce and Industry Minister) and Education Minister respectively.
 
 *May 27* The Japanese Consulate-General at Amoy is reopened.
 
@@ -843,11 +843,11 @@ Regulations controlling the sales prices of commodities are put into force in Ja
 
 *July 14* General Yu Han-mou is appointed commander of the defences of South China.
 
-Great Britain is reported to have decided to turn down Chiang Kai-
+Great Britain is reported to have decided to turn down Chiang Kaishek's
 
 [[p. 41]]
 
-shek's request for a loan of 20 million pounds sterling.
+request for a loan of 20 million pounds sterling.
 
 Japan and Manchoukuo protest to the Soviet Union regarding the Soviet intrusion into Manchoukuoan territory in the vicinity of Changkufeng.
 

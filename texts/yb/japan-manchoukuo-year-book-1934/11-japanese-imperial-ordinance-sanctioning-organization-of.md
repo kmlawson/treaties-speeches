@@ -90,11 +90,11 @@ In the case referred to in the preceding paragraph the Government shall inform t
 
 **ARTICLE XVIII.**—The Government shall appoint a commission to transact all business relating to the organization of the South Manchuria Railway Joint Stock Company.
 
-**ARTICLE XIX.**—The organizing commission shall draw up the company's articles of associa-
+**ARTICLE XIX.**—The organizing commission shall draw up the company's articles of association,
 
 [[p. 845]]
 
-tion, and after the said articles have been approved by the Government, shall open the subscription for the first issue of shares.
+and after the said articles have been approved by the Government, shall open the subscription for the first issue of shares.
 
 **ARTICLE XX.**—When the first issue of the company's shares has been subscribed, the commission shall present to the Government the subscription list and apply for permission to organize the company.
 

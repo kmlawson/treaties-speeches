@@ -40,11 +40,11 @@ The Government shall not offer the above-mentioned property and revenue of other
 
 **ARTICLE VIII.**—A formal loan contract shall be concluded within four months after the conclusion of the present preliminary agreement.
 
-**ARTICLE IX.**—With the conclusion of the preliminary contract the Banks shall advance twenty million yen of Japanese currency to the Govern-
+**ARTICLE IX.**—With the conclusion of the preliminary contract the Banks shall advance twenty million yen of Japanese currency to the Government.
 
 [[p. 855]]
 
-ment. The advance shall be delivered without charging any commission.
+The advance shall be delivered without charging any commission.
 
 **ARTICLE X.**—Interest on the advance shall be paid at the rate of eight per cent. per annum or Yen Eight per Yen 100.
 

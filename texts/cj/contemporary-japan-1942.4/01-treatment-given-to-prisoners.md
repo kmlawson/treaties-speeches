@@ -52,11 +52,11 @@ Radio operator, *Sidney R. Wallace*, New Zealander, taken in Gilbert Island:
 
 *Harold L. Hacen*, American civilian, taken in Guam:
 
-"Hello, America. I hope, America is making every effort for an exchange of nationals as I am longing to be home again. I hope such an ex-
+"Hello, America. I hope, America is making every effort for an exchange of nationals as I am longing to be home again. I hope such an exchange
 
 [[p. 647]]
 
-change is soon made. I know there must be many Japanese citizens just as anxious as I to return to their mother country. Although this is not a pleasure trip, no one can blame me if I look with pleasure at the many beautiful things in Japan. You know, brother, after all I wanted to see strange lands when I left for the tropics. So long."
+is soon made. I know there must be many Japanese citizens just as anxious as I to return to their mother country. Although this is not a pleasure trip, no one can blame me if I look with pleasure at the many beautiful things in Japan. You know, brother, after all I wanted to see strange lands when I left for the tropics. So long."
 
 As to the discipline of our soldiers, it is taken for granted by all impartial observers that the strength of the Japanese Army and Navy lies in the strict maintenance of discipline between the ranks as well as within the ranks. The Anglo-American propagandists, in the complete absence of victorious reports, are parroting the Chungking spokesmen, who are also in a similar plight, in heaping abusive words on the honourable name of the Imperial Japanese forces. The *New York Times* correspondent Norman Suhn, clearly described the truth in his message to the United Press which was circulated on March 2. It said:
 

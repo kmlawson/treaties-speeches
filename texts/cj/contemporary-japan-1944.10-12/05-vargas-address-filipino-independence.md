@@ -68,11 +68,11 @@ For their part the Imperial Japanese forces in the Philippines have extended wil
 
 Tonight I wish to take advantage of this auspicious occasion to express the gratitude of the Government and people of the Republic of the Philippines for this new manifestation of the goodwill and solicitous friendship entertained for us by the Government and people of the Japanese Empire, so abundantly proven time and again in the past years of peaceful co-operation, before and after the proclamation of Philippine independence which we now commemorate.
 
-But now one year of peace has ended and a new year of war has begun. The Empire and the Republic, partners in construction, have become allies in defence of their national existence, their economic security, their civilization, their highest ideals, their common destiny. I have no doubt that the comradeship of the two nations will survive the most strenuous and de-
+But now one year of peace has ended and a new year of war has begun. The Empire and the Republic, partners in construction, have become allies in defence of their national existence, their economic security, their civilization, their highest ideals, their common destiny. I have no doubt that the comradeship of the two nations will survive the most strenuous and demanding
 
 [[p. 1078]]
 
-manding test. Sharing as they do the precious experience of having conquered fear, suspicion, and prejudice with better understanding and mutual goodwill; sharing as they do the same ideals of a better world of peace, liberty, and moral justice, I am certain that the Republic will loyally and faithfully stand by the Empire and the Empire by the Republic until final and complete victory is won.
+test. Sharing as they do the precious experience of having conquered fear, suspicion, and prejudice with better understanding and mutual goodwill; sharing as they do the same ideals of a better world of peace, liberty, and moral justice, I am certain that the Republic will loyally and faithfully stand by the Empire and the Empire by the Republic until final and complete victory is won.
 
 And now Excellencies and Gentlemen, may I ask you to rise and join me in a toast:
 

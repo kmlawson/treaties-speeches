@@ -319,11 +319,11 @@ Czecho-Slovakian Government falls as German military units invade the country. S
 
 *March 18* Great Britain and France protest against German action in relation to Czecho-Slovakia.
 
-*March 2* Tsen Chung-ming, Secre-
+*March 2* Tsen Chung-ming, Secretary
 
 [[p. 398]]
 
-tary to Wang Ching-wei, is assassinated at Hanoi.
+to Wang Ching-wei, is assassinated at Hanoi.
 
 *March 22* Fengsin and Anki, in Kiangsi Province, are occupied by Japanese forces.
 

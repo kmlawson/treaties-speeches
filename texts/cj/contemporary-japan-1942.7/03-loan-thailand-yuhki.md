@@ -24,11 +24,11 @@ However, now that the country has declared war on America and Britain, it has be
 
 Simultaneously with the conclusion of this agreement, another pact has been signed whereby all settlements between the two countries will hereafter be made through the account of the Bank of Japan.
 
-By virtue of this pact, a collective settlement system centering around the Bank of Japan has been soundly established, thus adding more import-
+By virtue of this pact, a collective settlement system centering around the Bank of Japan has been soundly established, thus adding more importance
 
 [[p. 1121]]
 
-ance to the Japanese *yen* as a currency with which to make all settlements in the common prosperity sphere. Needless to say, the responsibility resting on the shoulders of the Bank of Japan as a pivotal organ of finance in the whole of greater East Asia zone has been increased by many fold.
+to the Japanese *yen* as a currency with which to make all settlements in the common prosperity sphere. Needless to say, the responsibility resting on the shoulders of the Bank of Japan as a pivotal organ of finance in the whole of greater East Asia zone has been increased by many fold.
 
 In Thailand, a plan is now under way to establish a central bank. When the project materializes, the Bank of Japan will spare no efforts in extending a hearty support to the healthy development of this financial organ, hoping to contribute in this way toward a still more closer economic relation between Japan and Thailand through the central bank.
 

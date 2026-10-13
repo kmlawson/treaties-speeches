@@ -85,11 +85,11 @@ Pressing back the enemy, the Japanese forces steadily drove west. On the evening
 
 Heavy artillery fire was concentrated on the North and East Gates, and the northeastern salient of the wall at 6 o'clock that evening. The Kashima unit of the Toyama detachment occupied the salient at 8:25 o'clock.
 
-The other Japanese units which were battering Kaifeng from the north and due east also entered the walled town. All remnants of Chinese troops in the town were eradicated during the morning of June 6th. The com-
+The other Japanese units which were battering Kaifeng from the north and due east also entered the walled town. All remnants of Chinese troops in the town were eradicated during the morning of June 6th. The commander
 
 [[p. 39]]
 
-mander of the Japanese forces made a triumphant entry into Kaifeng at 2 o'clock in the afternoon.
+of the Japanese forces made a triumphant entry into Kaifeng at 2 o'clock in the afternoon.
 
 The Chinese troops which attempted to defend Kaifeng were the 141st, 142nd and 34th divisions under General Shang Chen. They left a large number of dead, while the Japanese casualties totalled 47 killed and 125 injured.
 

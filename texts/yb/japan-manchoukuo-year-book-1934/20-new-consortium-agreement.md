@@ -58,8 +58,7 @@ parties hereto shall be entitled to participate equally in the existing agreemen
 
 (1) Such notice or notices must be received by the other or others of the parties hereto before the execution of the final agreement for issue of the loan or (in the case of an issue of a part only of the loan) of so much thereof as the parties hereto may from time to time agree to issue.
 
-(2) The party or parties to whom such notice or notices shall have been given shall be entitled to decide among themselves and without reference to the party or parties giving such notice or notices as to which one or more of them shall issue the Re-
-Residuary Participation but in default of any such decision they shall issue the same equally between them.
+(2) The party or parties to whom such notice or notices shall have been given shall be entitled to decide among themselves and without reference to the party or parties giving such notice or notices as to which one or more of them shall issue the Residuary Participation but in default of any such decision they shall issue the same equally between them.
 
 (3) In issuing the Residuary Participation no distinction shall be made between the Residuary Participation and the amount or amounts issued on its or their own account by the party or parties issuing the Residuary Participation which shall in all respects by subject to the conditions of the respective Syndicates which may be formed for the purpose of effecting the issue.
 

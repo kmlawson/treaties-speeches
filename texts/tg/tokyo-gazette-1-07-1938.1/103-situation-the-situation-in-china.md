@@ -65,11 +65,11 @@ The Wakizaka detachment which had been pushing on Nanking along the old highway 
 
 The right wing of the Japanese force which had been attacking the south-eastern salient of Nanking broke through the enemy position at a height east of the Chungshanmen and on December 10th approached within 100 metres of that gate. Under cover of artillery, the Japanese force launched hand-to-hand fighting against the enemy. At dawn, the following day, the Japanese troops dashed into the walled town through an opening blasted near the Chungshanmen and drove north, after dislodging the enemy which offered stiff resistance.
 
-Another Japanese unit which advanced on Nanking via Changchow and Kintan reached the Shangfangmen on December 12th by way of Tienwangsze and Hushu. The Takamori detachment which led this unit participated in the engagement at the south-eastern sal-
+Another Japanese unit which advanced on Nanking via Changchow and Kintan reached the Shangfangmen on December 12th by way of Tienwangsze and Hushu. The Takamori detachment which led this unit participated in the engagement at the south-eastern salient
 
 [[p. 34]]
 
-ient of Nanking. After occupying the salient, the detachment on December 13th pressed hard on the Wutingmen.
+of Nanking. After occupying the salient, the detachment on December 13th pressed hard on the Wutingmen.
 
 *In the southern sector of Nanking* The Japanese forces which had been advancing on Nanking from Lishui occupied Molingkwan on December 7th and continued their pursuit of the retreating enemy. The Okamoto and Takeshita detachments, after reaching the southern area of Lishui drove north-west side by side with the Japanese forces which advanced from Lishui, and reached the line connecting the area north of Shuiko and the area east of Kulitsun on the evening of December 8th. The following day they advanced to the line connecting the area north of Shuiko and the area east of Kulitsun. On December 9th they advanced to the line connecting the height south of Yuhuatai and Sishanchiao, thus pressing back the enemy into Nanking.
 

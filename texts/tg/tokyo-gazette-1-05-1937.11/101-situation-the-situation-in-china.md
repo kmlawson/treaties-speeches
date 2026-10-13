@@ -303,11 +303,11 @@ The extreme left wing of the marine force dashed ahead from Haskell Road on the 
 
 *October 27th* Before dawn, the Japanese marines started an advance along the whole front. The right wing dashed ahead in order to cut off the retreat of the enemy and about 7 a.m. reached the western extremity of Chapei. This detachment in concert with other units pressed back the enemy to Soochow Creek which forms the boundary of the International Settlement, from the north and north-east. By 6 p.m. the marine force occupied the whole of Chapei except the points into which several hundred Chinese troops were driven. One marine unit drove farther west and took Chenjuchen by 6 p.m., October 27th. The Chinese troops left about 900 dead, while the Japanese marines took about 300 Chinese prisoners and captured an enormous quantity of arms and ammunition. The losses of the marines were negligible. Although there were 27 casualties, including the commander of a marine company who was wounded, no Japanese was killed.
 
-*October 28th* Remnants of the Chinese troops who lost their chance to escape from the Chapei district found their way into the Four Banks Savings Society's godowns, where they pretended to offer stiff resistance to the Japanese marine force. Out of humanitarian and chivalrous considerations, the marines advised the Chinese to surrender. The Japanese did not desire any needless bloodshed, nor were they blind to the complicated international situation, arising from the fact that the godowns in question were contigu-
+*October 28th* Remnants of the Chinese troops who lost their chance to escape from the Chapei district found their way into the Four Banks Savings Society's godowns, where they pretended to offer stiff resistance to the Japanese marine force. Out of humanitarian and chivalrous considerations, the marines advised the Chinese to surrender. The Japanese did not desire any needless bloodshed, nor were they blind to the complicated international situation, arising from the fact that the godowns in question were contiguous
 
 [[p. 33]]
 
-ous to the sectors guarded by the British troops and also bordered the International Settlement on the north and the south-east.
+to the sectors guarded by the British troops and also bordered the International Settlement on the north and the south-east.
 
 *October 29th* The Japanese marine force was busy eradicating the remnants of the Chinese troops in the Chapei district and also keeping watch on the Chinese troops in the Four Banks Savings Society's godowns.
 
@@ -343,11 +343,11 @@ The situation prevailing in Shanghai at the end of October was as follows:
 
 (2) It was feared for a time that remnants of the Chinese troops might force their way into the International Settlement south of Soochow Creek. Due, however, to the strict guarding of the border by foreign troops, not a single Chinese soldier entered the Settlement.
 
-Chinese refugees sought safety in the International Settlement. Other-
+Chinese refugees sought safety in the International Settlement. Otherwise
 
 [[p. 34]]
 
-wise everything was quiet in that sector where all shops conducted business as usual on October 28th. The foreign residents on Hungjao Road and on the extension of the Settlement all took refuge within the International Settlement itself.
+everything was quiet in that sector where all shops conducted business as usual on October 28th. The foreign residents on Hungjao Road and on the extension of the Settlement all took refuge within the International Settlement itself.
 
 (3) The French Concession was strictly guarded, especially on the southern border adjacent to the Chinese quarter. A large number of Chinese refugees thronged around this Concession, but everything remained quiet within.
 

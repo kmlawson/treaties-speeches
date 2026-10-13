@@ -66,11 +66,11 @@ In order to gloss over the alarming situation following their reverses, they dec
 
 Especially critical is Britain's position. Her wholesale retreat from all fronts of East Asia and the remarkable activities of the German and Italian navies in the Atlantic and Mediterranean have made the situation of the British Isles full of unrest. People in England are experiencing increasing difficulty of living, while unreast [sic] is sharpening in India, and Australia is exposed to a serious menace. Thus there are increasing indications that the collapse of the British Empire is impending.
 
-On the other hand, the United States is withholding from the public all news on her uninterrupted series of military and naval disasters while spreading fictitious reports of victory in an attempt to maintain popular confidence. In the past, American statesmen used to stand for frankness and candour, but it is a remarkable tendency that they are recently apt to refrain from speaking the truth. Meanwhile, however, the American people are steadily feeling the pinch of war, so that their standard of living is bound to deteriorate increasingly. It is but natural that dissatisfaction is voiced among the intel-
+On the other hand, the United States is withholding from the public all news on her uninterrupted series of military and naval disasters while spreading fictitious reports of victory in an attempt to maintain popular confidence. In the past, American statesmen used to stand for frankness and candour, but it is a remarkable tendency that they are recently apt to refrain from speaking the truth. Meanwhile, however, the American people are steadily feeling the pinch of war, so that their standard of living is bound to deteriorate increasingly. It is but natural that dissatisfaction is voiced among the intellectual
 
 [[p. 974]]
 
-lectual classes in the United States over the American Government which has despotically dragged the nation into an uncertain war with Japan without any chance of success, completely disregarding the welfare of the masses.
+classes in the United States over the American Government which has despotically dragged the nation into an uncertain war with Japan without any chance of success, completely disregarding the welfare of the masses.
 
 In short, the fact that the American Government resorted to interference and aggression in violation of the moral principle which inspired the founding of the United States and further that they jumped to the hasty conclusion that they would be able to bring Japan easily to her knees constitutes the major cause for bringing about the current world-wide disturbance. Japan's object consists in destroying the American policy of aggression, which dreams of world domination.
 

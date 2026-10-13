@@ -44,11 +44,11 @@ Let us now turn to China. By the fall of Singapore a corner of the anti-Japanese
 
 As regards South American and other neutral countries, it is my firm belief that they will understand our real intentions and will not commit the folly of pulling the chestnuts out of the fire under the pressure of the United States and Britain.
 
-I wish to take this opportunity to express, together with our people, my profound appreciation to our Allied ocuntries of their coopera-
+I wish to take this opportunity to express, together with our people, my profound appreciation to our Allied ocuntries of their cooperation
 
 [[p. 422]]
 
-tion and good-will extended to us. It is a source of real gratification that Manchoukuo, the National Government of the Republic of China, Thailand and French Indo-China, sharing always joys and trials with Japan, are going forward with Japan toward the construction of the Greater East Asian Co-prosperity Sphere.
+and good-will extended to us. It is a source of real gratification that Manchoukuo, the National Government of the Republic of China, Thailand and French Indo-China, sharing always joys and trials with Japan, are going forward with Japan toward the construction of the Greater East Asian Co-prosperity Sphere.
 
 It is truly impressive that Germany and Italy and other European Allies of ours are achieving brilliant victories in close cooperation with Japan and are putting forth their efforts for the construction of a new world order. I wish to pay my heartfelt respect for their brave and strenuous efforts and earnestly wish them further to exploit their war successes.
 
