@@ -5,7 +5,7 @@ source: tg
 ia: tokyo-gazette-4.1-12-1940.7-1941.6-Full
 issue: January, 1941
 leaf: 280
-pages: 278-
+pages: 278-281
 date: 1940-11-30
 author: Foreign Office Spokesman
 parties: 
@@ -37,3 +37,9 @@ The conference was attended by thirty delegates in all, comprising ten from the 
 In parallel and inseparable with the activities for the establishment of a Central Government, there progressed negotiations for the adjustment of Sino-Japanese relations. These negotiations made especially notable progress on the basis of the three principles of amity and neighbourliness, common defence against the Comintern and economic cooperation, after the Sixth Plenary Session of the Kuomintang which was held at the end of August of 1939; and on December 30 an informal agreement on basic ideas regarding the adjustment of Sino-Japanese relations was reached at Shanghai between the negotiators of the two countries.
 
 Upon the establishment of the new Central Government on March 30 of this year, the Japanese Government appointed on April 1 General Nobuyuki Abe, Ambassador Extraordinary and Plenipotentiary, who arrived at Nanking on the 23rd of that month. After this, all preparations were completed with despatch for the restoration of Sino-Japanese relations. On July 5 the first meeting of the formal conference took place, attended by Ambassador Abe and Mr. Wang as Acting President of the Republic of China. Mr. Wang on this occasion spoke of what China expected of the conference, while Ambassador Abe set forth the views of the Japanese Government relative to the negotiations that were to begin. Since then the negotiations were continued for almost two months. It was rather the zeal on both sides for the construction of the new order in East Asia than what may merely be termed mutual concession that enabled the delegates of the two countries to solve the
+
+[[p. 281]]
+
+many complex and vexing problems. At the 15th session held on August 28 they agreed upon a draft treaty, which was initialled on August 31. Upon examination by the two Governments from the domestic standpoint of their respective countries, this draft treaty was found to require partial alterations. Accordingly in the latter part of September the negotiations were resumed for the necessary revision, on which an agreement of views was reached, and the treaty in its final form was initialled on October 10.
+
+On the other hand, with Manchoukuo that had always supported without reserve the cause of Sino-Japanese cooperation, negotiations were conducted concerning a Japan-Manchoukuo-China Joint Declaration. Early in November Mr. Wei Huan-chang, director of the Foreign Affairs Bureau of Manchoukuo arrived in Nanking, and the Declaration as published today was initialled on November 8 by the plenipotentiaries of the three countries. Meanwhile, Ambassador Abe, returning to Japan on October 27, met Prime Minister Prince Konoe on October 29 to report on his mission. Following the Imperial Conference of November 13, the Treaty was submitted to the Privy Council, and approved at its full session of November 27. This in brief is the history of the Sino-Japanese Basic Treaty that was signed today at Nanking.
