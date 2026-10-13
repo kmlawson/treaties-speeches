@@ -27,7 +27,7 @@ misprints), the output file format, the body conventions, and "Writing in small 
   that column: append `SKIPPAGE <path> <N>` and put `*[Page N was not transcribed. See the scan.]*` in its place
   (if only one column of page N is affected say so in `notes`, e.g. "INCOMPLETE: p. 838 right column not
   transcribed", and still use the placeholder line exactly as given), then continue with the next column.
-- Front matter: `source: jm`, `ia: japan-manchoukuo-year-book-1934`, `issue: 1934`,
+- Front matter: `source: yb`, `ia: japan-manchoukuo-year-book-1934`, `issue: Japan-Manchoukuo Year Book 1934`,
   `section: Supplement III. Texts of Treaties, Agreements, Notes and Statutes of the Powers Concerning Manchuria`,
   `leaf:` = printed start page - 565, `pages:` printed pages, `date:` the date of the instrument (from the heading
   or the text), `parties:` for treaties and agreements, `author:` for statements, notes and addresses.

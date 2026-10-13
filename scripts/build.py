@@ -8,7 +8,7 @@ import html, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
-SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan', 'jm': 'Japan-Manchoukuo Year Book 1934'}
+SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan', 'yb': 'Year Books'}
 # items whose scan is one file of a multi-file Internet Archive item need the file name in the page link
 IA_PATH = {'japan-manchoukuo-year-book-1934': 'japan-manchoukuo-year-book-1934/Japan-Manchoukuo%20Year%20Book%201934%202'}
 TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'programme': 'Programme',
@@ -375,7 +375,7 @@ of government reports issued under the supervision of the Cabinet Information Bu
 of Far Eastern Affairs</em> (issues of 1941&ndash;1945), published by the Foreign Affairs Association of Japan, whose
 &ldquo;Documentary Material&rdquo; section reprinted official texts.</p>
 <p>It also includes the &ldquo;Texts of Treaties, Agreements, Notes and Statutes of the Powers Concerning Manchuria&rdquo;
-(1895&ndash;1932) printed as Supplement III of the <em>Japan-Manchoukuo Year Book 1934</em>, and, from the two periodicals,
+(1895&ndash;1932) printed as Supplement III of the <em>Japan-Manchoukuo Year Book 1934</em> (the first of a section of texts from year books), and, from the two periodicals,
 selected government programmes, reports, statistical articles, chronologies and profiles of public figures.</p>
 <p>Only texts printed in full in the journals are included; commentary, summaries and articles about them are not.
 The issues covered are those indexed on the <a href="https://froginawell.net/tokyo-gazette/">Tokyo Gazette table of contents</a> and
@@ -420,7 +420,7 @@ def page(title, subtitle, active, body, depth=0, extra_head='', scripts=''):
 {body}
 </div>
 <div class="sitelinks bottom" role="navigation" aria-label="Related resources on Frog in a Well">{sitelinks}</div>
-<footer><div class="container">Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and the <em>Japan-Manchoukuo Year Book</em> &middot;
+<footer><div class="container">Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and year books of the Japanese empire &middot;
 <a href="https://froginawell.net/">Frog in a Well</a></div></footer>
 <div class="modal" id="aboutModal"><div class="modal-inner"><button class="btn" id="aboutClose" aria-label="Close">&times;</button>{ABOUT}</div></div>
 <button class="btn back-to-top" id="backToTop" title="Back to top">&uarr;</button>
@@ -482,8 +482,8 @@ def build():
     open(f'{SITE}/style.css', 'w').write(CSS)
     open(f'{SITE}/common.js', 'w').write(COMMON_JS)
     counts = {t: sum(1 for d in docs if d['type'] == t) for t in TYPES}
-    sub = ('Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and the <em>Japan-Manchoukuo Year Book</em>'
-           if any(d['source'] == 'jm' for d in docs) else 'Verbatim texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945')
+    sub = ('Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and year books of the Japanese empire'
+           if any(d['source'] == 'yb' for d in docs) else 'Verbatim texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945')
 
     # ---- browse
     b = [f'<p class="intro">{len(docs)} texts printed in English-language periodicals and year books of 1930s&ndash;40s Japan: '
@@ -556,12 +556,12 @@ ys.onchange=sel.onchange;apply()})();</script>"""
     for k, d in enumerate(docs):
         rows = [('Type', TYPES[d['type']]), ('Date', fmt_date(d['date'])),
                 ('Speaker / issued by' if d['type'] in ('speech', 'document') else 'Author', d['author']),
-                ('Parties', d['parties'].replace(';', ' · ')), ('Printed in', (f"<em>{SOURCES[d['source']]}</em>" if d['source'] == 'jm' else f"<em>{SOURCES[d['source']]}</em>, {esc(d['issue'])}")
+                ('Parties', d['parties'].replace(';', ' · ')), ('Printed in', (f"<em>{esc(d['issue'])}</em>" if d['source'] == 'yb' else f"<em>{SOURCES[d['source']]}</em>, {esc(d['issue'])}")
                  + (f", pp.&nbsp;{esc(d['pages'])}" if re.search(r'\D', d['pages']) else (f", p.&nbsp;{esc(d['pages'])}" if d['pages'] else ''))),
                 ('Subject', d['subject']), ('Section', d['section']), ('Part', f"{d['sk']} of {d['sn']} of {d['series']}" if d.get('sn') else '')]
         scan = ia_page(d['ia'], d['leaf']) if d['leaf'] is not None else f"https://archive.org/details/{IA_PATH.get(d['ia'], d['ia'])}"
         meta = ''.join(f'<dt>{a}</dt><dd>{v if a == "Printed in" else esc(v)}</dd>' for a, v in rows if v)
-        cite = f"“{d['title']},” {SOURCES[d['source']]} ({d['issue']}){': ' + d['pages'] if d['pages'] else ''}."
+        cite = f"“{d['title']},” {d['issue'] if d['source'] == 'yb' else SOURCES[d['source']] + ' (' + d['issue'] + ')'}{': ' + d['pages'] if d['pages'] else ''}."
         h = [f'<div class="doc-head"><span class="tag {d["type"]}">{TYPES[d["type"]]}</span><h2>{esc(d["title"])}</h2><dl class="meta">{meta}</dl>']
         h.append(f'<div class="tools"><a href="{scan}" target="_blank">View the scan on the Internet Archive &rarr;</a>'
                  f'<button id="citeBtn" data-cite="{esc(cite)}">Copy citation</button><button id="textBtn">Copy text</button></div></div>')
@@ -597,7 +597,7 @@ if(words.length){var re=new RegExp('('+(q.indexOf('"')>=0?q.replace(/"/g,'').tri
 var w=document.createTreeWalker(document.getElementById('doc'),NodeFilter.SHOW_TEXT),ns=[],n;while(n=w.nextNode())ns.push(n);var first;
 ns.forEach(function(n){if(!re.test(n.nodeValue))return;re.lastIndex=0;var s=document.createElement('span');s.innerHTML=n.nodeValue.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(re,'<mark>$1</mark>');n.parentNode.replaceChild(s,n);if(!first)first=s});
 if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</script>"""
-        open(f'{SITE}/doc/{d["id"]}.html', 'w').write(page(f"{d['title']} — {SOURCES[d['source']]}, {d['issue']}", sub, '', '\n'.join(h), depth=1, scripts=js))
+        open(f'{SITE}/doc/{d["id"]}.html', 'w').write(page(f"{d['title']} — {d['issue'] if d['source'] == 'yb' else SOURCES[d['source']] + ', ' + d['issue']}", sub, '', '\n'.join(h), depth=1, scripts=js))
 
     # ---- serialised texts, all parts on one page
     for (src, name), parts in series.items():
@@ -626,7 +626,7 @@ if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</sc
          '<span class="count" id="count"></span></div>'
          '<p class="hint" id="hint">All words must appear. Put a phrase in &ldquo;double quotes&rdquo; to match it exactly. Results are ordered by date.</p><div id="results"></div>']
     js = r"""<script src="data.js"></script><script>(function(){
-var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',summary:'Summary',list:'List',programme:'Programme',report:'Report',review:'Review',statistics:'Statistics',profile:'Profile'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan'};
+var T={treaty:'Treaty',law:'Law',speech:'Speech',document:'Document',summary:'Summary',list:'List',programme:'Programme',report:'Report',review:'Review',statistics:'Statistics',profile:'Profile'},S={tg:'Tokyo Gazette',cj:'Contemporary Japan',yb:'Year Books'};
 var on={type:{},src:{}};function chips(id,k){var c=document.getElementById(id);[].forEach.call(c.children,function(x){if(x.dataset.v)on[k][x.dataset.v]=true;x.onclick=function(ev){var kids=[].filter.call(c.children,function(y){return y.dataset.v});
 if(x.dataset.all){kids.forEach(function(y){y.classList.add('on');on[k][y.dataset.v]=true})}
 else if(ev.altKey){kids.forEach(function(y){y.classList.toggle('on',y==x);on[k][y.dataset.v]=y==x})}
@@ -642,7 +642,7 @@ var hl=new RegExp('('+t.map(rx).join('|')+')','gi'),out=[],n=0;
 D.forEach(function(d){if(!on.type[d.y]||!on.src[d.s])return;var hay=title?d.lt:d.lt+' '+d.lx;for(var i=0;i<t.length;i++)if(hay.indexOf(t[i])<0)return;n++;if(n>300)return;
 var sn='',p=-1;for(var i=0;i<t.length&&p<0;i++)p=d.lx.indexOf(t[i]);if(p>=0&&!title){var a=Math.max(0,p-110),b=Math.min(d.x.length,p+190);sn=(a?'… ':'')+e(d.x.slice(a,b)).replace(hl,'<mark>$1</mark>')+(b<d.x.length?' …':'');
 var cnt=0;t.forEach(function(w){var k=-1;while((k=d.lx.indexOf(w,k+1))>=0)cnt++});sn+=' <span class="pg">('+cnt+' match'+(cnt>1?'es':'')+')</span>'}
-out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> <a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">'+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?e(d.d)+' · ':'')+'<em>'+S[d.s]+'</em>, '+e(d.n)+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
+out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> <a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">'+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?e(d.d)+' · ':'')+(d.s=='yb'?'<em>'+e(d.n)+'</em>':'<em>'+S[d.s]+'</em>, '+e(d.n))+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
 R.innerHTML=out.join('')||'<p class="hint">No texts match.</p>';C.textContent=n+' text'+(n==1?'':'s')+(n>300?' (first 300 shown)':'')}
 chips('typeChips','type');chips('srcChips','src');q.oninput=function(){clearTimeout(tm);tm=setTimeout(run,140)};sc.onchange=run;
 var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()})();</script>"""
