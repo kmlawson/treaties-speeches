@@ -1,0 +1,51 @@
+---
+title: The Fall of Singapore: Remarks of the Spokesman of the Board of Information at Press Conference, February 16, 1942
+type: document
+source: cj
+ia: contemporary-japan-1942.3
+issue: March, 1942
+leaf: 86
+pages: 472-475
+date: 1942-02-16
+author: Spokesman of the Board of Information
+parties: 
+section: Documentary Material
+notes: Heading prints "SPORKESMAN" [sic].
+---
+[[p. 472]]
+
+THE FALL OF SINGAPORE: REMARKS OF THE SPORKESMAN [sic] OF THE BOARD OF INFORMATION AT PRESS CONFERENCE, FEBRUARY 16, 1942
+
+Premier Tohjo has just announced at the Diet a general outline of Japan's policy in prosecuting the present war. I need not, I believe, elaborate on
+
+[[p. 473]]
+
+the political and military significance of the fall of Singapore. Suffice it to say that the occupation of Singapore spells the doom of British imperialism in East Asia. What I want to say at this time is the phase of the present war which is likely to be forgotten by the general public both at home and abroad.
+
+The war which Japan is now prosecuting against the United States and the British Empire is not merely to crush those two powerful opponents in military sense, but to realize a new order in this part of the world. Even during the China affair, Japan has exerted extraordinary effort to increase her productive capacity in economic and industrial fields especially in heavy industries, replenishing necessary equipments. This is testified by the fact, although I cannot give the exact figures under the circumstances which are obvious to you, that Japan's industrial productive capacity has witnessed a remarkable expansion so much so that she is now more than able to carry on the present war with the United States and the British Empire to a successful end.
+
+In financial matters also, there has been a phenomenal growth of our country's strength during these war years as shown by the fact that huge budgets have been made to work without any appreciable hitch. As for the development of the natural resources, thanks to the close economic co-operation between Japan, Manchoukuo and China, it has made such progress that the inexhaustible natural resources of both Manchoukuo and occupied territories in China have been steadily developed to the benefit of not only Japan but the peoples of those countries concerned. The deserted mines and factories in China have been revived to produce necessary materials and goods, while a considerable number of industrial plants have already been restored to the Chinese in accordance with the Basic Treaty concluded some time ago between the Japanese Government and the National Government at Nanking. Not only that, Japan has extended whole-hearted support to the latter government to realize peace, order and economic prosperity in the regions under its political jurisdiction. Even in the British Concessions in China, peace has been consistently maintained with their inhabitants contented in their daily life. The prevailing peace in the International Settlement in Shanghai attests to Japan's policy directed toward the recovery of peaceful economic life of the people concerned.
+
+Our relations with French Indo-China is an outstanding example of Japan's peaceful intention. Trade between Japan and French Indo-China has grown considerably in volume with their amicable intercourse increasing in warmth.
+
+As regards Thailand, our ally, her cordial co-operation with Japan has been greatly appreciated by our people. Various political and economic agreements recently concluded between the two countries are the living proof of the constructive efforts on the part of not only Japan but Thailand, notwithstanding the present extensive hostilities.
+
+In the Philippines, we see the administration, under the leadership of Mr. Vargas, successfully carrying on the task of restoring peace and order
+
+[[p. 474]]
+
+mmediately [sic] after the occupation. His prestige is increasing as the work of reconstruction is progressing. Save for a few exceptions, the vast majority of the Filipinos are inclined to co-operate with the Japanese authorities on the spot, and are eagerly looking forward to new opportunities presented by the changed situation. Already transportation and communication systems are being rapidly restored to accelerate the restoration of normal economic life.
+
+Now turning to the Malay Peninsula, we find that the Sultans and Rajahs, such as, the Sultans of Kedah, Kelantan, and Perak, Abdul Hamid, Sir Ismail and Abdul Aziz, and the Rajah of Perlis, Tuan Syed, and the Rajah of Trengganu, Sir Sulaiman, have all shown their whole-hearted co-operation in restoring peace and order in their lands and reorganizing their respective administrations. The Sultan of Selangor, Hisamud-din alam Shah, broadcast on December 30, from Penang, declaring his loyalty to the Japanese forces, stating: "The Japanese troops are saving Asia; therefore, we must co-operate with Japan." The Crown Prince of Kedah spoke over the same radio to the similar effect. Practically all of the nine rulers in Malaya are known for their friendly inclination to Japan—a natural reaction against the British domination which has proved destructive of all things cherished by the Malayan peoples. The Sultan of Johore, Sir Ibrahim, is now personally supervising his Royal guards in the work of reconstruction in his State. Such is the general attitude of the Malayan rulers and peoples—a good omen for the future development of that region. I need not add that the Japanese authorities will afford them their whole-hearted support and co-operation to bring about a happy state of affairs in all phases of their lives.
+
+In the British and Dutch East Indies, it is a foregone conclusion, in view of the policy enunciated by the Premier, that everything will be done to develop natural resources with which those regions abound, and this will naturally be beneficial to the economic life of the Indonesian people.
+
+Although it is premature to state concretely the actual progress of reconstruction work in these South Sea regions where hostilities are in progress, it may be said that the Government's plan of economic construction in these regions as stated by the President of the Planning Board, General Suzuki, on January 23, in his reply to an interpellation at the Diet session, indicates that well-balanced development of various industries is contemplated. Experienced industrialists will be used instead of the so-called special companies for the development of oil, mining and agricultural industries.
+
+As regards the civilian participation, in rehabilitating the occupied areas, the recent appointment of the outstanding leaders in various fields of activity in Japan clearly shows that Japan's administration over these regions will be carried on in such a manner as will meet the wishes of the peoples in general.
+
+The latest indication of the scope of constructive efforts of Japan in the occupied areas is the establishment of a powerful new organization called, the Greater East Asian Construction Council, whose members represent all
+
+[[p. 475]]
+
+walks of life, and are reputed for their experience and ability. The council is to deliberate on questions submitted to it by the Cabinet in connection with all matters of importance to the construction of greater East Asia. The establishment of such a council comprising outstanding experts in their respective fields foretells an epoch-making construction in greater East Asia with promise of fulfilling our ideal state of co-existence and co-prosperity of all the peoples in this part of the world.

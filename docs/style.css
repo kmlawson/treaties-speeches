@@ -63,6 +63,7 @@ letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden
 .meta{font-family:var(--ui);font-size:.84rem;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .9rem}
 .meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
 .note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
+.disclaimer{max-width:43.75rem;margin:2rem auto 0;padding:.7rem .9rem;border:1.5px solid var(--input-border);border-left:4px solid var(--accent);border-radius:var(--r);font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);background:var(--tag-bg)}
 .tools{margin-top:.8rem;display:flex;gap:.5rem;flex-wrap:wrap}
 .doc{font-size:1.09rem;line-height:1.62;max-width:43.75rem;margin:0 auto;overflow-wrap:break-word}
 .doc p{margin:0 0 .85em}

@@ -10,7 +10,7 @@ date: 1940-08-28
 author: Prince Fumimaro Konoe, Prime Minister
 parties: 
 section: 
-notes: INCOMPLETE: not transcribed after p. 135; pp. 133, 134, 135 not transcribed; p. 136 cut off a further worker and was not read
+notes: INCOMPLETE: pp. 133-136 not transcribed (the address ends by p. 136; p. 137 begins a different article, Conforming to the New National Structure)
 ---
 [[p. 133]]
 

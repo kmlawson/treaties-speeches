@@ -277,6 +277,7 @@ letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;overflow:hidden
 .meta{font-family:var(--ui);font-size:.84rem;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:.2rem .9rem}
 .meta dt{color:var(--fg-faint)}.meta dd{color:var(--fg);overflow-wrap:anywhere}
 .note{margin-top:.7rem;font-family:var(--ui);font-size:.84rem;color:var(--fg-muted);background:var(--tag-bg);padding:.5rem .75rem;border-radius:var(--r)}
+.disclaimer{max-width:43.75rem;margin:2rem auto 0;padding:.7rem .9rem;border:1.5px solid var(--input-border);border-left:4px solid var(--accent);border-radius:var(--r);font-family:var(--ui);font-size:.84rem;line-height:1.5;color:var(--fg-muted);background:var(--tag-bg)}
 .tools{margin-top:.8rem;display:flex;gap:.5rem;flex-wrap:wrap}
 .doc{font-size:1.09rem;line-height:1.62;max-width:43.75rem;margin:0 auto;overflow-wrap:break-word}
 .doc p{margin:0 0 .85em}
@@ -336,8 +337,8 @@ The issues covered are those indexed on the <a href="https://froginawell.net/tok
 <a href="https://froginawell.net/frog/sources/primary-source-nuggets/contemporary-japan/">Contemporary Japan</a> pages at Frog in a Well,
 and scanned on the Internet Archive.</p>
 <p>These are official translations and statements of the wartime Japanese state and its allies, and should be read as such.</p>
-<p><strong>Transcription.</strong> The texts were transcribed from the page scans by a large language model reading the page images,
-and have not been proofread by a person. Original spelling and romanisation are kept. Page numbers in the margin link to the page
+<p><strong>Transcription.</strong> The texts were transcribed from the page scans by AI models (Claude Opus 5.5 and Claude Sonnet 5.5;
+the model used is named at the foot of each text) reading the page images, and have not been proofread by a person. Original spelling and romanisation are kept. Page numbers in the margin link to the page
 of the scan on the Internet Archive: check the scan before quoting.</p>"""
 
 
@@ -391,6 +392,7 @@ def entry(d, up=''):
 
 def build():
     docs, problems = load()
+    OPUS = json.load(open(f'{ROOT}/index/opus_files.json')) if os.path.exists(f'{ROOT}/index/opus_files.json') else {}
     ids = {}
     for d in docs:
         if d['id'] in ids:
@@ -487,6 +489,19 @@ sel.onchange=function(){if(this.value)document.getElementById(this.value).scroll
         h.append(f'<div class="tools"><a href="{scan}" target="_blank">View the scan on the Internet Archive &rarr;</a>'
                  f'<button id="citeBtn" data-cite="{esc(cite)}">Copy citation</button><button id="textBtn">Copy text</button></div></div>')
         h.append(f'<article class="doc" id="doc">{render_body(d)}</article>')
+        om = OPUS.get(d['file'])
+        model = {'opus': 'Claude Opus 5.5', 'opus+sonnet': 'Claude Opus 5.5 and Claude Sonnet 5.5'}.get(om, 'Claude Sonnet 5.5')
+        other = sorted(set(re.findall(r'\*\[Page (\d+) was transcribed with ([^,\]]+), not Claude\.\]\*', d['body'])), key=lambda x: int(x[0]))
+        missing = re.findall(r'\*\[Page (\d+) was not transcribed', d['body'])
+        extra = ''
+        if other:
+            extra += f" The {'pages' if len(other) > 1 else 'page'} marked in the text (p.&nbsp;{', '.join(n for n, _ in other)}) {'were' if len(other) > 1 else 'was'} transcribed with {esc(other[0][1])} instead."
+        if missing:
+            extra += f" Not transcribed at all: p.&nbsp;{', '.join(missing)}."
+        h.append(f'<aside class="disclaimer"><strong>Check the original.</strong> This text was transcribed from the page scans by an AI model '
+                 f'({model}) reading the page images, and has not been proofread by a person.{extra} It may contain misreadings, dropped words or '
+                 f'other errors. Before quoting or citing it, compare it with the <a href="{scan}" target="_blank">original scan on the Internet Archive</a>; '
+                 f'the page numbers in the margin link to each page.</aside>')
         pv = docs[k - 1] if k else None
         nx = docs[k + 1] if k + 1 < len(docs) else None
         h.append('<div class="pn">' + (f'<a href="{pv["id"]}.html"><small>&larr; Previous</small>{esc(pv["title"])}</a>' if pv else '<a></a>')

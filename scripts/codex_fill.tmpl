@@ -1,0 +1,30 @@
+You are transcribing printed pages from a scan of an English-language periodical of the 1930s-40s.
+
+Working directory: the project root. The scan is the PDF `_work/pdf/{IA}/issue.pdf`.
+Render a PDF page to a PNG with: `python3 scripts/render.py {IA} <first-pdf-page> <last-pdf-page> 170`
+(it prints the PNG paths, under `_work/pages/{IA}/`).
+
+The text to work on is titled: "{TITLE}"
+Its transcription so far is in `{FILE}` (read it for context: it shows where the text starts and stops around the
+missing pages, and the formatting conventions). The printed pages listed below are missing from it.
+
+Missing printed pages: {PAGES}
+The first of them should be at or near PDF page {GUESS}. Check the printed page number in the running head: in some
+issues one PDF page is a single printed page, in others it is a two-page spread (left and right printed pages).
+
+For EACH missing printed page N write one file `_work/fill/{ID}-p<N>.md` containing the verbatim transcription of
+the part of printed page N that belongs to this text (a page may also carry the end of a preceding item or the
+start of a following one: leave those out). Rules:
+- Read every page image yourself with your image-viewing tool. Do NOT run OCR (tesseract, Vision, OCR libraries),
+  do not use the PDF text layer or pdftotext, and do not use any image-description service or text from memory or
+  the web. A word you cannot read is `[illegible]`, never a guess.
+- Faithful transcription: original spelling, punctuation and capitalisation. Rejoin words hyphenated across line
+  ends. One paragraph per printed paragraph, blank line between. Leave out the running head and page number.
+  Sub-headings on their own line as `### Heading`. Article labels in bold as in the existing file.
+- If a paragraph continues from the previous page, start with its continuation; if it continues onto the next
+  page, stop where the page stops.
+- The file contains only the transcription: no front matter, no page marker, no commentary, no code fences.
+- Write ONLY the `_work/fill/{ID}-p<N>.md` files (rendered PNGs under `_work/pages` are fine). Edit, commit or
+  delete nothing else. No git, no network.
+
+Report at the end: for each page, the PDF page (and left/right half) you found it on, and every uncertain spot.
