@@ -9,8 +9,9 @@ import html, json, os, re, shutil, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = f'{ROOT}/docs'
 SOURCES = {'tg': 'Tokyo Gazette', 'cj': 'Contemporary Japan'}
-TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'summary': 'Summary', 'list': 'List',
-         'programme': 'Programme', 'report': 'Report', 'review': 'Review', 'statistics': 'Statistics', 'profile': 'Profile'}
+TYPES = {'treaty': 'Treaty', 'law': 'Law', 'speech': 'Speech', 'document': 'Document', 'programme': 'Programme',
+         'report': 'Report', 'profile': 'Profile', 'summary': 'Summary', 'list': 'List', 'review': 'Review',
+         'statistics': 'Statistics'}
 TYPES_PL = {'treaty': 'Treaties', 'law': 'Laws', 'speech': 'Speeches', 'document': 'Other documents', 'summary': 'Summaries of laws', 'list': 'Lists of laws promulgated',
             'programme': 'Programmes and plans', 'report': 'Reports', 'review': 'Reviews and chronologies', 'statistics': 'Statistics', 'profile': 'Profiles'}
 MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
