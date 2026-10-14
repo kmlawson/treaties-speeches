@@ -408,7 +408,17 @@ mark{background:var(--mark);color:inherit;padding:0 1px}
 .modal.open{display:flex}.modal-inner{background:var(--card-bg);max-width:40rem;max-height:86vh;overflow:auto;padding:1.6rem 1.75rem;border-radius:calc(var(--r) + 2px);font-size:.97rem}
 .modal-inner h2{font-size:1.25rem;margin-bottom:.6rem}.modal-inner p{margin-bottom:.8em}
 .modal-inner .btn{float:right;min-width:2rem;padding:.2rem .5rem;margin:0 0 .5rem .75rem}
-@media (max-width:600px){header h1{font-size:1.25rem}.container{padding:0 .9rem}.doc{font-size:1.03rem}
+.hint-touch{display:none}
+@media (hover:none){.hint-mouse{display:none}.hint-touch{display:inline}}
+@media (max-width:600px){.sitelinks:not(.bottom){display:none}.sitelinks.bottom{margin-top:1.8rem}
+.controls{position:static;gap:.4rem .5rem;padding:.5rem 0}
+.chip{font-size:.75rem;min-height:1.75rem;padding:.25rem .6rem}
+.controls select{flex:1 1 100%;max-width:none}.controls input[type=search]{flex-basis:100%}
+.count{flex-basis:100%;text-align:right}
+.intro{font-size:.92rem}.doc-head h2{font-size:1.3rem}.meta{grid-template-columns:max-content minmax(0,1fr);font-size:.8rem}
+.tools a,.tools button{font-size:.75rem;min-height:1.75rem;padding:.25rem .6rem}
+.versions .btn{font-size:.75rem}.pn{flex-direction:column;gap:.8rem}.pn a:last-child{text-align:left}
+header h1{font-size:1.25rem}.container{padding:0 .9rem}.doc{font-size:1.03rem}
 .entry-item{grid-template-columns:5.25rem minmax(0,1fr)}.entry-page{grid-column:2}
 .result .rmeta,.result .snip{margin-left:0}.count{margin-left:0}
 .display-toolbar{position:static;justify-content:center;margin-top:.7rem}.sitelinks{padding:.4rem .6rem}.back-to-top{bottom:.9rem;right:.9rem}}
@@ -606,7 +616,7 @@ def build():
              'possible extraction errors, may not exactly match the official diplomatic record. If you intend to cite these documents, compare '
              'with the original source but also seek out official versions.</p>')
     b.append('<div class="controls"><div class="chips" id="typeChips">'
-             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span></div>'
+             + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint"><span class="hint-mouse">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span><span class="hint-touch">Tap a category to hide or show it; &ldquo;Show all&rdquo; restores them.</span></span></div>'
              '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{s}">{n}</span>' for s, n in SOURCES.items()) + '</div>'
              '<div class="chips" id="eraChips" title="Most of The World and Japan\'s documents are post-war"><span class="chip on" data-v="pre">Up to 1945</span><span class="chip" data-v="all">All years</span></div>'
              '<div class="chips" id="viewChips"><span class="chip on" data-v="issue">By issue</span><span class="chip" data-v="date">By date</span></div>'
@@ -801,7 +811,7 @@ box.onchange=show;if(ws)ws.onchange=show}
               'w': x['title_ja'], 'p': '', 'x': ''} for x in externals]
     open(f'{SITE}/data.js', 'w').write('window.DOCS=' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';')
     s = ['<div class="controls"><input type="search" id="q" placeholder="Search the full text of all documents&hellip;" autofocus>'
-         '<div class="chips" id="typeChips">' + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span></div>'
+         '<div class="chips" id="typeChips">' + ''.join(f'<span class="chip on" data-v="{t}">{TYPES_PL[t]}</span>' for t in TYPES if counts[t]) + '<span class="chip" data-all="1" title="Show every category">Show all</span><span class="chiphint"><span class="hint-mouse">Click a category to hide or show it. Option-click (Alt-click on Windows) to show only that one.</span><span class="hint-touch">Tap a category to hide or show it; &ldquo;Show all&rdquo; restores them.</span></span></div>'
          '<div class="chips" id="srcChips">' + ''.join(f'<span class="chip on" data-v="{x}">{n}</span>' for x, n in SOURCES.items()) + '</div>'
          '<select id="scope"><option value="all">Full text</option><option value="title">Titles only</option></select>'
          '<span class="count" id="count"></span></div>'
