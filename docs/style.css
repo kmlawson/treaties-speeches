@@ -43,7 +43,7 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .wjlink:hover{background:var(--fg-muted);color:var(--bg);text-decoration:none}
 .chip.on[data-v=programme]{background:var(--programme);border-color:var(--programme)}.chip.on[data-v=report]{background:var(--report);border-color:var(--report)}.chip.on[data-v=review]{background:var(--review);border-color:var(--review)}.chip.on[data-v=statistics]{background:var(--statistics);border-color:var(--statistics)}.chip.on[data-v=profile]{background:var(--profile);border-color:var(--profile)}
 .controls select,.controls input[type=search]{font-weight:400;color:var(--fg);border-color:var(--input-border);justify-content:flex-start;cursor:auto;max-width:100%}
-.controls select{cursor:pointer}
+.controls select{cursor:pointer;flex:1 1 11rem;min-width:9rem;max-width:20rem}
 .controls input[type=search]{flex:1 1 14rem;min-width:10rem;font-size:.9375rem}
 .controls select:focus,.controls input:focus,.chip:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 .controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:.6rem 0;margin-top:.75rem;
@@ -65,7 +65,7 @@ background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opac
 .entry-list{list-style:none;margin:0 0 .5rem}
 .entry-item{display:grid;grid-template-columns:5.25rem minmax(0,1fr) auto;gap:.1rem .7rem;align-items:baseline;padding:.3rem 0;border-bottom:1px dotted var(--dotted);line-height:1.4}
 .entry-item:last-child{border-bottom:none}
-.entry-text{min-width:0;overflow-wrap:anywhere}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
+.entry-text{min-width:0;overflow-wrap:anywhere}.entry-orig{color:var(--fg-muted);font-size:.8rem;font-style:normal}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
 .entry-page{font-family:var(--ui);font-size:.8125rem;white-space:nowrap;color:var(--fg-faint)}
 /* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
 .tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.16rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;

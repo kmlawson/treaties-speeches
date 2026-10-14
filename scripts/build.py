@@ -241,6 +241,36 @@ def diff_text(body):
     return plain('\n'.join(lines))
 
 
+SMALL = set('a an and as at but by for from in into of on or nor the to with between concerning regarding respecting relating upon via vs'.split())
+KEEP = set('US U.S. U.S.A. USA UK U.K. UN U.N. USSR U.S.S.R. ASEAN APEC NATO EU EC EEC OECD IMF GATT WTO ODA PKO TICAD ARF FOIP SDGS SDG IAEA NPT '
+           'CTBT WHO ILO UNESCO UNHCR UNCTAD ADB DPRK ROK PRC ROC SCAP GHQ MSA SEATO ANZUS EPA FTA TPP CEP OPEC MOU QUAD'.split())
+
+
+def _tc(t, first=True):
+    out = []
+    for k, w in enumerate(re.split(r'(\s+)', t)):
+        if not w.strip():
+            out.append(w); continue
+        core = re.sub(r'^[\W_]+|[\W_]+$', '', w)
+        if core.upper() in KEEP or re.fullmatch(r'(?=[IVXLC])(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})', core) or re.fullmatch(r'[A-Z]\d+|G\d+|C\d+|R\d+', core):
+            out.append(w); continue
+        low = w.lower()
+        if (k > 0 or not first) and core.lower() in SMALL:
+            out.append(low); continue
+        out.append(re.sub(r"(^|[-(\"\u201c/])([a-z])", lambda m: m.group(1) + m.group(2).upper(), low))
+    return ''.join(out)
+
+
+def title_case(t):
+    """Titles (or runs of three or more words within a title) that a source gives in capitals, set in title case
+    (display only)."""
+    letters = [c for c in t if c.isalpha() and c.isascii()]
+    if len(letters) >= 8 and sum(c.isupper() for c in letters) / len(letters) >= 0.85:
+        return _tc(t)
+    caps = r"[A-Z0-9](?:[A-Z0-9'\u2019.\-]*[A-Z])?['\u2019]?"
+    return re.sub(rf"{caps}(?:[ ,:;&]+{caps}){{2,}}", lambda m: _tc(m.group(0), m.start() == 0), t)
+
+
 def plain(body):
     t = re.sub(r'\*\[Page \d+ (?:was|is) [^\]]*\]\*', ' ', body)   # editorial notes about the transcription
     t = re.sub(r'\[\[p\.[^\]]*\]\]', ' ', t)
@@ -295,7 +325,7 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .wjlink:hover{background:var(--fg-muted);color:var(--bg);text-decoration:none}
 .chip.on[data-v=programme]{background:var(--programme);border-color:var(--programme)}.chip.on[data-v=report]{background:var(--report);border-color:var(--report)}.chip.on[data-v=review]{background:var(--review);border-color:var(--review)}.chip.on[data-v=statistics]{background:var(--statistics);border-color:var(--statistics)}.chip.on[data-v=profile]{background:var(--profile);border-color:var(--profile)}
 .controls select,.controls input[type=search]{font-weight:400;color:var(--fg);border-color:var(--input-border);justify-content:flex-start;cursor:auto;max-width:100%}
-.controls select{cursor:pointer}
+.controls select{cursor:pointer;flex:1 1 11rem;min-width:9rem;max-width:20rem}
 .controls input[type=search]{flex:1 1 14rem;min-width:10rem;font-size:.9375rem}
 .controls select:focus,.controls input:focus,.chip:focus-visible,.btn:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 .controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:.6rem 0;margin-top:.75rem;
@@ -317,7 +347,7 @@ background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opac
 .entry-list{list-style:none;margin:0 0 .5rem}
 .entry-item{display:grid;grid-template-columns:5.25rem minmax(0,1fr) auto;gap:.1rem .7rem;align-items:baseline;padding:.3rem 0;border-bottom:1px dotted var(--dotted);line-height:1.4}
 .entry-item:last-child{border-bottom:none}
-.entry-text{min-width:0;overflow-wrap:anywhere}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
+.entry-text{min-width:0;overflow-wrap:anywhere}.entry-orig{color:var(--fg-muted);font-size:.8rem;font-style:normal}.entry-attrib{color:var(--fg-muted);font-size:.875rem;font-style:italic}
 .entry-page{font-family:var(--ui);font-size:.8125rem;white-space:nowrap;color:var(--fg-faint)}
 /* type labels: fixed-width box sized for the longest label, never wrapping or overflowing */
 .tag{display:inline-block;box-sizing:border-box;width:5.25rem;padding:.16rem 0;text-align:center;font-family:var(--ui);font-size:.625rem;font-weight:700;line-height:1.3;
@@ -476,7 +506,7 @@ def who(d):
 
 def entry(d, up=''):
     if d['type'] == 'external':
-        orig = (f' <span class="entry-attrib">({esc(d["title_ja"])})</span>'
+        orig = (f' <span class="entry-orig">({esc(d["title_ja"])})</span>'
                 if d['title_ja'] and d['title_ja'] != d['title'] else '')
         return (f'<li class="entry-item" data-type="external" data-src="wj" data-date="{d["sortdate"]}">'
                 f'<span class="tag external">{TYPES["external"]}</span>'
@@ -547,7 +577,7 @@ def build():
     for x in (json.load(open(f'{ROOT}/index/worldjpn.json')) if os.path.exists(f'{ROOT}/index/worldjpn.json') else []):
         if x['url'] in absorbed:
             continue
-        externals.append({'type': 'external', 'source': 'wj', 'title': x['title_en'] or x['title_ja'], 'title_ja': x['title_ja'] if x['title_en'] else '',
+        externals.append({'type': 'external', 'source': 'wj', 'title': title_case(x['title_en']) or x['title_ja'], 'title_ja': x['title_ja'] if x['title_en'] else '',
                           'url': x['url'], 'date': x['date'], 'sortdate': x['date'], 'file': x['url'], 'id': ''})
     counts = {t: sum(1 for d in listed + externals if d['type'] == t) for t in TYPES}
     postwar = [x for x in externals if x['sortdate'] >= '1946']        # loaded only when "All years" is chosen
@@ -634,7 +664,7 @@ document.getElementById('jumpSelect').classList.toggle('hidden',x.dataset.v!='is
 apply()}})}
 var era='pre',loaded=false,loading=false,msg=document.getElementById('loadmsg');
 function esc(t){return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;')}
-function li(e){return '<li class="entry-item" data-type="external" data-src="wj" data-date="'+e.o+'"><span class="tag external">WJ \u2197</span><span class="entry-text"><a href="'+esc(e.u)+'" target="_blank" rel="noopener" title="English text on The World and Japan (worldjpn.net)">'+esc(e.t)+'</a>'+(e.j?' <span class="entry-attrib">('+esc(e.j)+')</span>':'')+'</span><span class="entry-page">'+esc(e.d)+'</span></li>'}
+function li(e){return '<li class="entry-item" data-type="external" data-src="wj" data-date="'+e.o+'"><span class="tag external">WJ \u2197</span><span class="entry-text"><a href="'+esc(e.u)+'" target="_blank" rel="noopener" title="English text on The World and Japan (worldjpn.net)">'+esc(e.t)+'</a>'+(e.j?' <span class="entry-orig">('+esc(e.j)+')</span>':'')+'</span><span class="entry-page">'+esc(e.d)+'</span></li>'}
 function loadPost(done){if(loaded)return done();if(loading)return;loading=true;msg.classList.remove('hidden');msg.textContent='Loading post-war links\u2026';
 var sc=document.createElement('script');sc.src='wj_postwar.js';sc.onerror=function(){msg.textContent='Could not load the post-war links.';loading=false};
 sc.onload=function(){var L=window.WJPOST||[],k=0,wjl=document.querySelector('#wj-0 .entry-list'),bd=document.getElementById('byDate'),ys=document.getElementById('yearSelect');
