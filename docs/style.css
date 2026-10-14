@@ -1,26 +1,26 @@
-:root{--bg:#fff;--fg:#1a1a1a;--fg-muted:#5f5f5f;--fg-faint:#8a8a8a;--accent:#003a87;--on-accent:#fff;
---header-bg:#f5f5f5;--card-bg:#fff;--card-border:#dcdcdc;--input-border:#bbb;--input-bg:#fff;--dotted:#ddd;--rule:#e6e6e6;
---tag-bg:#f0f0f0;--mark:#fff2a8;--treaty:#1d5e4b;--law:#4d7a2f;--speech:#2a5694;--document:#9b4a32;--programme:#9a6224;--report:#6f3426;--profile:#5d4a8a;--summary:#3d4651;--list:#525c68;--review:#636e7b;--statistics:#697380;
---ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:Georgia,"Times New Roman",serif;--r:3px}
-[data-theme="dark"]{--bg:#1a1a1a;--fg:#ddd;--fg-muted:#aaa;--fg-faint:#808080;--accent:#6da3e0;--on-accent:#111;
---header-bg:#242424;--card-bg:#242424;--card-border:#444;--input-border:#555;--input-bg:#2a2a2a;--dotted:#444;--rule:#333;
---tag-bg:#333;--mark:#6b5a00;--speech:#2f63a8}
+:root{--bg:#fbf7f0;--fg:#2a2420;--fg-muted:#6b5f55;--fg-faint:#8a7c6c;--accent:#9c3d22;--on-accent:#fff;
+--header-bg:#f2e9dc;--card-bg:#fffdf9;--card-border:#e3d8c8;--input-border:#cdbfab;--input-bg:#fffdf9;--dotted:#e2d6c5;--rule:#eadfce;
+--tag-bg:#f3ebdf;--mark:#ffe3a3;--treaty:#2f6b3f;--law:#5f7d24;--speech:#2e5c86;--document:#a3472a;--programme:#a2621b;--report:#7a2f22;--profile:#74466f;--summary:#4d433a;--list:#615549;--review:#73665a;--statistics:#6a5e53;
+--ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;--serif:"Source Serif 4",Georgia,"Times New Roman",serif;--r:4px}
+[data-theme="dark"]{--bg:#1d1916;--fg:#ece3d6;--fg-muted:#b8aa98;--fg-faint:#8c7f70;--accent:#e39a74;--on-accent:#1d1916;
+--header-bg:#26201b;--card-bg:#26201b;--card-border:#4a4038;--input-border:#5a4e44;--input-bg:#2a241f;--dotted:#43392f;--rule:#3a3129;
+--tag-bg:#332b24;--mark:#6e5310}
 *{margin:0;padding:0;box-sizing:border-box}
 html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .container{max-width:56.25rem;margin:0 auto;padding:0 1.25rem}
-header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:1.75rem 0 1.1rem;text-align:center}
-header h1{font-size:1.6rem;margin-bottom:.25rem;letter-spacing:.03em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
+header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:1.9rem 0 1.2rem;text-align:center;box-shadow:inset 0 -1px 0 color-mix(in srgb,var(--accent) 35%,transparent)}
+header h1{font-size:1.9rem;font-weight:600;margin-bottom:.3rem;letter-spacing:.01em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
 header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
-/* strip of links to sister resources: small, tinted, borderless, distinct from the page's own controls */
-.sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem .35rem;padding:.4rem .75rem;background:var(--bg);border-bottom:1px solid var(--rule)}
-.sitelinks.bottom{border-bottom:none;border-top:1px solid var(--rule);margin-top:2.5rem;padding-top:.7rem}
-.sitelinks.bottom+footer{margin-top:.7rem;border-top:none}
-.sitelinks a{font-family:var(--ui);font-size:.69rem;font-weight:500;line-height:1.2;padding:.22rem .6rem;border-radius:1rem;white-space:nowrap;
-color:var(--accent);background:color-mix(in srgb,var(--accent) 11%,transparent);text-decoration:none}
-.sitelinks a:hover{background:var(--accent);color:var(--on-accent);text-decoration:none}
+/* line of plain text links to sister resources, set apart from the page's own buttons */
+.sitelinks{display:flex;flex-wrap:wrap;justify-content:center;gap:.25rem .2rem;padding:.55rem 1rem;border-bottom:1px solid var(--rule);font-family:var(--ui);font-size:.78rem;line-height:1.5}
+.sitelinks a{color:var(--fg-muted);white-space:nowrap}
+.sitelinks a:hover{color:var(--accent);text-decoration:underline}
+.sitelinks a:not(:last-child)::after{content:"\00b7";color:var(--fg-faint);margin-left:.45rem;display:inline-block;text-decoration:none}
+.sitelinks.bottom{border-bottom:none;border-top:1px solid var(--rule);margin-top:2.5rem;padding-top:.8rem}
+.sitelinks.bottom+footer{margin-top:.4rem;border-top:none}
 /* one control style for every button, toggle, select and input */
 .btn,nav a,.chip,.controls select,.controls input[type=search],.tools a,.tools button,.display-toolbar button{
 font-family:var(--ui);font-size:.8125rem;font-weight:600;line-height:1.2;min-height:2rem;padding:.35rem .8rem;
