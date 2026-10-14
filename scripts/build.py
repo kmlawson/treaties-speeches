@@ -610,8 +610,8 @@ def build():
     b.append('<p class="intro">The best open access resource online for documents related to the history of Japanese foreign policy is '
              '<a href="https://worldjpn.net/iefindex.html">The World and Japan</a> by Professor Tanaka Akihito and the National Graduate '
              'Institute for Policy Studies (GRIPS). In addition to a wealth of databases and Japanese language documents it also provides access '
-             'to many English, Chinese, and Korean versions of these documents. In addition to the scanned versions below links have been added '
-             'to that resource for documents available there in English.</p>')
+             'to many English, Chinese, and Korean versions of these documents. Links to many of these documents on that website have been '
+             'added to the collection of extracted documents below when they are related to East Asia and are available in English.</p>')
     b.append('<p class="intro"><strong>Important:</strong> The scanned documents are taken verbatim from the published source and, in addition to '
              'possible extraction errors, may not exactly match the official diplomatic record. If you intend to cite these documents, compare '
              'with the original source but also seek out official versions.</p>')
