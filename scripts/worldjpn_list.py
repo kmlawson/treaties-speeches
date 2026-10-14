@@ -52,13 +52,37 @@ for fn in sorted(os.listdir(f'{D}/pages')):
         if titles_only:
             englishtitles[url] = englishtitles.get(url) or title
             continue
-        d = docs.setdefault(url, {'url': url, 'title_en': '', 'title_ja': '', 'date': date, 'indices': set()})
+        d = docs.setdefault(url, {'url': url, 'title_en': '', 'title_ja': '', 'date': date, 'indices': set(), 'dates_en': set(), 'dates_ja': set()})
+        if date: d['dates_en' if eng else 'dates_ja'].add(date)
         d['title_en' if eng else 'title_ja'] = d['title_en' if eng else 'title_ja'] or title
         d['date'] = d['date'] or date
         d['indices'].add(LABEL[key])
 for u, d in docs.items():
     if not d['title_en'] and u in englishtitles:
         d['title_en'] = englishtitles[u]
+def url_date(u):
+    """The site names each text file after its date (YYYYMMDD, with 00 for an unknown day or month); the index pages
+    sometimes misprint the date (e.g. "Jul 161989"), so the file name is preferred when it is a valid date."""
+    m = re.search(r'/(\d{4})(\d{2})(\d{2})\.[^/]*$', u)
+    if not m: return ''
+    y, mo, d = m.groups()
+    if not (1000 <= int(y) <= 2100) or int(mo) > 12 or int(d) > 31: return ''
+    if mo == '00': return y
+    return f'{y}-{mo}' if d == '00' else f'{y}-{mo}-{d}'
+def plausible(x): return bool(x) and '1600' <= x[:4] <= '2100'
+for d in docs.values():
+    # the English index, the Japanese index and the file name each give a date, and each is sometimes misprinted
+    # ("Jul 161989"; a file named 1999 for a 1990 declaration): take the date at least two of them agree on,
+    # otherwise the Japanese index, then the English index, then the file name
+    cands = [('en', x) for x in sorted(d['dates_en']) if plausible(x)] + [('ja', x) for x in sorted(d['dates_ja']) if plausible(x)]
+    ud = url_date(d['url'])
+    if plausible(ud): cands.append(('url', ud))
+    votes = {}
+    for src, x in cands: votes.setdefault(x, set()).add(src)
+    agreed = [x for x, srcs in votes.items() if len(srcs) >= 2]
+    pick = (max(agreed, key=len) if agreed else
+            next((x for src, x in cands if src == 'ja'), None) or next((x for src, x in cands if src == 'en'), None) or ud or d['date'])
+    d['date'] = pick
 rows = sorted(docs.values(), key=lambda d: (d['date'] or '9999', d['title_en'] or d['title_ja']))
 with open(f'{D}/english_documents.tsv', 'w') as f:
     f.write('date\ttitle_en\ttitle_ja\tenglish_url\tindices\n')

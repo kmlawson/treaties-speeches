@@ -1,0 +1,107 @@
+{
+ "https://worldjpn.net/documents/texts/pw/18680314.O1E.html": {
+  "title_en": "Charter Oath",
+  "keep": true,
+  "why": "misspelt 'Charter Orth' in the source index; Japanese (the Five Charter Oath of 1868)"
+ },
+ "https://worldjpn.net/documents/texts/pw/18950417.T2E.html": {
+  "exclude": true,
+  "why": "link broken and the text is not in English"
+ },
+ "https://worldjpn.net/documents/texts/pw/18991220.O1E.html": {
+  "title_en": "The First Open Door Note",
+  "why": "the source gives only the Japanese title"
+ },
+ "https://worldjpn.net/documents/texts/JPCH/19130614.T1E.html": {
+  "title_en": "ANGLO-PORTUGUESE AGREEMENT FOR REGULATION OF OPIUM MONOPOLIES IN MACAO AND HONGKONG, JUNE 14,1913.",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/pw/19151127.O1E.html": {
+  "title_en": "Memorandum of U.K. Foreign Secretary on the Negotiation between China and U.K.",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/pw/19220206.T3E.html": {
+  "title_en": "TREATY BETWEEN THE NINE POWERS CONCERNING THE CHINESE CUSTOMS TARIFF",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/docs/19520228.T1E.html": {
+  "title_en": "Administrative Agreement under Article III of the Security Treaty between the United States of America and Japan",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPTW/19660330.T1E.html": {
+  "title_en": "Exchange of Notes Between the Government of The Republic of China and The Government of Japan Amending the Provisional Air Transport Agreement(1966)",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPTW/19690423.T1E.html": {
+  "title_en": "Exchange of Notes Between the Government of The Republic of China and The Government of Japan Amending the Provisional Air Transport Agreement(1969)",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/docs/19720526.T1E.html": {
+  "title_en": "Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JH/19970115.O1E.html": {
+  "title_en": "Memorandum of Understanding between the Asian Women's Fund and the Department of Social Welfare and Development of the Republic of the Philippines Regarding the Implementation of the Assistance to Lolas in Crisis Situation Project in the Philippines",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/summit/20000723.O1E.html": {
+  "title_en": "Press Conference by the G8 Presidency Opening Statement by the Prime Minister Yoshiro Mori of Japan",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/asean/20020114.S1E.html": {
+  "title_en": "Speech by Prime Minister of Japan Junichiro Koizumi, Japan and ASEAN in East Asia -A Sincere and Open Partnership-",
+  "why": "typo in the source index corrected"
+ },
+ "http://www.awf.or.jp/pdf/ALCS.pdf": {
+  "title_en": "An Evaluative Research in the Implementation of the Assistance to Lolas in Crisis Situation (ALCS) Project. Department of Social Welfare and Development, Republic of the Philippines",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/asean/20031007.S1E.html": {
+  "title_en": "Speech by Prime Minister Junichiro Koizumi at the ASEAN Business and Investment Summit on October 7, 2003",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/asean/20031210.S1E.html": {
+  "title_en": "Speech by Prime Minister Junichiro Koizumi at the ASEAN-Japan Investment-Business Alliance Seminar (AJBIS)",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPSEA/20080116.D1E.html": {
+  "title_en": "Chair's Statement Mekong-Japan Foreign Ministers' Meeting",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/summit/20080708.O6E.html": {
+  "title_en": "International Initiative on 3S-Based Nuclear Energy Infrastructure, G8 Hokkaido Toyako Summit",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPSEA/20091107.D2E.html": {
+  "title_en": "Tokyo Declaration of the First Meeting between the Heads of the Governments of Japan and the Mekong region countries--Establishment of a New Partnership for the Common Flourishing Future--",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPTW/20110922.T1E.html": {
+  "title_en": "Japan-Taiwan Mutual Cooperation on the Liberalization Promotion and Protection of Investment",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20151130.S1E.html": {
+  "title_en": "Speech by Prime Minister Abe at COP21",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/JPSEA/20160323.D1E.html": {
+  "title_en": "Sanya Declaration of the First Lancang-Mekong Cooperation (LMC) Leaders' Meeting: For a Community of Shared Future of Peace and Prosperity among Lancang-Mekong Countries",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/asean3/20201114.D7E.html": {
+  "title_en": "Chairman's Statement of the 23rd ASEAN Plus Three Summit",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20231104.S1E.html": {
+  "title_en": "Policy Speech by Prime Minister Kishida at the Joint Session of the Philippine Senate and House of Representatives",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20250709.O1E.html": {
+  "title_en": "Foreign Minister Iwaya contributed to BERNAMA-Malaysian National News Agency on the occasion of his visit to Malaysia for ASEAN-related Foreign Ministers' meetings",
+  "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20250925.S2E.html": {
+  "title_en": "United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
+  "why": "typo in the source index corrected"
+ }
+}

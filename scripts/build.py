@@ -574,9 +574,12 @@ def build():
     listed = [d for d in docs if not d.get('secondary')]
     absorbed = {u for v in matches.values() for u in v}
     externals = []
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from worldjpn_japan_filter import japan_related, OVERRIDES   # only documents related to Japan or East and Southeast Asia
     for x in (json.load(open(f'{ROOT}/index/worldjpn.json')) if os.path.exists(f'{ROOT}/index/worldjpn.json') else []):
-        if x['url'] in absorbed:
+        if x['url'] in absorbed or not japan_related(x):
             continue
+        x = dict(x, **{k: v for k, v in OVERRIDES.get(x['url'], {}).items() if k == 'title_en'})
         externals.append({'type': 'external', 'source': 'wj', 'title': title_case(x['title_en']) or x['title_ja'], 'title_ja': x['title_ja'] if x['title_en'] else '',
                           'url': x['url'], 'date': x['date'], 'sortdate': x['date'], 'file': x['url'], 'id': ''})
     counts = {t: sum(1 for d in listed + externals if d['type'] == t) for t in TYPES}

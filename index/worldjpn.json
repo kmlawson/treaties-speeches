@@ -1,14 +1,5 @@
 [
 {
-"date": "1619-07",
-"title_en": "Economic Declaration",
-"title_ja": "経済宣言",
-"url": "https://worldjpn.net/documents/texts/summit/19890716.D1E.html",
-"indices": [
-"G7/G8 summit documents"
-]
-},
-{
 "date": "1689-08-27",
 "title_en": "Treaty of Nerchinsk (Treaty of Nipchu)",
 "title_ja": "尼布楚（ネルチンスク）條約（尼布楚（ネルチンスク）条約）",
@@ -175,16 +166,6 @@
 ]
 },
 {
-"date": "1858",
-"title_en": "Regulation, Under which American Trade, is to be conducted in Japan.",
-"title_ja": "日本開きたる港々に於て亞米利加商民貿易の章程",
-"url": "https://worldjpn.net/documents/texts/pw/18580729.O1E.html",
-"indices": [
-"Japan-US relations",
-"Prewar Japanese politics and diplomacy"
-]
-},
-{
 "date": "1858-06-18",
 "title_en": "Treaty of Tien-Tsin between the United States of America and the Empire of China (June 18, 1858)",
 "title_ja": "天津條約（天津条約）（1858年6月18日調印）",
@@ -200,6 +181,16 @@
 "url": "https://worldjpn.net/documents/texts/pw/18580626.T1E.html",
 "indices": [
 "Basic documents of modern international politics (to 1945)"
+]
+},
+{
+"date": "1858-07-29",
+"title_en": "Regulation, Under which American Trade, is to be conducted in Japan.",
+"title_ja": "日本開きたる港々に於て亞米利加商民貿易の章程",
+"url": "https://worldjpn.net/documents/texts/pw/18580729.O1E.html",
+"indices": [
+"Japan-US relations",
+"Prewar Japanese politics and diplomacy"
 ]
 },
 {
@@ -360,7 +351,7 @@
 ]
 },
 {
-"date": "1885-02-28",
+"date": "1885-02-26",
 "title_en": "General Act of the Conference at Berlin of the Plenipotentiaries of Great Britain, Austria-Hungary, Belgium, Denmark, France, Germany, Italy, the Netherlands, Portugal, Russia, Spain, Sweden and Norway, Turkey and the United States dealing with Africa (General Act of the Berlin Conference)",
 "title_ja": "アフリカに関する大英帝国、オーストリア=ハンガリー、ベルギー、デンマーク、フランス、ドイツ、イタリア、オランダ、ポルトガル、ロシア、スペイン、スウェーデン及びノルウェー、トルコ、米国の全権によるベルリン会議の一般議定書（ベルリン会議一般議定書）",
 "url": "https://worldjpn.net/documents/texts/pw/18850226.T1E.html",
@@ -1787,17 +1778,6 @@
 "date": "1951-09-07",
 "title_en": "Prime Minister Shigeru Yoshida's Speech at the San Francisco Peace Conference",
 "title_ja": "サンフランシスコ平和会議における吉田茂総理大臣の受諾演説",
-"url": "https://worldjpn.net/documents/texts/JPUS/19510908.S1E.html",
-"indices": [
-"Japan security policy",
-"Japan-Russia/Soviet relations",
-"Japan-US relations"
-]
-},
-{
-"date": "1951-09-07",
-"title_en": "Prime Minister Shigeru Yoshida's Speech at the San Francisco Peace Conference",
-"title_ja": "サンフランシスコ平和会議における吉田茂総理大臣の受諾演説",
 "url": "https://worldjpn.net/documents/texts/JPUS/19510907.S1E.html",
 "indices": [
 "Japan-US relations",
@@ -1823,6 +1803,17 @@
 "url": "https://worldjpn.net/documents/texts/JPUS/19510908.S2E.html",
 "indices": [
 "Japan security policy",
+"Japan-US relations"
+]
+},
+{
+"date": "1951-09-08",
+"title_en": "Prime Minister Shigeru Yoshida's Speech at the San Francisco Peace Conference",
+"title_ja": "サンフランシスコ平和会議における吉田茂総理大臣の受諾演説",
+"url": "https://worldjpn.net/documents/texts/JPUS/19510908.S1E.html",
+"indices": [
+"Japan security policy",
+"Japan-Russia/Soviet relations",
 "Japan-US relations"
 ]
 },
@@ -3385,16 +3376,6 @@
 ]
 },
 {
-"date": "1967-12-19",
-"title_en": "Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space",
-"title_ja": "宇宙飛行士の救助及び送還並びに宇宙空間に打ち上げられた物体の返還に関する協定（宇宙救助返還条約）",
-"url": "https://worldjpn.net/documents/texts/mt/19680422.T1E.html",
-"indices": [
-"Basic documents of contemporary international politics (since 1945)",
-"Multilateral conventions"
-]
-},
-{
 "date": "1968-02-26",
 "title_en": "AGREEMENT FOR COOPERATION BETWEEN THE GOVERNMENT OF JAPAN AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA CONCERNING CIVIL USES OF ATOMIC ENERGY(No1)(APPENDIX)",
 "title_ja": "原子力の非軍事的利用に関する協力のための日本国政府とアメリカ合衆国政府との間の協定",
@@ -3411,6 +3392,16 @@
 "url": "https://worldjpn.net/documents/texts/docs/19680405.T1E.html",
 "indices": [
 "Basic documents of contemporary international politics (since 1945)"
+]
+},
+{
+"date": "1968-04-22",
+"title_en": "Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space",
+"title_ja": "宇宙飛行士の救助及び送還並びに宇宙空間に打ち上げられた物体の返還に関する協定（宇宙救助返還条約）",
+"url": "https://worldjpn.net/documents/texts/mt/19680422.T1E.html",
+"indices": [
+"Basic documents of contemporary international politics (since 1945)",
+"Multilateral conventions"
 ]
 },
 {
@@ -3618,7 +3609,7 @@
 ]
 },
 {
-"date": "1971-07-09",
+"date": "1971-08-09",
 "title_en": "Exchange of Notes Between the Government of The Republic of China and The Government of Japan Concerning Load of Japanese Yen(1971)",
 "title_ja": "中華民国に対する円借款の供与に関する日本国政府と中華民国政府との間の交換公文",
 "url": "https://worldjpn.net/documents/texts/JPTW/19710809.T1E.html",
@@ -5240,6 +5231,15 @@
 ]
 },
 {
+"date": "1989-07-16",
+"title_en": "Economic Declaration",
+"title_ja": "経済宣言",
+"url": "https://worldjpn.net/documents/texts/summit/19890716.D1E.html",
+"indices": [
+"G7/G8 summit documents"
+]
+},
+{
 "date": "1989-11-20",
 "title_en": "Convention on the Rights of the Child",
 "title_ja": "児童の権利条約",
@@ -5307,15 +5307,6 @@
 },
 {
 "date": "1990-07-10",
-"title_en": "Economic Declaration",
-"title_ja": "経済宣言",
-"url": "https://worldjpn.net/documents/texts/summit/19900711.D1E.html",
-"indices": [
-"G7/G8 summit documents"
-]
-},
-{
-"date": "1990-07-10",
 "title_en": "Houston",
 "title_ja": "第１６回（ヒューストン）",
 "url": "https://worldjpn.net/documents/texts/summit/19900710.D1E.html",
@@ -5339,6 +5330,15 @@
 "url": "https://worldjpn.net/documents/texts/summit/199900711.D1E.html",
 "indices": [
 "Japan-Russia/Soviet relations"
+]
+},
+{
+"date": "1990-07-11",
+"title_en": "Economic Declaration",
+"title_ja": "経済宣言",
+"url": "https://worldjpn.net/documents/texts/summit/19900711.D1E.html",
+"indices": [
+"G7/G8 summit documents"
 ]
 },
 {
@@ -5833,6 +5833,17 @@
 },
 {
 "date": "1993-08-04",
+"title_en": "On the Issue of Wartime \"Comfort Women\"",
+"title_ja": "いわゆる従軍慰安婦問題について（内閣官房内閣外政審議室）",
+"url": "https://worldjpn.net/documents/texts/JH/19930804.O1E.html",
+"indices": [
+"Japan's history issues",
+"Japan-Korean Peninsula relations",
+"Japan-Southeast Asia relations"
+]
+},
+{
+"date": "1993-08-04",
 "title_en": "Statement by the Chief Cabinet Secretary Yohei Kono on the result of the study on the issue of \"comfort women\"",
 "title_ja": "慰安婦関係調査結果発表に関する内閣官房長官談話（河野官房長官談話、河野談話）",
 "url": "https://worldjpn.net/documents/texts/JH/19930804.S1E.html",
@@ -5924,17 +5935,6 @@
 "url": "https://worldjpn.net/documents/texts/arf/19940725.D1J.html",
 "indices": [
 "Basic documents of contemporary international politics (since 1945)"
-]
-},
-{
-"date": "1994-08-03",
-"title_en": "On the Issue of Wartime \"Comfort Women\"",
-"title_ja": "いわゆる従軍慰安婦問題について（内閣官房内閣外政審議室）",
-"url": "https://worldjpn.net/documents/texts/JH/19930804.O1E.html",
-"indices": [
-"Japan's history issues",
-"Japan-Korean Peninsula relations",
-"Japan-Southeast Asia relations"
 ]
 },
 {
@@ -6266,15 +6266,6 @@
 },
 {
 "date": "1996",
-"title_en": "Joint Press Statement, 5th Japan-EU Summit",
-"title_ja": "第5回日・EU首脳協議に関する日・EU共同プレス発表（第5回日・EU定期首脳協議）",
-"url": "https://worldjpn.net/documents/texts/JPEU/19960930.D1E.html",
-"indices": [
-"Japan-Europe relations"
-]
-},
-{
-"date": "1996",
 "title_en": "Letter from AWF President to Former Comfort Women",
 "title_ja": "元慰安婦の方々へのアジア女性基金理事長の手紙",
 "url": "https://worldjpn.net/documents/texts/JH/19960000.O2E.html",
@@ -6341,6 +6332,15 @@
 ]
 },
 {
+"date": "1996-06-27",
+"title_en": "Declaration on Terrorism",
+"title_ja": "第２２回（リヨン）",
+"url": "https://worldjpn.net/documents/texts/summit/19960627.D1E.html",
+"indices": [
+"G7/G8 summit documents"
+]
+},
+{
 "date": "1996-06-28",
 "title_en": "Lyon",
 "title_ja": "",
@@ -6369,15 +6369,6 @@
 },
 {
 "date": "1996-06-29",
-"title_en": "Declaration on Terrorism",
-"title_ja": "第２２回（リヨン）",
-"url": "https://worldjpn.net/documents/texts/summit/19960627.D1E.html",
-"indices": [
-"G7/G8 summit documents"
-]
-},
-{
-"date": "1996-06-29",
 "title_en": "Press Conference by Prime Minister Ryutaro Hashimoto",
 "title_ja": "リヨン・サミットヘの出席における橋本内閣総理大臣内外記者会見",
 "url": "https://worldjpn.net/documents/texts/summit/19960629.O3E.html",
@@ -6393,6 +6384,15 @@
 "indices": [
 "Japan's history issues",
 "Japan-Southeast Asia relations"
+]
+},
+{
+"date": "1996-09-30",
+"title_en": "Joint Press Statement, 5th Japan-EU Summit",
+"title_ja": "第5回日・EU首脳協議に関する日・EU共同プレス発表（第5回日・EU定期首脳協議）",
+"url": "https://worldjpn.net/documents/texts/JPEU/19960930.D1E.html",
+"indices": [
+"Japan-Europe relations"
 ]
 },
 {
@@ -6743,15 +6743,6 @@
 ]
 },
 {
-"date": "1998",
-"title_en": "Treaty of Amity and Cooperation in Southeast Asia (as amended on 15 December 1987 and 25 July 1998)",
-"title_ja": "東南アジア友好協力条約（現行）",
-"url": "https://worldjpn.net/documents/texts/docs/19980725.T1E.html",
-"indices": [
-"Basic documents of contemporary international politics (since 1945)"
-]
-},
-{
 "date": "1998-01-12",
 "title_en": "Seventh EU-Japan Summit Meeting",
 "title_ja": "",
@@ -6949,6 +6940,15 @@
 "indices": [
 "Japan's history issues",
 "Japan-Europe relations"
+]
+},
+{
+"date": "1998-07-25",
+"title_en": "Treaty of Amity and Cooperation in Southeast Asia (as amended on 15 December 1987 and 25 July 1998)",
+"title_ja": "東南アジア友好協力条約（現行）",
+"url": "https://worldjpn.net/documents/texts/docs/19980725.T1E.html",
+"indices": [
+"Basic documents of contemporary international politics (since 1945)"
 ]
 },
 {
@@ -7289,15 +7289,6 @@
 ]
 },
 {
-"date": "2000",
-"title_en": "Joint Conclusions, 9th Japan-EU Summit",
-"title_ja": "日・ＥＵ首脳協議共同結論文書",
-"url": "https://worldjpn.net/documents/texts/JPEU/20000719.D1E.html",
-"indices": [
-"Japan-Europe relations"
-]
-},
-{
 "date": "2000-01-13",
 "title_en": "\"Seeking a Millennium Partnership: New Dimensions in Japan-Europe Cooperation\", Policy Speech on Japan-Europe Relations by Foreign Minister Yohei Kono at the French Institute of Foreign Relations",
 "title_ja": "仏国際関係研究所における河野外務大臣演説「日欧協力の新次元−ミレニアム・パートナーシップを求めて−」",
@@ -7371,7 +7362,7 @@
 ]
 },
 {
-"date": "2000-06-16",
+"date": "2000-06-15",
 "title_en": "Comment by Foreign Minister Yohei Kono on the North-South Joint Declaration",
 "title_ja": "南北共同宣言に関する外務大臣コメント",
 "url": "https://worldjpn.net/documents/texts/JPKR/20000615.S1E.html",
@@ -7485,6 +7476,15 @@
 "url": "https://worldjpn.net/documents/texts/summit/20000714.O1E.html",
 "indices": [
 "G7/G8 summit documents"
+]
+},
+{
+"date": "2000-07-19",
+"title_en": "Joint Conclusions, 9th Japan-EU Summit",
+"title_ja": "日・ＥＵ首脳協議共同結論文書",
+"url": "https://worldjpn.net/documents/texts/JPEU/20000719.D1E.html",
+"indices": [
+"Japan-Europe relations"
 ]
 },
 {
@@ -7703,7 +7703,7 @@
 ]
 },
 {
-"date": "2000-11-10",
+"date": "2000-11-11",
 "title_en": "Genoa",
 "title_ja": "第２７回（ジェノヴァ）",
 "url": "https://worldjpn.net/documents/texts/summit/20001111.D1E.html",
@@ -7730,16 +7730,7 @@
 ]
 },
 {
-"date": "2001-01-31",
-"title_en": "",
-"title_ja": "第151回（常会）における 施政方針演説",
-"url": "https://worldjpn.net/documents/texts/pm/20010131.SWE.html",
-"indices": [
-"Prime Ministers' speeches"
-]
-},
-{
-"date": "2001-02-09",
+"date": "2001-01-09",
 "title_en": "Policy Address by Minister for Foreign Affairs, H.E. KONO Yohei (Subtitle: Toward Multi-layered relations with the Gulf Countries)",
 "title_ja": "河野洋平外務大臣演説：湾岸諸国との重層的な関係に向けて",
 "url": "https://worldjpn.net/documents/texts/exdfam/20010109.S2E.html",
@@ -7747,6 +7738,15 @@
 "Japan security policy",
 "Japan-Middle East relations",
 "Other speeches by Foreign Ministers"
+]
+},
+{
+"date": "2001-01-31",
+"title_en": "",
+"title_ja": "第151回（常会）における 施政方針演説",
+"url": "https://worldjpn.net/documents/texts/pm/20010131.SWE.html",
+"indices": [
+"Prime Ministers' speeches"
 ]
 },
 {
@@ -7759,7 +7759,7 @@
 ]
 },
 {
-"date": "2001-02-26",
+"date": "2001-02-27",
 "title_en": "Conference of the G8 Ministers of Justice and Interior",
 "title_ja": "Conference of the G8 Ministers of Justice and Interior",
 "url": "https://worldjpn.net/documents/texts/summit/20010227.D1E.html",
@@ -7768,21 +7768,12 @@
 ]
 },
 {
-"date": "2001-03-02",
+"date": "2001-03-04",
 "title_en": "G8 Environment Ministers Communique",
 "title_ja": "G8 Environment Ministers Communique",
 "url": "https://worldjpn.net/documents/texts/summit/20010304.D1E.html",
 "indices": [
 "G7/G8 summit documents"
-]
-},
-{
-"date": "2001-03-14",
-"title_en": "Joint Press Conference by Prime Minister Junichiro Koizumi of Japan and President Pervez Musharraf of The Islamic Republic of Pakistan",
-"title_ja": "小泉総理大臣とムシャラフ・パキスタン大統領の共同記者会見",
-"url": "https://worldjpn.net/documents/texts/JPSA/20020314.01E.html",
-"indices": [
-"Japan-South Asia relations"
 ]
 },
 {
@@ -8182,6 +8173,15 @@
 "indices": [
 "Basic documents of contemporary international politics (since 1945)",
 "Japan-US relations"
+]
+},
+{
+"date": "2002-03-14",
+"title_en": "Joint Press Conference by Prime Minister Junichiro Koizumi of Japan and President Pervez Musharraf of The Islamic Republic of Pakistan",
+"title_ja": "小泉総理大臣とムシャラフ・パキスタン大統領の共同記者会見",
+"url": "https://worldjpn.net/documents/texts/JPSA/20020314.01E.html",
+"indices": [
+"Japan-South Asia relations"
 ]
 },
 {
@@ -11076,24 +11076,6 @@
 ]
 },
 {
-"date": "2007",
-"title_en": "Joint Press Statement, 16th Japan-EU Summit",
-"title_ja": "第16回日・EU定期首脳協議共同プレス声明",
-"url": "https://worldjpn.net/documents/texts/JPEU/20070605.D1E.html",
-"indices": [
-"Japan-Europe relations"
-]
-},
-{
-"date": "2007",
-"title_en": "Welcoming Remarks by Mr. Taro Aso, Minister for Foreign Affairs of Japan, at the Conference on DIAG for the Stabilization of Afghanistan: Coordination with Police Reform",
-"title_ja": "アフガニスタンの安定に向けたDIAG会議（警察改革との連携）における麻生外務大臣冒頭スピーチ",
-"url": "https://worldjpn.net/documents/texts/exdfam/20070621.S1E.html",
-"indices": [
-"Other speeches by Foreign Ministers"
-]
-},
-{
 "date": "2007-01",
 "title_en": "Japan-Mekong Region Partnership Program",
 "title_ja": "日本・メコン地域パートナーシップ・プログラム",
@@ -11175,6 +11157,16 @@
 ]
 },
 {
+"date": "2007-03",
+"title_en": "Japan's ODA for Energy and Environment for Sustainable Development in Africa",
+"title_ja": "アフリカにおける持続可能な開発のための環境とエネルギーに関する日本の国際協力",
+"url": "https://worldjpn.net/documents/texts/ticad/20070300.O1E.html",
+"indices": [
+"Japan-Africa relations",
+"TICAD documents"
+]
+},
+{
 "date": "2007-03-06",
 "title_en": "The Statement by President of the Asian Women's Fund Murayama at the Final Press Conference",
 "title_ja": "アジア女性基金解散記者会見における 理事長発言要旨",
@@ -11235,22 +11227,42 @@
 ]
 },
 {
-"date": "2007-03-25",
-"title_en": "",
-"title_ja": "イランの核問題に関する国際連合安全保障理事会決議の採択について（麻生太郎外務大臣談話）",
-"url": "https://worldjpn.net/documents/texts/exdfam/20070326.S1E.html",
+"date": "2007-03-22",
+"title_en": "Opening Remarks by Mr. Takeshi IWAYA Senior Vice-Minister for Foreign Affairs, Japan",
+"title_ja": "TICAD「持続可能な開発のための環境とエネルギー」閣僚会議における岩屋副大臣基調演説",
+"url": "https://worldjpn.net/documents/texts/ticad/20070322.S1E.html",
 "indices": [
-"Other speeches by Foreign Ministers"
+"Japan-Africa relations",
+"TICAD documents"
 ]
 },
 {
-"date": "2007-03-26",
+"date": "2007-03-23",
+"title_en": "Chair's Summary of TICAD Ministerial Conference on Energy and Environment for Sustainable Development",
+"title_ja": "TICAD「持続可能な開発のための環境とエネルギー」閣僚会議：議長総括",
+"url": "https://worldjpn.net/documents/texts/ticad/20070323.O1E.html",
+"indices": [
+"Japan-Africa relations",
+"TICAD documents"
+]
+},
+{
+"date": "2007-03-25",
 "title_en": "Statement by Mr. Taro Aso, Minister for Foreign Affairs, on the Adoption of the United Nations Security Council Resolution concerning Iran’s Nuclear Issue",
 "title_ja": "イランの核問題に関する国際連合安全保障理事会決議の採択について（麻生太郎外務大臣談話）",
 "url": "https://worldjpn.net/documents/texts/exdfam/20070325.S1E.html",
 "indices": [
 "Japan security policy",
 "Japan-Middle East relations",
+"Other speeches by Foreign Ministers"
+]
+},
+{
+"date": "2007-03-25",
+"title_en": "",
+"title_ja": "イランの核問題に関する国際連合安全保障理事会決議の採択について（麻生太郎外務大臣談話）",
+"url": "https://worldjpn.net/documents/texts/exdfam/20070326.S1E.html",
+"indices": [
 "Other speeches by Foreign Ministers"
 ]
 },
@@ -11319,16 +11331,6 @@
 ]
 },
 {
-"date": "2007-05",
-"title_en": "Japan's ODA for Energy and Environment for Sustainable Development in Africa",
-"title_ja": "アフリカにおける持続可能な開発のための環境とエネルギーに関する日本の国際協力",
-"url": "https://worldjpn.net/documents/texts/ticad/20070300.O1E.html",
-"indices": [
-"Japan-Africa relations",
-"TICAD documents"
-]
-},
-{
 "date": "2007-05-01",
 "title_en": "Joint Statement of the Security Consultative Committee (\"2+2\" Ministerial Meeting)",
 "title_ja": "日米安全保障協議委員会（「２＋２」）共同発表（同盟の変革：日米の安全保障及び防衛協力の進展）",
@@ -11357,26 +11359,6 @@
 ]
 },
 {
-"date": "2007-05-22",
-"title_en": "Opening Remarks by Mr. Takeshi IWAYA Senior Vice-Minister for Foreign Affairs, Japan",
-"title_ja": "TICAD「持続可能な開発のための環境とエネルギー」閣僚会議における岩屋副大臣基調演説",
-"url": "https://worldjpn.net/documents/texts/ticad/20070322.S1E.html",
-"indices": [
-"Japan-Africa relations",
-"TICAD documents"
-]
-},
-{
-"date": "2007-05-23",
-"title_en": "Chair's Summary of TICAD Ministerial Conference on Energy and Environment for Sustainable Development",
-"title_ja": "TICAD「持続可能な開発のための環境とエネルギー」閣僚会議：議長総括",
-"url": "https://worldjpn.net/documents/texts/ticad/20070323.O1E.html",
-"indices": [
-"Japan-Africa relations",
-"TICAD documents"
-]
-},
-{
 "date": "2007-05-30",
 "title_en": "Chairman's Statement (G8 Foreign Ministers' Meeting)",
 "title_ja": "Ｇ８外相会合，議長声明（英文のみ）",
@@ -11401,6 +11383,15 @@
 "url": "https://worldjpn.net/documents/texts/summit/20070530.D1E.html",
 "indices": [
 "G7/G8 summit documents"
+]
+},
+{
+"date": "2007-06-05",
+"title_en": "Joint Press Statement, 16th Japan-EU Summit",
+"title_ja": "第16回日・EU定期首脳協議共同プレス声明",
+"url": "https://worldjpn.net/documents/texts/JPEU/20070605.D1E.html",
+"indices": [
+"Japan-Europe relations"
 ]
 },
 {
@@ -11536,6 +11527,15 @@
 "url": "https://worldjpn.net/documents/texts/summit/20070608.D1E.html",
 "indices": [
 "G7/G8 summit documents"
+]
+},
+{
+"date": "2007-06-21",
+"title_en": "Welcoming Remarks by Mr. Taro Aso, Minister for Foreign Affairs of Japan, at the Conference on DIAG for the Stabilization of Afghanistan: Coordination with Police Reform",
+"title_ja": "アフガニスタンの安定に向けたDIAG会議（警察改革との連携）における麻生外務大臣冒頭スピーチ",
+"url": "https://worldjpn.net/documents/texts/exdfam/20070621.S1E.html",
+"indices": [
+"Other speeches by Foreign Ministers"
 ]
 },
 {
@@ -12006,6 +12006,15 @@
 ]
 },
 {
+"date": "2008-05-10",
+"title_en": "Joint Statement between the Government of Japan and the Government of the People's Republic of China on Comprehensive Promotion of a \"Mutually Beneficial Relationship Based on Common Strategic Interests\"",
+"title_ja": "「戦略的互恵関係」の包括的推進に関する日中共同声明",
+"url": "https://worldjpn.net/documents/texts/JPCH/20080510.D1E.html",
+"indices": [
+"Japan-China relations"
+]
+},
+{
 "date": "2008-05-13",
 "title_en": "Chair's Conclusions of the G8 Labour and Employment Ministers Meeting",
 "title_ja": "Ｇ８労働大臣会合議長総括",
@@ -12015,19 +12024,19 @@
 ]
 },
 {
-"date": "2008-05-19",
-"title_en": "Joint Statement between the Government of Japan and the Government of the People's Republic of China on Comprehensive Promotion of a \"Mutually Beneficial Relationship Based on Common Strategic Interests\"",
-"title_ja": "「戦略的互恵関係」の包括的推進に関する日中共同声明",
-"url": "https://worldjpn.net/documents/texts/JPCH/20080510.D1E.html",
-"indices": [
-"Japan-China relations"
-]
-},
-{
 "date": "2008-05-22",
 "title_en": "When the Pacific Ocean Becomes an \"Inland Sea\": Five Pledges to a Future Asia that \"Acts Together,\" Speech by H.E. Mr. Yasuo Fukuda, Prime Minister of Japan",
 "title_ja": "福田康夫内閣総理大臣スピーチ「太平洋が「内海」となる日へ‐「共に歩む」未来のアジアに5つの約束‐」",
 "url": "https://worldjpn.net/documents/texts/exdpm/20080522.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2008-05-23",
+"title_en": "Opening Remarks by H.E. Mr. Yasuo Fukuda, Prime Minister of Japan on the Occasion of \"From Okinawa to Toyako: Dealing with Communicable Diseases as Global Human Security Threats\"",
+"title_ja": "「国際シンポジウム‐沖縄から洞爺湖へ‐『人間の安全保障』から見た三大感染症への新たなビジョン」福田総理大臣演説",
+"url": "https://worldjpn.net/documents/texts/exdpm/20080523.S2E.html",
 "indices": [
 "Other speeches by Prime Ministers"
 ]
@@ -12881,7 +12890,7 @@
 ]
 },
 {
-"date": "2009-04-04",
+"date": "2009-04-05",
 "title_en": "Remarks by President Barack Obama",
 "title_ja": "バラク・オバマ大統領のフラチャニ広場（プラハ）での演説",
 "url": "https://worldjpn.net/documents/texts/docs/20090405.S1E.html",
@@ -13441,6 +13450,16 @@
 },
 {
 "date": "2009-11-13",
+"title_en": "Japan-U.S. Joint Statement toward a World without Nuclear Weapons",
+"title_ja": "「核兵器のない世界」に向けた日米共同ステートメント",
+"url": "https://worldjpn.net/documents/texts/JPUS/20091113.D1E.html",
+"indices": [
+"Japan security policy",
+"Japan-US relations"
+]
+},
+{
+"date": "2009-11-13",
 "title_en": "Joint Press Conference by Prime Minister Yukio Hatoyama of Japan and President Barack Obama of the United States of America",
 "title_ja": "日米首脳共同記者会見",
 "url": "https://worldjpn.net/documents/texts/JPUS/20091113.O2E.html",
@@ -13465,16 +13484,6 @@
 "url": "https://worldjpn.net/documents/texts/exdpm/20091115.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2009-11-15",
-"title_en": "Japan-U.S. Joint Statement toward a World without Nuclear Weapons",
-"title_ja": "「核兵器のない世界」に向けた日米共同ステートメント",
-"url": "https://worldjpn.net/documents/texts/JPUS/20091113.D1E.html",
-"indices": [
-"Japan security policy",
-"Japan-US relations"
 ]
 },
 {
@@ -13547,25 +13556,6 @@
 "url": "https://worldjpn.net/documents/texts/exdpm/20091229.S1E.html",
 "indices": [
 "Japan-South Asia relations",
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2010",
-"title_en": "Communiqué of the Washington Nuclear Security Summit",
-"title_ja": "第1回ワシントン核セキュリティ・サミット・コミュニケ",
-"url": "https://worldjpn.net/documents/texts/USC/20100413.D1E.html",
-"indices": [
-"Japan security policy"
-]
-},
-{
-"date": "2010",
-"title_en": "Japan's National Statement at the Washington Nuclear Security Summit",
-"title_ja": "第1回ワシントン核セキュリティ・サミットにおけるナショナル・ステートメント（鳩山内閣総理大臣）",
-"url": "https://worldjpn.net/documents/texts/exdpm/20100412.O1E.html",
-"indices": [
-"Japan security policy",
 "Other speeches by Prime Ministers"
 ]
 },
@@ -13674,6 +13664,25 @@
 "Basic documents of contemporary international politics (since 1945)",
 "Japan-Russia/Soviet relations",
 "Japan-US relations"
+]
+},
+{
+"date": "2010-04-12",
+"title_en": "Japan's National Statement at the Washington Nuclear Security Summit",
+"title_ja": "第1回ワシントン核セキュリティ・サミットにおけるナショナル・ステートメント（鳩山内閣総理大臣）",
+"url": "https://worldjpn.net/documents/texts/exdpm/20100412.O1E.html",
+"indices": [
+"Japan security policy",
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2010-04-13",
+"title_en": "Communiqué of the Washington Nuclear Security Summit",
+"title_ja": "第1回ワシントン核セキュリティ・サミット・コミュニケ",
+"url": "https://worldjpn.net/documents/texts/USC/20100413.D1E.html",
+"indices": [
+"Japan security policy"
 ]
 },
 {
@@ -13796,6 +13805,15 @@
 "url": "https://worldjpn.net/documents/texts/pm/20100611.SWE.html",
 "indices": [
 "Prime Ministers' speeches"
+]
+},
+{
+"date": "2010-06-12",
+"title_en": "Japan-U.S. High Level Committee on Science and Technology: Press Statement",
+"title_ja": "日米科学技術高級委員会 プレス声明",
+"url": "https://worldjpn.net/documents/texts/ENVI/20100612.O1E.html",
+"indices": [
+"Japan-US relations"
 ]
 },
 {
@@ -14218,16 +14236,6 @@
 ]
 },
 {
-"date": "2010-12-06",
-"title_en": "National Defense Program Guidelines for FY 2011 and beyond",
-"title_ja": "平成２３年度以降に係る防衛計画の大綱について",
-"url": "https://worldjpn.net/documents/texts/JPSC/20101217.O1E.html",
-"indices": [
-"Basic documents of contemporary international politics (since 1945)",
-"Japan security policy"
-]
-},
-{
 "date": "2010-12-09",
 "title_en": "Speech by H.E. Mr. Seiji Maehara, Minister for Foreign Affairs of Japan at the Third Bali Democracy Forum \"Democracy in Diversity- Building on Asia's Unique Strength -\"",
 "title_ja": "第３回バリ民主主義フォーラム 前原外務大臣スピーチ「多様性の中の民主主義〜アジアの特徴を力にして〜」",
@@ -14264,30 +14272,13 @@
 ]
 },
 {
-"date": "2011",
-"title_en": "Japan's Road to Recovery and Rebirth (Op-ed by Prime Minister Kan to International Herald Tribune)",
-"title_ja": "菅総理によるインターナショナル・ヘラルド・トリビューン紙への寄稿 日本 ‐復興，そして新生への道‐（Japan's Road to Recovery and Rebirth）",
-"url": "https://worldjpn.net/documents/texts/exdpm/20110415.O2E.html",
+"date": "2010-12-17",
+"title_en": "National Defense Program Guidelines for FY 2011 and beyond",
+"title_ja": "平成２３年度以降に係る防衛計画の大綱について",
+"url": "https://worldjpn.net/documents/texts/JPSC/20101217.O1E.html",
 "indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2011",
-"title_en": "Japan's road to recovery and rebirth (Op-ed by Prime Minister Kan to Washington Post)",
-"title_ja": "菅総理によるワシントンポスト紙への寄稿 日本 ‐復興，そして新生への道‐",
-"url": "https://worldjpn.net/documents/texts/exdpm/20110415.O1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2011",
-"title_en": "Kizuna - The Bonds of Friendship -",
-"title_ja": "絆 Kizuna ‐ the bonds of friendship （菅直人内閣総理大臣）",
-"url": "https://worldjpn.net/documents/texts/exdpm/20110411.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
+"Basic documents of contemporary international politics (since 1945)",
+"Japan security policy"
 ]
 },
 {
@@ -14432,6 +14423,33 @@
 "title_en": "Message from Prime Minister Naoto Kan Regarding Assistance Received from Overseas",
 "title_ja": "諸外国からの支援に対する総理メッセージ（菅直人内閣総理大臣）",
 "url": "https://worldjpn.net/documents/texts/exdpm/20110322.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2011-04-11",
+"title_en": "Kizuna - The Bonds of Friendship -",
+"title_ja": "絆 Kizuna ‐ the bonds of friendship （菅直人内閣総理大臣）",
+"url": "https://worldjpn.net/documents/texts/exdpm/20110411.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2011-04-15",
+"title_en": "Japan's Road to Recovery and Rebirth (Op-ed by Prime Minister Kan to International Herald Tribune)",
+"title_ja": "菅総理によるインターナショナル・ヘラルド・トリビューン紙への寄稿 日本 ‐復興，そして新生への道‐（Japan's Road to Recovery and Rebirth）",
+"url": "https://worldjpn.net/documents/texts/exdpm/20110415.O2E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2011-04-15",
+"title_en": "Japan's road to recovery and rebirth (Op-ed by Prime Minister Kan to Washington Post)",
+"title_ja": "菅総理によるワシントンポスト紙への寄稿 日本 ‐復興，そして新生への道‐",
+"url": "https://worldjpn.net/documents/texts/exdpm/20110415.O1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
 ]
@@ -15494,15 +15512,6 @@
 "url": "https://worldjpn.net/documents/texts/PALM/20120526.D1E.html",
 "indices": [
 "Pacific Islands Leaders Meetings"
-]
-},
-{
-"date": "2012-06-12",
-"title_en": "Japan-U.S. High Level Committee on Science and Technology: Press Statement",
-"title_ja": "日米科学技術高級委員会 プレス声明",
-"url": "https://worldjpn.net/documents/texts/ENVI/20100612.O1E.html",
-"indices": [
-"Japan-US relations"
 ]
 },
 {
@@ -17403,24 +17412,6 @@
 ]
 },
 {
-"date": "2015",
-"title_en": "Bilateral Cooperation on the Joint Crediting Mechanism for the Low Carbon Growth Partnership between Japan and the Kingdom of Thailand",
-"title_ja": "日本国とタイ王国との間の低炭素成長パートナーシップのための二国間クレジット制度に関する二国間協力",
-"url": "https://worldjpn.net/documents/texts/ENVI/20151119.O1E.html",
-"indices": [
-"Japan-Southeast Asia relations"
-]
-},
-{
-"date": "2015",
-"title_en": "FACT SHEET: U.S.-Japan Cooperation for a More Prosperous and Stable World",
-"title_ja": "より繁栄し安定した世界のための日米協力に関するファクトシート",
-"url": "https://worldjpn.net/documents/texts/JPUS/20150428.O4E.html",
-"indices": [
-"Japan-US relations"
-]
-},
-{
 "date": "2015-01-01",
 "title_en": "New Year's Reflection by Prime Minister Shinzo Abe",
 "title_ja": "安倍内閣総理大臣 平成２７年 年頭所感",
@@ -17735,6 +17726,15 @@
 },
 {
 "date": "2015-04-28",
+"title_en": "FACT SHEET: U.S.-Japan Cooperation for a More Prosperous and Stable World",
+"title_ja": "より繁栄し安定した世界のための日米協力に関するファクトシート",
+"url": "https://worldjpn.net/documents/texts/JPUS/20150428.O4E.html",
+"indices": [
+"Japan-US relations"
+]
+},
+{
+"date": "2015-04-28",
 "title_en": "General Statement by Foreign Minister Fumio Kishida at the 2015 NPT Review Conference",
 "title_ja": "2015年NPT運用検討会議における岸田外務大臣一般討論演説",
 "url": "https://worldjpn.net/documents/texts/exdfam/20150428.S3E.html",
@@ -17923,24 +17923,6 @@
 ]
 },
 {
-"date": "2015-07-24",
-"title_en": "Press Conference by Prime Minister ISHIBA Shigeru Regarding the Report He Received from Minister Akazawa on the Japan-U.S. Consultation on U.S. Tariff Measures and Regarding Other Matters",
-"title_ja": "赤澤大臣からの米国関税措置に関する日米協議の報告等についての会見（石破茂内閣総理大臣）",
-"url": "https://worldjpn.net/documents/texts/PI/20250724.O1E.html",
-"indices": [
-"Japan-US relations"
-]
-},
-{
-"date": "2015-07-30",
-"title_en": "Press Conference by Prime Minister ISHIBA Shigeru Regarding the Tsunami Caused by the Earthquake near Kamchatka Peninsula",
-"title_ja": "カムチャツカ半島付近を震源とする地震による津波についての会見（石破茂内閣総理大臣）（２）",
-"url": "https://worldjpn.net/documents/texts/PI/20250730.O2E.html",
-"indices": [
-"Japan-Russia/Soviet relations"
-]
-},
-{
 "date": "2015-08-05",
 "title_en": "Chair's Statement of the Eighth Mekong-Japan Foreign Ministers' Meeting",
 "title_ja": "第８回日メコン外相会議議長声明",
@@ -17979,15 +17961,6 @@
 },
 {
 "date": "2015-08-14",
-"title_en": "Commemorative Address by President Park Geun­hye on the 70th Anniversary of Liberation",
-"title_ja": "光復（解放）７０周年記念式典における朴槿恵大統領の演説",
-"url": "https://worldjpn.net/documents/texts/JPKR/20150815.S1E.html",
-"indices": [
-"Japan-Korean Peninsula relations"
-]
-},
-{
-"date": "2015-08-14",
 "title_en": "Statement by Prime Minister Shinzo Abe",
 "title_ja": "内閣総理大臣談話（安倍談話）",
 "url": "https://worldjpn.net/documents/texts/docs/20150814.S1E.html",
@@ -18004,6 +17977,15 @@
 "url": "https://worldjpn.net/documents/texts/exdpm/20150815.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2015-08-15",
+"title_en": "Commemorative Address by President Park Geun­hye on the 70th Anniversary of Liberation",
+"title_ja": "光復（解放）７０周年記念式典における朴槿恵大統領の演説",
+"url": "https://worldjpn.net/documents/texts/JPKR/20150815.S1E.html",
+"indices": [
+"Japan-Korean Peninsula relations"
 ]
 },
 {
@@ -18093,6 +18075,15 @@
 "title_en": "Remarks by Prime Minister Shinzo Abe at the Annual Meeting of the Science and Technology in Society (STS) Forum",
 "title_ja": "ＳＴＳフォーラム第１２回年次総会における安倍総理スピーチ",
 "url": "https://worldjpn.net/documents/texts/exdpm/20151004.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2015-10-05",
+"title_en": "Nobel Prize in Physiology or Medicine for 2015: Comment by Prime Minister Shinzo Abe",
+"title_ja": "ノーベル生理学・医学賞 内閣総理大臣コメント",
+"url": "https://worldjpn.net/documents/texts/exdpm/20151005.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
 ]
@@ -18188,6 +18179,15 @@
 ]
 },
 {
+"date": "2015-11-19",
+"title_en": "Bilateral Cooperation on the Joint Crediting Mechanism for the Low Carbon Growth Partnership between Japan and the Kingdom of Thailand",
+"title_ja": "日本国とタイ王国との間の低炭素成長パートナーシップのための二国間クレジット制度に関する二国間協力",
+"url": "https://worldjpn.net/documents/texts/ENVI/20151119.O1E.html",
+"indices": [
+"Japan-Southeast Asia relations"
+]
+},
+{
 "date": "2015-11-21",
 "title_en": "Address by Prime Minister Shinzo Abe on the Occasion of the ASEAN Business & Investment",
 "title_ja": "ＡＳＥＡＮビジネス投資サミット 安倍総理スピーチ",
@@ -18248,15 +18248,6 @@
 "title_en": "Statement by the Prime Minister on the agreement reached at the 21st session of the Conference of the Parties to the United Nations Framework Convention on Climate Change",
 "title_ja": "国連気候変動枠組条約第二十一回締約国会議の合意に関する内閣総理大臣の談話",
 "url": "https://worldjpn.net/documents/texts/exdpm/20151213.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2015-12-16",
-"title_en": "Nobel Prize in Physiology or Medicine for 2015: Comment by Prime Minister Shinzo Abe",
-"title_ja": "ノーベル生理学・医学賞 内閣総理大臣コメント",
-"url": "https://worldjpn.net/documents/texts/exdpm/20151005.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
 ]
@@ -18356,15 +18347,6 @@
 ]
 },
 {
-"date": "2016-01-21",
-"title_en": "Message from Prime Minister Shinzo Abe at the 2016 Davos Meeting Side Event \"Japan Night\"",
-"title_ja": "ダボス会議・ジャパンナイト 安倍総理メッセージ",
-"url": "https://worldjpn.net/documents/texts/exdpm/20160122.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
 "date": "2016-01-22",
 "title_en": "Agreed Minutes to the Agreement Between Japan and the United States of America Concerning New Special Measures Relating to Article XXIV of the Agreement Under Article VI of the Treaty of Mutual Cooperation and Security Between Japan and the United States of America, Regarding Facilities and Areas and the Status of United States Armed Forces in Japan, Signed at Tokyo on January 22, 2016",
 "title_ja": "二千十六年一月二十二日に東京で署名された日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定第二十四条についての新たな特別の措置に関する日本国とアメリカ合衆国との間の協定についての合意された議事録",
@@ -18382,6 +18364,15 @@
 "indices": [
 "Japan security policy",
 "Japan-US relations"
+]
+},
+{
+"date": "2016-01-22",
+"title_en": "Message from Prime Minister Shinzo Abe at the 2016 Davos Meeting Side Event \"Japan Night\"",
+"title_ja": "ダボス会議・ジャパンナイト 安倍総理メッセージ",
+"url": "https://worldjpn.net/documents/texts/exdpm/20160122.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -19184,7 +19175,7 @@
 ]
 },
 {
-"date": "2016-10-26",
+"date": "2016-10-23",
 "title_en": "Address by Prime Minister Shinzo Abe at the 2016 Troop Review for the Anniversary of the Establishment of the Self-Defense Forces",
 "title_ja": "平成２８年度自衛隊記念日観閲式 安倍内閣総理大臣訓示",
 "url": "https://worldjpn.net/documents/texts/exdpm/20161023.S1E.html",
@@ -19692,6 +19683,15 @@
 ]
 },
 {
+"date": "2017-07-21",
+"title_en": "Joint Press Release, The Japan-U.S. Cyber Dialogue",
+"title_ja": "共同プレスリリース 日米サイバー対話",
+"url": "https://worldjpn.net/documents/texts/AI/20170712.D1E.html",
+"indices": [
+"Japan-US relations"
+]
+},
+{
 "date": "2017-08-06",
 "title_en": "Address by Prime Minister Shinzo Abe at the Hiroshima Peace Memorial Ceremony",
 "title_ja": "広島市原爆死没者慰霊式並びに平和祈念式あいさつ",
@@ -20072,6 +20072,15 @@
 ]
 },
 {
+"date": "2017-12-15",
+"title_en": "Speech by the Prime Minister at Managing Editors Meeting of Kyodo News Member Companies",
+"title_ja": "共同通信加盟社編集局長会議安倍総理スピーチ",
+"url": "https://worldjpn.net/documents/texts/exdpm/20171215.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
 "date": "2017-12-23",
 "title_en": "Comment by Prime Minister Shinzo Abe on the Adoption of a Resolution by the United Nations Security Council concerning North Korea's Ballistic Missile Launch and Other Activities",
 "title_ja": "",
@@ -20085,15 +20094,6 @@
 "title_en": "",
 "title_ja": "北朝鮮による弾道ミサイル発射等に関する国連安保理決議の採択について（安倍晋三内閣総理大臣コメント）",
 "url": "https://worldjpn.net/documents/texts/exdpm/20171223.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2017-12-25",
-"title_en": "Speech by the Prime Minister at Managing Editors Meeting of Kyodo News Member Companies",
-"title_ja": "共同通信加盟社編集局長会議安倍総理スピーチ",
-"url": "https://worldjpn.net/documents/texts/exdpm/20171215.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
 ]
@@ -20354,15 +20354,6 @@
 "indices": [
 "Free and Open Indo-Pacific documents",
 "Pacific Islands Leaders Meetings"
-]
-},
-{
-"date": "2018-05-23",
-"title_en": "Opening Remarks by H.E. Mr. Yasuo Fukuda, Prime Minister of Japan on the Occasion of \"From Okinawa to Toyako: Dealing with Communicable Diseases as Global Human Security Threats\"",
-"title_ja": "「国際シンポジウム‐沖縄から洞爺湖へ‐『人間の安全保障』から見た三大感染症への新たなビジョン」福田総理大臣演説",
-"url": "https://worldjpn.net/documents/texts/exdpm/20080523.S2E.html",
-"indices": [
-"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -21480,6 +21471,15 @@
 ]
 },
 {
+"date": "2019-09-24",
+"title_en": "Address by Prime Minister Abe at the Seventy-Fourth Session of the United Nations General Assembly",
+"title_ja": "第７４回国連総会における安倍内閣総理大臣一般討論演説",
+"url": "https://worldjpn.net/documents/texts/exdpm/20190924.S2E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
 "date": "2019-09-25",
 "title_en": "Sep 25 2019",
 "title_ja": "日米共同声明",
@@ -21517,15 +21517,6 @@
 "indices": [
 "Free and Open Indo-Pacific documents",
 "Japan-Europe relations"
-]
-},
-{
-"date": "2019-09-55",
-"title_en": "Address by Prime Minister Abe at the Seventy-Fourth Session of the United Nations General Assembly",
-"title_ja": "第７４回国連総会における安倍内閣総理大臣一般討論演説",
-"url": "https://worldjpn.net/documents/texts/exdpm/20190924.S2E.html",
-"indices": [
-"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -22083,15 +22074,6 @@
 ]
 },
 {
-"date": "2020-11-21",
-"title_en": "Statement by Parliamentary Vice-Minister for Foreign Affairs KOKUBA Konosuke on the occasion of the 17th Asia Cooperation Dialogue ministerial meeting",
-"title_ja": "第17回アジア協力対話（ACD）閣僚級会合國場外務大臣政務官ステートメント",
-"url": "https://worldjpn.net/documents/texts/JPSEA/20210121.D1E.html",
-"indices": [
-"Japan-Southeast Asia relations"
-]
-},
-{
 "date": "2020-12-04",
 "title_en": "Address by Prime Minister SUGA at the Special Session of the United Nations General Assembly in response to the COVID-19 Pandemic",
 "title_ja": "国連新型コロナ特別総会における菅総理大臣スピーチ",
@@ -22181,6 +22163,15 @@
 "url": "https://worldjpn.net/documents/texts/PI/20210121.O1E.html",
 "indices": [
 "Japan-US relations"
+]
+},
+{
+"date": "2021-01-21",
+"title_en": "Statement by Parliamentary Vice-Minister for Foreign Affairs KOKUBA Konosuke on the occasion of the 17th Asia Cooperation Dialogue ministerial meeting",
+"title_ja": "第17回アジア協力対話（ACD）閣僚級会合國場外務大臣政務官ステートメント",
+"url": "https://worldjpn.net/documents/texts/JPSEA/20210121.D1E.html",
+"indices": [
+"Japan-Southeast Asia relations"
 ]
 },
 {
@@ -23745,6 +23736,16 @@
 ]
 },
 {
+"date": "2022-06-01",
+"title_en": "Message of Condolences from Prime Minister KISHIDA Fumio Following the Damages Caused by the Flood and Landslide Disaster in the State of Pernambuco, the Federative Republic of Brazil",
+"title_ja": "ブラジル連邦共和国ペルナンブコ州における洪水と土砂災害に対する岸田内閣総理大臣のお見舞いメッセージ",
+"url": "https://worldjpn.net/documents/texts/exdpm/20220601.S1E.html",
+"indices": [
+"Japan-Americas relations",
+"Other speeches by Prime Ministers"
+]
+},
+{
 "date": "2022-06-10",
 "title_en": "Keynote Address by Prime Minister KISHIDA Fumio at the IISS Shangri-La Dialogue",
 "title_ja": "シャングリラ・ダイアローグ（アジア安全保障会議）における岸田総理基調講演",
@@ -23770,16 +23771,6 @@
 "url": "https://worldjpn.net/documents/texts/PI/20220610.O1E.html",
 "indices": [
 "Japan-Southeast Asia relations"
-]
-},
-{
-"date": "2022-06-11",
-"title_en": "Message of Condolences from Prime Minister KISHIDA Fumio Following the Damages Caused by the Flood and Landslide Disaster in the State of Pernambuco, the Federative Republic of Brazil",
-"title_ja": "ブラジル連邦共和国ペルナンブコ州における洪水と土砂災害に対する岸田内閣総理大臣のお見舞いメッセージ",
-"url": "https://worldjpn.net/documents/texts/exdpm/20220601.S1E.html",
-"indices": [
-"Japan-Americas relations",
-"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -25372,17 +25363,6 @@
 },
 {
 "date": "2023-04-20",
-"title_en": "Contributed Article by Prime Minister KISHIDA Fumio the Ahram Newspaper",
-"title_ja": "岸田総理によるアハラーム紙への寄稿文「１００年後の繁栄に向けて、エジプトと手を携えて」",
-"url": "https://worldjpn.net/documents/texts/exdpm/20230430.O2E.html",
-"indices": [
-"Japan-Africa relations",
-"Japan-Middle East relations",
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2023-04-20",
 "title_en": "Video Message by Prime Minister KISHIDA Fumio at the Major Economies Forum on Energy and Climate Leaders Meeting",
 "title_ja": "エネルギーと気候に関する主要経済国フォーラム（ＭＥＦ）に際しての岸田総理ビデオメッセージ",
 "url": "https://worldjpn.net/documents/texts/exdpm/20230420.S1E.html",
@@ -25417,6 +25397,17 @@
 "Japan security policy",
 "Japan-Korean Peninsula relations",
 "Japan-US relations"
+]
+},
+{
+"date": "2023-04-30",
+"title_en": "Contributed Article by Prime Minister KISHIDA Fumio the Ahram Newspaper",
+"title_ja": "岸田総理によるアハラーム紙への寄稿文「１００年後の繁栄に向けて、エジプトと手を携えて」",
+"url": "https://worldjpn.net/documents/texts/exdpm/20230430.O2E.html",
+"indices": [
+"Japan-Africa relations",
+"Japan-Middle East relations",
+"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -26864,24 +26855,6 @@
 ]
 },
 {
-"date": "2024",
-"title_en": "Message of Condolences Issued by Prime Minister ISHIBA Shigeru Regarding the airplane accident in the Republic of Korea",
-"title_ja": "韓国における旅客機事故に関する石破総理大臣によるお見舞いメッセージの発出",
-"url": "https://worldjpn.net/documents/texts/exdpm/20241229.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
-"date": "2024",
-"title_en": "Statement by Prime Minister ISHIBA Shigeru, on the Passing of Jimmy Carter, the 39th U.S. President of the United States",
-"title_ja": "ジミー・カーター第３９代米国大統領の逝去に関する石破内閣総理大臣の談話",
-"url": "https://worldjpn.net/documents/texts/exdpm/20241230.S1E.html",
-"indices": [
-"Other speeches by Prime Ministers"
-]
-},
-{
 "date": "2024-01",
 "title_en": "EU INDO-PACIFIC STRATEGY",
 "title_ja": "EUのインド太平洋戦略",
@@ -27783,20 +27756,20 @@
 },
 {
 "date": "2024-07-01",
-"title_en": "Press Conference by Prime Minister Kishida regarding His Upcoming Attendance at the NATO Summit and Visit to Germany",
-"title_ja": "ＮＡＴＯ首脳会合出席及びドイツ訪問についての会見",
-"url": "https://worldjpn.net/documents/texts/PI/20240710.O1E.html",
-"indices": [
-"Japan-Europe relations"
-]
-},
-{
-"date": "2024-07-01",
 "title_en": "Video Message by Prime Minister Kishida at the Inauguration of the GX Promotion Organization",
 "title_ja": "ＧＸ推進機構開所式 岸田総理ビデオメッセージ",
 "url": "https://worldjpn.net/documents/texts/exdpm/20240701.S1E.html",
 "indices": [
 "Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2024-07-10",
+"title_en": "Press Conference by Prime Minister Kishida regarding His Upcoming Attendance at the NATO Summit and Visit to Germany",
+"title_ja": "ＮＡＴＯ首脳会合出席及びドイツ訪問についての会見",
+"url": "https://worldjpn.net/documents/texts/PI/20240710.O1E.html",
+"indices": [
+"Japan-Europe relations"
 ]
 },
 {
@@ -28518,15 +28491,6 @@
 ]
 },
 {
-"date": "2024-11-22",
-"title_en": "Joint Press Release, The Japan-U.S. Cyber Dialogue",
-"title_ja": "共同プレスリリース 日米サイバー対話",
-"url": "https://worldjpn.net/documents/texts/AI/20170712.D1E.html",
-"indices": [
-"Japan-US relations"
-]
-},
-{
 "date": "2024-11-26",
 "title_en": "Foreign Ministers' Meeting Statement",
 "title_ja": "",
@@ -28617,6 +28581,24 @@
 "url": "https://worldjpn.net/documents/texts/exdfam/20241217.S1E.html",
 "indices": [
 "Other speeches by Foreign Ministers"
+]
+},
+{
+"date": "2024-12-29",
+"title_en": "Message of Condolences Issued by Prime Minister ISHIBA Shigeru Regarding the airplane accident in the Republic of Korea",
+"title_ja": "韓国における旅客機事故に関する石破総理大臣によるお見舞いメッセージの発出",
+"url": "https://worldjpn.net/documents/texts/exdpm/20241229.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2024-12-30",
+"title_en": "Statement by Prime Minister ISHIBA Shigeru, on the Passing of Jimmy Carter, the 39th U.S. President of the United States",
+"title_ja": "ジミー・カーター第３９代米国大統領の逝去に関する石破内閣総理大臣の談話",
+"url": "https://worldjpn.net/documents/texts/exdpm/20241230.S1E.html",
+"indices": [
+"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -29442,6 +29424,16 @@
 },
 {
 "date": "2025-06-13",
+"title_en": "Contributed Article \"How the Canada-Japan relationship can get even stronger\" by Prime Minister ISHIBA Shigeru to the Canadian newspaper The Globe and Mail",
+"title_ja": "Ｇ７カナナスキス・サミット出席に際しての石破総理によるグローブ・アンド・メール紙への寄稿文",
+"url": "https://worldjpn.net/documents/texts/exdpm/20250613.O1E.html",
+"indices": [
+"G7/G8 summit documents",
+"Other speeches by Prime Ministers"
+]
+},
+{
+"date": "2025-06-13",
 "title_en": "Message of condolences from Prime Minister Ishiba regarding the airplane accident in the State of Gujarat, India",
 "title_ja": "インド西部グジャラート州における旅客機事故に対する石破内閣総理大臣によるお見舞いメッセージの発出",
 "url": "https://worldjpn.net/documents/texts/exdpm/20250613.S1E.html",
@@ -29458,16 +29450,6 @@
 "indices": [
 "Cabinet decisions and important policies",
 "Japan-Africa relations"
-]
-},
-{
-"date": "2025-06-16",
-"title_en": "Contributed Article \"How the Canada-Japan relationship can get even stronger\" by Prime Minister ISHIBA Shigeru to the Canadian newspaper The Globe and Mail",
-"title_ja": "Ｇ７カナナスキス・サミット出席に際しての石破総理によるグローブ・アンド・メール紙への寄稿文",
-"url": "https://worldjpn.net/documents/texts/exdpm/20250613.O1E.html",
-"indices": [
-"G7/G8 summit documents",
-"Other speeches by Prime Ministers"
 ]
 },
 {
@@ -29739,6 +29721,24 @@
 "url": "https://worldjpn.net/documents/texts/PI/20250723.O1E.html",
 "indices": [
 "Japan-US relations"
+]
+},
+{
+"date": "2025-07-24",
+"title_en": "Press Conference by Prime Minister ISHIBA Shigeru Regarding the Report He Received from Minister Akazawa on the Japan-U.S. Consultation on U.S. Tariff Measures and Regarding Other Matters",
+"title_ja": "赤澤大臣からの米国関税措置に関する日米協議の報告等についての会見（石破茂内閣総理大臣）",
+"url": "https://worldjpn.net/documents/texts/PI/20250724.O1E.html",
+"indices": [
+"Japan-US relations"
+]
+},
+{
+"date": "2025-07-30",
+"title_en": "Press Conference by Prime Minister ISHIBA Shigeru Regarding the Tsunami Caused by the Earthquake near Kamchatka Peninsula",
+"title_ja": "カムチャツカ半島付近を震源とする地震による津波についての会見（石破茂内閣総理大臣）（２）",
+"url": "https://worldjpn.net/documents/texts/PI/20250730.O2E.html",
+"indices": [
+"Japan-Russia/Soviet relations"
 ]
 },
 {
@@ -30478,7 +30478,7 @@
 ]
 },
 {
-"date": "2025-11-05",
+"date": "2025-11-06",
 "title_en": "Opening Remarks by H.E. Mr. MOTEGI Toshimitsu, Foreign Minister of Japan At the UN Event for the World Tsunami Awareness Day",
 "title_ja": "「世界津波の日」2025イベント（於:ニューヨーク国連本部）茂木外務大臣メッセージ",
 "url": "https://worldjpn.net/documents/texts/exdfam/20251106.S1E.html",
