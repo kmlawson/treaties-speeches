@@ -557,6 +557,11 @@ def build():
         parts.sort(key=lambda d: (int(d['part']) if d['part'].isdigit() else 999, d['ipos'], d['file']))
         for k, d in enumerate(parts):
             d['sk'], d['sn'], d['sslug'] = k + 1, len(parts), f"{key[0]}-{slug(key[1])}"
+    # build into a temporary folder and swap it in only when everything has been written, so that a failed build
+    # never leaves docs/ empty or half-written
+    global SITE
+    final = SITE
+    SITE = final + '.building'
     if os.path.isdir(SITE):
         shutil.rmtree(SITE)
     os.makedirs(f'{SITE}/doc')
@@ -840,6 +845,14 @@ var ps=document.createElement('script');ps.src='wj_postwar.js';ps.onload=functio
 D.sort(function(a,b){return a.o<b.o?-1:a.o>b.o?1:0});if(q.value.trim())run();else C.textContent=D.length+' entries'};document.body.appendChild(ps);
 var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()})();</script>"""
     open(f'{SITE}/search.html', 'w').write(page('Search — Treaties, Laws and Speeches', sub, 'search', '\n'.join(s), scripts=js))
+    old = final + '.old'
+    if os.path.isdir(old):
+        shutil.rmtree(old)
+    if os.path.isdir(final):
+        os.rename(final, old)
+    os.rename(SITE, final)
+    shutil.rmtree(old, ignore_errors=True)
+    SITE = final
     print(f'{len(docs)} texts ->', SITE, counts)
     words = sum(len(d['body'].split()) for d in docs)
     print('words', words)

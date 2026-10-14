@@ -9,3 +9,5 @@
 *.pdf
 _work/
 .DS_Store
+docs.building/
+docs.old/
