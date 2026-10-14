@@ -23,7 +23,7 @@
 <p>Furthermore, the existence of the before-mentioned disparity in exchange value between the new notes and the old <em>fa-pi</em>, which the Federal Reserve Bank has been exchanging at a rate not very much below par, is bound to exert an unfavourable effect upon the exchange value of the new notes, and eventually upon the exchange value of the Japanese yen.</p>
 <p>The Japanese Government feels that it is incumbent upon it not to remain indifferent to such a situation.</p>
 <p>The export exchange measures adopted in Tsingtao are calculated to place</p>
-<p><em>[Page 37 was transcribed with GPT (Codex CLI), not Claude.]</em></p>
+<p class="ednote"><em>[Page 37 was transcribed with GPT (Codex CLI), not Claude.]</em></p>
 <div class="pgbreak"><a class="pg" href="https://archive.org/details/tokyo-gazette-2-19-1939.1/page/n39/mode/1up" target="_blank" title="View this page of the scan">p.&nbsp;38</a></div>
 <p>the users of old Chinese currency who have been obtaining unfair profits, on an equal footing with those who are using the Federal Reserve notes. These measures are also intended to protect the exchange value of the Federal Reserve Bank notes. Inasmuch as the application of the measures makes no differentiation according to nationality they cannot be considered as discriminatory measures. As a matter of fact, it is through these measures that those users of the Federal Reserve notes who had in a sense been discriminated against, have been placed on an equal footing with the others, and thus enabled to compete on a fair basis.</p>
 <p>2. In North and Central China the new Chinese régimes some time ago effected revisions of the Customs tariff in an attempt to secure a rational modification of the former tariff enforced by the Kuomintang Government, which was unduly high and ill-calculated to promote the economic recovery and general welfare of the Chinese people. However, the schedule actually adopted for the time being is the one that was approved by the Powers in 1931, so that no complaint has been heard from foreign residents of any nationality on the spot. The Japanese Government is of course in favour of the purpose of the said revision, believing that it will serve to promote effectively the trade of all countries with China.</p>
@@ -38,7 +38,7 @@
 <p>It is the firm conviction of the Japanese Government that in the face of the new situation, fast developing in East Asia, any attempt to apply to the conditions of today and tomorrow inapplicable ideas and principles of the past would neither contribute toward the establishment of a real peace in East Asia nor solve the immediate issues.</p>
 <p>However, as long as these points are understood, Japan has not the slightest inclination to oppose the participation of the United States and other Powers in the great work of reconstructing East Asia along all lines of industry and trade ; and I believe that the new régimes now being formed in China are prepared to welcome such foreign participation.</p>
 <p>I avail myself of this opportunity to renew to Your Excellency the assurances of my highest consideration.</p>
-<p><em>[Page 39 was transcribed with GPT (Codex CLI), not Claude.]</em></p></article>
+<p class="ednote"><em>[Page 39 was transcribed with GPT (Codex CLI), not Claude.]</em></p></article>
 <details class="note"><summary>Transcription note</summary><p>Reply ends on p. 39; p. 40 begins a new article (The Situation in China).</p></details>
 <aside class="disclaimer"><strong>Check the original.</strong> This text was transcribed from the page scans by an AI model (Claude Sonnet 5.5) reading the page images, and has not been proofread by a person. The pages marked in the text (p.&nbsp;37, 39) were transcribed with GPT (Codex CLI) instead. It may contain misreadings, dropped words or other errors. Before quoting or citing it, compare it with the <a href="https://archive.org/details/tokyo-gazette-2-19-1939.1/page/n38/mode/1up" target="_blank">original scan on the Internet Archive</a>; the page numbers in the margin link to each page.</aside>
 <div class="pn"><a href="tg-2-19-1939-1-04-american-note-rights-and-interests-in-china.html"><small>&larr; Previous</small>The Note of the American Ambassador at Tokyo to the Japanese Minister for Foreign Affairs (Concerning American Rights and Interests in China)</a><a href="tg-2-19-1939-1-104-situation-the-situation-in-china.html"><small>Next &rarr;</small>The Situation in China</a></div>
@@ -70,5 +70,28 @@ var q=new URLSearchParams(location.search).get('q');if(q){var words=q.replace(/"
 if(words.length){var re=new RegExp('('+(q.indexOf('"')>=0?q.replace(/"/g,'').trim().replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+'):words.join('|'))+')','gi');
 var w=document.createTreeWalker(document.getElementById('doc'),NodeFilter.SHOW_TEXT),ns=[],n;while(n=w.nextNode())ns.push(n);var first;
 ns.forEach(function(n){if(!re.test(n.nodeValue))return;re.lastIndex=0;var s=document.createElement('span');s.innerHTML=n.nodeValue.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(re,'<mark>$1</mark>');n.parentNode.replaceChild(s,n);if(!first)first=s});
-if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</script>
+if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}
+var box=document.getElementById('showDiff');if(box){var art=document.getElementById('doc'),orig=art.innerHTML,V=JSON.parse(document.getElementById('vdata').textContent),
+ws=document.getElementById('diffWith'),leg=document.querySelector('.difflegend');
+function norm(w){w=w.replace(/[\u2018\u2019\u02bc`]/g,"'").replace(/[\u201c\u201d]/g,'"').replace(/^[^\w\u00c0-\u024f]+|[^\w\u00c0-\u024f]+$/g,'');
+return w.length>1&&w===w.toUpperCase()&&/[A-Z]/.test(w)?w.charAt(0)+w.slice(1).toLowerCase():w}
+function lcs(a,b){var n=a.length,m=b.length,w=m+1,L=new Uint16Array((n+1)*(m+1));for(var i=n-1;i>=0;i--)for(var j=m-1;j>=0;j--)L[i*w+j]=a[i]===b[j]?L[(i+1)*w+j+1]+1:Math.max(L[(i+1)*w+j],L[i*w+j+1]);
+var pairs=[],i=0,j=0;while(i<n&&j<m){if(a[i]===b[j]){pairs.push([i,j]);i++;j++}else if(L[(i+1)*w+j]>=L[i*w+j+1])i++;else j++}return pairs}
+function esc(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function show(){art.innerHTML=orig;leg.classList.toggle('hidden',!box.checked);if(!box.checked)return;
+var other=V[ws?ws.value:Object.keys(V)[0]],ot=other.split(/\s+/).filter(function(x){return norm(x)}),on=ot.map(norm);
+var walker=document.createTreeWalker(art,NodeFilter.SHOW_TEXT,{acceptNode:function(n){var p=n.parentNode.closest('p');if(p&&p.children.length==1&&p.firstElementChild.tagName=='STRONG'&&p.textContent.trim()==p.firstElementChild.textContent.trim())return NodeFilter.FILTER_REJECT;
+return n.parentNode.closest('.pg,.pgbreak,.fn,sup,.ednote,.h,.fnote')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT}}),nodes=[],n;
+while(n=walker.nextNode())nodes.push(n);var toks=[];nodes.forEach(function(nd,k){var re=/\S+/g,m;while(m=re.exec(nd.nodeValue)){if(norm(m[0]))toks.push({n:k,s:m.index,e:m.index+m[0].length,w:norm(m[0])})}});
+if(toks.length*on.length>60000000){leg.textContent='These versions are too long to compare in the browser.';return}
+var pairs=lcs(toks.map(function(t){return t.w}),on),same=new Uint8Array(toks.length),ins={};pairs.forEach(function(p){same[p[0]]=1});
+var pi=-1,pj=-1;pairs.concat([[toks.length,on.length]]).forEach(function(p){if(p[1]>pj+1){ins[pi]=ot.slice(pj+1,p[1]).join(' ')}pi=p[0];pj=p[1]});
+var byNode={};toks.forEach(function(t,k){(byNode[t.n]=byNode[t.n]||[]).push([t,k])});
+function insHtml(txt){var c=txt.split(' ').length;return c<=12?'<span class="d-ins" title="Only in the other version">+&#8201;'+esc(txt)+'</span>':
+'<details class="d-ins-long"><summary>+ '+c+' words only in the other version</summary>'+esc(txt)+'</details>'}
+nodes.forEach(function(nd,k){var list=byNode[k]||[],v=nd.nodeValue,out='',pos=0;list.forEach(function(x){var t=x[0],i=x[1];out+=esc(v.slice(pos,t.s));
+var word=esc(v.slice(t.s,t.e));out+=same[i]?word:'<mark class="d-chg">'+word+'</mark>';if(ins[i]!==undefined)out+=' '+insHtml(ins[i]);pos=t.e});
+if(k===0&&ins[-1]!==undefined)out=insHtml(ins[-1])+' '+out;out+=esc(v.slice(pos));var sp=document.createElement('span');sp.innerHTML=out;nd.parentNode.replaceChild(sp,nd)})}
+box.onchange=show;if(ws)ws.onchange=show}
+})();</script>
 </body></html>

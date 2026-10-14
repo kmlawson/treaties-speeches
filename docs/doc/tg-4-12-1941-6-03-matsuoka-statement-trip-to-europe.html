@@ -50,5 +50,28 @@ var q=new URLSearchParams(location.search).get('q');if(q){var words=q.replace(/"
 if(words.length){var re=new RegExp('('+(q.indexOf('"')>=0?q.replace(/"/g,'').trim().replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+'):words.join('|'))+')','gi');
 var w=document.createTreeWalker(document.getElementById('doc'),NodeFilter.SHOW_TEXT),ns=[],n;while(n=w.nextNode())ns.push(n);var first;
 ns.forEach(function(n){if(!re.test(n.nodeValue))return;re.lastIndex=0;var s=document.createElement('span');s.innerHTML=n.nodeValue.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(re,'<mark>$1</mark>');n.parentNode.replaceChild(s,n);if(!first)first=s});
-if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}})();</script>
+if(first)first.querySelector('mark').scrollIntoView({block:'center'})}}
+var box=document.getElementById('showDiff');if(box){var art=document.getElementById('doc'),orig=art.innerHTML,V=JSON.parse(document.getElementById('vdata').textContent),
+ws=document.getElementById('diffWith'),leg=document.querySelector('.difflegend');
+function norm(w){w=w.replace(/[\u2018\u2019\u02bc`]/g,"'").replace(/[\u201c\u201d]/g,'"').replace(/^[^\w\u00c0-\u024f]+|[^\w\u00c0-\u024f]+$/g,'');
+return w.length>1&&w===w.toUpperCase()&&/[A-Z]/.test(w)?w.charAt(0)+w.slice(1).toLowerCase():w}
+function lcs(a,b){var n=a.length,m=b.length,w=m+1,L=new Uint16Array((n+1)*(m+1));for(var i=n-1;i>=0;i--)for(var j=m-1;j>=0;j--)L[i*w+j]=a[i]===b[j]?L[(i+1)*w+j+1]+1:Math.max(L[(i+1)*w+j],L[i*w+j+1]);
+var pairs=[],i=0,j=0;while(i<n&&j<m){if(a[i]===b[j]){pairs.push([i,j]);i++;j++}else if(L[(i+1)*w+j]>=L[i*w+j+1])i++;else j++}return pairs}
+function esc(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;')}
+function show(){art.innerHTML=orig;leg.classList.toggle('hidden',!box.checked);if(!box.checked)return;
+var other=V[ws?ws.value:Object.keys(V)[0]],ot=other.split(/\s+/).filter(function(x){return norm(x)}),on=ot.map(norm);
+var walker=document.createTreeWalker(art,NodeFilter.SHOW_TEXT,{acceptNode:function(n){var p=n.parentNode.closest('p');if(p&&p.children.length==1&&p.firstElementChild.tagName=='STRONG'&&p.textContent.trim()==p.firstElementChild.textContent.trim())return NodeFilter.FILTER_REJECT;
+return n.parentNode.closest('.pg,.pgbreak,.fn,sup,.ednote,.h,.fnote')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT}}),nodes=[],n;
+while(n=walker.nextNode())nodes.push(n);var toks=[];nodes.forEach(function(nd,k){var re=/\S+/g,m;while(m=re.exec(nd.nodeValue)){if(norm(m[0]))toks.push({n:k,s:m.index,e:m.index+m[0].length,w:norm(m[0])})}});
+if(toks.length*on.length>60000000){leg.textContent='These versions are too long to compare in the browser.';return}
+var pairs=lcs(toks.map(function(t){return t.w}),on),same=new Uint8Array(toks.length),ins={};pairs.forEach(function(p){same[p[0]]=1});
+var pi=-1,pj=-1;pairs.concat([[toks.length,on.length]]).forEach(function(p){if(p[1]>pj+1){ins[pi]=ot.slice(pj+1,p[1]).join(' ')}pi=p[0];pj=p[1]});
+var byNode={};toks.forEach(function(t,k){(byNode[t.n]=byNode[t.n]||[]).push([t,k])});
+function insHtml(txt){var c=txt.split(' ').length;return c<=12?'<span class="d-ins" title="Only in the other version">+&#8201;'+esc(txt)+'</span>':
+'<details class="d-ins-long"><summary>+ '+c+' words only in the other version</summary>'+esc(txt)+'</details>'}
+nodes.forEach(function(nd,k){var list=byNode[k]||[],v=nd.nodeValue,out='',pos=0;list.forEach(function(x){var t=x[0],i=x[1];out+=esc(v.slice(pos,t.s));
+var word=esc(v.slice(t.s,t.e));out+=same[i]?word:'<mark class="d-chg">'+word+'</mark>';if(ins[i]!==undefined)out+=' '+insHtml(ins[i]);pos=t.e});
+if(k===0&&ins[-1]!==undefined)out=insHtml(ins[-1])+' '+out;out+=esc(v.slice(pos));var sp=document.createElement('span');sp.innerHTML=out;nd.parentNode.replaceChild(sp,nd)})}
+box.onchange=show;if(ws)ws.onchange=show}
+})();</script>
 </body></html>
