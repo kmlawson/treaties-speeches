@@ -103,5 +103,253 @@
  "https://worldjpn.net/documents/texts/exdfam/20250925.S2E.html": {
   "title_en": "United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA)",
   "why": "typo in the source index corrected"
+ },
+ "https://worldjpn.net/documents/texts/AI/20170712.D1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ENVI/20130629.O1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ENVI/20131209.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ENVI/20140113.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/FOIP/20181008.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JH/19940831.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JH/20021000.01E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPAF/20120505.S2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPAM/20251220.D7E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPEU/20240410.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPEU/20251220.D3E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPKR/19980924.D1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPKR/20020731.D1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPPC/20260526.O1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPSEA/20201113.D1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPUS/19540308.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPUS/19540308.T1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPUS/20151228.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPUS/20250207.D1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/JPUS/20250701.O1E20250701.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20201109.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20201114.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20220731.OE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20221112.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20230501.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/PI/20250830.O2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/arf/19940725.D1J.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/asean/20250119.D1Ehtml": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/asean/20250121.D2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/asean/20250121.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/docs/106.T1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/docs/19450906.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/docs/20201115.T1Ehtml": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/em/20180122.SXE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20070326.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20140122.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20151217.SE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20230922.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20231030.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdfam/20240219.D1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/0171223.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20020101.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20021015.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20090525.O1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20120501.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20120521.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20120524.S2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20190422.S21E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20190828.S3E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20231213.O220231213.O2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20240828.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20240921.S1E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20250421.S1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20250619.S1C.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20251021.S2JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/exdpm/20260210.S1JE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/fim/20180122.SXE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/pm/19970929.SWE.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/summit/20241126.D12E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ticad/20181007.O2E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ticad/20181007.O3E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
+ },
+ "https://worldjpn.net/documents/texts/ticad/20181007.O4E.html": {
+  "exclude": true,
+  "why": "page missing on worldjpn.net (404, checked 2026-10-14)"
  }
 }
