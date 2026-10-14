@@ -7,28 +7,37 @@ D = f'{ROOT}/_work/worldjpn'
 BASE = 'https://worldjpn.net/documents/indices/'
 MON = {m: k + 1 for k, m in enumerate(['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'])}
 LABEL = {'docs1': 'Basic documents of modern international politics (to 1945)', 'pw': 'Prewar Japanese politics and diplomacy',
-         'JPUS': 'Japan-US relations 1776-1960', 'JPCH': 'Japan-China relations', 'JPTW': 'Japan-Taiwan relations',
-         'JPKR': 'Japan-Korean Peninsula relations', 'JPRU': 'Japan-Russia/Soviet relations',
-         'docs2': 'Basic documents of contemporary international politics (since 1945)'}
+         'docs2': 'Basic documents of contemporary international politics (since 1945)',
+         'JPUS': 'Japan-US relations', 'JPCH': 'Japan-China relations', 'JPTW': 'Japan-Taiwan relations',
+         'JPKR': 'Japan-Korean Peninsula relations', 'JPRU': 'Japan-Russia/Soviet relations', 'JPMN': 'Japan-Mongolia relations',
+         'JPSEA': 'Japan-Southeast Asia relations', 'JPSA': 'Japan-South Asia relations', 'JPPC': 'Japan-Pacific states relations',
+         'JPAM': 'Japan-Americas relations', 'JPEU': 'Japan-Europe relations', 'JPME': 'Japan-Middle East relations',
+         'JPAF': 'Japan-Africa relations', 'JCK': 'Japan-China-Korea relations', 'PALM': 'Pacific Islands Leaders Meetings',
+         'pm': 'Prime Ministers\' speeches', 'fam': 'Foreign Ministers\' speeches', 'fim': 'Finance Ministers\' speeches',
+         'em': 'Economy Ministers\' speeches', 'exdpm': 'Other speeches by Prime Ministers', 'exdfam': 'Other speeches by Foreign Ministers',
+         'cm': 'Cabinet decisions and important policies', 'mt': 'Multilateral conventions', 'un': 'Japanese speeches at the UN General Assembly',
+         'summit': 'G7/G8 summit documents', 'JH': 'Japan\'s history issues', 'JPSC': 'Japan security policy', 'asiajp': '"Japan in Asia" collection',
+         'ticad': 'TICAD documents', 'FOIP': 'Free and Open Indo-Pacific documents'}
 clean = lambda x: re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', x))).strip()
 
 def iso(d):
     d = clean(d)
     m = re.match(r'([A-Z][a-z]{2})\.?\s+(\d{1,2}),?\s+(\d{4})', d)
-    if m: return f'{int(m.group(3)):04d}-{MON[m.group(1)]:02d}-{int(m.group(2)):02d}'
+    if m and m.group(1) in MON: return f'{int(m.group(3)):04d}-{MON[m.group(1)]:02d}-{int(m.group(2)):02d}'
+    if m: return f'{int(m.group(3)):04d}'   # misspelt month in the index: keep the year only
     m = re.match(r'(\d{4})年(\d{1,2})月(\d{1,2})日', d)
     if m: return f'{int(m.group(1)):04d}-{int(m.group(2)):02d}-{int(m.group(3)):02d}'
     m = re.match(r'(\d{4})年(\d{1,2})月', d) or re.match(r'([A-Z][a-z]{2})\.?\s+(\d{4})', d)
     if m and m.group(1).isdigit(): return f'{int(m.group(1)):04d}-{int(m.group(2)):02d}'
-    if m: return f'{int(m.group(2)):04d}-{MON[m.group(1)]:02d}'
+    if m and m.group(1) in MON: return f'{int(m.group(2)):04d}-{MON[m.group(1)]:02d}'
     m = re.search(r'(\d{4})', d)
     return m.group(1) if m else ''
 
 docs = {}
 englishtitles = {}
 for fn in sorted(os.listdir(f'{D}/pages')):
-    m = re.match(r'(docs1|docs2|pw|JPUS|JPCH|JPTW|JPKR|JPRU)_', fn)
-    if not m: continue
+    m = re.match(r'([A-Za-z0-9]+)_', fn)
+    if not m or m.group(1) not in LABEL: continue
     key = m.group(1); eng = '-ENG' in fn
     titles_only = False
     page = BASE + fn.replace('_', '/', 1)

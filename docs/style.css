@@ -10,7 +10,7 @@ html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .container{max-width:56.25rem;margin:0 auto;padding:0 1.25rem}
-header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:1.9rem 0 1.2rem;text-align:center;box-shadow:inset 0 -1px 0 color-mix(in srgb,var(--accent) 35%,transparent)}
+header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:calc(3rem + env(safe-area-inset-top,0px)) 0 1.2rem;text-align:center;box-shadow:inset 0 -1px 0 color-mix(in srgb,var(--accent) 35%,transparent)}
 header h1{font-size:1.9rem;font-weight:600;margin-bottom:.3rem;letter-spacing:.01em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
 header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
@@ -49,10 +49,11 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:.6rem 0;margin-top:.75rem;
 display:flex;gap:.5rem .9rem;flex-wrap:wrap;align-items:center}
 .chips{display:flex;gap:.3rem;flex-wrap:wrap}
+.loadmsg{font-family:var(--ui);font-size:.8125rem;color:var(--accent);font-weight:600}
 .count{font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint);margin-left:auto;white-space:nowrap}
 footer{text-align:center;padding:1.5rem 0;margin-top:2.5rem;border-top:1px solid var(--dotted);font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint)}
 header{position:relative}
-.display-toolbar{position:absolute;top:.6rem;right:.75rem;display:flex;gap:.2rem}
+.display-toolbar{position:absolute;top:calc(.9rem + env(safe-area-inset-top,0px));right:max(.9rem,env(safe-area-inset-right,0px));display:flex;gap:.2rem}
 .display-toolbar button{min-width:2rem;min-height:1.75rem;padding:.2rem .45rem;font-size:.75rem;border-color:var(--input-border);background:transparent;color:var(--fg-muted)}
 .back-to-top{position:fixed;bottom:1.25rem;right:1.25rem;width:2.5rem;height:2.5rem;min-height:0;padding:0;opacity:0;pointer-events:none;
 background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opacity .3s;z-index:100}

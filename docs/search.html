@@ -54,5 +54,7 @@ var cnt=0;t.forEach(function(w){var k=-1;while((k=d.lx.indexOf(w,k+1))>=0)cnt++}
 out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> '+(d.u?'<a href="'+e(d.u)+'" target="_blank" rel="noopener">':'<a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">')+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?e(d.d)+' · ':'')+(d.s=='yb'?'<em>'+e(d.n)+'</em>':d.s=='wj'?'external link: <em>The World and Japan</em>':'<em>'+S[d.s]+'</em>, '+e(d.n))+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
 R.innerHTML=out.join('')||'<p class="hint">No texts match.</p>';C.textContent=n+' entr'+(n==1?'y':'ies')+(n>300?' (first 300 shown)':'')}
 chips('typeChips','type');chips('srcChips','src');q.oninput=function(){clearTimeout(tm);tm=setTimeout(run,140)};sc.onchange=run;
+var ps=document.createElement('script');ps.src='wj_postwar.js';ps.onload=function(){(window.WJPOST||[]).forEach(function(e){D.push({i:'',u:e.u,t:e.t,y:'external',s:'wj',n:'',d:e.d,o:e.o,w:e.j,p:'',x:'',lx:'',lt:(e.t+' '+e.j).toLowerCase()})});
+D.sort(function(a,b){return a.o<b.o?-1:a.o>b.o?1:0});if(q.value.trim())run();else C.textContent=D.length+' entries'};document.body.appendChild(ps);
 var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()})();</script>
 </body></html>

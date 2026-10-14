@@ -262,7 +262,7 @@ html{font-size:100%;-webkit-text-size-adjust:100%}
 body{font-family:var(--serif);font-size:1rem;color:var(--fg);background:var(--bg);line-height:1.5}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .container{max-width:56.25rem;margin:0 auto;padding:0 1.25rem}
-header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:1.9rem 0 1.2rem;text-align:center;box-shadow:inset 0 -1px 0 color-mix(in srgb,var(--accent) 35%,transparent)}
+header{background:var(--header-bg);border-bottom:3px solid var(--accent);padding:calc(3rem + env(safe-area-inset-top,0px)) 0 1.2rem;text-align:center;box-shadow:inset 0 -1px 0 color-mix(in srgb,var(--accent) 35%,transparent)}
 header h1{font-size:1.9rem;font-weight:600;margin-bottom:.3rem;letter-spacing:.01em}header h1 a{color:var(--fg)}header h1 a:hover{text-decoration:none}
 header .subtitle{font-size:.95rem;color:var(--fg-muted);font-style:italic;margin-bottom:.9rem}
 nav{display:flex;justify-content:center;gap:.6rem;flex-wrap:wrap}
@@ -301,10 +301,11 @@ nav a:hover,nav a.active,.tools a:hover,.tools button:hover,.display-toolbar but
 .controls{position:sticky;top:0;z-index:50;background:var(--bg);border-bottom:1px solid var(--rule);padding:.6rem 0;margin-top:.75rem;
 display:flex;gap:.5rem .9rem;flex-wrap:wrap;align-items:center}
 .chips{display:flex;gap:.3rem;flex-wrap:wrap}
+.loadmsg{font-family:var(--ui);font-size:.8125rem;color:var(--accent);font-weight:600}
 .count{font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint);margin-left:auto;white-space:nowrap}
 footer{text-align:center;padding:1.5rem 0;margin-top:2.5rem;border-top:1px solid var(--dotted);font-family:var(--ui);font-size:.8125rem;color:var(--fg-faint)}
 header{position:relative}
-.display-toolbar{position:absolute;top:.6rem;right:.75rem;display:flex;gap:.2rem}
+.display-toolbar{position:absolute;top:calc(.9rem + env(safe-area-inset-top,0px));right:max(.9rem,env(safe-area-inset-right,0px));display:flex;gap:.2rem}
 .display-toolbar button{min-width:2rem;min-height:1.75rem;padding:.2rem .45rem;font-size:.75rem;border-color:var(--input-border);background:transparent;color:var(--fg-muted)}
 .back-to-top{position:fixed;bottom:1.25rem;right:1.25rem;width:2.5rem;height:2.5rem;min-height:0;padding:0;opacity:0;pointer-events:none;
 background:var(--accent);color:var(--on-accent);font-size:1.1rem;transition:opacity .3s;z-index:100}
@@ -549,8 +550,15 @@ def build():
         externals.append({'type': 'external', 'source': 'wj', 'title': x['title_en'] or x['title_ja'], 'title_ja': x['title_ja'] if x['title_en'] else '',
                           'url': x['url'], 'date': x['date'], 'sortdate': x['date'], 'file': x['url'], 'id': ''})
     counts = {t: sum(1 for d in listed + externals if d['type'] == t) for t in TYPES}
+    postwar = [x for x in externals if x['sortdate'] >= '1946']        # loaded only when "All years" is chosen
+    externals = [x for x in externals if x['sortdate'] < '1946']
     sub = ('Texts from the <em>Tokyo Gazette</em>, <em>Contemporary Japan</em> and year books of the Japanese empire'
            if any(d['source'] == 'yb' for d in docs) else 'Verbatim texts from the <em>Tokyo Gazette</em> and <em>Contemporary Japan</em>, 1937&ndash;1945')
+
+    # ---- post-war external links, a separate file loaded on demand by the browse and search pages
+    open(f'{SITE}/wj_postwar.js', 'w').write('window.WJPOST=' + json.dumps(
+        [{'t': x['title'], 'j': x['title_ja'], 'u': x['url'], 'd': fmt_date(x['date']), 'o': x['sortdate']}
+         for x in sorted(postwar, key=lambda x: (x['sortdate'], x['title']))], ensure_ascii=False, separators=(',', ':')) + ';')
 
     # ---- browse
     b = [f'<p class="intro">{len(listed)} texts printed in English-language periodicals and year books of 1930s&ndash;40s Japan: '
@@ -570,7 +578,7 @@ def build():
              '<div class="chips" id="viewChips"><span class="chip on" data-v="issue">By issue</span><span class="chip" data-v="date">By date</span></div>'
              '<select id="jumpSelect"><option value="">&mdash; Jump to an issue &mdash;</option></select>'
              '<select id="yearSelect" class="hidden"><option value="">&mdash; Jump to a year &mdash;</option></select>'
-             '<span class="count" id="count"></span></div>')
+             '<span class="loadmsg hidden" id="loadmsg"></span><span class="count" id="count"></span></div>')
     b.append('<div id="byIssue">')
     cur_src = cur_issue = None
     for d in listed:
@@ -624,12 +632,24 @@ else{[].forEach.call(c.children,function(y){y.classList.toggle('on',y==x)});
 document.getElementById('byIssue').classList.toggle('hidden',x.dataset.v!='issue');document.getElementById('byDate').classList.toggle('hidden',x.dataset.v!='date');
 document.getElementById('jumpSelect').classList.toggle('hidden',x.dataset.v!='issue');document.getElementById('yearSelect').classList.toggle('hidden',x.dataset.v!='date')}
 apply()}})}
-var era='pre';[].forEach.call(document.getElementById('eraChips').children,function(x){x.onclick=function(){era=x.dataset.v;
-[].forEach.call(x.parentNode.children,function(y){y.classList.toggle('on',y==x)});apply()}});
+var era='pre',loaded=false,loading=false,msg=document.getElementById('loadmsg');
+function esc(t){return String(t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;')}
+function li(e){return '<li class="entry-item" data-type="external" data-src="wj" data-date="'+e.o+'"><span class="tag external">WJ \u2197</span><span class="entry-text"><a href="'+esc(e.u)+'" target="_blank" rel="noopener" title="English text on The World and Japan (worldjpn.net)">'+esc(e.t)+'</a>'+(e.j?' <span class="entry-attrib">('+esc(e.j)+')</span>':'')+'</span><span class="entry-page">'+esc(e.d)+'</span></li>'}
+function loadPost(done){if(loaded)return done();if(loading)return;loading=true;msg.classList.remove('hidden');msg.textContent='Loading post-war links\u2026';
+var sc=document.createElement('script');sc.src='wj_postwar.js';sc.onerror=function(){msg.textContent='Could not load the post-war links.';loading=false};
+sc.onload=function(){var L=window.WJPOST||[],k=0,wjl=document.querySelector('#wj-0 .entry-list'),bd=document.getElementById('byDate'),ys=document.getElementById('yearSelect');
+(function step(){var end=Math.min(L.length,k+200),a='',byY={};for(;k<end;k++){var e=L[k],h=li(e);a+=h;var y=e.o.slice(0,4);(byY[y]=byY[y]||[]).push(h)}
+if(wjl)wjl.insertAdjacentHTML('beforeend',a);Object.keys(byY).sort().forEach(function(y){var sec=document.getElementById('y-'+y);
+if(!sec){bd.insertAdjacentHTML('beforeend','<section class="iss yr" id="y-'+y+'" data-year="'+y+'"><h2 class="volume-heading">'+y+'</h2><ul class="entry-list"></ul></section>');sec=document.getElementById('y-'+y);
+var o=document.createElement('option');o.value='y-'+y;o.textContent=y;ys.appendChild(o)}sec.querySelector('.entry-list').insertAdjacentHTML('beforeend',byY[y].join(''))});
+msg.textContent='Loading post-war links\u2026 '+Math.round(100*k/L.length)+'%';
+if(k<L.length)setTimeout(step,0);else{loaded=true;loading=false;msg.classList.add('hidden');done()}})()};document.body.appendChild(sc)}
+[].forEach.call(document.getElementById('eraChips').children,function(x){x.onclick=function(){var v=x.dataset.v;
+[].forEach.call(x.parentNode.children,function(y){y.classList.toggle('on',y==x)});if(v=='all'&&!loaded){loadPost(function(){era='all';apply()})}else{era=v;apply()}}});
 function apply(){var n=0,vis=document.getElementById('byIssue').classList.contains('hidden')?'byDate':'byIssue';
-[].forEach.call(document.querySelectorAll('.entry-item'),function(li){var s=on.type[li.dataset.type]&&on.src[li.dataset.src]&&(era=='all'||li.dataset.date<'1946');li.classList.toggle('hidden',!s);if(s&&li.closest('#'+vis))n++});
+var x=0;[].forEach.call(document.querySelectorAll('.entry-item'),function(li){var s=on.type[li.dataset.type]&&on.src[li.dataset.src]&&(era=='all'||li.dataset.date<'1946');li.classList.toggle('hidden',!s);if(s&&li.closest('#'+vis)){if(li.dataset.type=='external')x++;else n++}});
 [].forEach.call(document.querySelectorAll('.iss,.src'),function(s){s.classList.toggle('hidden',!s.querySelector('.entry-item:not(.hidden)'))});
-document.getElementById('count').textContent=n+' entries';
+document.getElementById('count').textContent=n+' transcribed document'+(n==1?'':'s')+' \u00b7 '+x+' external link'+(x==1?'':'s');
 [].forEach.call(document.querySelectorAll('#yearSelect option, #jumpSelect option'),function(o){if(!o.value)return;var t=document.getElementById(o.value);o.hidden=!!(t&&t.classList.contains('hidden'))})}
 chips('typeChips','type',true);chips('srcChips','src',true);chips('viewChips','view',false);
 var sel=document.getElementById('jumpSelect');[].forEach.call(document.querySelectorAll('#byIssue .iss'),function(s){var o=document.createElement('option');o.value=s.id;o.innerHTML=s.dataset.label;sel.appendChild(o)});
@@ -772,6 +792,8 @@ var cnt=0;t.forEach(function(w){var k=-1;while((k=d.lx.indexOf(w,k+1))>=0)cnt++}
 out.push('<div class="result"><h3><span class="tag '+d.y+'">'+T[d.y]+'</span> '+(d.u?'<a href="'+e(d.u)+'" target="_blank" rel="noopener">':'<a href="doc/'+d.i+'.html?q='+encodeURIComponent(v)+'">')+e(d.t).replace(hl,'<mark>$1</mark>')+'</a></h3><div class="rmeta">'+(d.w?e(d.w)+' · ':'')+(d.d?e(d.d)+' · ':'')+(d.s=='yb'?'<em>'+e(d.n)+'</em>':d.s=='wj'?'external link: <em>The World and Japan</em>':'<em>'+S[d.s]+'</em>, '+e(d.n))+(d.p?', p. '+e(d.p):'')+'</div>'+(sn?'<div class="snip">'+sn+'</div>':'')+'</div>')});
 R.innerHTML=out.join('')||'<p class="hint">No texts match.</p>';C.textContent=n+' entr'+(n==1?'y':'ies')+(n>300?' (first 300 shown)':'')}
 chips('typeChips','type');chips('srcChips','src');q.oninput=function(){clearTimeout(tm);tm=setTimeout(run,140)};sc.onchange=run;
+var ps=document.createElement('script');ps.src='wj_postwar.js';ps.onload=function(){(window.WJPOST||[]).forEach(function(e){D.push({i:'',u:e.u,t:e.t,y:'external',s:'wj',n:'',d:e.d,o:e.o,w:e.j,p:'',x:'',lx:'',lt:(e.t+' '+e.j).toLowerCase()})});
+D.sort(function(a,b){return a.o<b.o?-1:a.o>b.o?1:0});if(q.value.trim())run();else C.textContent=D.length+' entries'};document.body.appendChild(ps);
 var p=new URLSearchParams(location.search).get('q');if(p)q.value=p;run()})();</script>"""
     open(f'{SITE}/search.html', 'w').write(page('Search — Treaties, Laws and Speeches', sub, 'search', '\n'.join(s), scripts=js))
     print(f'{len(docs)} texts ->', SITE, counts)
