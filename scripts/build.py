@@ -450,6 +450,7 @@ SITELINKS = [
     ('Tokyo Gazette index', 'https://froginawell.net/tokyo-gazette/'),
     ('Contemporary Japan index', 'https://froginawell.net/frog/sources/primary-source-nuggets/contemporary-japan/'),
     ('The Japan Magazine index', 'https://froginawell.net/indexes/japan-magazine/'),
+    ('Interactive Map of the Japanese Empire', 'https://froginawell.net/reference/japanese-empire/'),
     ('Old Year Book Tables', 'https://froginawell.net/reference/old-tables/'),
     ('Japan Internal Affairs 1930\u20131949', 'https://froginawell.net/reference/japan-internal-affairs/'),
     ('Occupation Summations 1945\u20131948', 'https://froginawell.net/reference/summations/'),
